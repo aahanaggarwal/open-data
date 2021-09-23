@@ -1,0 +1,235 @@
+{
+  "id": "2a65df89-4cbc-40fc-a8c9-5947da30789b",
+  "index": 440,
+  "period": 1,
+  "timestamp": "00:12:19.213",
+  "minute": 12,
+  "second": 19,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 26,
+  "possession_team": {
+    "id": 971,
+    "name": "Chelsea FCW"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 971,
+    "name": "Chelsea FCW"
+  },
+  "player": {
+    "id": 4641,
+    "name": "Francesca Kirby"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    102.0,
+    25.2
+  ],
+  "duration": 0.1969,
+  "under_pressure": true,
+  "related_events": [
+    "4dc78058-710b-4a3f-aa2f-f8077e5a8d11",
+    "92c36506-14ec-4ac2-89f2-bdc4a48d8859",
+    "a5b4fabd-e80d-458e-a344-a751d5ee26ec"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.038516257,
+    "end_location": [
+      102.9,
+      25.9
+    ],
+    "key_pass_id": "e3e437b9-a5f9-4cc9-8c4d-c7b654b4a320",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          105.1,
+          18.2
+        ],
+        "player": {
+          "id": 15553,
+          "name": "Karen Julia Carney"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          87.2,
+          60.4
+        ],
+        "player": {
+          "id": 4660,
+          "name": "Erin Cuthbert"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          88.9,
+          43.8
+        ],
+        "player": {
+          "id": 15706,
+          "name": "Rachel Furness"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.7,
+          34.1
+        ],
+        "player": {
+          "id": 15549,
+          "name": "Sophie Ingle"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.6,
+          37.7
+        ],
+        "player": {
+          "id": 15719,
+          "name": "Grace Moloney"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.1,
+          43.3
+        ],
+        "player": {
+          "id": 15720,
+          "name": "Sophie Howard"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.4,
+          53.0
+        ],
+        "player": {
+          "id": 15724,
+          "name": "Mayumi Pacheco"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.7,
+          43.8
+        ],
+        "player": {
+          "id": 15550,
+          "name": "Bethany England"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.1,
+          33.5
+        ],
+        "player": {
+          "id": 18152,
+          "name": "Kirstyn Pearce"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.2,
+          29.2
+        ],
+        "player": {
+          "id": 10190,
+          "name": "Jade Moore"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.9,
+          25.9
+        ],
+        "player": {
+          "id": 15725,
+          "name": "Natasha Harding"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

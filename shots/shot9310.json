@@ -1,0 +1,159 @@
+{
+  "id": "45529bad-7df0-4cc9-932d-1a6c90b09562",
+  "index": 2946,
+  "period": 2,
+  "timestamp": "00:35:50.126",
+  "minute": 80,
+  "second": 50,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 160,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 8,
+    "name": "From Keeper"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    111.1,
+    41.2
+  ],
+  "duration": 0.0235,
+  "related_events": [
+    "952de63d-50b0-45de-a6e2-bee7fd78b308"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.34938622,
+    "end_location": [
+      120.0,
+      39.8,
+      4.6
+    ],
+    "key_pass_id": "fdbbfb74-29d0-45d6-92e5-dc0e6d789cab",
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          93.1,
+          55.4
+        ],
+        "player": {
+          "id": 26837,
+          "name": "Pablo Sebasti\u00e1n Valeira \u00c1lvarez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.3,
+          45.4
+        ],
+        "player": {
+          "id": 26761,
+          "name": "Paulo C\u00e9sar Da Silva Barrios"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.7,
+          41.2
+        ],
+        "player": {
+          "id": 6571,
+          "name": "Roberto Jim\u00e9nez Gago"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.1,
+          42.4
+        ],
+        "player": {
+          "id": 26429,
+          "name": "Javier Paredes Arango"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          40.6
+        ],
+        "player": {
+          "id": 26715,
+          "name": "Maurizio Lanzaro"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.3,
+          50.0
+        ],
+        "player": {
+          "id": 3385,
+          "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

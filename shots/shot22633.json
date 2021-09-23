@@ -1,0 +1,157 @@
+{
+  "id": "9dada309-8089-4c18-a4bc-1dd7868dd190",
+  "index": 2060,
+  "period": 2,
+  "timestamp": "00:16:27.800",
+  "minute": 61,
+  "second": 27,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 148,
+  "possession_team": {
+    "id": 760,
+    "name": "Seattle Reign"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 760,
+    "name": "Seattle Reign"
+  },
+  "player": {
+    "id": 5006,
+    "name": "Beverly Yanez"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    110.0,
+    41.0
+  ],
+  "duration": 1.12,
+  "related_events": [
+    "62bdcbd3-9bf9-4f2c-bd94-aae343e1d350"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.122057565,
+    "end_location": [
+      115.0,
+      40.0
+    ],
+    "key_pass_id": "7790f836-766a-4244-85f6-ef5a2b923f4a",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 101,
+      "name": "Wayward"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.0,
+          36.0
+        ],
+        "player": {
+          "id": 5002,
+          "name": "Jodie Taylor"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.0,
+          42.0
+        ],
+        "player": {
+          "id": 4999,
+          "name": "Lindsey Horan"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          39.0
+        ],
+        "player": {
+          "id": 5003,
+          "name": "Emily Sonnett"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.0,
+          38.0
+        ],
+        "player": {
+          "id": 5015,
+          "name": "Kelli Hubly"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          43.0
+        ],
+        "player": {
+          "id": 5013,
+          "name": "Tobin Heath"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          39.0
+        ],
+        "player": {
+          "id": 5005,
+          "name": "Britt Eckerstrom"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

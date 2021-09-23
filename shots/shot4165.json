@@ -1,0 +1,173 @@
+{
+  "id": "5030fd3e-c649-4742-9817-74a09058f5df",
+  "index": 3086,
+  "period": 2,
+  "timestamp": "00:19:14.228",
+  "minute": 64,
+  "second": 14,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 142,
+  "possession_team": {
+    "id": 395,
+    "name": "Real Zaragoza"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 395,
+    "name": "Real Zaragoza"
+  },
+  "player": {
+    "id": 26217,
+    "name": "\u00c1ngel Javier Arizmendi de Lucas"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    108.4,
+    25.6
+  ],
+  "duration": 1.0241,
+  "related_events": [
+    "f40e149f-d5b1-4e95-b6f3-28a1174f4287"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.08576536,
+    "end_location": [
+      120.0,
+      48.6,
+      5.5
+    ],
+    "key_pass_id": "150392de-8e67-434e-bcb6-cd6cff3e0952",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.0,
+          29.3
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.6,
+          35.0
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.3,
+          39.8
+        ],
+        "player": {
+          "id": 26613,
+          "name": "Maxwell Scherrer Cabelino Andrade"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          31.9
+        ],
+        "player": {
+          "id": 18608,
+          "name": "Dmytro Chygrynskiy"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.8,
+          23.8
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.5,
+          33.3
+        ],
+        "player": {
+          "id": 3606,
+          "name": "Ander Herrera Ag\u00fcera"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.6,
+          39.2
+        ],
+        "player": {
+          "id": 26020,
+          "name": "\u00c1ngel Lafita Castillo"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "id": "4c074d89-99f0-46d2-a3ea-60421806daae",
+  "index": 791,
+  "period": 1,
+  "timestamp": "00:19:36.833",
+  "minute": 19,
+  "second": 36,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 55,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 24972,
+    "name": "Ray Parlour"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    96.6,
+    55.6
+  ],
+  "duration": 1.076355,
+  "related_events": [
+    "9023fa34-a766-4117-9dd7-39612781b716"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.016823834,
+    "end_location": [
+      120.0,
+      42.7,
+      3.9
+    ],
+    "key_pass_id": "5a414bf8-eacc-483e-b394-b9e9b442e857",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          105.8,
+          43.8
+        ],
+        "player": {
+          "id": 40339,
+          "name": "Arjan de Zeeuw"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.6,
+          54.0
+        ],
+        "player": {
+          "id": 40343,
+          "name": "Amdy Moustapha Faye"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.6,
+          42.6
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.6,
+          61.6
+        ],
+        "player": {
+          "id": 15259,
+          "name": "Patrik Berger"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.2,
+          42.4
+        ],
+        "player": {
+          "id": 38403,
+          "name": "Shaka Hislop"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.6,
+          56.8
+        ],
+        "player": {
+          "id": 20402,
+          "name": "Boris \u017divkovi\u0107"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.8,
+          48.8
+        ],
+        "player": {
+          "id": 40340,
+          "name": "Dejan Stefanovic"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.8,
+          48.0
+        ],
+        "player": {
+          "id": 19312,
+          "name": "Robert Pir\u00e8s "
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

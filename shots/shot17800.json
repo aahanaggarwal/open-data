@@ -1,0 +1,129 @@
+{
+  "id": "2a861369-98ab-435c-9a3c-1b5ecd48563a",
+  "index": 2022,
+  "period": 2,
+  "timestamp": "00:14:50.030",
+  "minute": 59,
+  "second": 50,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 142,
+  "possession_team": {
+    "id": 971,
+    "name": "Chelsea FCW"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 971,
+    "name": "Chelsea FCW"
+  },
+  "player": {
+    "id": 4660,
+    "name": "Erin Cuthbert"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    106.7,
+    52.4
+  ],
+  "duration": 1.208239,
+  "related_events": [
+    "0fa0e781-9f1f-4520-adf0-4e20bf666d4e"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.24829622,
+    "end_location": [
+      120.0,
+      30.3,
+      0.2
+    ],
+    "key_pass_id": "b2dc58d7-3450-444d-b72a-28651ee1831d",
+    "first_time": true,
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.0,
+          33.7
+        ],
+        "player": {
+          "id": 31533,
+          "name": "Amy Turner"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.9,
+          50.7
+        ],
+        "player": {
+          "id": 4648,
+          "name": "Abbie McManus"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          88.8,
+          23.3
+        ],
+        "player": {
+          "id": 10514,
+          "name": "Guro Reiten"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.8,
+          43.6
+        ],
+        "player": {
+          "id": 31538,
+          "name": "Mary Alexandra Earps"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

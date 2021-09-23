@@ -1,0 +1,99 @@
+{
+  "id": "8e683da5-04e8-49dc-b2db-94e479be60ee",
+  "index": 2993,
+  "period": 2,
+  "timestamp": "00:23:08.866",
+  "minute": 68,
+  "second": 8,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 171,
+  "possession_team": {
+    "id": 207,
+    "name": "Valencia"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 207,
+    "name": "Valencia"
+  },
+  "player": {
+    "id": 26074,
+    "name": "Nikola \u017digi\u0107"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    98.2,
+    36.0
+  ],
+  "duration": 0.236381,
+  "related_events": [
+    "986c0a32-72c7-442d-bc0b-e3863bb674a3"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.4579696,
+    "end_location": [
+      103.7,
+      36.7,
+      0.0
+    ],
+    "key_pass_id": "7b7651de-a002-4dbe-8225-404f2f3b9da0",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.3,
+          37.0
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          90.7,
+          34.4
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

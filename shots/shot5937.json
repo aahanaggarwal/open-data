@@ -1,0 +1,143 @@
+{
+  "id": "38ab8000-6619-4121-a3a0-cdf778fc8853",
+  "index": 2431,
+  "period": 2,
+  "timestamp": "00:24:07.718",
+  "minute": 69,
+  "second": 7,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 147,
+  "possession_team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "player": {
+    "id": 16400,
+    "name": "Kayleigh Green"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    68.2,
+    61.4
+  ],
+  "duration": 1.905127,
+  "related_events": [
+    "bcc57904-bc51-42eb-9749-1d5c65851219"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.015833527,
+    "end_location": [
+      120.0,
+      52.5,
+      1.1
+    ],
+    "key_pass_id": "17dc726a-1982-4764-b347-6c303f8bd865",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          69.4,
+          33.7
+        ],
+        "player": {
+          "id": 16374,
+          "name": "Aileen Whelan"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.6,
+          42.1
+        ],
+        "player": {
+          "id": 15560,
+          "name": "Ann-Katrin Berger"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          77.7,
+          39.3
+        ],
+        "player": {
+          "id": 4642,
+          "name": "Millie Bright"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          64.1,
+          59.0
+        ],
+        "player": {
+          "id": 10222,
+          "name": "Jonna Andersson"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          70.6,
+          55.7
+        ],
+        "player": {
+          "id": 15549,
+          "name": "Sophie Ingle"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

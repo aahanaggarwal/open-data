@@ -1,0 +1,130 @@
+{
+  "id": "e64172bc-e63e-42ee-8c3a-fca2c56539e3",
+  "index": 1338,
+  "period": 1,
+  "timestamp": "00:42:48.404",
+  "minute": 42,
+  "second": 48,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 111,
+  "possession_team": {
+    "id": 973,
+    "name": "Bristol City WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 973,
+    "name": "Bristol City WFC"
+  },
+  "player": {
+    "id": 31527,
+    "name": "Ebony Salmon"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    113.1,
+    19.1
+  ],
+  "duration": 1.244624,
+  "under_pressure": true,
+  "related_events": [
+    "22ef294c-bd20-49ec-94bd-b57d84003715",
+    "7b036c8a-a42f-4424-a8f1-144b47a8029b"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.03357635,
+    "end_location": [
+      119.3,
+      36.1,
+      0.1
+    ],
+    "key_pass_id": "5327cf1f-875a-4e61-8018-0a6d08401365",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          101.5,
+          24.3
+        ],
+        "player": {
+          "id": 33009,
+          "name": "Lily Simkin"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          35.8
+        ],
+        "player": {
+          "id": 31568,
+          "name": "Rebecca Holloway"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.3,
+          19.4
+        ],
+        "player": {
+          "id": 31567,
+          "name": "Adrienne Jordan"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.3,
+          37.2
+        ],
+        "player": {
+          "id": 22032,
+          "name": "Hannah Hampton"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

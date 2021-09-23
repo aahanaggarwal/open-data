@@ -1,0 +1,249 @@
+{
+  "id": "efa3f913-cd2c-4118-8e03-6b7edcd2bac2",
+  "index": 1561,
+  "period": 1,
+  "timestamp": "00:29:10.160",
+  "minute": 29,
+  "second": 10,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 47,
+  "possession_team": {
+    "id": 782,
+    "name": "Belgium"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 782,
+    "name": "Belgium"
+  },
+  "player": {
+    "id": 2954,
+    "name": "Youri Tielemans"
+  },
+  "position": {
+    "id": 9,
+    "name": "Right Defensive Midfield"
+  },
+  "location": [
+    97.0,
+    40.0
+  ],
+  "duration": 0.373,
+  "related_events": [
+    "dacaae5b-1842-4b1f-9091-8bed366d6764",
+    "e6d1ac86-6978-41bf-91fd-843ccac9b747"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.033633463,
+    "end_location": [
+      100.0,
+      40.0
+    ],
+    "key_pass_id": "3c95e9d0-775d-453b-b298-197044c2dea3",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.0,
+          39.0
+        ],
+        "player": {
+          "id": 3468,
+          "name": "Jordan Pickford"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          52.0
+        ],
+        "player": {
+          "id": 3089,
+          "name": "Kevin De Bruyne"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.0,
+          35.0
+        ],
+        "player": {
+          "id": 3621,
+          "name": "Eden Hazard"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.0,
+          44.0
+        ],
+        "player": {
+          "id": 3176,
+          "name": "Thomas Meunier"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.0,
+          46.0
+        ],
+        "player": {
+          "id": 3594,
+          "name": "Danny Rose"
+        },
+        "position": {
+          "id": 8,
+          "name": "Left Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          45.0
+        ],
+        "player": {
+          "id": 4597,
+          "name": "Fabian Delph"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          42.0
+        ],
+        "player": {
+          "id": 3336,
+          "name": "Harry Maguire"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          41.0
+        ],
+        "player": {
+          "id": 3244,
+          "name": "John Stones"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          36.0
+        ],
+        "player": {
+          "id": 3314,
+          "name": "Phil Jones"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          33.0
+        ],
+        "player": {
+          "id": 3289,
+          "name": "Romelu Lukaku Menama"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.0,
+          33.0
+        ],
+        "player": {
+          "id": 3308,
+          "name": "Kieran Trippier"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          39.0
+        ],
+        "player": {
+          "id": 10956,
+          "name": "Eric Dier"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

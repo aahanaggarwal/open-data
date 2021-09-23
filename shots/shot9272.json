@@ -1,0 +1,233 @@
+{
+  "id": "2381feac-9bf9-4131-b81e-12e79d3f14ba",
+  "index": 672,
+  "period": 1,
+  "timestamp": "00:18:25.388",
+  "minute": 18,
+  "second": 25,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 46,
+  "possession_team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "player": {
+    "id": 16393,
+    "name": "Ellie Brazil"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    116.0,
+    43.5
+  ],
+  "duration": 0.589948,
+  "related_events": [
+    "aecc1e7c-4c6f-42d7-bc25-19d177830c14"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.33882123,
+    "end_location": [
+      120.0,
+      42.8,
+      3.2
+    ],
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          103.8,
+          21.8
+        ],
+        "player": {
+          "id": 15421,
+          "name": "Kenza Dali"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.6,
+          21.9
+        ],
+        "player": {
+          "id": 18153,
+          "name": "Alisha Lehmann"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.7,
+          35.1
+        ],
+        "player": {
+          "id": 31529,
+          "name": "L\u00e9a Le Garrec"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.0,
+          32.5
+        ],
+        "player": {
+          "id": 16374,
+          "name": "Aileen Whelan"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.0,
+          36.1
+        ],
+        "player": {
+          "id": 18146,
+          "name": "Leanne Kiernan"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.7,
+          42.5
+        ],
+        "player": {
+          "id": 23217,
+          "name": "Tessel Middag"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.5,
+          48.6
+        ],
+        "player": {
+          "id": 23289,
+          "name": "Emily Simpkins"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.0,
+          37.2
+        ],
+        "player": {
+          "id": 31555,
+          "name": "Courtney Brosnan"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.4,
+          27.7
+        ],
+        "player": {
+          "id": 31553,
+          "name": "Cecilie Redisch Kvamme"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          120.0,
+          43.0
+        ],
+        "player": {
+          "id": 31556,
+          "name": "Laura Vetterlein"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.1,
+          45.3
+        ],
+        "player": {
+          "id": 22798,
+          "name": "So-Hyun Cho"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

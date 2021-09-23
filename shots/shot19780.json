@@ -1,0 +1,190 @@
+{
+  "id": "15658578-263b-4bb0-a6dc-a4fa8750921f",
+  "index": 2580,
+  "period": 2,
+  "timestamp": "00:14:16.498",
+  "minute": 59,
+  "second": 16,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 144,
+  "possession_team": {
+    "id": 967,
+    "name": "Everton LFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 967,
+    "name": "Everton LFC"
+  },
+  "player": {
+    "id": 15579,
+    "name": "Inessa Kaagman"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    107.2,
+    23.2
+  ],
+  "duration": 0.367076,
+  "under_pressure": true,
+  "related_events": [
+    "65638d92-3222-4985-8b81-d2710f77ab4f",
+    "782b9112-6322-4acb-9bd0-361ceed8f25d",
+    "f48be964-f113-4ddf-98d0-bf2124a1fdbc"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.0257377,
+    "end_location": [
+      108.8,
+      25.7
+    ],
+    "key_pass_id": "82983b30-fedb-4b81-8e6e-a913ccf76f64",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          107.4,
+          49.4
+        ],
+        "player": {
+          "id": 18253,
+          "name": "Hannah Cain"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.4,
+          37.9
+        ],
+        "player": {
+          "id": 10237,
+          "name": "Manuela Zinsberger"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.2,
+          26.0
+        ],
+        "player": {
+          "id": 18999,
+          "name": "Leah Williamson"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.9,
+          32.3
+        ],
+        "player": {
+          "id": 10235,
+          "name": "Viktoria Schnaderbeck"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.1,
+          26.0
+        ],
+        "player": {
+          "id": 10380,
+          "name": "Leonie Maier"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.4,
+          43.0
+        ],
+        "player": {
+          "id": 15620,
+          "name": "Katie McCabe"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.0,
+          38.3
+        ],
+        "player": {
+          "id": 10405,
+          "name": "Lia W\u00e4lti"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.5,
+          38.7
+        ],
+        "player": {
+          "id": 15616,
+          "name": "Kim Little"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

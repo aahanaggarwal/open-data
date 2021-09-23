@@ -1,0 +1,173 @@
+{
+  "id": "98bf31a2-3757-4c83-95e6-82d35bc8a326",
+  "index": 3564,
+  "period": 2,
+  "timestamp": "00:35:30.756",
+  "minute": 80,
+  "second": 30,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 178,
+  "possession_team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "player": {
+    "id": 4643,
+    "name": "Georgia Stanway"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    95.0,
+    28.0
+  ],
+  "duration": 1.354755,
+  "related_events": [
+    "cf94f84c-e6b3-4fc5-8f68-2697f69b19b8"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.0184758,
+    "end_location": [
+      119.0,
+      39.5,
+      1.2
+    ],
+    "key_pass_id": "b820d915-2bff-499b-8cff-95c42a5b7bb7",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.0,
+          23.0
+        ],
+        "player": {
+          "id": 10188,
+          "name": "Caroline Weir"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          92.0,
+          28.0
+        ],
+        "player": {
+          "id": 18147,
+          "name": "Kate Longhurst"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          25.0
+        ],
+        "player": {
+          "id": 18155,
+          "name": "Erin Simon"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          29.0
+        ],
+        "player": {
+          "id": 18151,
+          "name": "Gilly Louise Scarlett Flaherty"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          33.0
+        ],
+        "player": {
+          "id": 18145,
+          "name": "Ria Percival"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          36.0
+        ],
+        "player": {
+          "id": 18159,
+          "name": "Brooke Hendrix"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          41.0
+        ],
+        "player": {
+          "id": 18158,
+          "name": "Rebecca Leigh Spencer"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "id": "b08bb9a8-72c4-4431-8514-5a803a091efd",
+  "index": 1839,
+  "period": 2,
+  "timestamp": "00:00:51.509",
+  "minute": 45,
+  "second": 51,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 118,
+  "possession_team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "player": {
+    "id": 16378,
+    "name": "Iniabasi Anefiok Umotong"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    94.0,
+    49.0
+  ],
+  "duration": 0.839586,
+  "under_pressure": true,
+  "related_events": [
+    "360fceaf-8221-440a-9f31-5d48e0fa49ca",
+    "76925aa4-56ce-4f5d-994c-471f09dac79b",
+    "aa7b72f3-1640-429a-b8f8-3f93b9b10495"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.014550874,
+    "end_location": [
+      101.0,
+      43.0
+    ],
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          98.0,
+          55.0
+        ],
+        "player": {
+          "id": 16393,
+          "name": "Ellie Brazil"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          90.0,
+          61.0
+        ],
+        "player": {
+          "id": 16400,
+          "name": "Kayleigh Green"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          90.0,
+          35.0
+        ],
+        "player": {
+          "id": 16374,
+          "name": "Aileen Whelan"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.0,
+          39.0
+        ],
+        "player": {
+          "id": 22027,
+          "name": "Anne Moorhouse"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          82.0,
+          64.0
+        ],
+        "player": {
+          "id": 4653,
+          "name": "Jane Ross"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          82.0,
+          55.0
+        ],
+        "player": {
+          "id": 18150,
+          "name": "Julia Simic"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          87.0,
+          46.0
+        ],
+        "player": {
+          "id": 18157,
+          "name": "Brianna Visalli"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.0,
+          52.0
+        ],
+        "player": {
+          "id": 18148,
+          "name": "Lucienne Reichardt"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          50.0
+        ],
+        "player": {
+          "id": 18159,
+          "name": "Brooke Hendrix"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          45.0
+        ],
+        "player": {
+          "id": 18151,
+          "name": "Gilly Louise Scarlett Flaherty"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          33.0
+        ],
+        "player": {
+          "id": 18147,
+          "name": "Kate Longhurst"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          61.0
+        ],
+        "player": {
+          "id": 18156,
+          "name": "Claire Lauren Rafferty"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "id": "bd56f8db-3793-4949-a6fb-eb9d6ee874e8",
+  "index": 1863,
+  "period": 2,
+  "timestamp": "00:04:17.513",
+  "minute": 49,
+  "second": 17,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 121,
+  "possession_team": {
+    "id": 1475,
+    "name": "Manchester United"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 1475,
+    "name": "Manchester United"
+  },
+  "player": {
+    "id": 31536,
+    "name": "Millie Turner"
+  },
+  "position": {
+    "id": 5,
+    "name": "Left Center Back"
+  },
+  "location": [
+    114.6,
+    36.6
+  ],
+  "duration": 0.48894,
+  "related_events": [
+    "73840da1-c155-4994-9265-59af07cffe4c"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.24557893,
+    "end_location": [
+      120.0,
+      34.9,
+      0.6
+    ],
+    "key_pass_id": "83f9d850-c3c0-43b7-a122-3292f79be6fd",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.3,
+          29.5
+        ],
+        "player": {
+          "id": 22337,
+          "name": "Maya Le Tissier"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.3,
+          28.4
+        ],
+        "player": {
+          "id": 31539,
+          "name": "Leah Galton"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.2,
+          38.1
+        ],
+        "player": {
+          "id": 20034,
+          "name": "Danielle Buet"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.4,
+          38.8
+        ],
+        "player": {
+          "id": 15709,
+          "name": "Megan Walsh"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.9,
+          35.2
+        ],
+        "player": {
+          "id": 16378,
+          "name": "Iniabasi Anefiok Umotong"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.9,
+          37.2
+        ],
+        "player": {
+          "id": 23289,
+          "name": "Emily Simpkins"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.9,
+          39.5
+        ],
+        "player": {
+          "id": 4648,
+          "name": "Abbie McManus"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.8,
+          38.9
+        ],
+        "player": {
+          "id": 31532,
+          "name": "Kirsty Hanson"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

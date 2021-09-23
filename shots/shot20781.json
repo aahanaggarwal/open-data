@@ -1,0 +1,159 @@
+{
+  "id": "ab40e923-9b95-4e03-8edf-b9948a4f4995",
+  "index": 3006,
+  "period": 2,
+  "timestamp": "00:12:12.208",
+  "minute": 57,
+  "second": 12,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 99,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    108.9,
+    36.9
+  ],
+  "duration": 0.5995,
+  "related_events": [
+    "943687ea-1fd8-4686-ae7c-caf717356284"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.5332679,
+    "end_location": [
+      119.9,
+      35.9,
+      0.2
+    ],
+    "key_pass_id": "d4be1812-6d78-4357-bed4-5392b4a43bf9",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 99,
+      "name": "Post"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.2,
+          38.0
+        ],
+        "player": {
+          "id": 26131,
+          "name": "Victoriano Rivas \u00c1lvaro"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.8,
+          40.9
+        ],
+        "player": {
+          "id": 26023,
+          "name": "Juan Francisco Garc\u00eda Garc\u00eda"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.4,
+          37.7
+        ],
+        "player": {
+          "id": 26221,
+          "name": "Gustavo Adolfo Mun\u00faa Vera"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.4,
+          43.3
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.7,
+          36.1
+        ],
+        "player": {
+          "id": 25937,
+          "name": "Javier Rodr\u00edguez Venta"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.2,
+          37.7
+        ],
+        "player": {
+          "id": 3497,
+          "name": "Vicente Iborra De La Fuente"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

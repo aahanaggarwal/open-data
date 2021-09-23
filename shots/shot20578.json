@@ -1,0 +1,251 @@
+{
+  "id": "45154ffa-9f3c-428e-8e07-32f9c61775a5",
+  "index": 1209,
+  "period": 1,
+  "timestamp": "00:36:12.061",
+  "minute": 36,
+  "second": 12,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 98,
+  "possession_team": {
+    "id": 973,
+    "name": "Bristol City WFC"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 973,
+    "name": "Bristol City WFC"
+  },
+  "player": {
+    "id": 21048,
+    "name": "Rosella Ayane"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    101.0,
+    60.0
+  ],
+  "duration": 1.3126,
+  "under_pressure": true,
+  "related_events": [
+    "db4183a3-4368-4855-b7f9-c7d370c23907",
+    "f827c550-4bd9-4055-80f5-0318d62085ef"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.020065805,
+    "end_location": [
+      119.0,
+      44.0,
+      0.2
+    ],
+    "key_pass_id": "10eebd74-2d28-4163-8957-074b25197bfb",
+    "deflected": true,
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          94.0,
+          50.0
+        ],
+        "player": {
+          "id": 16386,
+          "name": "Lucy Graham"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          87.0,
+          42.0
+        ],
+        "player": {
+          "id": 17274,
+          "name": "Poppy Pattinson"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.0,
+          78.0
+        ],
+        "player": {
+          "id": 10171,
+          "name": "Frankie Brown"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.0,
+          36.0
+        ],
+        "player": {
+          "id": 16388,
+          "name": "Ella Rutherford"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.0,
+          41.0
+        ],
+        "player": {
+          "id": 15709,
+          "name": "Megan Walsh"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.0,
+          40.0
+        ],
+        "player": {
+          "id": 10195,
+          "name": "Rachel Mclauchlan"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          48.0
+        ],
+        "player": {
+          "id": 15707,
+          "name": "Georgia Evans"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          56.0
+        ],
+        "player": {
+          "id": 15717,
+          "name": "Hannah Short"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          63.0
+        ],
+        "player": {
+          "id": 15715,
+          "name": "Ellie Mason"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.0,
+          59.0
+        ],
+        "player": {
+          "id": 15710,
+          "name": "Megan Alexander"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.0,
+          66.0
+        ],
+        "player": {
+          "id": 15713,
+          "name": "Bonnie Horwood"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          38.0
+        ],
+        "player": {
+          "id": 19774,
+          "name": "Charlotte Buxton"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "id": "d513ae63-bf2f-48f0-a4d3-fd4e5df208ec",
+  "index": 3080,
+  "period": 2,
+  "timestamp": "00:22:52.283",
+  "minute": 67,
+  "second": 52,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 133,
+  "possession_team": {
+    "id": 222,
+    "name": "Villarreal"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 222,
+    "name": "Villarreal"
+  },
+  "player": {
+    "id": 16335,
+    "name": "Samuel Chimerenka Chukwueze"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    101.5,
+    41.5
+  ],
+  "duration": 0.1064,
+  "related_events": [
+    "3750f2eb-9150-41bb-a207-47955f61644b",
+    "519ac68b-9250-4db0-8641-26c3689fd58f"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.11903561,
+    "end_location": [
+      119.9,
+      40.2,
+      1.4
+    ],
+    "key_pass_id": "6bd04bdf-c5e3-4704-8035-9a43f40bc485",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "deflected": true,
+    "freeze_frame": [
+      {
+        "location": [
+          105.3,
+          40.6
+        ],
+        "player": {
+          "id": 5492,
+          "name": "Samuel Yves Umtiti"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          40.0
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.7,
+          44.1
+        ],
+        "player": {
+          "id": 6826,
+          "name": "Cl\u00e9ment Lenglet"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.1,
+          48.6
+        ],
+        "player": {
+          "id": 5211,
+          "name": "Jordi Alba Ramos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.3,
+          34.6
+        ],
+        "player": {
+          "id": 6379,
+          "name": "Sergi Roberto Carnicer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.0,
+          40.6
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.1,
+          51.6
+        ],
+        "player": {
+          "id": 6772,
+          "name": "Mario Gaspar P\u00e9rez Mart\u00ednez"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          91.1,
+          40.6
+        ],
+        "player": {
+          "id": 11385,
+          "name": "Santiago C\u00e1seres"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.1,
+          39.8
+        ],
+        "player": {
+          "id": 3551,
+          "name": "Karl Brillant Toko Ekambi"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.0,
+          25.4
+        ],
+        "player": {
+          "id": 11386,
+          "name": "Santiago Cazorla Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

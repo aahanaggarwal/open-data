@@ -1,0 +1,144 @@
+{
+  "id": "0a2d25cd-ed0a-4476-a579-424900daeaed",
+  "index": 354,
+  "period": 1,
+  "timestamp": "00:07:53.259",
+  "minute": 7,
+  "second": 53,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 15,
+  "possession_team": {
+    "id": 395,
+    "name": "Real Zaragoza"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "out": true,
+  "team": {
+    "id": 395,
+    "name": "Real Zaragoza"
+  },
+  "player": {
+    "id": 19294,
+    "name": "Diego Alberto Milito"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    108.8,
+    24.0
+  ],
+  "duration": 0.5442,
+  "related_events": [
+    "f260f7cc-4b4a-4b26-ab7b-2701aaa59927"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.070634164,
+    "end_location": [
+      120.0,
+      36.0,
+      0.1
+    ],
+    "key_pass_id": "fae8b35a-9b4b-4454-9cce-43a65fb58321",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 99,
+      "name": "Post"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.6,
+          34.0
+        ],
+        "player": {
+          "id": 25274,
+          "name": "Ricardo de Oliveira"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          116.2,
+          32.6
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.1,
+          31.1
+        ],
+        "player": {
+          "id": 25919,
+          "name": "Gabriel Alejandro Milito"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          25.9
+        ],
+        "player": {
+          "id": 15774,
+          "name": "Gianluca Zambrotta"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          27.6
+        ],
+        "player": {
+          "id": 5558,
+          "name": "Rafael M\u00e1rquez \u00c1lvarez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

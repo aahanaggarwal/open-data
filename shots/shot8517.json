@@ -1,0 +1,187 @@
+{
+  "id": "793fe34a-46fb-477d-bb20-bfb4d8566e12",
+  "index": 3609,
+  "period": 2,
+  "timestamp": "00:48:27.348",
+  "minute": 93,
+  "second": 27,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 243,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 8,
+    "name": "From Keeper"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    58.0,
+    77.7
+  ],
+  "duration": 2.96293,
+  "related_events": [
+    "274f5621-5e17-41a7-8724-ec9f8181157b"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.07717468,
+    "end_location": [
+      102.6,
+      41.2
+    ],
+    "key_pass_id": "abe4511a-f28e-41e1-ae23-4b0b32605d4f",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 101,
+      "name": "Wayward"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          65.8,
+          75.8
+        ],
+        "player": {
+          "id": 12529,
+          "name": "Ashley Cole"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          60.5,
+          38.1
+        ],
+        "player": {
+          "id": 40255,
+          "name": "J\u00e9r\u00e9mie Aliadi\u00e8re"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          71.3,
+          40.3
+        ],
+        "player": {
+          "id": 15036,
+          "name": "Edwin van der Sar"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.5,
+          40.4
+        ],
+        "player": {
+          "id": 40408,
+          "name": "Moritz Volz"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          61.8,
+          33.0
+        ],
+        "player": {
+          "id": 40407,
+          "name": "Steed Malbranque"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          79.6,
+          65.8
+        ],
+        "player": {
+          "id": 40421,
+          "name": "Ian Pearce"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          69.3,
+          71.8
+        ],
+        "player": {
+          "id": 40422,
+          "name": "Alain Goma"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          64.2,
+          76.9
+        ],
+        "player": {
+          "id": 40420,
+          "name": "Carlos Manuel Bocanegra"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

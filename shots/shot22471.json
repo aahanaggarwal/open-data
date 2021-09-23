@@ -1,0 +1,175 @@
+{
+  "id": "43ce1ae6-08c4-4bcc-9fd9-2d17968c6f65",
+  "index": 3111,
+  "period": 2,
+  "timestamp": "00:39:28.497",
+  "minute": 84,
+  "second": 28,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 173,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 25879,
+    "name": "Ronaldo de Assis Moreira"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    107.0,
+    31.9
+  ],
+  "duration": 0.865982,
+  "under_pressure": true,
+  "related_events": [
+    "c7df07d5-fd7d-4d43-a98a-ea1ddd0feb07",
+    "d8debf1a-ee82-4279-819c-3b49b477deaa"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.3003821,
+    "end_location": [
+      113.6,
+      36.2,
+      0.3
+    ],
+    "key_pass_id": "3f67282f-7ed2-4e14-a207-27a28b37343f",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.2,
+          26.1
+        ],
+        "player": {
+          "id": 25962,
+          "name": "Javier Pedro Saviola Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.1,
+          43.4
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.9,
+          48.1
+        ],
+        "player": {
+          "id": 25878,
+          "name": "Ludovic Giuly"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.7,
+          33.0
+        ],
+        "player": {
+          "id": 25983,
+          "name": "Josu Sarriegi Zum\u00e1rraga"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.3,
+          35.2
+        ],
+        "player": {
+          "id": 26100,
+          "name": "Ustaritz Aldekoaotalora Astarloa"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.3,
+          36.8
+        ],
+        "player": {
+          "id": 26032,
+          "name": "Unai Exp\u00f3sito Medina"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.1,
+          36.5
+        ],
+        "player": {
+          "id": 26084,
+          "name": "I\u00f1aki Lafuente Sancha"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

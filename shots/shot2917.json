@@ -1,0 +1,144 @@
+{
+  "id": "c711d217-e2ad-4439-a70a-aab7506a1b89",
+  "index": 569,
+  "period": 1,
+  "timestamp": "00:14:04.667",
+  "minute": 14,
+  "second": 4,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 30,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 11270,
+    "name": "Ei\u00f0ur Sm\u00e1ri Gu\u00f0johnsen"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    116.3,
+    29.4
+  ],
+  "duration": 0.311774,
+  "related_events": [
+    "3fe70430-3548-4ce0-b74b-26ddac4542f0"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.19393584,
+    "end_location": [
+      117.2,
+      32.7,
+      0.2
+    ],
+    "key_pass_id": "756fa76c-c3f2-4651-9a65-e0fbbdeac290",
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.5,
+          33.7
+        ],
+        "player": {
+          "id": 25917,
+          "name": "C\u00e9sar S\u00e1nchez Dom\u00ednguez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.3,
+          48.1
+        ],
+        "player": {
+          "id": 26023,
+          "name": "Juan Francisco Garc\u00eda Garc\u00eda"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.9,
+          34.9
+        ],
+        "player": {
+          "id": 25854,
+          "name": "Sylvio Mendes Campos Junior"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.9,
+          36.2
+        ],
+        "player": {
+          "id": 24520,
+          "name": "Alberto Zapater Arjol"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.3,
+          29.6
+        ],
+        "player": {
+          "id": 25919,
+          "name": "Gabriel Alejandro Milito"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

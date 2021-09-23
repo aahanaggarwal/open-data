@@ -1,0 +1,159 @@
+{
+  "id": "027158f6-dc8b-4efc-b50a-23292e26e6ad",
+  "index": 2474,
+  "period": 2,
+  "timestamp": "00:28:49.791",
+  "minute": 73,
+  "second": 49,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 168,
+  "possession_team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "player": {
+    "id": 16400,
+    "name": "Kayleigh Green"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    110.5,
+    53.3
+  ],
+  "duration": 0.032761,
+  "related_events": [
+    "5803f879-af66-469c-a621-51c43f6cffb0",
+    "ce854ac4-7a14-4381-b91e-6479fe30ca12"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.04148195,
+    "end_location": [
+      111.0,
+      52.7
+    ],
+    "key_pass_id": "b8bffea4-4606-4ee7-b9f5-259925444420",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.8,
+          46.1
+        ],
+        "player": {
+          "id": 15575,
+          "name": "Gabrielle George"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.5,
+          39.5
+        ],
+        "player": {
+          "id": 18254,
+          "name": "Megan Finnigan"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.4,
+          53.0
+        ],
+        "player": {
+          "id": 15571,
+          "name": "Danielle Turner"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.1,
+          44.2
+        ],
+        "player": {
+          "id": 34360,
+          "name": "Alexandra MacIver"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.2,
+          47.6
+        ],
+        "player": {
+          "id": 31713,
+          "name": "Ma\u00e9va Clemaron"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.2,
+          47.6
+        ],
+        "player": {
+          "id": 21023,
+          "name": "Amanda Nild\u00e9n"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

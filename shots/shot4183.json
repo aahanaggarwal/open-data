@@ -1,0 +1,161 @@
+{
+  "id": "40b02fc2-16a4-48fe-a2cd-9ff2c56e59aa",
+  "index": 1411,
+  "period": 1,
+  "timestamp": "00:37:11.066",
+  "minute": 37,
+  "second": 11,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 77,
+  "possession_team": {
+    "id": 221,
+    "name": "Levante"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 221,
+    "name": "Levante"
+  },
+  "player": {
+    "id": 6668,
+    "name": "Jos\u00e9 Luis Morales Nogales"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    106.7,
+    27.1
+  ],
+  "duration": 1.070373,
+  "under_pressure": true,
+  "related_events": [
+    "0bd6a32e-617e-40e7-8a78-fa55e6ffe39c",
+    "61c86d61-d9a0-4a5c-9548-9e208fb5ff3b"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.16185354,
+    "end_location": [
+      120.0,
+      44.0,
+      0.5
+    ],
+    "key_pass_id": "dfb7dd9a-30f0-4c92-80da-48586d5d3289",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 99,
+      "name": "Post"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          89.4,
+          44.2
+        ],
+        "player": {
+          "id": 7141,
+          "name": "Giuseppe Rossi"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          90.7,
+          44.1
+        ],
+        "player": {
+          "id": 5211,
+          "name": "Jordi Alba Ramos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.1,
+          35.2
+        ],
+        "player": {
+          "id": 4691,
+          "name": "Claudio Andr\u00e9s Bravo Mu\u00f1oz"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.6,
+          40.0
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.2,
+          29.9
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.5,
+          26.4
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

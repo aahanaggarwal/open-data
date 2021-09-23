@@ -1,0 +1,174 @@
+{
+  "id": "a8e05c63-1311-4e25-8dd3-f4d52890a876",
+  "index": 1340,
+  "period": 1,
+  "timestamp": "00:27:12.318",
+  "minute": 27,
+  "second": 12,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 47,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    111.0,
+    28.4
+  ],
+  "duration": 0.0716,
+  "related_events": [
+    "745f5a4e-43fb-4eba-980d-cfdf65187cdf",
+    "81115c8f-717b-4ef2-9377-df897f1c6fd9"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.1277423,
+    "end_location": [
+      112.3,
+      29.4
+    ],
+    "key_pass_id": "a4fa8eb9-cff5-4941-8d06-649cb832e36b",
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          94.0,
+          44.8
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.5,
+          55.5
+        ],
+        "player": {
+          "id": 3478,
+          "name": "Francesc F\u00e0bregas i Soler"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.5,
+          28.5
+        ],
+        "player": {
+          "id": 3958,
+          "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.4,
+          31.1
+        ],
+        "player": {
+          "id": 6751,
+          "name": "Javier Fuego Mart\u00ednez"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.8,
+          30.0
+        ],
+        "player": {
+          "id": 10609,
+          "name": "J\u00e9r\u00e9my Mathieu"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.8,
+          29.5
+        ],
+        "player": {
+          "id": 19454,
+          "name": "Ricardo Miguel Moreira da Costa"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.2,
+          34.1
+        ],
+        "player": {
+          "id": 25144,
+          "name": "Diego Alves Carreira"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

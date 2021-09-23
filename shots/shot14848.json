@@ -1,0 +1,204 @@
+{
+  "id": "2ca5bbdf-4e63-47e6-8848-b6c35ebc3a1c",
+  "index": 636,
+  "period": 1,
+  "timestamp": "00:13:37.238",
+  "minute": 13,
+  "second": 37,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 29,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    107.2,
+    36.1
+  ],
+  "duration": 0.1461,
+  "related_events": [
+    "24d49618-82c0-4b58-b9ec-3399aa404a25",
+    "d62e4a25-7ae5-491d-a3eb-f35cb71a627c"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.12642907,
+    "end_location": [
+      111.9,
+      37.4
+    ],
+    "key_pass_id": "f9c155bc-044a-440c-b890-add954b41690",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          118.9,
+          36.7
+        ],
+        "player": {
+          "id": 9879,
+          "name": "Jon Ander Serantes Simon"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.1,
+          35.6
+        ],
+        "player": {
+          "id": 21399,
+          "name": "Pablo \u00cdnsua Blanco"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.3,
+          29.7
+        ],
+        "player": {
+          "id": 24133,
+          "name": "V\u00edctor David D\u00edaz Miguel"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.9,
+          37.5
+        ],
+        "player": {
+          "id": 6895,
+          "name": "Diego Rico Salguero"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.2,
+          52.0
+        ],
+        "player": {
+          "id": 19396,
+          "name": "Lluis Sastre Reus"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.4,
+          27.8
+        ],
+        "player": {
+          "id": 6598,
+          "name": "Unai Bustinza Mart\u00ednez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.1,
+          42.4
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.4,
+          55.4
+        ],
+        "player": {
+          "id": 6998,
+          "name": "Rafael Alc\u00e2ntara do Nascimento"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.1,
+          26.9
+        ],
+        "player": {
+          "id": 4320,
+          "name": "Neymar da Silva Santos Junior"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

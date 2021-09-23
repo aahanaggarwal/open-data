@@ -1,0 +1,173 @@
+{
+  "id": "c1b22f95-4688-4a2d-b751-20b7f34f497d",
+  "index": 1768,
+  "period": 2,
+  "timestamp": "00:12:51.982",
+  "minute": 57,
+  "second": 51,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 153,
+  "possession_team": {
+    "id": 970,
+    "name": "Yeovil Town LFC"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 970,
+    "name": "Yeovil Town LFC"
+  },
+  "player": {
+    "id": 15713,
+    "name": "Bonnie Horwood"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    96.0,
+    45.0
+  ],
+  "duration": 1.356213,
+  "related_events": [
+    "6f8c7eb6-1787-4119-9607-8840a56c633b"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.020052098,
+    "end_location": [
+      120.0,
+      43.8,
+      1.1
+    ],
+    "key_pass_id": "9fddcc8a-6538-4a31-9d5d-c267a6afc174",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          101.0,
+          28.0
+        ],
+        "player": {
+          "id": 15714,
+          "name": "Anne-Marie Heatherson"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.0,
+          41.0
+        ],
+        "player": {
+          "id": 15576,
+          "name": "Kirstie Levell"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.0,
+          42.0
+        ],
+        "player": {
+          "id": 15558,
+          "name": "Dominique Bruinenberg"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          44.0
+        ],
+        "player": {
+          "id": 15575,
+          "name": "Gabrielle George"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          36.0
+        ],
+        "player": {
+          "id": 15574,
+          "name": "Georgia Brougham"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          32.0
+        ],
+        "player": {
+          "id": 18254,
+          "name": "Megan Finnigan"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.0,
+          28.0
+        ],
+        "player": {
+          "id": 15578,
+          "name": "Faye Bryson"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

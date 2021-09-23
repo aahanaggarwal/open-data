@@ -1,0 +1,220 @@
+{
+  "id": "5f22ca7b-14a9-47f2-bf16-b2f6348f9b16",
+  "index": 2099,
+  "period": 2,
+  "timestamp": "00:08:21.064",
+  "minute": 53,
+  "second": 21,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 130,
+  "possession_team": {
+    "id": 761,
+    "name": "Chicago Red Stars"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 761,
+    "name": "Chicago Red Stars"
+  },
+  "player": {
+    "id": 4982,
+    "name": "Katlyn Johnson"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    91.3,
+    42.4
+  ],
+  "duration": 0.08078,
+  "under_pressure": true,
+  "related_events": [
+    "3525ba2b-a8e6-4724-9289-b2714f512e2d",
+    "e1260945-99ec-40c4-b1e8-e44ec7eb54eb",
+    "f08ccca0-ff2d-42d9-ab2e-b769987dbd6f"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.022875004,
+    "end_location": [
+      92.9,
+      42.3
+    ],
+    "key_pass_id": "20780ed2-4af6-4b10-8918-033d51efac7a",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          92.9,
+          42.4
+        ],
+        "player": {
+          "id": 32760,
+          "name": "Julie James"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.6,
+          40.3
+        ],
+        "player": {
+          "id": 4981,
+          "name": "Kailen Sheridan"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.1,
+          31.9
+        ],
+        "player": {
+          "id": 33318,
+          "name": "Sabrina Flores"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.7,
+          36.1
+        ],
+        "player": {
+          "id": 5098,
+          "name": "Erica Skroski"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.5,
+          29.6
+        ],
+        "player": {
+          "id": 4961,
+          "name": "Samantha Kerr"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.3,
+          45.5
+        ],
+        "player": {
+          "id": 5103,
+          "name": "Michele Vasconcelos"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          98.4,
+          42.4
+        ],
+        "player": {
+          "id": 16403,
+          "name": "Gina Lewandowski"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.9,
+          46.3
+        ],
+        "player": {
+          "id": 4962,
+          "name": "Caprice Dydasco"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          87.2,
+          40.2
+        ],
+        "player": {
+          "id": 4988,
+          "name": "Sarah Killion"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.2,
+          33.6
+        ],
+        "player": {
+          "id": 4963,
+          "name": "Yuki Nagasato"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

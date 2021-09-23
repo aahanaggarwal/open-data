@@ -1,0 +1,174 @@
+{
+  "id": "f04999dc-66bc-4417-a0b0-c6e0d8a2145b",
+  "index": 3565,
+  "period": 2,
+  "timestamp": "00:45:10.927",
+  "minute": 90,
+  "second": 10,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 189,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 4913,
+    "name": "Bojan Krk\u00edc P\u00e9rez"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    110.3,
+    34.8
+  ],
+  "duration": 0.1951,
+  "related_events": [
+    "2975a637-dad3-4a38-8429-0a12fe5304fc"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.43496627,
+    "end_location": [
+      114.7,
+      37.8,
+      1.6
+    ],
+    "key_pass_id": "dcb33f50-7872-4063-bebd-91ae8c665c39",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.4,
+          38.6
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.5,
+          37.5
+        ],
+        "player": {
+          "id": 26225,
+          "name": "I\u00f1aki Goitia Pe\u00f1a"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.4,
+          38.8
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.6,
+          41.5
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.5,
+          17.8
+        ],
+        "player": {
+          "id": 25854,
+          "name": "Sylvio Mendes Campos Junior"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.0,
+          35.8
+        ],
+        "player": {
+          "id": 26232,
+          "name": "Ib\u00e1n Javier Cuadrado Alonso"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.9,
+          35.3
+        ],
+        "player": {
+          "id": 26249,
+          "name": "Fernando Miguel Fern\u00e1ndez Escribano"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

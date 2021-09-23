@@ -1,0 +1,176 @@
+{
+  "id": "5f7d0890-6055-4344-988b-09caa38280ed",
+  "index": 3065,
+  "period": 2,
+  "timestamp": "00:31:18.966",
+  "minute": 76,
+  "second": 18,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 194,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    110.9,
+    33.6
+  ],
+  "duration": 0.748133,
+  "under_pressure": true,
+  "related_events": [
+    "2163bc84-840d-44ee-8ec5-f1a01e873149",
+    "c9efdce2-53eb-46e8-a788-34109a4689a4"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.03316599,
+    "end_location": [
+      120.0,
+      31.7,
+      5.6
+    ],
+    "key_pass_id": "876da7ee-1e1f-4bac-9209-58b3f5784042",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "aerial_won": true,
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.1,
+          33.9
+        ],
+        "player": {
+          "id": 19312,
+          "name": "Robert Pir\u00e8s "
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.6,
+          41.1
+        ],
+        "player": {
+          "id": 24971,
+          "name": "Nwankwo Christian Kanu"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.4,
+          29.2
+        ],
+        "player": {
+          "id": 15524,
+          "name": "Jesper Gr\u00f8nkj\u00e6r"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.1,
+          39.7
+        ],
+        "player": {
+          "id": 40260,
+          "name": "Carlo Cudicini"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.4,
+          34.3
+        ],
+        "player": {
+          "id": 4724,
+          "name": "Glen Johnson"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.3,
+          36.5
+        ],
+        "player": {
+          "id": 20281,
+          "name": "Mario Melchiot"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.4,
+          42.2
+        ],
+        "player": {
+          "id": 40123,
+          "name": "Robert Huth"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "id": "32034dcd-6127-4af1-a462-31ab7699ca9a",
+  "index": 2353,
+  "period": 2,
+  "timestamp": "00:18:41.595",
+  "minute": 63,
+  "second": 41,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 131,
+  "possession_team": {
+    "id": 967,
+    "name": "Everton LFC"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 967,
+    "name": "Everton LFC"
+  },
+  "player": {
+    "id": 15570,
+    "name": "Chloe Kelly"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    98.8,
+    53.6
+  ],
+  "duration": 0.128469,
+  "related_events": [
+    "7e19b972-0055-45a4-b68a-b0347fb16836",
+    "fa94c837-4c85-402f-82ce-4e89b7f7c68b"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.031488452,
+    "end_location": [
+      101.3,
+      51.7
+    ],
+    "key_pass_id": "3214e8b3-95f2-4cf2-9717-0cce99f8b14b",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          100.5,
+          44.2
+        ],
+        "player": {
+          "id": 18145,
+          "name": "Ria Percival"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          51.4
+        ],
+        "player": {
+          "id": 31703,
+          "name": "Anna Filbey"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.9,
+          56.4
+        ],
+        "player": {
+          "id": 16397,
+          "name": "Chloe Peplow"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.0,
+          40.8
+        ],
+        "player": {
+          "id": 15579,
+          "name": "Inessa Kaagman"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.4,
+          62.2
+        ],
+        "player": {
+          "id": 31564,
+          "name": "Molly Pike"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          93.4,
+          49.4
+        ],
+        "player": {
+          "id": 15706,
+          "name": "Rachel Furness"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.2,
+          42.6
+        ],
+        "player": {
+          "id": 18158,
+          "name": "Rebecca Leigh Spencer"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

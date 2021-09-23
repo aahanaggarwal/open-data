@@ -1,0 +1,157 @@
+{
+  "id": "f14e0ca5-fcd1-44c7-9145-e7fe79b14b9e",
+  "index": 2408,
+  "period": 2,
+  "timestamp": "00:11:17.577",
+  "minute": 56,
+  "second": 17,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 119,
+  "possession_team": {
+    "id": 1217,
+    "name": "Racing Santander"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 1217,
+    "name": "Racing Santander"
+  },
+  "player": {
+    "id": 26137,
+    "name": "\u00d3scar Serrano Rodriguez"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    98.3,
+    41.2
+  ],
+  "duration": 0.5148,
+  "related_events": [
+    "2d0fb863-7a2d-46fd-ba95-2bc0adf5ffdb"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.09845072,
+    "end_location": [
+      114.2,
+      40.2,
+      1.8
+    ],
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          96.3,
+          34.3
+        ],
+        "player": {
+          "id": 5216,
+          "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.4,
+          37.1
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.6,
+          41.7
+        ],
+        "player": {
+          "id": 25919,
+          "name": "Gabriel Alejandro Milito"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.2,
+          48.7
+        ],
+        "player": {
+          "id": 25854,
+          "name": "Sylvio Mendes Campos Junior"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.2,
+          48.9
+        ],
+        "player": {
+          "id": 26490,
+          "name": "Mohamed Gasana Tchit\u00e9"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.4,
+          40.0
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

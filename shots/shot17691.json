@@ -1,0 +1,204 @@
+{
+  "id": "f64abf79-d71a-46c8-b295-0d4c5f7909af",
+  "index": 129,
+  "period": 1,
+  "timestamp": "00:01:53.902",
+  "minute": 1,
+  "second": 53,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 4,
+  "possession_team": {
+    "id": 218,
+    "name": "Real Betis"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 218,
+    "name": "Real Betis"
+  },
+  "player": {
+    "id": 25254,
+    "name": "Diego Tardelli Martins"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    106.6,
+    32.2
+  ],
+  "duration": 0.6637,
+  "related_events": [
+    "215f9d05-bffd-4cb1-9ce1-5689d12cc714"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.07811263,
+    "end_location": [
+      119.6,
+      39.2,
+      0.4
+    ],
+    "key_pass_id": "a07a0d2a-4c2c-4bae-b903-283110e65424",
+    "first_time": true,
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.5,
+          38.8
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.1,
+          34.0
+        ],
+        "player": {
+          "id": 25910,
+          "name": "Jos\u00e9 Edm\u00edlson Gomes de Moraes"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.2,
+          32.2
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.8,
+          36.3
+        ],
+        "player": {
+          "id": 25873,
+          "name": "Oleguer Presas Renom"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.5,
+          40.9
+        ],
+        "player": {
+          "id": 25854,
+          "name": "Sylvio Mendes Campos Junior"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.6,
+          42.9
+        ],
+        "player": {
+          "id": 6651,
+          "name": "Joaqu\u00edn S\u00e1nchez Rodr\u00edguez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.4,
+          45.2
+        ],
+        "player": {
+          "id": 26485,
+          "name": "Daniel Mart\u00edn Alexandre"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.3,
+          24.8
+        ],
+        "player": {
+          "id": 25863,
+          "name": "Juliano Haus Belletti"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.9,
+          19.3
+        ],
+        "player": {
+          "id": 26456,
+          "name": "Lu\u00eds Eduardo Schmidt"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

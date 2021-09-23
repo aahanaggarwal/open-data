@@ -1,0 +1,159 @@
+{
+  "id": "adbc8904-6d4a-45aa-a803-55486fbbb70a",
+  "index": 3277,
+  "period": 2,
+  "timestamp": "00:36:29.618",
+  "minute": 81,
+  "second": 29,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 140,
+  "possession_team": {
+    "id": 207,
+    "name": "Valencia"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 207,
+    "name": "Valencia"
+  },
+  "player": {
+    "id": 8281,
+    "name": "Lu\u00eds Carlos Almeida da Cunha"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    107.6,
+    51.1
+  ],
+  "duration": 0.501842,
+  "related_events": [
+    "c35ce0d7-d9ec-4e46-bd56-84b7c6229f23"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.18213095,
+    "end_location": [
+      120.0,
+      45.9,
+      0.5
+    ],
+    "key_pass_id": "bc6b2d65-1d12-4e2e-b78c-77aae7c11135",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          106.4,
+          50.6
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.9,
+          47.4
+        ],
+        "player": {
+          "id": 6379,
+          "name": "Sergi Roberto Carnicer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.5,
+          60.6
+        ],
+        "player": {
+          "id": 5492,
+          "name": "Samuel Yves Umtiti"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          81.4,
+          30.7
+        ],
+        "player": {
+          "id": 6609,
+          "name": "Denis Su\u00e1rez Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.7,
+          30.3
+        ],
+        "player": {
+          "id": 6594,
+          "name": "Santiago Mina Lorenzo"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.0,
+          44.1
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

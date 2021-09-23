@@ -1,0 +1,143 @@
+{
+  "id": "1212fee7-04f3-4535-a54d-d0b350146bd6",
+  "index": 1194,
+  "period": 1,
+  "timestamp": "00:29:42.357",
+  "minute": 29,
+  "second": 42,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 74,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3385,
+    "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    99.7,
+    47.1
+  ],
+  "duration": 1.0059,
+  "related_events": [
+    "6e7db985-8bef-4208-8762-6158638ddddf"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.1376975,
+    "end_location": [
+      120.0,
+      36.8,
+      0.1
+    ],
+    "key_pass_id": "1edff8c9-ef3e-41e5-aa1d-8397daee85e6",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          99.9,
+          45.6
+        ],
+        "player": {
+          "id": 20016,
+          "name": "Kl\u00e9per Laveran Lima Ferreira"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          44.5
+        ],
+        "player": {
+          "id": 19047,
+          "name": "F\u00e1bio Alexandre da Silva Coentr\u00e3o"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          90.0,
+          37.5
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          93.5,
+          53.9
+        ],
+        "player": {
+          "id": 5552,
+          "name": "Marcelo Vieira da Silva J\u00fanior"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.1,
+          41.9
+        ],
+        "player": {
+          "id": 11179,
+          "name": "Iker Casillas Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "id": "e9910daf-7799-4429-96ed-618548664986",
+  "index": 167,
+  "period": 1,
+  "timestamp": "00:04:04.557",
+  "minute": 4,
+  "second": 4,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 15,
+  "possession_team": {
+    "id": 627,
+    "name": "Tenerife"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 627,
+    "name": "Tenerife"
+  },
+  "player": {
+    "id": 24191,
+    "name": "Alejandro Alfaro Ligero"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    108.3,
+    29.7
+  ],
+  "duration": 0.688074,
+  "related_events": [
+    "b0f2f9f5-edac-4f36-be88-6b248d05bc35"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.3122613,
+    "end_location": [
+      120.0,
+      40.2,
+      2.8
+    ],
+    "key_pass_id": "20d32f85-e381-4867-950d-1038ef53c929",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 99,
+      "name": "Post"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.8,
+          33.5
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.4,
+          31.5
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.2,
+          39.8
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.4,
+          32.0
+        ],
+        "player": {
+          "id": 5558,
+          "name": "Rafael M\u00e1rquez \u00c1lvarez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.5,
+          48.3
+        ],
+        "player": {
+          "id": 26613,
+          "name": "Maxwell Scherrer Cabelino Andrade"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.8,
+          38.3
+        ],
+        "player": {
+          "id": 24166,
+          "name": "Juan Francisco Mart\u00ednez Modesto"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          85.7,
+          23.8
+        ],
+        "player": {
+          "id": 26628,
+          "name": "Ayoze Garc\u00eda P\u00e9rez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "id": "d771b1d3-029d-43ca-81d3-71ce9ff13f83",
+  "index": 819,
+  "period": 1,
+  "timestamp": "00:29:25.782",
+  "minute": 29,
+  "second": 25,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 77,
+  "possession_team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 973,
+    "name": "Bristol City WFC"
+  },
+  "player": {
+    "id": 16388,
+    "name": "Ella Rutherford"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    105.0,
+    24.0
+  ],
+  "duration": 4.064928,
+  "related_events": [
+    "b9715415-e3a3-46d7-847a-f0975c214ca6"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.064281024,
+    "end_location": [
+      118.0,
+      61.0
+    ],
+    "outcome": {
+      "id": 101,
+      "name": "Wayward"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          116.0,
+          35.0
+        ],
+        "player": {
+          "id": 16375,
+          "name": "Laura Hartley"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.0,
+          19.0
+        ],
+        "player": {
+          "id": 16386,
+          "name": "Lucy Graham"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          78.0,
+          27.0
+        ],
+        "player": {
+          "id": 16384,
+          "name": "Carla Humphrey"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          85.0,
+          49.0
+        ],
+        "player": {
+          "id": 16389,
+          "name": "Jessica Wooley"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          89.0,
+          37.0
+        ],
+        "player": {
+          "id": 16397,
+          "name": "Chloe Peplow"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          25.0
+        ],
+        "player": {
+          "id": 16395,
+          "name": "Victoria Williams"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          28.0
+        ],
+        "player": {
+          "id": 16394,
+          "name": "Laura Rafferty"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          45.0
+        ],
+        "player": {
+          "id": 16392,
+          "name": "Felicity Gibbons"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.0,
+          24.0
+        ],
+        "player": {
+          "id": 20034,
+          "name": "Danielle Buet"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "id": "91e4c652-801e-47c1-bc63-d4bd88925b90",
+  "index": 1016,
+  "period": 1,
+  "timestamp": "00:33:15.676",
+  "minute": 33,
+  "second": 15,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 74,
+  "possession_team": {
+    "id": 764,
+    "name": "Orlando Pride"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 764,
+    "name": "Orlando Pride"
+  },
+  "player": {
+    "id": 5076,
+    "name": "Emily van Egmond"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    101.0,
+    49.0
+  ],
+  "duration": 1.2,
+  "related_events": [
+    "947fc422-f607-455d-86f8-6164f158733d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.037514824,
+    "end_location": [
+      119.0,
+      44.0,
+      3.8
+    ],
+    "key_pass_id": "cf4fc7ee-5bd2-45b3-9787-aa6677ef0ccc",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.0,
+          52.0
+        ],
+        "player": {
+          "id": 4999,
+          "name": "Lindsey Horan"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          48.0
+        ],
+        "player": {
+          "id": 4995,
+          "name": "Celeste Boureille"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          57.0
+        ],
+        "player": {
+          "id": 5011,
+          "name": "Meghan Klingenberg"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          47.0
+        ],
+        "player": {
+          "id": 5092,
+          "name": "Emily Menges"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          45.0
+        ],
+        "player": {
+          "id": 5003,
+          "name": "Emily Sonnett"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          46.0
+        ],
+        "player": {
+          "id": 5095,
+          "name": "Ellie Carpenter"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          59.0
+        ],
+        "player": {
+          "id": 5062,
+          "name": "Dani Weatherholt"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.0,
+          42.0
+        ],
+        "player": {
+          "id": 6819,
+          "name": "Adrianna Franch"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          48.0
+        ],
+        "player": {
+          "id": 5082,
+          "name": "Marta Vieira da Silva"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

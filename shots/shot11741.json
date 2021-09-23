@@ -1,0 +1,309 @@
+{
+  "id": "dedc3ee0-84b1-4ead-8db1-408f5c70d314",
+  "index": 1411,
+  "period": 1,
+  "timestamp": "00:42:31.240",
+  "minute": 42,
+  "second": 31,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 75,
+  "possession_team": {
+    "id": 768,
+    "name": "England"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 768,
+    "name": "England"
+  },
+  "player": {
+    "id": 3293,
+    "name": "Jesse Lingard"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    106.0,
+    41.0
+  ],
+  "duration": 0.493,
+  "related_events": [
+    "51ee7f2d-c8dc-4e90-b728-94b0f048a518",
+    "dd91d7f7-0d01-47e3-b15f-50b901d67431"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.13873914,
+    "end_location": [
+      113.0,
+      41.0
+    ],
+    "key_pass_id": "7f81cc3f-a457-4072-8851-b1864114e2f6",
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "first_time": true,
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.0,
+          41.0
+        ],
+        "player": {
+          "id": 5648,
+          "name": "Farouk Ben Mustapha"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          40.0
+        ],
+        "player": {
+          "id": 5650,
+          "name": "Ferjani Sassi"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          47.0
+        ],
+        "player": {
+          "id": 5647,
+          "name": "Ali Ma\u00e2loul"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.0,
+          40.0
+        ],
+        "player": {
+          "id": 3196,
+          "name": "Wahbi Khazri"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.0,
+          30.0
+        ],
+        "player": {
+          "id": 5649,
+          "name": "Anice Badri"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.0,
+          34.0
+        ],
+        "player": {
+          "id": 3532,
+          "name": "Jordan Brian Henderson"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.0,
+          56.0
+        ],
+        "player": {
+          "id": 3094,
+          "name": "Bamidele Alli"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          116.0,
+          39.0
+        ],
+        "player": {
+          "id": 3233,
+          "name": "Raheem Shaquille Sterling"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.0,
+          41.0
+        ],
+        "player": {
+          "id": 5655,
+          "name": "Dylan Bronn"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          44.0
+        ],
+        "player": {
+          "id": 5651,
+          "name": "Yassine Meriah"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.0,
+          41.0
+        ],
+        "player": {
+          "id": 5656,
+          "name": "Syam Ben Youssef"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          45.0
+        ],
+        "player": {
+          "id": 3244,
+          "name": "John Stones"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.0,
+          52.0
+        ],
+        "player": {
+          "id": 3336,
+          "name": "Harry Maguire"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.0,
+          50.0
+        ],
+        "player": {
+          "id": 5654,
+          "name": "Fakhreddine Ben Youssef"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          51.0
+        ],
+        "player": {
+          "id": 3767,
+          "name": "Ellyes Skhiri"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          34.0
+        ],
+        "player": {
+          "id": 10955,
+          "name": "Harry Kane"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

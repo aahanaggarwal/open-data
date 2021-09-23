@@ -1,0 +1,204 @@
+{
+  "id": "dba9ed33-a2ea-46a2-8b8c-67a9a944c2dc",
+  "index": 1361,
+  "period": 1,
+  "timestamp": "00:32:22.080",
+  "minute": 32,
+  "second": 22,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 69,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    114.2,
+    20.0
+  ],
+  "duration": 0.4979,
+  "related_events": [
+    "60474bdf-bc39-4c7b-b22d-1769d7039b5c"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.024340754,
+    "end_location": [
+      119.5,
+      36.8,
+      1.3
+    ],
+    "key_pass_id": "fc13073d-8088-4ffd-ab2a-4e5c2178fc03",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.8,
+          39.2
+        ],
+        "player": {
+          "id": 11270,
+          "name": "Ei\u00f0ur Sm\u00e1ri Gu\u00f0johnsen"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.1,
+          35.6
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.6,
+          39.7
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.1,
+          36.9
+        ],
+        "player": {
+          "id": 11179,
+          "name": "Iker Casillas Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.8,
+          40.7
+        ],
+        "player": {
+          "id": 5201,
+          "name": "Sergio Ramos Garc\u00eda"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.1,
+          37.7
+        ],
+        "player": {
+          "id": 20014,
+          "name": "Christoph Metzelder"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.9,
+          29.3
+        ],
+        "player": {
+          "id": 15775,
+          "name": "Fabio Cannavaro"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.6,
+          20.4
+        ],
+        "player": {
+          "id": 15601,
+          "name": "Miguel \u00c1ngel Salgado Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          40.1
+        ],
+        "player": {
+          "id": 25924,
+          "name": "Jos\u00e9 Maria Guti\u00e9rrez Hern\u00e1ndez"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

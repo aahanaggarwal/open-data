@@ -1,0 +1,190 @@
+{
+  "id": "ae8386b1-f993-4f38-9aff-83721746d9d1",
+  "index": 2515,
+  "period": 2,
+  "timestamp": "00:13:22.897",
+  "minute": 58,
+  "second": 22,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 92,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    105.0,
+    42.3
+  ],
+  "duration": 1.726,
+  "under_pressure": true,
+  "related_events": [
+    "5cd3d91d-2526-4919-9eb0-4cac853b76b9",
+    "95f83330-0ea6-4428-ab3d-446499308657",
+    "f88ee39a-63df-4c6d-abd3-ac259cd3e4b5"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.24881761,
+    "end_location": [
+      119.2,
+      39.6
+    ],
+    "key_pass_id": "0077f978-261f-4a68-9f43-a03010504ab8",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          100.4,
+          23.1
+        ],
+        "player": {
+          "id": 26776,
+          "name": "Juan Isaac Cuenca L\u00f3pez"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          116.61672,
+          40.54164
+        ],
+        "player": {
+          "id": 26781,
+          "name": "Diego Mainz Garc\u00eda"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.2,
+          45.3
+        ],
+        "player": {
+          "id": 6656,
+          "name": "Mikel Rico Moreno"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.5,
+          40.5
+        ],
+        "player": {
+          "id": 26573,
+          "name": "\u00cd\u00f1igo L\u00f3pez Monta\u00f1a"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.5,
+          34.3
+        ],
+        "player": {
+          "id": 25707,
+          "name": "Francisco Manuel Rico Castro"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.3,
+          33.6
+        ],
+        "player": {
+          "id": 3478,
+          "name": "Francesc F\u00e0bregas i Soler"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          94.6,
+          56.2
+        ],
+        "player": {
+          "id": 12737,
+          "name": "David Villa S\u00e1nchez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.1,
+          41.5
+        ],
+        "player": {
+          "id": 26659,
+          "name": "Roberto Fern\u00e1ndez Alvarellos"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

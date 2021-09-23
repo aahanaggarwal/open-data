@@ -1,0 +1,159 @@
+{
+  "id": "2972865e-7a33-4be5-a9bc-118e8524fbc7",
+  "index": 1431,
+  "period": 1,
+  "timestamp": "00:30:38.901",
+  "minute": 30,
+  "second": 38,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 55,
+  "possession_team": {
+    "id": 206,
+    "name": "Deportivo Alav\u00e9s"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 206,
+    "name": "Deportivo Alav\u00e9s"
+  },
+  "player": {
+    "id": 6613,
+    "name": "Rub\u00e9n Sobrino Pozuelo"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    112.1,
+    27.1
+  ],
+  "duration": 0.634095,
+  "related_events": [
+    "f1ddcb85-d0d4-4676-9478-be35140302af"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.18724002,
+    "end_location": [
+      114.1,
+      31.2,
+      0.0
+    ],
+    "key_pass_id": "9302e8ba-a8b9-447f-a0b5-37f69be87f52",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.4,
+          27.3
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.1,
+          31.2
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.6,
+          39.1
+        ],
+        "player": {
+          "id": 5492,
+          "name": "Samuel Yves Umtiti"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          88.7,
+          32.3
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          79.7,
+          12.7
+        ],
+        "player": {
+          "id": 6379,
+          "name": "Sergi Roberto Carnicer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.5,
+          21.0
+        ],
+        "player": {
+          "id": 6617,
+          "name": "Ibai G\u00f3mez P\u00e9rez"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

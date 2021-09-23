@@ -1,0 +1,129 @@
+{
+  "id": "261101fe-8aec-4db3-9999-291efe1a93e4",
+  "index": 363,
+  "period": 1,
+  "timestamp": "00:06:59.530",
+  "minute": 6,
+  "second": 59,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 16,
+  "possession_team": {
+    "id": 207,
+    "name": "Valencia"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 207,
+    "name": "Valencia"
+  },
+  "player": {
+    "id": 12737,
+    "name": "David Villa S\u00e1nchez"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    105.5,
+    52.1
+  ],
+  "duration": 0.413036,
+  "related_events": [
+    "70bf92fa-510f-46c2-a4b5-2e3f374eb466"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.33844602,
+    "end_location": [
+      111.0,
+      47.1,
+      0.3
+    ],
+    "key_pass_id": "15542f55-c096-4c94-af32-ac6c1a24baa3",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          95.1,
+          61.5
+        ],
+        "player": {
+          "id": 15774,
+          "name": "Gianluca Zambrotta"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.4,
+          49.6
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.6,
+          46.8
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.0,
+          62.2
+        ],
+        "player": {
+          "id": 26011,
+          "name": "Miguel \u00c1ngel Angulo Valderrey"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

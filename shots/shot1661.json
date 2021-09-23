@@ -1,0 +1,158 @@
+{
+  "id": "739a4bfb-33ae-442e-b7d5-155e1a1c91e7",
+  "index": 342,
+  "period": 1,
+  "timestamp": "00:07:20.430",
+  "minute": 7,
+  "second": 20,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 21,
+  "possession_team": {
+    "id": 1230,
+    "name": "Real Murcia"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1230,
+    "name": "Real Murcia"
+  },
+  "player": {
+    "id": 26243,
+    "name": "Iv\u00e1n Daniel Alonso Vallejo"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    111.6,
+    46.6
+  ],
+  "duration": 0.7895,
+  "related_events": [
+    "8c09d12f-565c-46a1-8d92-3b36e8f86ee0"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.076688915,
+    "end_location": [
+      120.0,
+      40.8,
+      2.8
+    ],
+    "key_pass_id": "54681cbd-d5cd-47e8-813b-bc0cf958be0c",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 99,
+      "name": "Post"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          114.2,
+          44.8
+        ],
+        "player": {
+          "id": 20177,
+          "name": "Eric-Sylvain Bilal Abidal"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.6,
+          51.1
+        ],
+        "player": {
+          "id": 26511,
+          "name": "Enrique de Lucas Mart\u00ednez"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.2,
+          31.3
+        ],
+        "player": {
+          "id": 15071,
+          "name": "Lilian Thuram"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.3,
+          35.7
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          35.8
+        ],
+        "player": {
+          "id": 26515,
+          "name": "\u00cd\u00f1igo V\u00e9lez De Mendiz\u00e1bal Fern\u00e1ndez De Garc\u00eda"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.5,
+          40.1
+        ],
+        "player": {
+          "id": 26005,
+          "name": "Jos\u00e9 Manuel Pinto Colorado"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

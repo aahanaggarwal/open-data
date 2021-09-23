@@ -1,0 +1,187 @@
+{
+  "id": "7807b589-a207-4d32-9279-2b5c6ba58b28",
+  "index": 1240,
+  "period": 1,
+  "timestamp": "00:27:29.283",
+  "minute": 27,
+  "second": 29,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 75,
+  "possession_team": {
+    "id": 973,
+    "name": "Bristol City WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "player": {
+    "id": 4643,
+    "name": "Georgia Stanway"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    108.0,
+    26.0
+  ],
+  "duration": 1.23236,
+  "related_events": [
+    "27d0b247-6158-480a-93b3-1bdceb5fbdd4"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.032066703,
+    "end_location": [
+      118.0,
+      36.2,
+      0.5
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.0,
+          28.0
+        ],
+        "player": {
+          "id": 16391,
+          "name": "Loren Dykes"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          28.0
+        ],
+        "player": {
+          "id": 16381,
+          "name": "Gemma Evans"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          34.0
+        ],
+        "player": {
+          "id": 16383,
+          "name": "Danique Kerkdijk"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          48.0
+        ],
+        "player": {
+          "id": 16388,
+          "name": "Ella Rutherford"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          37.0
+        ],
+        "player": {
+          "id": 4654,
+          "name": "Nikita Parris"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.0,
+          41.0
+        ],
+        "player": {
+          "id": 17274,
+          "name": "Poppy Pattinson"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.0,
+          58.0
+        ],
+        "player": {
+          "id": 4648,
+          "name": "Abbie McManus"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.0,
+          38.0
+        ],
+        "player": {
+          "id": 16376,
+          "name": "Sophie Baggaley"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "ca4af687-9b54-41f3-9f45-3c3d821eb6fc",
+  "index": 2650,
+  "period": 2,
+  "timestamp": "00:47:15.302",
+  "minute": 92,
+  "second": 15,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 189,
+  "possession_team": {
+    "id": 967,
+    "name": "Everton LFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 967,
+    "name": "Everton LFC"
+  },
+  "player": {
+    "id": 15578,
+    "name": "Faye Bryson"
+  },
+  "position": {
+    "id": 7,
+    "name": "Right Wing Back"
+  },
+  "location": [
+    104.0,
+    55.0
+  ],
+  "duration": 1.5245,
+  "under_pressure": true,
+  "related_events": [
+    "68a6cc87-1491-45ce-bd24-b23a3d783f7e",
+    "fc82b85d-ff8a-4bb8-b69c-68e351ea3f0b"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.101664,
+    "end_location": [
+      120.0,
+      45.0,
+      3.0
+    ],
+    "key_pass_id": "5b4c482d-46bb-4578-9ef0-ec9c473436b0",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          99.0,
+          54.0
+        ],
+        "player": {
+          "id": 18146,
+          "name": "Leanne Kiernan"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          53.0
+        ],
+        "player": {
+          "id": 18155,
+          "name": "Erin Simon"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          44.0
+        ],
+        "player": {
+          "id": 18159,
+          "name": "Brooke Hendrix"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

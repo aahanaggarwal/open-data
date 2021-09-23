@@ -1,0 +1,116 @@
+{
+  "id": "a9f94f47-88ee-4536-84fe-4940d2d6415b",
+  "index": 2797,
+  "period": 2,
+  "timestamp": "00:37:14.211",
+  "minute": 82,
+  "second": 14,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 206,
+  "possession_team": {
+    "id": 972,
+    "name": "West Ham United LFC"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 972,
+    "name": "West Ham United LFC"
+  },
+  "player": {
+    "id": 18153,
+    "name": "Alisha Lehmann"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    103.3,
+    43.0
+  ],
+  "duration": 0.811693,
+  "under_pressure": true,
+  "related_events": [
+    "c2a39314-316f-4f84-8267-1094a8b06bd7",
+    "d4b08c69-4d9b-4ccd-a1a7-65a3af3dc006"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.42031416,
+    "end_location": [
+      120.0,
+      43.0,
+      0.0
+    ],
+    "key_pass_id": "a0a2ee83-7c87-49a4-a66e-781b21a657f4",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.0,
+          42.0
+        ],
+        "player": {
+          "id": 15709,
+          "name": "Megan Walsh"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.4,
+          42.2
+        ],
+        "player": {
+          "id": 16395,
+          "name": "Victoria Williams"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.1,
+          41.3
+        ],
+        "player": {
+          "id": 16383,
+          "name": "Danique Kerkdijk"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

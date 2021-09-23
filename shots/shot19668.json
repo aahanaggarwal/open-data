@@ -1,0 +1,158 @@
+{
+  "id": "405e32fe-fcab-4728-900a-828b3a0badc0",
+  "index": 1501,
+  "period": 1,
+  "timestamp": "00:35:37.005",
+  "minute": 35,
+  "second": 37,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 85,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15042,
+    "name": "Dennis Bergkamp"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    111.1,
+    28.9
+  ],
+  "duration": 0.261613,
+  "related_events": [
+    "aec032b4-a6be-41b6-b19d-01497ae5312f"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.09502931,
+    "end_location": [
+      117.0,
+      35.0,
+      0.2
+    ],
+    "key_pass_id": "92411375-3d2c-4d4d-b2bd-8b0a1ab1245e",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          105.8,
+          32.3
+        ],
+        "player": {
+          "id": 40309,
+          "name": "Oleg Luzhny"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.9,
+          31.0
+        ],
+        "player": {
+          "id": 40314,
+          "name": "Jody Craddock"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.9,
+          37.3
+        ],
+        "player": {
+          "id": 40312,
+          "name": "Paul Butler"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.8,
+          42.4
+        ],
+        "player": {
+          "id": 40304,
+          "name": "Lee Naylor"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.9,
+          35.2
+        ],
+        "player": {
+          "id": 40310,
+          "name": "Michael Oakes"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.3,
+          41.2
+        ],
+        "player": {
+          "id": 15754,
+          "name": "Fredrik Ljungberg"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

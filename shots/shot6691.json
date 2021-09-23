@@ -1,0 +1,174 @@
+{
+  "id": "06c8c5cb-1f40-4054-a70c-b007e4435dde",
+  "index": 1841,
+  "period": 1,
+  "timestamp": "00:41:16.088",
+  "minute": 41,
+  "second": 16,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 80,
+  "possession_team": {
+    "id": 216,
+    "name": "Getafe"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 216,
+    "name": "Getafe"
+  },
+  "player": {
+    "id": 26252,
+    "name": "Diego Castro Gim\u00e9nez"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    113.6,
+    48.0
+  ],
+  "duration": 0.243641,
+  "related_events": [
+    "100db4f5-04ab-4010-8a61-e95ffacd62b3",
+    "524d4870-e0d9-4998-9db1-7771d797c09d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.08988748,
+    "end_location": [
+      114.4,
+      47.2
+    ],
+    "key_pass_id": "2cfe5bcc-2239-435b-935e-433d98d6eb63",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.2,
+          61.5
+        ],
+        "player": {
+          "id": 20177,
+          "name": "Eric-Sylvain Bilal Abidal"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.5,
+          43.9
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          46.7
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.2,
+          56.4
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.3,
+          49.3
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.1,
+          56.5
+        ],
+        "player": {
+          "id": 26685,
+          "name": "Nicol\u00e1s Ladislao Fedor Flores"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.1,
+          47.9
+        ],
+        "player": {
+          "id": 6720,
+          "name": "Pablo Sarabia Garc\u00eda"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "id": "ab18e428-ce27-48e1-9dc7-d9aaba8aec0b",
+  "index": 616,
+  "period": 1,
+  "timestamp": "00:14:57.243",
+  "minute": 14,
+  "second": 57,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 46,
+  "possession_team": {
+    "id": 761,
+    "name": "Chicago Red Stars"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 761,
+    "name": "Chicago Red Stars"
+  },
+  "player": {
+    "id": 6813,
+    "name": "Morgan Brian"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    100.0,
+    39.0
+  ],
+  "duration": 0.982,
+  "related_events": [
+    "2ffd93f5-844a-4a62-9b8a-0615bf88a53b"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.0666897,
+    "end_location": [
+      119.0,
+      35.0,
+      4.0
+    ],
+    "key_pass_id": "a9cf9698-a583-4162-b53b-3e9041d7e502",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          106.0,
+          41.0
+        ],
+        "player": {
+          "id": 5081,
+          "name": "Abby Dahlkemper"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          38.0
+        ],
+        "player": {
+          "id": 5083,
+          "name": "Merritt Mathias"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          46.0
+        ],
+        "player": {
+          "id": 5084,
+          "name": "Denise O\"Sullivan"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          52.0
+        ],
+        "player": {
+          "id": 5037,
+          "name": "Abby Erceg"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          60.0
+        ],
+        "player": {
+          "id": 5047,
+          "name": "Jaelene Hinkle"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.0,
+          56.0
+        ],
+        "player": {
+          "id": 5091,
+          "name": "McCall Zerboni"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          54.0
+        ],
+        "player": {
+          "id": 4948,
+          "name": "Rosie White"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          94.0,
+          66.0
+        ],
+        "player": {
+          "id": 6812,
+          "name": "Vanessa DiBernardo"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          87.0,
+          60.0
+        ],
+        "player": {
+          "id": 6811,
+          "name": "Julie Ertz"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.0,
+          45.0
+        ],
+        "player": {
+          "id": 4961,
+          "name": "Samantha Kerr"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.0,
+          40.0
+        ],
+        "player": {
+          "id": 5048,
+          "name": "Katelyn Rowland"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

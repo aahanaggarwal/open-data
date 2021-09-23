@@ -1,0 +1,205 @@
+{
+  "id": "29aa6d3d-80cc-44db-ab4d-2672f9423ad7",
+  "index": 4661,
+  "period": 4,
+  "timestamp": "00:03:21.240",
+  "minute": 108,
+  "second": 21,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 176,
+  "possession_team": {
+    "id": 772,
+    "name": "Spain"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 772,
+    "name": "Spain"
+  },
+  "player": {
+    "id": 5718,
+    "name": "Rodrigo Moreno Machado"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    114.0,
+    54.0
+  ],
+  "duration": 0.36,
+  "under_pressure": true,
+  "related_events": [
+    "10d5e56a-ea91-4b27-bb50-86ab751e7bea",
+    "e9f878f9-c0fe-4624-94d6-5565491cce02"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.065044984,
+    "end_location": [
+      117.0,
+      43.8,
+      0.2
+    ],
+    "key_pass_id": "1b2f9c13-18cc-4ae3-af40-17e070c0c405",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.0,
+          42.0
+        ],
+        "player": {
+          "id": 5175,
+          "name": "Ilya Kutepov"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          42.0
+        ],
+        "player": {
+          "id": 5172,
+          "name": "Igor Akinfeev"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.0,
+          37.0
+        ],
+        "player": {
+          "id": 5216,
+          "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.0,
+          39.0
+        ],
+        "player": {
+          "id": 5217,
+          "name": "Iago Aspas Juncal"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.0,
+          33.0
+        ],
+        "player": {
+          "id": 5170,
+          "name": "M\u00e1rio Figueira Fernandes"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          51.0
+        ],
+        "player": {
+          "id": 5174,
+          "name": "Sergei Ignashevich"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          52.0
+        ],
+        "player": {
+          "id": 6353,
+          "name": "Vladimir Granat"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          50.0
+        ],
+        "player": {
+          "id": 5177,
+          "name": "Aleksandr Golovin"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          51.0
+        ],
+        "player": {
+          "id": 5721,
+          "name": "Daniel Carvajal Ramos"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

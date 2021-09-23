@@ -1,0 +1,158 @@
+{
+  "id": "6553601b-a043-4812-ab5b-8a721e0b1f20",
+  "index": 3410,
+  "period": 2,
+  "timestamp": "00:33:16.132",
+  "minute": 78,
+  "second": 16,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 145,
+  "possession_team": {
+    "id": 403,
+    "name": "Almer\u00eda"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 403,
+    "name": "Almer\u00eda"
+  },
+  "player": {
+    "id": 26440,
+    "name": "Juan Manuel Ortiz Palaz\u00f3n"
+  },
+  "position": {
+    "id": 6,
+    "name": "Left Back"
+  },
+  "location": [
+    114.8,
+    26.5
+  ],
+  "duration": 0.2209,
+  "related_events": [
+    "0756d2c5-bd65-46be-81cb-6cfd5d6ad041",
+    "8a438faf-7ae3-430d-889b-dfcf60214295"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.041464947,
+    "end_location": [
+      115.3,
+      28.2
+    ],
+    "key_pass_id": "39eaeb9b-dd41-4405-a74f-3beb992e0fe3",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.9,
+          35.7
+        ],
+        "player": {
+          "id": 26432,
+          "name": "Miguel \u00c1ngel Garc\u00eda P\u00e9rez Rold\u00e1n"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.9,
+          23.0
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.9,
+          36.9
+        ],
+        "player": {
+          "id": 26613,
+          "name": "Maxwell Scherrer Cabelino Andrade"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.3,
+          28.2
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.3,
+          33.4
+        ],
+        "player": {
+          "id": 6890,
+          "name": "Andreu Font\u00e0s Prat"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.3,
+          35.4
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "id": "64e459cc-54fd-4217-9092-adc88a713363",
+  "index": 1365,
+  "period": 1,
+  "timestamp": "00:37:05.708",
+  "minute": 37,
+  "second": 5,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 87,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    103.8,
+    25.3
+  ],
+  "duration": 1.454551,
+  "related_events": [
+    "c9f798a4-3ce7-4ca2-89af-90e5e20f78c9"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.0568847,
+    "end_location": [
+      120.0,
+      46.5,
+      0.3
+    ],
+    "key_pass_id": "b796bd38-f1d6-4d87-b4d0-6382416d6ff8",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.3,
+          43.9
+        ],
+        "player": {
+          "id": 23816,
+          "name": "Jos\u00e9 Antonio Reyes Calder\u00f3n"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.1,
+          24.7
+        ],
+        "player": {
+          "id": 26014,
+          "name": "Eduardo C\u00e9sar Daude Gaspar"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.9,
+          25.7
+        ],
+        "player": {
+          "id": 40229,
+          "name": "Darren Ambrose"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.2,
+          30.9
+        ],
+        "player": {
+          "id": 38418,
+          "name": "Jonathan Woodgate"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.9,
+          37.3
+        ],
+        "player": {
+          "id": 20446,
+          "name": "Shay Given"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.9,
+          36.7
+        ],
+        "player": {
+          "id": 40225,
+          "name": "Andy O\"Brien"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.4,
+          41.0
+        ],
+        "player": {
+          "id": 20059,
+          "name": "Aaron Hughes"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.8,
+          29.2
+        ],
+        "player": {
+          "id": 40234,
+          "name": "Jermaine Jenas"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "id": "86522c2d-4926-44d4-b3cf-cd01bb7e5285",
+  "index": 2544,
+  "period": 2,
+  "timestamp": "00:18:22.574",
+  "minute": 63,
+  "second": 22,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 142,
+  "possession_team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "player": {
+    "id": 4643,
+    "name": "Georgia Stanway"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    108.0,
+    44.0
+  ],
+  "duration": 1.370196,
+  "related_events": [
+    "e84df609-987a-49cf-a370-6143fb08d4e2"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.17902067,
+    "end_location": [
+      119.0,
+      36.2,
+      0.7
+    ],
+    "key_pass_id": "2a9e19a9-d03b-47d7-8da4-d09d683aee97",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          90.0,
+          53.0
+        ],
+        "player": {
+          "id": 10172,
+          "name": "Jill Scott"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.0,
+          40.0
+        ],
+        "player": {
+          "id": 15615,
+          "name": "Pauline Peyraud Magnin"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          52.0
+        ],
+        "player": {
+          "id": 10405,
+          "name": "Lia W\u00e4lti"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          33.0
+        ],
+        "player": {
+          "id": 10179,
+          "name": "Lisa Evans"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          42.0
+        ],
+        "player": {
+          "id": 18999,
+          "name": "Leah Williamson"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          46.0
+        ],
+        "player": {
+          "id": 15621,
+          "name": "Louise Quinn"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          23.0
+        ],
+        "player": {
+          "id": 4646,
+          "name": "Claire Emslie"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.0,
+          42.0
+        ],
+        "player": {
+          "id": 4654,
+          "name": "Nikita Parris"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.0,
+          45.0
+        ],
+        "player": {
+          "id": 10666,
+          "name": "Dominique Johanna Anna Bloodworth"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

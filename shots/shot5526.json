@@ -1,0 +1,144 @@
+{
+  "id": "b7f85a80-3ac5-4688-baeb-931f54243782",
+  "index": 3035,
+  "period": 2,
+  "timestamp": "00:40:48.793",
+  "minute": 85,
+  "second": 48,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 152,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5246,
+    "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    111.3,
+    46.6
+  ],
+  "duration": 0.582543,
+  "related_events": [
+    "e8c73dc4-e1cf-4028-9e4f-00530d785e37"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.72929084,
+    "end_location": [
+      120.0,
+      40.7,
+      0.0
+    ],
+    "key_pass_id": "0e454cf0-345b-4073-843c-6398776dc45a",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          107.7,
+          48.5
+        ],
+        "player": {
+          "id": 6702,
+          "name": "David Rodr\u00edguez Lomb\u00e1n"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.3,
+          44.3
+        ],
+        "player": {
+          "id": 4418,
+          "name": "Matheus D\u00f3ria Macedo"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.6,
+          41.3
+        ],
+        "player": {
+          "id": 8697,
+          "name": "Andr\u00e9s Eduardo Fern\u00e1ndez Moreno"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          40.2
+        ],
+        "player": {
+          "id": 4320,
+          "name": "Neymar da Silva Santos Junior"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.3,
+          33.2
+        ],
+        "player": {
+          "id": 20064,
+          "name": "Hugo Miguel Almeida Costa Lopes"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

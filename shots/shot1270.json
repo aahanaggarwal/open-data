@@ -1,0 +1,113 @@
+{
+  "id": "9f6e6d3f-7ce3-4d15-95db-4f99c7c519af",
+  "index": 2509,
+  "period": 2,
+  "timestamp": "00:33:52.520",
+  "minute": 78,
+  "second": 52,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 152,
+  "possession_team": {
+    "id": 972,
+    "name": "West Ham United LFC"
+  },
+  "play_pattern": {
+    "id": 9,
+    "name": "From Kick Off"
+  },
+  "team": {
+    "id": 972,
+    "name": "West Ham United LFC"
+  },
+  "player": {
+    "id": 19896,
+    "name": "Rosie Kmita"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    103.0,
+    30.0
+  ],
+  "duration": 1.122137,
+  "related_events": [
+    "42fd77dd-83c5-457d-b0c9-66fcb391aa63"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.03762362,
+    "end_location": [
+      120.0,
+      43.6,
+      0.9
+    ],
+    "key_pass_id": "b77d3be5-a562-4030-9129-a16148e3066f",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.0,
+          34.0
+        ],
+        "player": {
+          "id": 15708,
+          "name": "Amy Goddard"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          120.0,
+          39.0
+        ],
+        "player": {
+          "id": 15709,
+          "name": "Megan Walsh"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          39.0
+        ],
+        "player": {
+          "id": 15717,
+          "name": "Hannah Short"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

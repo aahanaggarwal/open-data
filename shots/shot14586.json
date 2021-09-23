@@ -1,0 +1,189 @@
+{
+  "id": "f3aad686-48af-4529-9367-70696631bcc0",
+  "index": 3548,
+  "period": 2,
+  "timestamp": "00:40:52.263",
+  "minute": 85,
+  "second": 52,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 175,
+  "possession_team": {
+    "id": 214,
+    "name": "Espanyol"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 214,
+    "name": "Espanyol"
+  },
+  "player": {
+    "id": 6351,
+    "name": "Cristhian Ricardo Stuani Curbelo"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    108.1,
+    30.8
+  ],
+  "duration": 0.525,
+  "related_events": [
+    "266c7c06-8312-4149-9a68-9dd852202025"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.24843004,
+    "end_location": [
+      116.4,
+      37.5,
+      0.2
+    ],
+    "key_pass_id": "15f38c08-12b5-4f12-aa57-1493f3497a61",
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.4,
+          41.7
+        ],
+        "player": {
+          "id": 6767,
+          "name": "Sergio Garc\u00eda De La Fuente"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          90.2,
+          15.3
+        ],
+        "player": {
+          "id": 6612,
+          "name": "Rub\u00e9n Duarte S\u00e1nchez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.0,
+          34.7
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.5,
+          40.8
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.8,
+          48.0
+        ],
+        "player": {
+          "id": 10609,
+          "name": "J\u00e9r\u00e9my Mathieu"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.7,
+          37.5
+        ],
+        "player": {
+          "id": 4691,
+          "name": "Claudio Andr\u00e9s Bravo Mu\u00f1oz"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.2,
+          27.7
+        ],
+        "player": {
+          "id": 5470,
+          "name": "Ivan Rakiti\u0107"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.3,
+          37.5
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

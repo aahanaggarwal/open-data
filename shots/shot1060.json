@@ -1,0 +1,190 @@
+{
+  "id": "14abfcd3-1126-4245-9436-d57399b32ae5",
+  "index": 788,
+  "period": 1,
+  "timestamp": "00:19:48.851",
+  "minute": 19,
+  "second": 48,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 53,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 19312,
+    "name": "Robert Pir\u00e8s "
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    100.7,
+    53.3
+  ],
+  "duration": 0.747438,
+  "under_pressure": true,
+  "related_events": [
+    "5596ee08-c8ed-4e74-87c3-22a68866bba9",
+    "dbefa400-9f6e-44c5-af6b-697c1ff8bafd"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.04548274,
+    "end_location": [
+      115.4,
+      40.2,
+      0.0
+    ],
+    "key_pass_id": "a5566830-8dc9-45d4-802a-feca51d1ee44",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.4,
+          38.9
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.6,
+          61.2
+        ],
+        "player": {
+          "id": 15042,
+          "name": "Dennis Bergkamp"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          116.6,
+          42.1
+        ],
+        "player": {
+          "id": 40438,
+          "name": "Antti Mikko Niemi"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.7,
+          51.7
+        ],
+        "player": {
+          "id": 40445,
+          "name": "Danny Higginbotham"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.2,
+          51.5
+        ],
+        "player": {
+          "id": 40444,
+          "name": "Fitz Hall"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.2,
+          38.4
+        ],
+        "player": {
+          "id": 40441,
+          "name": "Michael Lennart Svensson"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.8,
+          28.8
+        ],
+        "player": {
+          "id": 11009,
+          "name": "Chris Baird"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.9,
+          48.6
+        ],
+        "player": {
+          "id": 40435,
+          "name": "Rory Delap"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

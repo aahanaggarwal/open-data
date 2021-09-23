@@ -1,0 +1,190 @@
+{
+  "id": "93f0a46b-ec5a-4199-8fa4-c32ee8f8e8fd",
+  "index": 2991,
+  "period": 2,
+  "timestamp": "00:18:14.353",
+  "minute": 63,
+  "second": 14,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 127,
+  "possession_team": {
+    "id": 210,
+    "name": "Real Sociedad"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 210,
+    "name": "Real Sociedad"
+  },
+  "player": {
+    "id": 6674,
+    "name": "Alberto De La Bella Madure\u00f1o"
+  },
+  "position": {
+    "id": 6,
+    "name": "Left Back"
+  },
+  "location": [
+    117.2,
+    37.6
+  ],
+  "duration": 0.29312,
+  "related_events": [
+    "595a3c21-1ead-495e-a344-7e963c01ec84"
+  ],
+  "shot": {
+    "open_goal": true,
+    "statsbomb_xg": 0.9013706,
+    "end_location": [
+      120.0,
+      38.6,
+      0.6
+    ],
+    "key_pass_id": "51051f9d-dc6b-489f-ae8d-340290cab251",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.6,
+          44.0
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.5,
+          38.7
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.2,
+          52.9
+        ],
+        "player": {
+          "id": 6677,
+          "name": "Imanol Agirretxe Arruti"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          116.9,
+          50.4
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.2,
+          46.3
+        ],
+        "player": {
+          "id": 7068,
+          "name": "Marc Bartra Aregall"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.4,
+          51.4
+        ],
+        "player": {
+          "id": 22102,
+          "name": "Adriano Correia Claro"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.9,
+          39.4
+        ],
+        "player": {
+          "id": 5543,
+          "name": "Haris Seferovi\u0107"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.0,
+          46.8
+        ],
+        "player": {
+          "id": 5487,
+          "name": "Antoine Griezmann"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

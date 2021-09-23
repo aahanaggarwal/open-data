@@ -1,0 +1,129 @@
+{
+  "id": "b1da0586-cad1-4551-b9bd-86f60b6c3cb6",
+  "index": 1530,
+  "period": 1,
+  "timestamp": "00:34:37.400",
+  "minute": 34,
+  "second": 37,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 66,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3958,
+    "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    102.9,
+    51.8
+  ],
+  "duration": 1.8838,
+  "related_events": [
+    "a3597283-f78c-475b-892d-2376cc61abbe"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.22639905,
+    "end_location": [
+      120.0,
+      41.4,
+      0.0
+    ],
+    "key_pass_id": "70457428-e4c9-49c9-8211-f81e82618720",
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          105.9,
+          50.2
+        ],
+        "player": {
+          "id": 25144,
+          "name": "Diego Alves Carreira"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.7,
+          43.7
+        ],
+        "player": {
+          "id": 26766,
+          "name": "Fabi\u00e1n Andr\u00e9s Vargas Rivera"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.9,
+          46.2
+        ],
+        "player": {
+          "id": 26434,
+          "name": "Santiago Wilmer Acasiete Ariadela"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          86.2,
+          33.5
+        ],
+        "player": {
+          "id": 26439,
+          "name": "Carlos Garc\u00eda Bad\u00edas"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

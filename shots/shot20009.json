@@ -1,0 +1,159 @@
+{
+  "id": "bdf56774-f0ad-4277-bcb1-aea4d1164e97",
+  "index": 2819,
+  "period": 2,
+  "timestamp": "00:17:59.568",
+  "minute": 62,
+  "second": 59,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 126,
+  "possession_team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "player": {
+    "id": 4643,
+    "name": "Georgia Stanway"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    104.4,
+    49.9
+  ],
+  "duration": 0.688211,
+  "related_events": [
+    "86c62c1c-f713-4fd4-a898-3121e22a8e2a"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.19367163,
+    "end_location": [
+      120.0,
+      45.2,
+      3.4
+    ],
+    "key_pass_id": "5db27fb4-ae7f-407f-9cac-6bda4c15a48b",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          88.5,
+          54.7
+        ],
+        "player": {
+          "id": 19416,
+          "name": "Laura Coombs"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.1,
+          52.7
+        ],
+        "player": {
+          "id": 19777,
+          "name": "Niamh Fahey"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.6,
+          65.3
+        ],
+        "player": {
+          "id": 21854,
+          "name": "Jade Bailey"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          82.7,
+          50.9
+        ],
+        "player": {
+          "id": 19779,
+          "name": "Rhiannon Roberts"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          43.2
+        ],
+        "player": {
+          "id": 15626,
+          "name": "Anke Preu\u00df"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.2,
+          47.8
+        ],
+        "player": {
+          "id": 15614,
+          "name": "Sophie Elizabeth Bradley-Auckland"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "id": "13c77ddd-af20-451a-9ed1-adf7f5960e0e",
+  "index": 289,
+  "period": 1,
+  "timestamp": "00:05:18.937",
+  "minute": 5,
+  "second": 18,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 17,
+  "possession_team": {
+    "id": 207,
+    "name": "Valencia"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 207,
+    "name": "Valencia"
+  },
+  "player": {
+    "id": 6651,
+    "name": "Joaqu\u00edn S\u00e1nchez Rodr\u00edguez"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    101.4,
+    46.2
+  ],
+  "duration": 0.0771,
+  "related_events": [
+    "0d5ac781-279c-4d42-97af-b872866deb4f",
+    "7a16a0db-235b-40e3-b8a9-f36ed25440a0"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.06188043,
+    "end_location": [
+      103.9,
+      45.3
+    ],
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          107.8,
+          37.3
+        ],
+        "player": {
+          "id": 12737,
+          "name": "David Villa S\u00e1nchez"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.7,
+          44.8
+        ],
+        "player": {
+          "id": 20177,
+          "name": "Eric-Sylvain Bilal Abidal"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.7,
+          41.4
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.4,
+          34.6
+        ],
+        "player": {
+          "id": 5558,
+          "name": "Rafael M\u00e1rquez \u00c1lvarez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.2,
+          40.6
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

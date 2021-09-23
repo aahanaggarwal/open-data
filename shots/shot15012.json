@@ -1,0 +1,188 @@
+{
+  "id": "12ef0df2-92fb-4044-b457-42426e98ed09",
+  "index": 3282,
+  "period": 2,
+  "timestamp": "00:47:00.243",
+  "minute": 92,
+  "second": 0,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 235,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    99.4,
+    32.3
+  ],
+  "duration": 1.034931,
+  "related_events": [
+    "548d8c14-a899-4aad-925a-5ed160e18181"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.029281856,
+    "end_location": [
+      120.0,
+      47.3,
+      0.3
+    ],
+    "key_pass_id": "951b3e35-54c6-49fd-ae3a-3a60926e34c0",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.4,
+          33.3
+        ],
+        "player": {
+          "id": 40215,
+          "name": "Jihai Sun"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.5,
+          40.7
+        ],
+        "player": {
+          "id": 15409,
+          "name": "David Seaman"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.3,
+          47.2
+        ],
+        "player": {
+          "id": 15042,
+          "name": "Dennis Bergkamp"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.6,
+          56.0
+        ],
+        "player": {
+          "id": 40219,
+          "name": "Danny Tiatto"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          32.1
+        ],
+        "player": {
+          "id": 40220,
+          "name": "David Sommeil"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.6,
+          36.4
+        ],
+        "player": {
+          "id": 38552,
+          "name": "Joey Barton"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.2,
+          31.2
+        ],
+        "player": {
+          "id": 40217,
+          "name": "Trevor Sinclair"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          43.6
+        ],
+        "player": {
+          "id": 24758,
+          "name": "Michael Tarnat"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

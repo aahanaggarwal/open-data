@@ -1,0 +1,114 @@
+{
+  "id": "0643a1df-729c-4a51-88b2-4ead5dda11eb",
+  "index": 471,
+  "period": 1,
+  "timestamp": "00:09:19.446",
+  "minute": 9,
+  "second": 19,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 28,
+  "possession_team": {
+    "id": 759,
+    "name": "Washington Spirit"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 759,
+    "name": "Washington Spirit"
+  },
+  "player": {
+    "id": 4941,
+    "name": "Taylor Smith"
+  },
+  "position": {
+    "id": 7,
+    "name": "Right Wing Back"
+  },
+  "location": [
+    111.0,
+    55.0
+  ],
+  "duration": 0.829,
+  "related_events": [
+    "136ae797-55a5-4122-bfa2-0d7551d83c9c"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.07388366,
+    "end_location": [
+      117.0,
+      43.4,
+      0.4
+    ],
+    "key_pass_id": "09a5fe06-965d-4508-bc80-208e7030696e",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.0,
+          53.0
+        ],
+        "player": {
+          "id": 6814,
+          "name": "Heather O\"Reilly"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          50.0
+        ],
+        "player": {
+          "id": 5037,
+          "name": "Abby Erceg"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          42.0
+        ],
+        "player": {
+          "id": 5048,
+          "name": "Katelyn Rowland"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

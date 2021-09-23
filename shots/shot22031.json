@@ -1,0 +1,188 @@
+{
+  "id": "8568daf6-ff4f-40bd-8d98-c23d5f7947c2",
+  "index": 1682,
+  "period": 2,
+  "timestamp": "00:06:38.995",
+  "minute": 51,
+  "second": 38,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 128,
+  "possession_team": {
+    "id": 971,
+    "name": "Chelsea FCW"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 971,
+    "name": "Chelsea FCW"
+  },
+  "player": {
+    "id": 4660,
+    "name": "Erin Cuthbert"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    97.1,
+    40.3
+  ],
+  "duration": 1.30024,
+  "related_events": [
+    "7b581aa5-d7f8-442a-8e69-49b8fa5cd047"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.09543557,
+    "end_location": [
+      120.0,
+      42.9,
+      0.5
+    ],
+    "key_pass_id": "c879348e-723e-4dab-b5e1-a6448f7457ad",
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          67.9,
+          32.8
+        ],
+        "player": {
+          "id": 4638,
+          "name": "Drew Spence"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          86.2,
+          53.5
+        ],
+        "player": {
+          "id": 15550,
+          "name": "Bethany England"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.1,
+          42.0
+        ],
+        "player": {
+          "id": 34232,
+          "name": "Grace Fisk"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          67.3,
+          60.1
+        ],
+        "player": {
+          "id": 31557,
+          "name": "Katharina Baunach"
+        },
+        "position": {
+          "id": 8,
+          "name": "Left Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          88.4,
+          48.9
+        ],
+        "player": {
+          "id": 31556,
+          "name": "Laura Vetterlein"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          86.8,
+          42.2
+        ],
+        "player": {
+          "id": 18151,
+          "name": "Gilly Louise Scarlett Flaherty"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          68.8,
+          45.1
+        ],
+        "player": {
+          "id": 18147,
+          "name": "Kate Longhurst"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.2,
+          39.5
+        ],
+        "player": {
+          "id": 31555,
+          "name": "Courtney Brosnan"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

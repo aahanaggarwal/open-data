@@ -1,0 +1,159 @@
+{
+  "id": "c8f4d78f-a8c5-4614-8195-d26aacb97be3",
+  "index": 1286,
+  "period": 1,
+  "timestamp": "00:31:48.209",
+  "minute": 31,
+  "second": 48,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 59,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    115.8,
+    48.5
+  ],
+  "duration": 1.244282,
+  "related_events": [
+    "22ba0fd4-6e07-44f6-86ab-3c89a0f87942"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.64890534,
+    "end_location": [
+      120.0,
+      38.7,
+      0.0
+    ],
+    "key_pass_id": "e53ed36d-b76a-4eba-af6f-eaac906aaff7",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          114.6,
+          46.5
+        ],
+        "player": {
+          "id": 26225,
+          "name": "I\u00f1aki Goitia Pe\u00f1a"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.4,
+          39.5
+        ],
+        "player": {
+          "id": 26232,
+          "name": "Ib\u00e1n Javier Cuadrado Alonso"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.4,
+          42.3
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.3,
+          47.2
+        ],
+        "player": {
+          "id": 26224,
+          "name": "H\u00e9lder Miguel Do Rosario Data"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.7,
+          55.9
+        ],
+        "player": {
+          "id": 25892,
+          "name": "Ignacio P\u00e9rez Santamar\u00eda"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.5,
+          64.5
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

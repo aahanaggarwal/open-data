@@ -1,0 +1,158 @@
+{
+  "id": "ffa450ff-52b2-4869-a1c5-114cb7c8e9db",
+  "index": 3425,
+  "period": 2,
+  "timestamp": "00:46:14.827",
+  "minute": 91,
+  "second": 14,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 214,
+  "possession_team": {
+    "id": 782,
+    "name": "Belgium"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 782,
+    "name": "Belgium"
+  },
+  "player": {
+    "id": 3457,
+    "name": "Michy Batshuayi Tunga"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    103.0,
+    37.0
+  ],
+  "duration": 1.133,
+  "related_events": [
+    "24e5691c-e650-42af-a9a8-2ea2983d0e41"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.21442711,
+    "end_location": [
+      120.0,
+      45.4,
+      0.4
+    ],
+    "key_pass_id": "5d8965c1-7a4d-4a14-a42d-1ffa0ec2cc50",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.0,
+          26.0
+        ],
+        "player": {
+          "id": 5633,
+          "name": "Yannick Ferreira Carrasco"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.0,
+          41.0
+        ],
+        "player": {
+          "id": 5648,
+          "name": "Farouk Ben Mustapha"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          40.0
+        ],
+        "player": {
+          "id": 4826,
+          "name": "Yohan Benalouane"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          46.0
+        ],
+        "player": {
+          "id": 2954,
+          "name": "Youri Tielemans"
+        },
+        "position": {
+          "id": 18,
+          "name": "Right Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.0,
+          33.0
+        ],
+        "player": {
+          "id": 5936,
+          "name": "Hamdi Nagguez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          41.0
+        ],
+        "player": {
+          "id": 5651,
+          "name": "Yassine Meriah"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

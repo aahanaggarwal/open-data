@@ -1,0 +1,128 @@
+{
+  "id": "fc61aef6-fdf5-4887-924a-f42ac1969965",
+  "index": 2573,
+  "period": 2,
+  "timestamp": "00:31:58.197",
+  "minute": 76,
+  "second": 58,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 158,
+  "possession_team": {
+    "id": 968,
+    "name": "Arsenal WFC"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 968,
+    "name": "Arsenal WFC"
+  },
+  "player": {
+    "id": 15623,
+    "name": "Vivianne Miedema"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    107.0,
+    36.0
+  ],
+  "duration": 0.124493,
+  "related_events": [
+    "6f6f18ec-7dfb-4d67-8fd4-01dcc37e74be"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.330651,
+    "end_location": [
+      110.0,
+      38.5,
+      0.6
+    ],
+    "key_pass_id": "08d25041-e985-402f-a0a9-d2185cda3ef5",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.0,
+          56.0
+        ],
+        "player": {
+          "id": 10658,
+          "name": "Danielle van de Donk"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.0,
+          37.0
+        ],
+        "player": {
+          "id": 18158,
+          "name": "Rebecca Leigh Spencer"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          35.0
+        ],
+        "player": {
+          "id": 18156,
+          "name": "Claire Lauren Rafferty"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          33.0
+        ],
+        "player": {
+          "id": 18151,
+          "name": "Gilly Louise Scarlett Flaherty"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

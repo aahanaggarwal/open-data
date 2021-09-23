@@ -1,0 +1,158 @@
+{
+  "id": "458c2002-bf72-4381-addb-9c22eef1344c",
+  "index": 553,
+  "period": 1,
+  "timestamp": "00:15:19.140",
+  "minute": 15,
+  "second": 19,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 49,
+  "possession_team": {
+    "id": 782,
+    "name": "Belgium"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 782,
+    "name": "Belgium"
+  },
+  "player": {
+    "id": 3289,
+    "name": "Romelu Lukaku Menama"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    104.0,
+    33.0
+  ],
+  "duration": 0.933,
+  "related_events": [
+    "266f23b8-b361-41bc-b41d-5cb421526540"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.23132385,
+    "end_location": [
+      120.0,
+      44.0,
+      0.0
+    ],
+    "key_pass_id": "40348990-64e0-4b8f-a2cd-0bca21cbcd3f",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          107.0,
+          36.0
+        ],
+        "player": {
+          "id": 5656,
+          "name": "Syam Ben Youssef"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          44.0
+        ],
+        "player": {
+          "id": 5651,
+          "name": "Yassine Meriah"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.0,
+          47.0
+        ],
+        "player": {
+          "id": 5650,
+          "name": "Ferjani Sassi"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.0,
+          53.0
+        ],
+        "player": {
+          "id": 5630,
+          "name": "Dries Mertens"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          95.0,
+          31.0
+        ],
+        "player": {
+          "id": 3767,
+          "name": "Ellyes Skhiri"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          37.0
+        ],
+        "player": {
+          "id": 5648,
+          "name": "Farouk Ben Mustapha"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "id": "77b8aa25-cd0f-4e87-b685-c99bc8652447",
+  "index": 3128,
+  "period": 2,
+  "timestamp": "00:33:40.425",
+  "minute": 78,
+  "second": 40,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 169,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 2,
+    "name": "From Corner"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    104.0,
+    33.6
+  ],
+  "duration": 0.9682,
+  "under_pressure": true,
+  "related_events": [
+    "78f5fa87-3a48-497f-aa4a-ab62d5c67647",
+    "d4d6b26c-ea3a-4501-9089-cdb7346859cb"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.07955167,
+    "end_location": [
+      120.0,
+      44.1,
+      0.6
+    ],
+    "key_pass_id": "921c089b-2859-49b3-884d-408c00493ffc",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 99,
+      "name": "Post"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          92.9,
+          45.3
+        ],
+        "player": {
+          "id": 24191,
+          "name": "Alejandro Alfaro Ligero"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.7,
+          33.6
+        ],
+        "player": {
+          "id": 25992,
+          "name": "Jos\u00e9 Carlos de Ara\u00fajo Nunes"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.9,
+          38.1
+        ],
+        "player": {
+          "id": 13581,
+          "name": "Emilio Nsue L\u00f3pez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.9,
+          39.0
+        ],
+        "player": {
+          "id": 3385,
+          "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.2,
+          41.2
+        ],
+        "player": {
+          "id": 26789,
+          "name": "Pablo Domingo C\u00e1ceres Rodr\u00edguez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.1,
+          37.8
+        ],
+        "player": {
+          "id": 26146,
+          "name": "Dud\u00fa Aouate"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.1,
+          29.9
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.0,
+          33.9
+        ],
+        "player": {
+          "id": 25948,
+          "name": "Jose Luis Mart\u00ed Soler"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.0,
+          29.9
+        ],
+        "player": {
+          "id": 26671,
+          "name": "Micha\u00ebl Pereira"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          84.8,
+          61.3
+        ],
+        "player": {
+          "id": 6740,
+          "name": "Gonzalo Castro Iriz\u00e1bal"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.9,
+          23.2
+        ],
+        "player": {
+          "id": 6778,
+          "name": "Iv\u00e1n Ramis Barrios"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

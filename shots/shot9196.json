@@ -1,0 +1,158 @@
+{
+  "id": "1e162498-efae-4be4-bebc-5dcef10edaf0",
+  "index": 585,
+  "period": 1,
+  "timestamp": "00:14:15.463",
+  "minute": 14,
+  "second": 15,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 24,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    108.0,
+    37.8
+  ],
+  "duration": 0.1238,
+  "related_events": [
+    "8fe8c22c-fd02-4052-bab5-2eabd741c564"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.29733336,
+    "end_location": [
+      111.3,
+      38.9,
+      0.1
+    ],
+    "key_pass_id": "6b2d5d17-3355-48c6-97a4-8ad833b0ead0",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.1,
+          30.9
+        ],
+        "player": {
+          "id": 23944,
+          "name": "Oier Sanjurjo Mate"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.7,
+          37.1
+        ],
+        "player": {
+          "id": 23947,
+          "name": "Roberto Torres Morales"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.6,
+          43.5
+        ],
+        "player": {
+          "id": 18160,
+          "name": "Iv\u00e1n M\u00e1rquez \u00c1lvarez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.7,
+          44.6
+        ],
+        "player": {
+          "id": 24313,
+          "name": "Miguel Fla\u00f1o Bezunartea"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.3,
+          38.8
+        ],
+        "player": {
+          "id": 24872,
+          "name": "Cecilio Nauzet P\u00e9rez Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.4,
+          49.7
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

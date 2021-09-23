@@ -1,0 +1,204 @@
+{
+  "id": "15e9cd3a-55db-41d7-9a08-f92780e93e20",
+  "index": 1433,
+  "period": 1,
+  "timestamp": "00:43:55.771",
+  "minute": 43,
+  "second": 55,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 91,
+  "possession_team": {
+    "id": 974,
+    "name": "Reading WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 974,
+    "name": "Reading WFC"
+  },
+  "player": {
+    "id": 18149,
+    "name": "Remi Allen"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    114.4,
+    41.9
+  ],
+  "duration": 0.886004,
+  "related_events": [
+    "e67b896f-a965-425d-9c1f-9be0fcdf0e8e"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.5229024,
+    "end_location": [
+      120.0,
+      36.0,
+      0.2
+    ],
+    "key_pass_id": "a151418f-f5f1-4598-8913-51717d59c835",
+    "first_time": true,
+    "technique": {
+      "id": 89,
+      "name": "Backheel"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 99,
+      "name": "Post"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.7,
+          36.4
+        ],
+        "player": {
+          "id": 31553,
+          "name": "Cecilie Redisch Kvamme"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.2,
+          45.8
+        ],
+        "player": {
+          "id": 18151,
+          "name": "Gilly Louise Scarlett Flaherty"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.9,
+          44.5
+        ],
+        "player": {
+          "id": 34232,
+          "name": "Grace Fisk"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.7,
+          43.1
+        ],
+        "player": {
+          "id": 23217,
+          "name": "Tessel Middag"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.1,
+          43.7
+        ],
+        "player": {
+          "id": 22027,
+          "name": "Anne Moorhouse"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.6,
+          32.7
+        ],
+        "player": {
+          "id": 26570,
+          "name": "Amalie Vevle Eikeland"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.6,
+          55.1
+        ],
+        "player": {
+          "id": 31556,
+          "name": "Laura Vetterlein"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.3,
+          50.2
+        ],
+        "player": {
+          "id": 18147,
+          "name": "Kate Longhurst"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.2,
+          57.5
+        ],
+        "player": {
+          "id": 10190,
+          "name": "Jade Moore"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

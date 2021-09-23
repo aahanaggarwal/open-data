@@ -1,0 +1,175 @@
+{
+  "id": "d0dd8cbd-5c5f-4122-88f9-e5e1e0543b00",
+  "index": 2756,
+  "period": 2,
+  "timestamp": "00:16:50.825",
+  "minute": 61,
+  "second": 50,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 148,
+  "possession_team": {
+    "id": 212,
+    "name": "Atl\u00e9tico Madrid"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 212,
+    "name": "Atl\u00e9tico Madrid"
+  },
+  "player": {
+    "id": 5198,
+    "name": "Diego da Silva Costa"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    100.9,
+    53.2
+  ],
+  "duration": 0.866692,
+  "under_pressure": true,
+  "related_events": [
+    "4fc5c7ca-7603-468e-8877-e734f143545e",
+    "925feae7-722d-450d-9be3-469dd22e5abe",
+    "bcf45966-f47f-4962-9ca2-bb04a598de25"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.033254575,
+    "end_location": [
+      103.7,
+      52.2
+    ],
+    "key_pass_id": "408a14f8-fa5f-4fe9-8477-45e253c178f0",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.7,
+          52.2
+        ],
+        "player": {
+          "id": 5492,
+          "name": "Samuel Yves Umtiti"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.9,
+          39.2
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.5,
+          43.9
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.1,
+          29.3
+        ],
+        "player": {
+          "id": 5487,
+          "name": "Antoine Griezmann"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          88.7,
+          51.5
+        ],
+        "player": {
+          "id": 6377,
+          "name": "\u00c1ngel Mart\u00edn Correa"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          87.5,
+          53.8
+        ],
+        "player": {
+          "id": 5211,
+          "name": "Jordi Alba Ramos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          85.8,
+          49.8
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

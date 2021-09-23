@@ -1,0 +1,128 @@
+{
+  "id": "8115f151-60fc-45ca-9fca-e81dd040dacd",
+  "index": 1454,
+  "period": 1,
+  "timestamp": "00:30:28.191",
+  "minute": 30,
+  "second": 28,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 55,
+  "possession_team": {
+    "id": 212,
+    "name": "Atl\u00e9tico Madrid"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 212,
+    "name": "Atl\u00e9tico Madrid"
+  },
+  "player": {
+    "id": 3445,
+    "name": "Radamel Falcao Garc\u00eda Z\u00e1rate"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    106.0,
+    27.9
+  ],
+  "duration": 1.1355,
+  "related_events": [
+    "a306e673-a795-43ec-8ec8-ef07f8178368"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.17767654,
+    "end_location": [
+      120.0,
+      37.4,
+      0.6
+    ],
+    "key_pass_id": "75934730-e184-4909-ba32-f7f638eed4a8",
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.4,
+          33.3
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          29.9
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.8,
+          31.1
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.6,
+          41.7
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

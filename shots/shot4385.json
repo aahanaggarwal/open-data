@@ -1,0 +1,160 @@
+{
+  "id": "8262efaa-dded-4d58-92d4-e38606cc118c",
+  "index": 2805,
+  "period": 2,
+  "timestamp": "00:35:58.500",
+  "minute": 80,
+  "second": 58,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 171,
+  "possession_team": {
+    "id": 970,
+    "name": "Yeovil Town LFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 970,
+    "name": "Yeovil Town LFC"
+  },
+  "player": {
+    "id": 10195,
+    "name": "Rachel Mclauchlan"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    87.7,
+    41.1
+  ],
+  "duration": 1.821332,
+  "under_pressure": true,
+  "related_events": [
+    "70df41d9-6991-46d1-8fd8-7901b4123133",
+    "a7ad644b-6948-498e-a487-c0c4e5210e93"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.022738103,
+    "end_location": [
+      120.0,
+      42.7,
+      4.5
+    ],
+    "key_pass_id": "48844dd3-8f00-47ee-8154-eaf31f15dd7e",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          80.9,
+          41.1
+        ],
+        "player": {
+          "id": 15577,
+          "name": "Angharad James"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.1,
+          30.2
+        ],
+        "player": {
+          "id": 15573,
+          "name": "Abbey-Leigh Stringer"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.7,
+          34.4
+        ],
+        "player": {
+          "id": 18254,
+          "name": "Megan Finnigan"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          88.5,
+          40.9
+        ],
+        "player": {
+          "id": 15571,
+          "name": "Danielle Turner"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.2,
+          37.3
+        ],
+        "player": {
+          "id": 15576,
+          "name": "Kirstie Levell"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          88.4,
+          23.0
+        ],
+        "player": {
+          "id": 15716,
+          "name": "Emily Syme"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

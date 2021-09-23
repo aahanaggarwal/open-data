@@ -1,0 +1,159 @@
+{
+  "id": "d5de9c0c-9f8b-46fc-a52f-aebe5e9f40de",
+  "index": 1360,
+  "period": 1,
+  "timestamp": "00:38:39.510",
+  "minute": 38,
+  "second": 39,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 91,
+  "possession_team": {
+    "id": 972,
+    "name": "West Ham United LFC"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 966,
+    "name": "Liverpool WFC"
+  },
+  "player": {
+    "id": 15631,
+    "name": "Niamh Charles"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    105.4,
+    25.2
+  ],
+  "duration": 1.817241,
+  "under_pressure": true,
+  "related_events": [
+    "7d87aa04-96cf-45d3-9f5c-63374c7c2d66",
+    "95ef0692-dcdc-4560-b8a0-a9792a34d137"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.0402109,
+    "end_location": [
+      120.0,
+      47.4,
+      0.2
+    ],
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          106.0,
+          36.8
+        ],
+        "player": {
+          "id": 24238,
+          "name": "Ashley Hodson"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.4,
+          25.6
+        ],
+        "player": {
+          "id": 18151,
+          "name": "Gilly Louise Scarlett Flaherty"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          33.4
+        ],
+        "player": {
+          "id": 18159,
+          "name": "Brooke Hendrix"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.4,
+          38.2
+        ],
+        "player": {
+          "id": 31555,
+          "name": "Courtney Brosnan"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.9,
+          41.8
+        ],
+        "player": {
+          "id": 31556,
+          "name": "Laura Vetterlein"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.5,
+          42.6
+        ],
+        "player": {
+          "id": 15547,
+          "name": "Melissa Lawley"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

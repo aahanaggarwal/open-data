@@ -1,0 +1,161 @@
+{
+  "id": "4dea388d-0e7a-4a7c-b3fe-fec22eead40c",
+  "index": 499,
+  "period": 1,
+  "timestamp": "00:09:15.954",
+  "minute": 9,
+  "second": 15,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 21,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 20131,
+    "name": "Xavier Hern\u00e1ndez Creus"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    114.0,
+    36.8
+  ],
+  "duration": 0.8082,
+  "under_pressure": true,
+  "related_events": [
+    "18a6cb7a-07ac-4caf-8ebc-8c7a6b24a1eb",
+    "fae7ee60-79df-4add-8c06-68f80b433d47"
+  ],
+  "shot": {
+    "open_goal": true,
+    "statsbomb_xg": 0.82158804,
+    "end_location": [
+      119.9,
+      37.0,
+      0.4
+    ],
+    "key_pass_id": "656a9bc1-f721-4c34-a199-68fe45d295c2",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.6,
+          37.4
+        ],
+        "player": {
+          "id": 26441,
+          "name": "Daniel Estrada Agirrezablaga"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.1,
+          47.2
+        ],
+        "player": {
+          "id": 3385,
+          "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.8,
+          51.5
+        ],
+        "player": {
+          "id": 6674,
+          "name": "Alberto De La Bella Madure\u00f1o"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          40.1
+        ],
+        "player": {
+          "id": 6665,
+          "name": "\u00cd\u00f1igo Mart\u00ednez Berridi"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.5,
+          46.7
+        ],
+        "player": {
+          "id": 4691,
+          "name": "Claudio Andr\u00e9s Bravo Mu\u00f1oz"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.3,
+          40.6
+        ],
+        "player": {
+          "id": 26701,
+          "name": "Vadim Demidov"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

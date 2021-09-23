@@ -1,0 +1,188 @@
+{
+  "id": "2c64e504-6b68-4277-86ac-6d72bc23a7d3",
+  "index": 412,
+  "period": 1,
+  "timestamp": "00:10:06.064",
+  "minute": 10,
+  "second": 6,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 31,
+  "possession_team": {
+    "id": 966,
+    "name": "Liverpool WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 966,
+    "name": "Liverpool WFC"
+  },
+  "player": {
+    "id": 15547,
+    "name": "Melissa Lawley"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    113.3,
+    40.7
+  ],
+  "duration": 0.700064,
+  "related_events": [
+    "852f1a79-42c5-4f6c-818d-e05e836f3cd5"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.3123625,
+    "end_location": [
+      119.0,
+      39.6,
+      1.5
+    ],
+    "key_pass_id": "23e5c1c3-b8d0-4576-bbf7-da5dbb471e55",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          89.5,
+          59.9
+        ],
+        "player": {
+          "id": 24747,
+          "name": "Millie Farrow"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          51.0
+        ],
+        "player": {
+          "id": 19780,
+          "name": "Rachel Rowe"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.9,
+          39.8
+        ],
+        "player": {
+          "id": 31628,
+          "name": "Kristine Leine"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.3,
+          43.3
+        ],
+        "player": {
+          "id": 15611,
+          "name": "Courtney Sweetman-Kirk"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.1,
+          41.8
+        ],
+        "player": {
+          "id": 15577,
+          "name": "Angharad James"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          50.2
+        ],
+        "player": {
+          "id": 10190,
+          "name": "Jade Moore"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.2,
+          43.3
+        ],
+        "player": {
+          "id": 10198,
+          "name": "Josanne Potter"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.7,
+          40.9
+        ],
+        "player": {
+          "id": 15719,
+          "name": "Grace Moloney"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

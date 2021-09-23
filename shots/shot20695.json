@@ -1,0 +1,206 @@
+{
+  "id": "01379bc5-cf28-451a-b0f7-643b8968be72",
+  "index": 2344,
+  "period": 2,
+  "timestamp": "00:07:46.489",
+  "minute": 52,
+  "second": 46,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 133,
+  "possession_team": {
+    "id": 322,
+    "name": "Eibar"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 322,
+    "name": "Eibar"
+  },
+  "player": {
+    "id": 6707,
+    "name": "Charles D\u00edas Barbosa de Oliveira"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    110.4,
+    42.4
+  ],
+  "duration": 1.057196,
+  "under_pressure": true,
+  "related_events": [
+    "a0b5cdd5-450b-4bd3-a5f0-8e49b7c5f11e",
+    "b1553c2d-1dda-4682-8d8c-98fa459d47f3"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.09660726,
+    "end_location": [
+      118.6,
+      40.1,
+      2.0
+    ],
+    "key_pass_id": "d4992f28-6447-436c-89bb-52a16cb5b35d",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "aerial_won": true,
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          83.8,
+          50.7
+        ],
+        "player": {
+          "id": 5470,
+          "name": "Ivan Rakiti\u0107"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.3,
+          39.8
+        ],
+        "player": {
+          "id": 8652,
+          "name": "Jasper Cillessen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.8,
+          43.6
+        ],
+        "player": {
+          "id": 6826,
+          "name": "Cl\u00e9ment Lenglet"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.3,
+          47.3
+        ],
+        "player": {
+          "id": 5211,
+          "name": "Jordi Alba Ramos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.7,
+          34.7
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.7,
+          34.8
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.4,
+          54.1
+        ],
+        "player": {
+          "id": 7105,
+          "name": "Fabi\u00e1n Ariel Orellana Valenzuela"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.8,
+          38.9
+        ],
+        "player": {
+          "id": 17620,
+          "name": "Marc Cucurella Saseta"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.7,
+          29.5
+        ],
+        "player": {
+          "id": 6700,
+          "name": "Sergio Enrich Ametller"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

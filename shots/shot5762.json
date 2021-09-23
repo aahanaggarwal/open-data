@@ -1,0 +1,188 @@
+{
+  "id": "024c3740-2f50-469d-aede-9b37650d73c8",
+  "index": 3091,
+  "period": 2,
+  "timestamp": "00:35:17.007",
+  "minute": 80,
+  "second": 17,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 195,
+  "possession_team": {
+    "id": 36,
+    "name": "Manchester City"
+  },
+  "play_pattern": {
+    "id": 2,
+    "name": "From Corner"
+  },
+  "team": {
+    "id": 36,
+    "name": "Manchester City"
+  },
+  "player": {
+    "id": 15399,
+    "name": "Robbie Fowler"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    105.3,
+    60.6
+  ],
+  "duration": 0.804047,
+  "related_events": [
+    "fcb704a0-257d-4fbf-a1ea-1337d393de36"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.018724654,
+    "end_location": [
+      118.7,
+      44.2,
+      0.2
+    ],
+    "key_pass_id": "8b65adb6-ad86-4192-bc32-7f732185d631",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          115.2,
+          65.3
+        ],
+        "player": {
+          "id": 15407,
+          "name": "Steve McManaman"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.7,
+          42.8
+        ],
+        "player": {
+          "id": 20015,
+          "name": "Jens Lehmann"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.6,
+          46.8
+        ],
+        "player": {
+          "id": 12529,
+          "name": "Ashley Cole"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.5,
+          49.4
+        ],
+        "player": {
+          "id": 23816,
+          "name": "Jos\u00e9 Antonio Reyes Calder\u00f3n"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.9,
+          63.5
+        ],
+        "player": {
+          "id": 19312,
+          "name": "Robert Pir\u00e8s "
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.9,
+          54.3
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.5,
+          45.7
+        ],
+        "player": {
+          "id": 40217,
+          "name": "Trevor Sinclair"
+        },
+        "position": {
+          "id": 20,
+          "name": "Left Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.4,
+          47.4
+        ],
+        "player": {
+          "id": 24972,
+          "name": "Ray Parlour"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

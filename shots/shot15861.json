@@ -1,0 +1,113 @@
+{
+  "id": "5dcb0660-8bdd-4e04-a7d5-588cf5d42221",
+  "index": 2990,
+  "period": 2,
+  "timestamp": "00:31:25.420",
+  "minute": 76,
+  "second": 25,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 172,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 12737,
+    "name": "David Villa S\u00e1nchez"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    111.8,
+    51.3
+  ],
+  "duration": 0.2672,
+  "related_events": [
+    "1084c8c8-eb7f-428b-aff7-113d634b5b97"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.2814924,
+    "end_location": [
+      112.8,
+      49.6,
+      0.0
+    ],
+    "key_pass_id": "8b2929a5-d500-4b23-8dcc-a29d8280de9d",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.7,
+          46.1
+        ],
+        "player": {
+          "id": 26120,
+          "name": "Luis Amaranto Perea Mosquera"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.6,
+          49.4
+        ],
+        "player": {
+          "id": 3333,
+          "name": "David de Gea Quintana"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.7,
+          54.6
+        ],
+        "player": {
+          "id": 26118,
+          "name": "Antonio L\u00f3pez Guerrero"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

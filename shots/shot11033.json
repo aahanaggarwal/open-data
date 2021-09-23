@@ -1,0 +1,188 @@
+{
+  "id": "37d16642-dac3-4883-9943-3203cc74a5c7",
+  "index": 2262,
+  "period": 2,
+  "timestamp": "00:08:29.822",
+  "minute": 53,
+  "second": 29,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 141,
+  "possession_team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "player": {
+    "id": 20725,
+    "name": "Pauline Bremer"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    113.0,
+    48.0
+  ],
+  "duration": 0.5164,
+  "related_events": [
+    "cda97c76-f35e-49c7-a398-647703fe055a"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.077978,
+    "end_location": [
+      119.0,
+      42.9,
+      0.7
+    ],
+    "key_pass_id": "42fbce1d-e437-4b1b-870f-b0f5df8029da",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          99.9,
+          40.3
+        ],
+        "player": {
+          "id": 10666,
+          "name": "Dominique Johanna Anna Bloodworth"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          27.0
+        ],
+        "player": {
+          "id": 10235,
+          "name": "Viktoria Schnaderbeck"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.3,
+          32.8
+        ],
+        "player": {
+          "id": 18999,
+          "name": "Leah Williamson"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.2,
+          44.8
+        ],
+        "player": {
+          "id": 15620,
+          "name": "Katie McCabe"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.6,
+          41.6
+        ],
+        "player": {
+          "id": 15621,
+          "name": "Louise Quinn"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.3,
+          41.0
+        ],
+        "player": {
+          "id": 10646,
+          "name": "Sari van Veenendaal"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.6,
+          28.8
+        ],
+        "player": {
+          "id": 15555,
+          "name": "Lauren Hemp"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.0,
+          58.1
+        ],
+        "player": {
+          "id": 10099,
+          "name": "Tessa Wullaert"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

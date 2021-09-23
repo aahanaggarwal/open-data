@@ -1,0 +1,144 @@
+{
+  "id": "7778568f-3697-4a7a-93f6-72078d2f2567",
+  "index": 3255,
+  "period": 2,
+  "timestamp": "00:35:25.833",
+  "minute": 80,
+  "second": 25,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 167,
+  "possession_team": {
+    "id": 223,
+    "name": "M\u00e1laga"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 223,
+    "name": "M\u00e1laga"
+  },
+  "player": {
+    "id": 25872,
+    "name": "Valmiro L\u00f3pes Rocha"
+  },
+  "position": {
+    "id": 8,
+    "name": "Left Wing Back"
+  },
+  "location": [
+    102.6,
+    31.5
+  ],
+  "duration": 0.9372,
+  "related_events": [
+    "2c0fbaa7-f404-40a4-8543-c489fa98d36a"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.35207325,
+    "end_location": [
+      120.0,
+      37.1,
+      0.2
+    ],
+    "key_pass_id": "bceb8b24-76d8-49fd-9daa-72a1fedfe023",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          101.5,
+          51.1
+        ],
+        "player": {
+          "id": 26233,
+          "name": "Manuel Gaspar Haro"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.1,
+          35.2
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.8,
+          30.3
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          90.5,
+          29.6
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.2,
+          40.7
+        ],
+        "player": {
+          "id": 26613,
+          "name": "Maxwell Scherrer Cabelino Andrade"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

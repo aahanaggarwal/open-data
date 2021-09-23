@@ -1,0 +1,202 @@
+{
+  "id": "7af5eb99-c253-4ff5-b728-e54a321e85e3",
+  "index": 444,
+  "period": 1,
+  "timestamp": "00:09:19.592",
+  "minute": 9,
+  "second": 19,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 24,
+  "possession_team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "player": {
+    "id": 16374,
+    "name": "Aileen Whelan"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    113.0,
+    45.0
+  ],
+  "duration": 1.444983,
+  "related_events": [
+    "8ed90837-da95-4e48-92c0-535260a76b2b"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.14469773,
+    "end_location": [
+      120.0,
+      34.0
+    ],
+    "key_pass_id": "93bb02fe-6a83-418c-bfb8-f84c73a2a452",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 101,
+      "name": "Wayward"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.0,
+          60.0
+        ],
+        "player": {
+          "id": 16378,
+          "name": "Iniabasi Anefiok Umotong"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.0,
+          30.0
+        ],
+        "player": {
+          "id": 16397,
+          "name": "Chloe Peplow"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.0,
+          46.0
+        ],
+        "player": {
+          "id": 22337,
+          "name": "Maya Le Tissier"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.0,
+          46.0
+        ],
+        "player": {
+          "id": 4640,
+          "name": "Rut Hedvig Lindahl"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          37.0
+        ],
+        "player": {
+          "id": 4638,
+          "name": "Drew Spence"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.0,
+          43.0
+        ],
+        "player": {
+          "id": 4642,
+          "name": "Millie Bright"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          52.0
+        ],
+        "player": {
+          "id": 15549,
+          "name": "Sophie Ingle"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          52.0
+        ],
+        "player": {
+          "id": 4633,
+          "name": "Magdalena Ericsson"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          41.0
+        ],
+        "player": {
+          "id": 17275,
+          "name": "Hannah Jayne Blundell"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

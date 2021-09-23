@@ -1,0 +1,144 @@
+{
+  "id": "4f399168-f872-4193-8078-546728a5faed",
+  "index": 3203,
+  "period": 2,
+  "timestamp": "00:46:49.479",
+  "minute": 91,
+  "second": 49,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 197,
+  "possession_team": {
+    "id": 213,
+    "name": "Sevilla"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 213,
+    "name": "Sevilla"
+  },
+  "player": {
+    "id": 25960,
+    "name": "Fr\u00e9d\u00e9ric Oumar Kanout\u00e9"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    107.7,
+    41.0
+  ],
+  "duration": 0.56817,
+  "related_events": [
+    "bd2b1fc5-c757-4410-af60-ab32356cf845"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.34370026,
+    "end_location": [
+      120.0,
+      41.9,
+      0.2
+    ],
+    "key_pass_id": "c64b6424-8239-4b91-90af-018afc13b56f",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.1,
+          40.5
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.9,
+          39.9
+        ],
+        "player": {
+          "id": 25873,
+          "name": "Oleguer Presas Renom"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.9,
+          45.8
+        ],
+        "player": {
+          "id": 26015,
+          "name": "Renato Dirnei Florencio"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          98.0,
+          43.4
+        ],
+        "player": {
+          "id": 25919,
+          "name": "Gabriel Alejandro Milito"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.1,
+          27.9
+        ],
+        "player": {
+          "id": 15774,
+          "name": "Gianluca Zambrotta"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

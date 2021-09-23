@@ -1,0 +1,113 @@
+{
+  "id": "dbcb7956-052e-4f56-8e54-a96390e6e020",
+  "index": 2490,
+  "period": 2,
+  "timestamp": "00:14:14.545",
+  "minute": 59,
+  "second": 14,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 132,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 4320,
+    "name": "Neymar da Silva Santos Junior"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    113.2,
+    31.8
+  ],
+  "duration": 0.2301,
+  "related_events": [
+    "24d91f9f-4626-41e8-b6c6-f2a400b64934"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.30081013,
+    "end_location": [
+      116.8,
+      34.6,
+      0.7
+    ],
+    "key_pass_id": "97a464d2-fa75-456a-87ef-966b0fda698a",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.1,
+          38.1
+        ],
+        "player": {
+          "id": 26801,
+          "name": "Jordi Figueras Montel"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.2,
+          31.4
+        ],
+        "player": {
+          "id": 23985,
+          "name": "Jos\u00e9 Antonio Caro Mart\u00ednez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.2,
+          34.9
+        ],
+        "player": {
+          "id": 27202,
+          "name": "Guillermo Sara"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

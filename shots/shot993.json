@@ -1,0 +1,113 @@
+{
+  "id": "c6beab53-c645-46a6-886a-ab7fc14a10dd",
+  "index": 3180,
+  "period": 2,
+  "timestamp": "00:32:52.587",
+  "minute": 77,
+  "second": 52,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 163,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3385,
+    "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    98.8,
+    48.1
+  ],
+  "duration": 1.5416,
+  "related_events": [
+    "816c7589-d072-4d53-a8d4-77443bfa429b"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.13131754,
+    "end_location": [
+      120.0,
+      41.0,
+      2.3
+    ],
+    "key_pass_id": "731e2023-375d-46a7-9a76-617b27efdd59",
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          99.6,
+          51.7
+        ],
+        "player": {
+          "id": 5552,
+          "name": "Marcelo Vieira da Silva J\u00fanior"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.1,
+          46.7
+        ],
+        "player": {
+          "id": 5485,
+          "name": "Rapha\u00ebl Varane"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.2,
+          43.1
+        ],
+        "player": {
+          "id": 6768,
+          "name": "Diego L\u00f3pez Rodr\u00edguez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

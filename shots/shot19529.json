@@ -1,0 +1,174 @@
+{
+  "id": "89c2ab6d-25e7-40d5-ad4c-432021a8eae2",
+  "index": 3082,
+  "period": 2,
+  "timestamp": "00:34:28.280",
+  "minute": 79,
+  "second": 28,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 156,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 11270,
+    "name": "Ei\u00f0ur Sm\u00e1ri Gu\u00f0johnsen"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    111.6,
+    27.2
+  ],
+  "duration": 1.620441,
+  "related_events": [
+    "de0f47e8-3538-40c1-9025-607680cc48a5"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.08172364,
+    "end_location": [
+      120.0,
+      44.0,
+      0.4
+    ],
+    "key_pass_id": "f712956a-123b-456a-aa86-47280ca80288",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.5,
+          37.9
+        ],
+        "player": {
+          "id": 23815,
+          "name": "Casto Espinosa Barriga"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.9,
+          26.6
+        ],
+        "player": {
+          "id": 25896,
+          "name": "Dami\u00e0 Abella P\u00e9rez"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.3,
+          32.5
+        ],
+        "player": {
+          "id": 26589,
+          "name": "N\u00e9lson Augusto Tomar Marcos"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.1,
+          37.4
+        ],
+        "player": {
+          "id": 26464,
+          "name": "Arturo Garc\u00eda Mu\u00f1oz"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.2,
+          29.8
+        ],
+        "player": {
+          "id": 4913,
+          "name": "Bojan Krk\u00edc P\u00e9rez"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.2,
+          36.2
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.6,
+          44.5
+        ],
+        "player": {
+          "id": 20519,
+          "name": "Juan Guti\u00e9rrez Moreno"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

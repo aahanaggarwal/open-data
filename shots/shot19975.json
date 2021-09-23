@@ -1,0 +1,174 @@
+{
+  "id": "1df53bf4-d6fc-419a-85ae-b924ac8d4f90",
+  "index": 3498,
+  "period": 2,
+  "timestamp": "00:38:02.173",
+  "minute": 83,
+  "second": 2,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 162,
+  "possession_team": {
+    "id": 213,
+    "name": "Sevilla"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 213,
+    "name": "Sevilla"
+  },
+  "player": {
+    "id": 6401,
+    "name": "Kevin Gameiro"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    113.9,
+    38.3
+  ],
+  "duration": 0.5626,
+  "related_events": [
+    "232cd229-a231-4cfd-970e-9d9bd6a96659"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.7088563,
+    "end_location": [
+      120.0,
+      39.8,
+      0.5
+    ],
+    "key_pass_id": "7d3eb2b5-6163-4723-b646-e9cacf842851",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.6,
+          40.9
+        ],
+        "player": {
+          "id": 5504,
+          "name": "\u00c9ver Maximiliano David Banega"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.2,
+          49.4
+        ],
+        "player": {
+          "id": 23816,
+          "name": "Jos\u00e9 Antonio Reyes Calder\u00f3n"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.6,
+          40.1
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.2,
+          51.8
+        ],
+        "player": {
+          "id": 10609,
+          "name": "J\u00e9r\u00e9my Mathieu"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          51.5
+        ],
+        "player": {
+          "id": 5211,
+          "name": "Jordi Alba Ramos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.8,
+          40.9
+        ],
+        "player": {
+          "id": 4691,
+          "name": "Claudio Andr\u00e9s Bravo Mu\u00f1oz"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.2,
+          56.1
+        ],
+        "player": {
+          "id": 6400,
+          "name": "Aleix Vidal Parreu"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

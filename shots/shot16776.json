@@ -1,0 +1,233 @@
+{
+  "id": "9f53169d-3a03-43bf-83a4-665108e712f7",
+  "index": 627,
+  "period": 1,
+  "timestamp": "00:17:34.035",
+  "minute": 17,
+  "second": 34,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 42,
+  "possession_team": {
+    "id": 212,
+    "name": "Atl\u00e9tico Madrid"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 212,
+    "name": "Atl\u00e9tico Madrid"
+  },
+  "player": {
+    "id": 26199,
+    "name": "Diego Forl\u00e1n Corazo"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    85.7,
+    52.6
+  ],
+  "duration": 0.0582,
+  "related_events": [
+    "506ef697-c579-4949-ae8c-6b1ca61bde8a",
+    "6c46bd56-0e1a-45ff-b11b-2b568eff4eb1"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.010596658,
+    "end_location": [
+      86.4,
+      52.5
+    ],
+    "key_pass_id": "a14d183b-a796-4aeb-abea-cfb881e371cc",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          86.7,
+          52.5
+        ],
+        "player": {
+          "id": 18608,
+          "name": "Dmytro Chygrynskiy"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.6,
+          38.7
+        ],
+        "player": {
+          "id": 3237,
+          "name": "Sergio Leonel Ag\u00fcero del Castillo"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          90.4,
+          39.3
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          76.0,
+          26.1
+        ],
+        "player": {
+          "id": 19765,
+          "name": "Sim\u00e3o Pedro Fonseca Sabrosa"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          87.5,
+          55.9
+        ],
+        "player": {
+          "id": 26124,
+          "name": "Maximiliano Rub\u00e9n Rodr\u00edguez"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          74.0,
+          48.2
+        ],
+        "player": {
+          "id": 6870,
+          "name": "Jos\u00e9 Manuel Jurado Mar\u00edn"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          90.7,
+          48.2
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.6,
+          57.1
+        ],
+        "player": {
+          "id": 26613,
+          "name": "Maxwell Scherrer Cabelino Andrade"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          78.6,
+          49.9
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          74.2,
+          56.1
+        ],
+        "player": {
+          "id": 20169,
+          "name": "Seydou K\u00e9ita"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.6,
+          41.0
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

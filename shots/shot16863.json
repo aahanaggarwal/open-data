@@ -1,0 +1,235 @@
+{
+  "id": "b74ea67a-8baf-47dd-b122-514e76abf3b6",
+  "index": 200,
+  "period": 1,
+  "timestamp": "00:03:29.790",
+  "minute": 3,
+  "second": 29,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 8,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    97.3,
+    26.0
+  ],
+  "duration": 0.2433,
+  "under_pressure": true,
+  "related_events": [
+    "191822d7-e96f-43bc-b130-c30b5ea983c9",
+    "207d958b-d85d-42b2-a4f0-84916a6d8658",
+    "29f22374-6a23-4ebd-a478-5cd7fd9eb736"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.021623774,
+    "end_location": [
+      102.1,
+      29.0
+    ],
+    "key_pass_id": "ff8db54d-2bb2-4be1-b9c1-063f84904a89",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.2,
+          25.2
+        ],
+        "player": {
+          "id": 26195,
+          "name": "Juan Valera Esp\u00edn"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.4,
+          29.2
+        ],
+        "player": {
+          "id": 26044,
+          "name": "C\u00e9sar Gonz\u00e1lez Navas"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.5,
+          42.1
+        ],
+        "player": {
+          "id": 26067,
+          "name": "Oriol Lozano Farr\u00e1n"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.5,
+          49.4
+        ],
+        "player": {
+          "id": 13157,
+          "name": "Ivan Marcano Sierra"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.3,
+          39.1
+        ],
+        "player": {
+          "id": 26070,
+          "name": "Antonio Rodr\u00edguez Mart\u00ednez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.7,
+          25.7
+        ],
+        "player": {
+          "id": 19577,
+          "name": "Pedro Manuel Munitis \u00c1lvarez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.6,
+          28.2
+        ],
+        "player": {
+          "id": 26073,
+          "name": "Gonzalo Colsa Albendea"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.7,
+          36.6
+        ],
+        "player": {
+          "id": 6745,
+          "name": "Mehdi Lacen"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.9,
+          44.3
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          90.9,
+          31.2
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.4,
+          17.9
+        ],
+        "player": {
+          "id": 20177,
+          "name": "Eric-Sylvain Bilal Abidal"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

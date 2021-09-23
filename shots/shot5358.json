@@ -1,0 +1,143 @@
+{
+  "id": "7e9c6832-023a-403f-955b-458c6e16bafd",
+  "index": 2541,
+  "period": 2,
+  "timestamp": "00:12:02.337",
+  "minute": 57,
+  "second": 2,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 109,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5477,
+    "name": "Ousmane Demb\u00e9l\u00e9"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    107.3,
+    29.8
+  ],
+  "duration": 0.1352,
+  "related_events": [
+    "23cdfe49-7c83-474a-9fdf-e3a0fac472f5",
+    "2ba0cc75-7968-442b-90b7-a6e1e5391fba"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.16127354,
+    "end_location": [
+      108.0,
+      30.4
+    ],
+    "key_pass_id": "effbfadd-868f-47b6-90fc-020568eac774",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.0,
+          31.2
+        ],
+        "player": {
+          "id": 6754,
+          "name": "David L\u00f3pez Silva"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.3,
+          43.5
+        ],
+        "player": {
+          "id": 6791,
+          "name": "Javier L\u00f3pez Rodr\u00edguez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.6,
+          39.2
+        ],
+        "player": {
+          "id": 3236,
+          "name": "Sergi Darder Moll"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.1,
+          36.9
+        ],
+        "player": {
+          "id": 6768,
+          "name": "Diego L\u00f3pez Rodr\u00edguez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.7,
+          29.5
+        ],
+        "player": {
+          "id": 6886,
+          "name": "D\u00eddac Vil\u00e1 Rossell\u00f3"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

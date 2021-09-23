@@ -1,0 +1,204 @@
+{
+  "id": "b4a8e9f3-3378-4f8c-a8eb-59a3d5e1e0c5",
+  "index": 2965,
+  "period": 2,
+  "timestamp": "00:24:27.058",
+  "minute": 69,
+  "second": 27,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 131,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 12737,
+    "name": "David Villa S\u00e1nchez"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    116.1,
+    51.8
+  ],
+  "duration": 0.2138,
+  "related_events": [
+    "017e5e4d-beee-4104-98be-1e5de0df381f"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.13867791,
+    "end_location": [
+      118.5,
+      43.9,
+      0.0
+    ],
+    "key_pass_id": "c8aad6d6-f8aa-483c-9565-03ab7747c0bf",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.5,
+          43.9
+        ],
+        "player": {
+          "id": 26484,
+          "name": "Antonio Baltasar Doblas Santana"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.3,
+          38.4
+        ],
+        "player": {
+          "id": 20169,
+          "name": "Seydou K\u00e9ita"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.5,
+          26.2
+        ],
+        "player": {
+          "id": 3958,
+          "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.9,
+          34.0
+        ],
+        "player": {
+          "id": 26022,
+          "name": "Carlos Andr\u00e9s Diogo Ense\u00f1at"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.6,
+          40.3
+        ],
+        "player": {
+          "id": 26715,
+          "name": "Maurizio Lanzaro"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.2,
+          53.5
+        ],
+        "player": {
+          "id": 26761,
+          "name": "Paulo C\u00e9sar Da Silva Barrios"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.2,
+          49.8
+        ],
+        "player": {
+          "id": 26655,
+          "name": "Jir\u00ed Jaro\u0161\u00edk"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.4,
+          59.3
+        ],
+        "player": {
+          "id": 23651,
+          "name": "Ivan Obradovi\u0107"
+        },
+        "position": {
+          "id": 8,
+          "name": "Left Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.6,
+          37.7
+        ],
+        "player": {
+          "id": 3606,
+          "name": "Ander Herrera Ag\u00fcera"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

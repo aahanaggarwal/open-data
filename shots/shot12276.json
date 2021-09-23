@@ -1,0 +1,203 @@
+{
+  "id": "be8ca5b9-1c1d-4d06-bbfa-8e8583aa7c82",
+  "index": 414,
+  "period": 1,
+  "timestamp": "00:10:12.082",
+  "minute": 10,
+  "second": 12,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 24,
+  "possession_team": {
+    "id": 973,
+    "name": "Bristol City WFC"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 973,
+    "name": "Bristol City WFC"
+  },
+  "player": {
+    "id": 23412,
+    "name": "Abigail Harrison"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    93.6,
+    25.2
+  ],
+  "duration": 1.759137,
+  "related_events": [
+    "ce484be9-436e-4c62-a872-3008a9027347"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.01855551,
+    "end_location": [
+      120.0,
+      50.8,
+      3.2
+    ],
+    "key_pass_id": "f44314cf-e810-485c-8654-81cce92044a8",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          101.3,
+          52.2
+        ],
+        "player": {
+          "id": 31527,
+          "name": "Ebony Salmon"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.4,
+          37.0
+        ],
+        "player": {
+          "id": 15563,
+          "name": "Charlie Wellings"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.4,
+          39.6
+        ],
+        "player": {
+          "id": 15719,
+          "name": "Grace Moloney"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.3,
+          38.1
+        ],
+        "player": {
+          "id": 10190,
+          "name": "Jade Moore"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.4,
+          46.6
+        ],
+        "player": {
+          "id": 15724,
+          "name": "Mayumi Pacheco"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.4,
+          35.3
+        ],
+        "player": {
+          "id": 15720,
+          "name": "Sophie Howard"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.5,
+          27.8
+        ],
+        "player": {
+          "id": 31628,
+          "name": "Kristine Leine"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          85.8,
+          23.8
+        ],
+        "player": {
+          "id": 19780,
+          "name": "Rachel Rowe"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.0,
+          30.6
+        ],
+        "player": {
+          "id": 15577,
+          "name": "Angharad James"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

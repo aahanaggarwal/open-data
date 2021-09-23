@@ -1,0 +1,160 @@
+{
+  "id": "96143ad1-af17-4554-b2e1-0604fbdc5a80",
+  "index": 1090,
+  "period": 1,
+  "timestamp": "00:18:37.018",
+  "minute": 18,
+  "second": 37,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 55,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 4320,
+    "name": "Neymar da Silva Santos Junior"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    104.8,
+    37.5
+  ],
+  "duration": 0.3121,
+  "under_pressure": true,
+  "related_events": [
+    "1cc7ff17-8c3b-4dbf-a785-a6bd9399d2df",
+    "5e4095a3-0017-4293-a0d6-c7b2f64a924a",
+    "96b2cdd9-8c76-406c-993c-5ae0f3aab45b"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.26593488,
+    "end_location": [
+      107.9,
+      37.6
+    ],
+    "key_pass_id": "19295dbf-2ca9-4147-b67c-861f3c29438d",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.8,
+          38.9
+        ],
+        "player": {
+          "id": 5201,
+          "name": "Sergio Ramos Garc\u00eda"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.4,
+          36.4
+        ],
+        "player": {
+          "id": 20016,
+          "name": "Kl\u00e9per Laveran Lima Ferreira"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.0,
+          25.4
+        ],
+        "player": {
+          "id": 5721,
+          "name": "Daniel Carvajal Ramos"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.9,
+          37.5
+        ],
+        "player": {
+          "id": 5552,
+          "name": "Marcelo Vieira da Silva J\u00fanior"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.9,
+          39.5
+        ],
+        "player": {
+          "id": 6768,
+          "name": "Diego L\u00f3pez Rodr\u00edguez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.3,
+          19.4
+        ],
+        "player": {
+          "id": 3478,
+          "name": "Francesc F\u00e0bregas i Soler"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

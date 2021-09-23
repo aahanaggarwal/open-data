@@ -1,0 +1,203 @@
+{
+  "id": "da414e35-3e12-4c55-aedb-92f983d85324",
+  "index": 2197,
+  "period": 2,
+  "timestamp": "00:09:23.786",
+  "minute": 54,
+  "second": 23,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 124,
+  "possession_team": {
+    "id": 971,
+    "name": "Chelsea FCW"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 971,
+    "name": "Chelsea FCW"
+  },
+  "player": {
+    "id": 4638,
+    "name": "Drew Spence"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    106.0,
+    32.0
+  ],
+  "duration": 0.1868,
+  "related_events": [
+    "2da38e09-d4c5-40b5-aee5-59b3ed9cbdb0",
+    "8247a8fc-6088-4cfa-88f0-a682da435cc9"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.1331353,
+    "end_location": [
+      109.0,
+      33.0
+    ],
+    "key_pass_id": "802ce740-e660-45f1-976f-991623828d01",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.0,
+          38.0
+        ],
+        "player": {
+          "id": 15615,
+          "name": "Pauline Peyraud Magnin"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          35.0
+        ],
+        "player": {
+          "id": 10405,
+          "name": "Lia W\u00e4lti"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          29.0
+        ],
+        "player": {
+          "id": 10666,
+          "name": "Dominique Johanna Anna Bloodworth"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          23.0
+        ],
+        "player": {
+          "id": 15621,
+          "name": "Louise Quinn"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          35.0
+        ],
+        "player": {
+          "id": 10091,
+          "name": "Janni Arnth-Jensen"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          37.0
+        ],
+        "player": {
+          "id": 18998,
+          "name": "Emma Mitchell"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          120.0,
+          20.0
+        ],
+        "player": {
+          "id": 15550,
+          "name": "Bethany England"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.0,
+          28.0
+        ],
+        "player": {
+          "id": 10222,
+          "name": "Jonna Andersson"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.0,
+          44.0
+        ],
+        "player": {
+          "id": 15553,
+          "name": "Karen Julia Carney"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "id": "28005583-1f0a-47dd-a189-3a9ffcbfa8d2",
+  "index": 2430,
+  "period": 2,
+  "timestamp": "00:32:13.151",
+  "minute": 77,
+  "second": 13,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 180,
+  "possession_team": {
+    "id": 967,
+    "name": "Everton LFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 967,
+    "name": "Everton LFC"
+  },
+  "player": {
+    "id": 15559,
+    "name": "Simone Magill"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    111.0,
+    36.0
+  ],
+  "duration": 0.0866,
+  "related_events": [
+    "4a2d2cec-7529-45ac-86f3-2b5a1d18c430",
+    "58fa9e16-b7cf-40db-8257-0c4e03fa474c"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.15349694,
+    "end_location": [
+      119.0,
+      40.0
+    ],
+    "key_pass_id": "0cefb820-57d0-449f-a1be-247129e2612a",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.0,
+          26.0
+        ],
+        "player": {
+          "id": 19687,
+          "name": "Taylor Hinds"
+        },
+        "position": {
+          "id": 8,
+          "name": "Left Wing Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.0,
+          37.0
+        ],
+        "player": {
+          "id": 4633,
+          "name": "Magdalena Ericsson"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          26.0
+        ],
+        "player": {
+          "id": 17273,
+          "name": "Adelina Engman"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          37.0
+        ],
+        "player": {
+          "id": 10395,
+          "name": "Maren N\u00e6vdal Mjelde"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          38.0
+        ],
+        "player": {
+          "id": 19421,
+          "name": "Carly Mitchell Telford"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

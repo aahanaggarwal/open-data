@@ -1,0 +1,159 @@
+{
+  "id": "62cea53a-9904-4225-9a32-cfff555de719",
+  "index": 1020,
+  "period": 1,
+  "timestamp": "00:25:21.038",
+  "minute": 25,
+  "second": 21,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 57,
+  "possession_team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "player": {
+    "id": 4992,
+    "name": "Janine Beckie"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    107.7,
+    32.3
+  ],
+  "duration": 0.380035,
+  "related_events": [
+    "b12cbfc5-6e02-4231-9336-bfc7eaf36140"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.41563997,
+    "end_location": [
+      113.8,
+      35.3,
+      0.8
+    ],
+    "key_pass_id": "cd19e37b-03c9-4341-8ce9-82b680eea56c",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.8,
+          35.5
+        ],
+        "player": {
+          "id": 22032,
+          "name": "Hannah Hampton"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.8,
+          31.7
+        ],
+        "player": {
+          "id": 15580,
+          "name": "Claudia Walker"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.5,
+          37.8
+        ],
+        "player": {
+          "id": 15569,
+          "name": "Kerys Harrop"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.2,
+          48.5
+        ],
+        "player": {
+          "id": 10099,
+          "name": "Tessa Wullaert"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.9,
+          48.0
+        ],
+        "player": {
+          "id": 31567,
+          "name": "Adrienne Jordan"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.5,
+          37.7
+        ],
+        "player": {
+          "id": 31568,
+          "name": "Rebecca Holloway"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

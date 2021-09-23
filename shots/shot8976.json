@@ -1,0 +1,190 @@
+{
+  "id": "8f61eac4-c34e-45e4-b9b0-580327073608",
+  "index": 1432,
+  "period": 1,
+  "timestamp": "00:40:02.167",
+  "minute": 40,
+  "second": 2,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 87,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 26613,
+    "name": "Maxwell Scherrer Cabelino Andrade"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    107.0,
+    22.6
+  ],
+  "duration": 0.8339,
+  "under_pressure": true,
+  "related_events": [
+    "5c10e8a7-5589-4778-ae87-a25fcb0b25ee",
+    "8d26cc11-9488-489e-b419-14e34bc0c1a9"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.021652788,
+    "end_location": [
+      118.0,
+      39.5,
+      0.2
+    ],
+    "key_pass_id": "a4873303-8fbd-487a-a1fc-944dd3cefa17",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.2,
+          40.9
+        ],
+        "player": {
+          "id": 26607,
+          "name": "Jos\u00e9 Ra\u00fal Baena Urdiales"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          48.2
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.9,
+          40.6
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.4,
+          51.6
+        ],
+        "player": {
+          "id": 6886,
+          "name": "D\u00eddac Vil\u00e1 Rossell\u00f3"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.1,
+          43.8
+        ],
+        "player": {
+          "id": 6752,
+          "name": "V\u00edctor Ru\u00edz Torre"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.4,
+          33.9
+        ],
+        "player": {
+          "id": 7909,
+          "name": "Nicol\u00e1s Mart\u00edn Pareja"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          23.3
+        ],
+        "player": {
+          "id": 26170,
+          "name": "Francisco Javier Chica Torres"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.6,
+          38.1
+        ],
+        "player": {
+          "id": 26103,
+          "name": "Idriss Carlos Kameni"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

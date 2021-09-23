@@ -1,0 +1,203 @@
+{
+  "id": "86ec0d9c-fadc-4ef8-8740-00aa8102ae2a",
+  "index": 2548,
+  "period": 2,
+  "timestamp": "00:23:08.042",
+  "minute": 68,
+  "second": 8,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 139,
+  "possession_team": {
+    "id": 971,
+    "name": "Chelsea FCW"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 971,
+    "name": "Chelsea FCW"
+  },
+  "player": {
+    "id": 10514,
+    "name": "Guro Reiten"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    97.7,
+    48.9
+  ],
+  "duration": 0.389087,
+  "related_events": [
+    "065ff82d-06fc-4839-b50a-4829778819ec",
+    "12490dc5-4509-4cb7-aae6-a0ec8454dcd2"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.021558732,
+    "end_location": [
+      103.7,
+      47.2
+    ],
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          101.1,
+          34.3
+        ],
+        "player": {
+          "id": 16391,
+          "name": "Loren Dykes"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.4,
+          37.7
+        ],
+        "player": {
+          "id": 15550,
+          "name": "Bethany England"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.3,
+          37.3
+        ],
+        "player": {
+          "id": 19502,
+          "name": "Meaghan Sargeant"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.6,
+          43.0
+        ],
+        "player": {
+          "id": 10171,
+          "name": "Frankie Brown"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.1,
+          39.2
+        ],
+        "player": {
+          "id": 16376,
+          "name": "Sophie Baggaley"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.9,
+          46.7
+        ],
+        "player": {
+          "id": 24925,
+          "name": "Olivia Chance"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.3,
+          45.1
+        ],
+        "player": {
+          "id": 4659,
+          "name": "Ramona Bachmann"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.5,
+          47.0
+        ],
+        "player": {
+          "id": 15618,
+          "name": "Jasmine Matthews"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.3,
+          49.1
+        ],
+        "player": {
+          "id": 16381,
+          "name": "Gemma Evans"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

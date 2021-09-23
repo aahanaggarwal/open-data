@@ -1,0 +1,143 @@
+{
+  "id": "8ff1159f-e349-4dfb-a4a9-e927f8462c2b",
+  "index": 3165,
+  "period": 2,
+  "timestamp": "00:23:37.003",
+  "minute": 68,
+  "second": 37,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 125,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 220,
+    "name": "Real Madrid"
+  },
+  "player": {
+    "id": 5207,
+    "name": "Cristiano Ronaldo dos Santos Aveiro"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    111.7,
+    24.6
+  ],
+  "duration": 0.68545,
+  "related_events": [
+    "3845267e-33f4-40a5-b12f-a144ed3ca046"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.046926867,
+    "end_location": [
+      120.0,
+      35.0,
+      0.0
+    ],
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          107.4,
+          35.1
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.8,
+          30.1
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.4,
+          25.0
+        ],
+        "player": {
+          "id": 5208,
+          "name": "Thiago Alc\u00e2ntara do Nascimento"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.4,
+          25.6
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.7,
+          33.9
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

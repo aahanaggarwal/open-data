@@ -1,0 +1,173 @@
+{
+  "id": "29c36dfd-61cf-4761-8e99-d74431def488",
+  "index": 3465,
+  "period": 2,
+  "timestamp": "00:35:07.921",
+  "minute": 80,
+  "second": 7,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 162,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    106.3,
+    26.9
+  ],
+  "duration": 0.501899,
+  "related_events": [
+    "421cbb3b-af88-453d-b2db-fddf582eba12"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.05909243,
+    "end_location": [
+      115.7,
+      37.9,
+      0.3
+    ],
+    "key_pass_id": "3cebb9aa-b0a6-4ce9-8e7e-12c295cb6fe6",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          106.6,
+          19.6
+        ],
+        "player": {
+          "id": 4320,
+          "name": "Neymar da Silva Santos Junior"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.1,
+          26.8
+        ],
+        "player": {
+          "id": 20669,
+          "name": "Tiago Cardoso Mendes"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.9,
+          25.8
+        ],
+        "player": {
+          "id": 5199,
+          "name": "Jorge Resurrecci\u00f3n Merodio"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.9,
+          29.2
+        ],
+        "player": {
+          "id": 5249,
+          "name": "Diego Roberto God\u00edn Leal"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.2,
+          25.0
+        ],
+        "player": {
+          "id": 6375,
+          "name": "Juan Francisco Torres Bel\u00e9n"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.1,
+          37.0
+        ],
+        "player": {
+          "id": 3509,
+          "name": "Thibaut Courtois"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          88.6,
+          45.9
+        ],
+        "player": {
+          "id": 5551,
+          "name": "Jo\u00e3o Miranda de Souza Filho"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

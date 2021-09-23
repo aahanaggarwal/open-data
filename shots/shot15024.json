@@ -1,0 +1,204 @@
+{
+  "id": "24bf5f34-edfc-4875-9b6a-0da74c6b2f42",
+  "index": 1532,
+  "period": 1,
+  "timestamp": "00:36:29.382",
+  "minute": 36,
+  "second": 29,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 74,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "out": true,
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3385,
+    "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    114.1,
+    53.0
+  ],
+  "duration": 1.147106,
+  "related_events": [
+    "e6afed50-5c19-49b5-8ab7-83e988f0cf0b"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.07511178,
+    "end_location": [
+      115.6,
+      0.1
+    ],
+    "key_pass_id": "c9ff2df6-4d12-4b72-abf9-9666fa0b44b3",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 101,
+      "name": "Wayward"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.7,
+          43.7
+        ],
+        "player": {
+          "id": 25144,
+          "name": "Diego Alves Carreira"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.1,
+          51.9
+        ],
+        "player": {
+          "id": 17083,
+          "name": "Jonas Gon\u00e7alves Oliveira"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.6,
+          46.8
+        ],
+        "player": {
+          "id": 20128,
+          "name": "David Albelda Aliqu\u00e9s"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.8,
+          39.6
+        ],
+        "player": {
+          "id": 3253,
+          "name": "Adil Rami"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          48.7
+        ],
+        "player": {
+          "id": 10609,
+          "name": "J\u00e9r\u00e9my Mathieu"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.8,
+          51.6
+        ],
+        "player": {
+          "id": 6752,
+          "name": "V\u00edctor Ru\u00edz Torre"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.4,
+          37.1
+        ],
+        "player": {
+          "id": 19454,
+          "name": "Ricardo Miguel Moreira da Costa"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.4,
+          53.4
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.0,
+          38.2
+        ],
+        "player": {
+          "id": 3958,
+          "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

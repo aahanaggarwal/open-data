@@ -1,0 +1,173 @@
+{
+  "id": "473ba44c-75be-4424-86ab-9778ba42bbac",
+  "index": 3394,
+  "period": 2,
+  "timestamp": "00:46:24.622",
+  "minute": 91,
+  "second": 24,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 197,
+  "possession_team": {
+    "id": 969,
+    "name": "Birmingham City WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 969,
+    "name": "Birmingham City WFC"
+  },
+  "player": {
+    "id": 15563,
+    "name": "Charlie Wellings"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    71.0,
+    53.0
+  ],
+  "duration": 4.427691,
+  "related_events": [
+    "46b799c7-3c2d-4f57-9bbe-f85efe65998d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.047809787,
+    "end_location": [
+      120.0,
+      33.1,
+      2.0
+    ],
+    "key_pass_id": "0ab143f5-f3a2-4772-8227-2fc166ca9cbe",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          83.0,
+          55.0
+        ],
+        "player": {
+          "id": 15572,
+          "name": "Siri Worm"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.0,
+          46.0
+        ],
+        "player": {
+          "id": 15575,
+          "name": "Gabrielle George"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          90.0,
+          35.0
+        ],
+        "player": {
+          "id": 15574,
+          "name": "Georgia Brougham"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          75.0,
+          40.0
+        ],
+        "player": {
+          "id": 15557,
+          "name": "Emma Follis"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          85.0,
+          27.0
+        ],
+        "player": {
+          "id": 15564,
+          "name": "Lucy Quinn"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          66.0,
+          51.0
+        ],
+        "player": {
+          "id": 15558,
+          "name": "Dominique Bruinenberg"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          90.0,
+          24.0
+        ],
+        "player": {
+          "id": 15578,
+          "name": "Faye Bryson"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

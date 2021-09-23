@@ -1,0 +1,340 @@
+{
+  "id": "c6ebd0c7-fc2e-4206-87b9-d089ec73db02",
+  "index": 151,
+  "period": 1,
+  "timestamp": "00:03:11.847",
+  "minute": 3,
+  "second": 11,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 7,
+  "possession_team": {
+    "id": 213,
+    "name": "Sevilla"
+  },
+  "play_pattern": {
+    "id": 9,
+    "name": "From Kick Off"
+  },
+  "team": {
+    "id": 213,
+    "name": "Sevilla"
+  },
+  "player": {
+    "id": 6719,
+    "name": "Franco Dami\u00e1n V\u00e1zquez"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    92.2,
+    28.6
+  ],
+  "duration": 0.391854,
+  "under_pressure": true,
+  "related_events": [
+    "4275a56a-5310-465d-9d01-ef7e2fac3718",
+    "7f4198b1-9638-4477-8c89-f2d8fa738879",
+    "fce51638-9883-49db-ae67-0e261855e8ad"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.02492644,
+    "end_location": [
+      102.2,
+      29.9
+    ],
+    "key_pass_id": "3caeb048-3e4a-466a-a96e-eefd596d7607",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.6,
+          29.8
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.3,
+          11.5
+        ],
+        "player": {
+          "id": 6919,
+          "name": "Guilherme Antonio Arana Lopes"
+        },
+        "position": {
+          "id": 8,
+          "name": "Left Wing Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.3,
+          26.1
+        ],
+        "player": {
+          "id": 6723,
+          "name": "Wissam Ben Yedder"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          98.3,
+          27.4
+        ],
+        "player": {
+          "id": 6374,
+          "name": "N\u00e9lson Cabral Semedo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.9,
+          38.9
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.3,
+          25.0
+        ],
+        "player": {
+          "id": 5218,
+          "name": "Andr\u00e9 Miguel Valente Silva"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          88.2,
+          27.9
+        ],
+        "player": {
+          "id": 5470,
+          "name": "Ivan Rakiti\u0107"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          86.9,
+          38.2
+        ],
+        "player": {
+          "id": 11392,
+          "name": "Arthur Henrique Ramos de Oliveira Melo"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.1,
+          30.4
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.2,
+          34.1
+        ],
+        "player": {
+          "id": 6826,
+          "name": "Cl\u00e9ment Lenglet"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.8,
+          37.9
+        ],
+        "player": {
+          "id": 5211,
+          "name": "Jordi Alba Ramos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          87.2,
+          66.1
+        ],
+        "player": {
+          "id": 6821,
+          "name": "Jes\u00fas Navas Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          66.4,
+          34.2
+        ],
+        "player": {
+          "id": 5504,
+          "name": "\u00c9ver Maximiliano David Banega"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          66.6,
+          20.1
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          62.9,
+          35.2
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          86.3,
+          48.0
+        ],
+        "player": {
+          "id": 3501,
+          "name": "Philippe Coutinho Correia"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.3,
+          35.7
+        ],
+        "player": {
+          "id": 6720,
+          "name": "Pablo Sarabia Garc\u00eda"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          68.2,
+          49.3
+        ],
+        "player": {
+          "id": 6825,
+          "name": "Daniel Filipe Martins Carri\u00e7o"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

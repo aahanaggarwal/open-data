@@ -1,0 +1,203 @@
+{
+  "id": "fbe1e51e-b4ce-4d04-9418-82155e04e477",
+  "index": 3519,
+  "period": 2,
+  "timestamp": "00:44:38.496",
+  "minute": 89,
+  "second": 38,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 184,
+  "possession_team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "player": {
+    "id": 16393,
+    "name": "Ellie Brazil"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    97.0,
+    55.0
+  ],
+  "duration": 0.1613,
+  "related_events": [
+    "21e79c37-3a05-441b-9dc5-cdb8996e6164",
+    "6ca777e3-d4ca-4746-ad70-78a57b117989"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.022794295,
+    "end_location": [
+      98.0,
+      56.0
+    ],
+    "key_pass_id": "c14c1ca5-2ee2-430e-bbde-062b49fba99a",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          91.0,
+          25.0
+        ],
+        "player": {
+          "id": 16399,
+          "name": "Kate Natkiel"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.0,
+          42.0
+        ],
+        "player": {
+          "id": 16392,
+          "name": "Felicity Gibbons"
+        },
+        "position": {
+          "id": 8,
+          "name": "Left Wing Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          95.0,
+          48.0
+        ],
+        "player": {
+          "id": 4658,
+          "name": "Keira Walsh"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          53.0
+        ],
+        "player": {
+          "id": 4651,
+          "name": "Demi Stokes"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          49.0
+        ],
+        "player": {
+          "id": 10185,
+          "name": "Stephanie Houghton"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          48.0
+        ],
+        "player": {
+          "id": 15547,
+          "name": "Melissa Lawley"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.0,
+          38.0
+        ],
+        "player": {
+          "id": 10172,
+          "name": "Jill Scott"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          30.0
+        ],
+        "player": {
+          "id": 15554,
+          "name": "Gemma Bonner"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          41.0
+        ],
+        "player": {
+          "id": 10170,
+          "name": "Karen Bardsley"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

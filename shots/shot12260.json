@@ -1,0 +1,144 @@
+{
+  "id": "149ff4db-05a0-41e8-844c-cb4ee2944674",
+  "index": 2394,
+  "period": 2,
+  "timestamp": "00:07:06.958",
+  "minute": 52,
+  "second": 6,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 107,
+  "possession_team": {
+    "id": 213,
+    "name": "Sevilla"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 213,
+    "name": "Sevilla"
+  },
+  "player": {
+    "id": 20542,
+    "name": "\u00c1lvaro Negredo S\u00e1nchez"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    103.3,
+    45.4
+  ],
+  "duration": 0.8376,
+  "under_pressure": true,
+  "related_events": [
+    "f494929b-53ee-4679-8e2d-bc52e0300447",
+    "fe0db95a-f073-4285-b34b-4f57833d46a7"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.37085095,
+    "end_location": [
+      120.0,
+      36.9,
+      4.9
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          92.0,
+          29.2
+        ],
+        "player": {
+          "id": 6821,
+          "name": "Jes\u00fas Navas Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          95.5,
+          23.7
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.7,
+          42.4
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.1,
+          36.8
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.6,
+          46.5
+        ],
+        "player": {
+          "id": 20177,
+          "name": "Eric-Sylvain Bilal Abidal"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

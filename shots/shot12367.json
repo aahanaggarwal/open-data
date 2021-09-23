@@ -1,0 +1,188 @@
+{
+  "id": "b57fb3d9-abf2-4a72-897a-184b313f66d1",
+  "index": 2178,
+  "period": 2,
+  "timestamp": "00:07:13.735",
+  "minute": 52,
+  "second": 13,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 144,
+  "possession_team": {
+    "id": 39,
+    "name": "Manchester United"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 39,
+    "name": "Manchester United"
+  },
+  "player": {
+    "id": 5207,
+    "name": "Cristiano Ronaldo dos Santos Aveiro"
+  },
+  "position": {
+    "id": 18,
+    "name": "Right Attacking Midfield"
+  },
+  "location": [
+    107.1,
+    59.9
+  ],
+  "duration": 0.749923,
+  "related_events": [
+    "3a654122-63d0-40c4-9f23-2a0a6efd23cb"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.013988938,
+    "end_location": [
+      118.2,
+      44.5,
+      0.5
+    ],
+    "key_pass_id": "3f50e368-a175-4a8d-ae9e-c5c8038d8574",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.6,
+          43.7
+        ],
+        "player": {
+          "id": 20015,
+          "name": "Jens Lehmann"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.1,
+          54.5
+        ],
+        "player": {
+          "id": 15754,
+          "name": "Fredrik Ljungberg"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          57.5
+        ],
+        "player": {
+          "id": 12529,
+          "name": "Ashley Cole"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.9,
+          40.7
+        ],
+        "player": {
+          "id": 19729,
+          "name": "Ruud van Nistelrooy"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.1,
+          37.4
+        ],
+        "player": {
+          "id": 20175,
+          "name": "Ryan Giggs"
+        },
+        "position": {
+          "id": 20,
+          "name": "Left Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.9,
+          41.2
+        ],
+        "player": {
+          "id": 15654,
+          "name": "Martin Keown"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          36.8
+        ],
+        "player": {
+          "id": 40222,
+          "name": "Laureano Bisan-Etame Mayer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.9,
+          38.8
+        ],
+        "player": {
+          "id": 38412,
+          "name": "Kolo Habib Tour\u00e9"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

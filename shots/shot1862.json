@@ -1,0 +1,158 @@
+{
+  "id": "ea37d670-9be6-491a-b3bd-4fc2d42fb631",
+  "index": 890,
+  "period": 1,
+  "timestamp": "00:23:38.240",
+  "minute": 23,
+  "second": 38,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 45,
+  "possession_team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 968,
+    "name": "Arsenal WFC"
+  },
+  "player": {
+    "id": 15623,
+    "name": "Vivianne Miedema"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    112.0,
+    52.0
+  ],
+  "duration": 0.8295,
+  "related_events": [
+    "5c43f749-537d-4320-96eb-9599f4a96891"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.4555457,
+    "end_location": [
+      119.0,
+      38.3,
+      1.4
+    ],
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          92.0,
+          57.0
+        ],
+        "player": {
+          "id": 15619,
+          "name": "Bethany Mead"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.0,
+          48.0
+        ],
+        "player": {
+          "id": 19419,
+          "name": "Marie Hourihan"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          85.0,
+          40.0
+        ],
+        "player": {
+          "id": 16397,
+          "name": "Chloe Peplow"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          37.0
+        ],
+        "player": {
+          "id": 16394,
+          "name": "Laura Rafferty"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          40.0
+        ],
+        "player": {
+          "id": 16395,
+          "name": "Victoria Williams"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          40.0
+        ],
+        "player": {
+          "id": 10658,
+          "name": "Danielle van de Donk"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "id": "2c358a0d-5a21-4a2f-a3ea-7f850772fd95",
+  "index": 3198,
+  "period": 2,
+  "timestamp": "00:27:06.010",
+  "minute": 72,
+  "second": 6,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 140,
+  "possession_team": {
+    "id": 966,
+    "name": "Liverpool WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "out": true,
+  "team": {
+    "id": 966,
+    "name": "Liverpool WFC"
+  },
+  "player": {
+    "id": 15614,
+    "name": "Sophie Elizabeth Bradley-Auckland"
+  },
+  "position": {
+    "id": 3,
+    "name": "Right Center Back"
+  },
+  "location": [
+    104.0,
+    57.3
+  ],
+  "duration": 6.102347,
+  "related_events": [
+    "b756ccef-9922-42da-865e-7caa78fe692a"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.04404721,
+    "end_location": [
+      117.9,
+      0.1
+    ],
+    "key_pass_id": "087275dc-5147-4299-a9cd-f961237bee92",
+    "outcome": {
+      "id": 101,
+      "name": "Wayward"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.6,
+          55.9
+        ],
+        "player": {
+          "id": 10099,
+          "name": "Tessa Wullaert"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.4,
+          42.6
+        ],
+        "player": {
+          "id": 4637,
+          "name": "Ellie Roebuck"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.1,
+          54.4
+        ],
+        "player": {
+          "id": 10185,
+          "name": "Stephanie Houghton"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.1,
+          27.9
+        ],
+        "player": {
+          "id": 10172,
+          "name": "Jill Scott"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          82.4,
+          44.8
+        ],
+        "player": {
+          "id": 4658,
+          "name": "Keira Walsh"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

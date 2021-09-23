@@ -1,0 +1,158 @@
+{
+  "id": "83bb974b-3dee-442a-9c05-80eab3f815fb",
+  "index": 2171,
+  "period": 2,
+  "timestamp": "00:19:13.774",
+  "minute": 64,
+  "second": 13,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 135,
+  "possession_team": {
+    "id": 972,
+    "name": "West Ham United LFC"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 972,
+    "name": "West Ham United LFC"
+  },
+  "player": {
+    "id": 18154,
+    "name": "Esmee de Graaf"
+  },
+  "position": {
+    "id": 7,
+    "name": "Right Wing Back"
+  },
+  "location": [
+    117.0,
+    46.0
+  ],
+  "duration": 0.365141,
+  "related_events": [
+    "a1d33a18-611c-4f00-9168-eb99e57879ca"
+  ],
+  "shot": {
+    "open_goal": true,
+    "statsbomb_xg": 0.38259047,
+    "end_location": [
+      119.0,
+      44.4,
+      2.7
+    ],
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "outcome": {
+      "id": 99,
+      "name": "Post"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.0,
+          39.0
+        ],
+        "player": {
+          "id": 4653,
+          "name": "Jane Ross"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.0,
+          41.0
+        ],
+        "player": {
+          "id": 18153,
+          "name": "Alisha Lehmann"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.0,
+          41.0
+        ],
+        "player": {
+          "id": 15576,
+          "name": "Kirstie Levell"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          45.0
+        ],
+        "player": {
+          "id": 15571,
+          "name": "Danielle Turner"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          42.0
+        ],
+        "player": {
+          "id": 15575,
+          "name": "Gabrielle George"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          41.0
+        ],
+        "player": {
+          "id": 18254,
+          "name": "Megan Finnigan"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

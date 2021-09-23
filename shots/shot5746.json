@@ -1,0 +1,175 @@
+{
+  "id": "a0f1ba1e-8b2f-4cab-951c-421d7c5c8543",
+  "index": 1357,
+  "period": 1,
+  "timestamp": "00:30:37.286",
+  "minute": 30,
+  "second": 37,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 61,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 40221,
+    "name": "Gilberto Aparecido da Silva"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    113.9,
+    26.1
+  ],
+  "duration": 0.999146,
+  "under_pressure": true,
+  "related_events": [
+    "0994d880-0a86-43e6-b312-7271b25856a1",
+    "defd1fa1-caab-44a9-b82b-7b552f86593b"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.08117414,
+    "end_location": [
+      117.3,
+      53.2
+    ],
+    "key_pass_id": "9d64075f-7269-4a9f-9904-cb381c8a892c",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 101,
+      "name": "Wayward"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          115.7,
+          29.1
+        ],
+        "player": {
+          "id": 20329,
+          "name": "David James"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.5,
+          39.2
+        ],
+        "player": {
+          "id": 38552,
+          "name": "Joey Barton"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.7,
+          36.8
+        ],
+        "player": {
+          "id": 15754,
+          "name": "Fredrik Ljungberg"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.5,
+          36.6
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.9,
+          37.6
+        ],
+        "player": {
+          "id": 20447,
+          "name": "Richard Dunne"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.1,
+          42.8
+        ],
+        "player": {
+          "id": 24758,
+          "name": "Michael Tarnat"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.7,
+          26.6
+        ],
+        "player": {
+          "id": 38551,
+          "name": "Shaun Wright-Phillips"
+        },
+        "position": {
+          "id": 18,
+          "name": "Right Attacking Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "id": "267bc48f-1470-4597-8bda-139c36c3385d",
+  "index": 165,
+  "period": 1,
+  "timestamp": "00:03:45.550",
+  "minute": 3,
+  "second": 45,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 12,
+  "possession_team": {
+    "id": 360,
+    "name": "Rayo Vallecano"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 360,
+    "name": "Rayo Vallecano"
+  },
+  "player": {
+    "id": 23761,
+    "name": "Alhassane Bangoura"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    112.9,
+    28.1
+  ],
+  "duration": 0.2978,
+  "related_events": [
+    "c9a0c77e-7285-49d8-980a-a5bd201275af"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.12976937,
+    "end_location": [
+      113.0,
+      36.3
+    ],
+    "key_pass_id": "0a37c1e9-ba53-48c1-82fb-d122c70d69fa",
+    "outcome": {
+      "id": 101,
+      "name": "Wayward"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.7,
+          36.0
+        ],
+        "player": {
+          "id": 26005,
+          "name": "Jos\u00e9 Manuel Pinto Colorado"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          38.4
+        ],
+        "player": {
+          "id": 26109,
+          "name": "Ra\u00fal Tamudo Montero"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.8,
+          38.6
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.5,
+          33.1
+        ],
+        "player": {
+          "id": 6593,
+          "name": "Mart\u00edn Montoya Torralbo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          41.3
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

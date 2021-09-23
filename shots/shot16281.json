@@ -1,0 +1,174 @@
+{
+  "id": "36230b8f-5eaf-422c-81c0-cd4d5943a099",
+  "index": 2248,
+  "period": 2,
+  "timestamp": "00:08:06.150",
+  "minute": 53,
+  "second": 6,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 119,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3478,
+    "name": "Francesc F\u00e0bregas i Soler"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    113.6,
+    50.0
+  ],
+  "duration": 0.69635,
+  "related_events": [
+    "f4c10548-e01f-4c76-adb5-5c1cca3dca28"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.11122175,
+    "end_location": [
+      119.1,
+      44.1,
+      1.5
+    ],
+    "key_pass_id": "6078b533-238b-4396-ae53-672dc083fa2b",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.0,
+          43.8
+        ],
+        "player": {
+          "id": 3659,
+          "name": "Wilfredo Daniel Caballero"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.2,
+          41.2
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.7,
+          35.3
+        ],
+        "player": {
+          "id": 3958,
+          "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.0,
+          40.2
+        ],
+        "player": {
+          "id": 8234,
+          "name": "Ignacio Camacho Barnola"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          42.5
+        ],
+        "player": {
+          "id": 6904,
+          "name": "Sergio S\u00e1nchez Ortega"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.3,
+          49.0
+        ],
+        "player": {
+          "id": 27182,
+          "name": "Fl\u00e1vio Nunes Ferreira"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.6,
+          36.1
+        ],
+        "player": {
+          "id": 27184,
+          "name": "Marcos Alberto Angeleri"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

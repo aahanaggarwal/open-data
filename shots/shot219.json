@@ -1,0 +1,187 @@
+{
+  "id": "e3d0c61b-4acb-4300-965e-5d9efa1d9fe0",
+  "index": 2739,
+  "period": 2,
+  "timestamp": "00:25:07.373",
+  "minute": 70,
+  "second": 7,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 148,
+  "possession_team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "player": {
+    "id": 16378,
+    "name": "Iniabasi Anefiok Umotong"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    105.0,
+    35.0
+  ],
+  "duration": 0.230673,
+  "related_events": [
+    "1b163de8-367a-47b7-acbd-0a135f64be24",
+    "203accaa-b704-4115-b2d0-90e74088ff9d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.24984783,
+    "end_location": [
+      107.0,
+      36.0
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          101.0,
+          34.0
+        ],
+        "player": {
+          "id": 16400,
+          "name": "Kayleigh Green"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.0,
+          46.0
+        ],
+        "player": {
+          "id": 16393,
+          "name": "Ellie Brazil"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.0,
+          37.0
+        ],
+        "player": {
+          "id": 4637,
+          "name": "Ellie Roebuck"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          44.0
+        ],
+        "player": {
+          "id": 4649,
+          "name": "Esme Beth Morgan"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.0,
+          36.0
+        ],
+        "player": {
+          "id": 4658,
+          "name": "Keira Walsh"
+        },
+        "position": {
+          "id": 14,
+          "name": "Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          34.0
+        ],
+        "player": {
+          "id": 10185,
+          "name": "Stephanie Houghton"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          35.0
+        ],
+        "player": {
+          "id": 17524,
+          "name": "Jennifer Beattie"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          20.0
+        ],
+        "player": {
+          "id": 15554,
+          "name": "Gemma Bonner"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

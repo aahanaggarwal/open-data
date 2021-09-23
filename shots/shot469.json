@@ -1,0 +1,205 @@
+{
+  "id": "6037fc1a-3363-462c-a389-8ee08e8cce81",
+  "index": 3405,
+  "period": 2,
+  "timestamp": "00:42:10.066",
+  "minute": 87,
+  "second": 10,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 184,
+  "possession_team": {
+    "id": 208,
+    "name": "Las Palmas"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 208,
+    "name": "Las Palmas"
+  },
+  "player": {
+    "id": 10755,
+    "name": "Jonathan Viera Ramos"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    106.9,
+    27.4
+  ],
+  "duration": 0.0736,
+  "related_events": [
+    "ebe74857-cb3d-45a2-97f7-921e299d869c",
+    "f4f7e6b4-4a52-4c88-8903-e9b718522570"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.085561834,
+    "end_location": [
+      120.0,
+      37.3,
+      1.1
+    ],
+    "key_pass_id": "fe345ec1-ab5d-4c56-8bf7-71aa6e522f7d",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "deflected": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          99.6,
+          38.8
+        ],
+        "player": {
+          "id": 27521,
+          "name": "Juan Emmanuel Culio"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.9,
+          49.5
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.9,
+          46.7
+        ],
+        "player": {
+          "id": 15602,
+          "name": "Juan Carlos Valer\u00f3n Santana"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.1,
+          37.4
+        ],
+        "player": {
+          "id": 6608,
+          "name": "Nabil El Zhar"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.3,
+          25.5
+        ],
+        "player": {
+          "id": 6379,
+          "name": "Sergi Roberto Carnicer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.3,
+          38.0
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          33.0
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.9,
+          36.3
+        ],
+        "player": {
+          "id": 7068,
+          "name": "Marc Bartra Aregall"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.3,
+          38.6
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

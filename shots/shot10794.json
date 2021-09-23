@@ -1,0 +1,280 @@
+{
+  "id": "7cca7dc1-11e8-474e-8d13-c4fc84e330b3",
+  "index": 2688,
+  "period": 2,
+  "timestamp": "00:24:29.827",
+  "minute": 69,
+  "second": 29,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 128,
+  "possession_team": {
+    "id": 771,
+    "name": "France"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 771,
+    "name": "France"
+  },
+  "player": {
+    "id": 2948,
+    "name": "Nabil Fekir"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    101.0,
+    19.0
+  ],
+  "duration": 1.12,
+  "under_pressure": true,
+  "related_events": [
+    "4f5e4343-8077-4d53-b035-2edc4968cef1",
+    "a6b384c1-6423-44eb-9c8f-5619b916e6e4"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.021375544,
+    "end_location": [
+      120.0,
+      35.4,
+      2.5
+    ],
+    "key_pass_id": "ac4ac9e4-2907-48e6-8f2f-10e2efd01a7e",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.0,
+          22.0
+        ],
+        "player": {
+          "id": 3959,
+          "name": "Andreas Christensen"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.0,
+          52.0
+        ],
+        "player": {
+          "id": 5524,
+          "name": "Jens Stryger Larsen"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          54.0
+        ],
+        "player": {
+          "id": 5477,
+          "name": "Ousmane Demb\u00e9l\u00e9"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.0,
+          43.0
+        ],
+        "player": {
+          "id": 6303,
+          "name": "Viktor Fischer"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          33.0
+        ],
+        "player": {
+          "id": 3027,
+          "name": "Mathias Jattah-Njie J\u00f8rgensen"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          27.0
+        ],
+        "player": {
+          "id": 5534,
+          "name": "Simon Thorup Kj\u00e6r"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          31.0
+        ],
+        "player": {
+          "id": 3604,
+          "name": "Olivier Giroud"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.0,
+          15.0
+        ],
+        "player": {
+          "id": 3245,
+          "name": "Thomas Lemar"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          93.0,
+          34.0
+        ],
+        "player": {
+          "id": 5527,
+          "name": "Thomas Delaney"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.0,
+          15.0
+        ],
+        "player": {
+          "id": 4447,
+          "name": "Martin Braithwaite Christensen"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          3.0
+        ],
+        "player": {
+          "id": 3261,
+          "name": "Benjamin Mendy"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          86.0,
+          48.0
+        ],
+        "player": {
+          "id": 3446,
+          "name": "Djibril Sidib\u00e9"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.0,
+          38.0
+        ],
+        "player": {
+          "id": 3815,
+          "name": "Kasper Schmeichel"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          17.0
+        ],
+        "player": {
+          "id": 4763,
+          "name": "Henrik Dalsgaard"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

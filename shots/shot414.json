@@ -1,0 +1,160 @@
+{
+  "id": "9b0001cd-331f-45b5-84af-e3c1da1baac1",
+  "index": 526,
+  "period": 1,
+  "timestamp": "00:11:36.419",
+  "minute": 11,
+  "second": 36,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 26,
+  "possession_team": {
+    "id": 966,
+    "name": "Liverpool WFC"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 966,
+    "name": "Liverpool WFC"
+  },
+  "player": {
+    "id": 15218,
+    "name": "Jessica Anne Clarke"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    107.0,
+    51.0
+  ],
+  "duration": 0.553638,
+  "under_pressure": true,
+  "related_events": [
+    "2dd3bb68-9397-475e-be19-db9875c7758d",
+    "b6117908-5e42-4618-a7b7-2c5569f11af0"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.34152466,
+    "end_location": [
+      120.0,
+      44.8,
+      1.2
+    ],
+    "key_pass_id": "0b936795-40fb-4bb3-9470-d5bb8b9a6887",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          115.0,
+          46.0
+        ],
+        "player": {
+          "id": 18158,
+          "name": "Rebecca Leigh Spencer"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          34.0
+        ],
+        "player": {
+          "id": 15611,
+          "name": "Courtney Sweetman-Kirk"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.0,
+          32.0
+        ],
+        "player": {
+          "id": 21014,
+          "name": "Vyan Sampson"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          29.0
+        ],
+        "player": {
+          "id": 18145,
+          "name": "Ria Percival"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          48.0
+        ],
+        "player": {
+          "id": 18151,
+          "name": "Gilly Louise Scarlett Flaherty"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          58.0
+        ],
+        "player": {
+          "id": 18155,
+          "name": "Erin Simon"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

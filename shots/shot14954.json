@@ -1,0 +1,144 @@
+{
+  "id": "e37d67ba-396a-4c49-a5e8-edc3877677ee",
+  "index": 3286,
+  "period": 2,
+  "timestamp": "00:42:00.442",
+  "minute": 87,
+  "second": 0,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 163,
+  "possession_team": {
+    "id": 221,
+    "name": "Levante"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 221,
+    "name": "Levante"
+  },
+  "player": {
+    "id": 6787,
+    "name": "Pedro L\u00f3pez Mu\u00f1oz"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    101.4,
+    58.5
+  ],
+  "duration": 0.8047,
+  "related_events": [
+    "e0ba2d00-6265-4f7b-8579-458aa7876cd7"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.022325682,
+    "end_location": [
+      118.6,
+      40.8,
+      0.2
+    ],
+    "key_pass_id": "d68de7be-9aba-44ae-99a2-1aa7fb481343",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          103.1,
+          31.6
+        ],
+        "player": {
+          "id": 6611,
+          "name": "\u00c1ngel Luis Rodr\u00edguez D\u00edaz"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          98.9,
+          31.5
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.7,
+          46.2
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.2,
+          57.1
+        ],
+        "player": {
+          "id": 5211,
+          "name": "Jordi Alba Ramos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.6,
+          41.1
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "id": "69d6a0c0-4448-4665-8355-6c54122bbe44",
+  "index": 217,
+  "period": 1,
+  "timestamp": "00:03:42.083",
+  "minute": 3,
+  "second": 42,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 10,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 6658,
+    "name": "Cristian Tello Herrera"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    111.6,
+    27.8
+  ],
+  "duration": 0.3992,
+  "related_events": [
+    "1a78b3de-7eb5-418d-9426-8e9f89e2c9a2"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.14775583,
+    "end_location": [
+      115.0,
+      34.0,
+      0.0
+    ],
+    "key_pass_id": "d979961d-7586-4eb5-8195-eadc4f184369",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          87.6,
+          55.6
+        ],
+        "player": {
+          "id": 6878,
+          "name": "Miguel Torres G\u00f3mez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.2,
+          48.0
+        ],
+        "player": {
+          "id": 6614,
+          "name": "Alexis Ruano Delgado"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.9,
+          31.4
+        ],
+        "player": {
+          "id": 26107,
+          "name": "Alberto Lopo Garc\u00eda"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.8,
+          28.9
+        ],
+        "player": {
+          "id": 26195,
+          "name": "Juan Valera Esp\u00edn"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          80.6,
+          43.1
+        ],
+        "player": {
+          "id": 3478,
+          "name": "Francesc F\u00e0bregas i Soler"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.5,
+          32.4
+        ],
+        "player": {
+          "id": 7069,
+          "name": "Miguel \u00c1ngel Moy\u00e0 Rumbo"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

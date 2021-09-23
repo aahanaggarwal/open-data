@@ -1,0 +1,204 @@
+{
+  "id": "f45da691-730c-4e4c-8fdd-36bf7ca02ede",
+  "index": 1834,
+  "period": 2,
+  "timestamp": "00:02:28.202",
+  "minute": 47,
+  "second": 28,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 134,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15512,
+    "name": "Sylvain Wiltord"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    113.6,
+    35.3
+  ],
+  "duration": 0.685087,
+  "related_events": [
+    "6e1233f9-45da-4dd4-ab86-216d6b246fa4"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.34743246,
+    "end_location": [
+      120.0,
+      41.2,
+      0.4
+    ],
+    "key_pass_id": "b483c09a-8a06-4889-92a8-bd0b02fea470",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          116.0,
+          36.8
+        ],
+        "player": {
+          "id": 15409,
+          "name": "David Seaman"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.2,
+          43.0
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.1,
+          44.4
+        ],
+        "player": {
+          "id": 24758,
+          "name": "Michael Tarnat"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          28.5
+        ],
+        "player": {
+          "id": 12529,
+          "name": "Ashley Cole"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.9,
+          29.4
+        ],
+        "player": {
+          "id": 40220,
+          "name": "David Sommeil"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.8,
+          21.1
+        ],
+        "player": {
+          "id": 38551,
+          "name": "Shaun Wright-Phillips"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.6,
+          44.7
+        ],
+        "player": {
+          "id": 15754,
+          "name": "Fredrik Ljungberg"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.6,
+          38.8
+        ],
+        "player": {
+          "id": 40218,
+          "name": "Sylvain Distin"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.2,
+          37.0
+        ],
+        "player": {
+          "id": 40217,
+          "name": "Trevor Sinclair"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "id": "7f96e82e-a5fe-484d-926a-aa35461a4a8a",
+  "index": 1549,
+  "period": 1,
+  "timestamp": "00:43:24.220",
+  "minute": 43,
+  "second": 24,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 100,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 15743,
+    "name": "Henrik Larsson"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    113.6,
+    40.2
+  ],
+  "duration": 1.4853,
+  "related_events": [
+    "235bcbf8-e7f6-4f17-8d84-0ce2dc2d301b",
+    "b6be37d2-e679-469f-ac0e-5d273eb9d0d1"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.23663391,
+    "end_location": [
+      117.2,
+      40.0
+    ],
+    "key_pass_id": "16be2e46-07cf-41e1-8504-5ebfab75c885",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          115.9,
+          42.7
+        ],
+        "player": {
+          "id": 20519,
+          "name": "Juan Guti\u00e9rrez Moreno"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.7,
+          38.1
+        ],
+        "player": {
+          "id": 26486,
+          "name": "Oscar L\u00f3pez Hern\u00e1ndez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.6,
+          48.3
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.3,
+          48.1
+        ],
+        "player": {
+          "id": 26453,
+          "name": "Juan Alberto Andreu Alvarado"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          46.9
+        ],
+        "player": {
+          "id": 25893,
+          "name": "Alberto Rivera Pizarro"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.6,
+          39.9
+        ],
+        "player": {
+          "id": 26464,
+          "name": "Arturo Garc\u00eda Mu\u00f1oz"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.4,
+          40.3
+        ],
+        "player": {
+          "id": 26484,
+          "name": "Antonio Baltasar Doblas Santana"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

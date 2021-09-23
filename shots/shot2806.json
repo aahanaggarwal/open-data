@@ -1,0 +1,187 @@
+{
+  "id": "630f8a69-6315-42dd-ac47-35f302c94a45",
+  "index": 1155,
+  "period": 1,
+  "timestamp": "00:30:31.796",
+  "minute": 30,
+  "second": 31,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 91,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15754,
+    "name": "Fredrik Ljungberg"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    102.0,
+    43.2
+  ],
+  "duration": 0.597423,
+  "related_events": [
+    "b79fcebc-5632-4f80-8f72-58e339a12824"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.10561987,
+    "end_location": [
+      117.4,
+      42.9,
+      0.2
+    ],
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          91.3,
+          54.2
+        ],
+        "player": {
+          "id": 9585,
+          "name": "Stewart Downing"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.8,
+          47.7
+        ],
+        "player": {
+          "id": 17793,
+          "name": "Boudewijn Zenden"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.1,
+          50.8
+        ],
+        "player": {
+          "id": 40328,
+          "name": "Franck Queudrue"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.3,
+          39.2
+        ],
+        "player": {
+          "id": 40325,
+          "name": "Ugo Ehiogu"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.2,
+          41.0
+        ],
+        "player": {
+          "id": 15403,
+          "name": "Gareth Southgate"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.5,
+          48.7
+        ],
+        "player": {
+          "id": 40255,
+          "name": "J\u00e9r\u00e9mie Aliadi\u00e8re"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.9,
+          39.4
+        ],
+        "player": {
+          "id": 19312,
+          "name": "Robert Pir\u00e8s "
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.3,
+          40.5
+        ],
+        "player": {
+          "id": 40322,
+          "name": "Mark Schwarzer"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

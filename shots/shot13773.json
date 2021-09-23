@@ -1,0 +1,113 @@
+{
+  "id": "1ae002a2-916e-49bc-8189-208e33d31b82",
+  "index": 2372,
+  "period": 2,
+  "timestamp": "00:16:03.277",
+  "minute": 61,
+  "second": 3,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 139,
+  "possession_team": {
+    "id": 220,
+    "name": "Real Madrid"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 220,
+    "name": "Real Madrid"
+  },
+  "player": {
+    "id": 25930,
+    "name": "R\u00f3bson de Souza"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    112.7,
+    30.3
+  ],
+  "duration": 1.748371,
+  "related_events": [
+    "0a3c0754-e627-4a2f-a786-85a55dc453cc"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.13305563,
+    "end_location": [
+      120.0,
+      37.1,
+      6.2
+    ],
+    "first_time": true,
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          107.9,
+          30.0
+        ],
+        "player": {
+          "id": 15071,
+          "name": "Lilian Thuram"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.3,
+          31.2
+        ],
+        "player": {
+          "id": 15774,
+          "name": "Gianluca Zambrotta"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.3,
+          37.2
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

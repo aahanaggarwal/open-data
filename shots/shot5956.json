@@ -1,0 +1,174 @@
+{
+  "id": "db977920-51e8-40ae-a63b-038ac613e20d",
+  "index": 1780,
+  "period": 2,
+  "timestamp": "00:01:25.579",
+  "minute": 46,
+  "second": 25,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 113,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3958,
+    "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    112.7,
+    41.5
+  ],
+  "duration": 0.3101,
+  "related_events": [
+    "a689f36f-3470-46f8-9a6e-f9f3010f5f68"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.36721686,
+    "end_location": [
+      120.0,
+      42.3,
+      1.9
+    ],
+    "key_pass_id": "8d6706f0-a9d3-48c7-b870-b8fef0a39dc2",
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.9,
+          23.1
+        ],
+        "player": {
+          "id": 26607,
+          "name": "Jos\u00e9 Ra\u00fal Baena Urdiales"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.7,
+          21.6
+        ],
+        "player": {
+          "id": 23811,
+          "name": "Alberto Perea Correoso"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.9,
+          36.4
+        ],
+        "player": {
+          "id": 6381,
+          "name": "Sa\u00fal \u00d1\u00edguez Esclapez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.7,
+          42.3
+        ],
+        "player": {
+          "id": 11298,
+          "name": "Jos\u00e9 Ignacio Mart\u00ednez Garc\u00eda"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.8,
+          41.0
+        ],
+        "player": {
+          "id": 6730,
+          "name": "Rub\u00e9n Iv\u00e1n Mart\u00ednez Andrade"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          16.7
+        ],
+        "player": {
+          "id": 3478,
+          "name": "Francesc F\u00e0bregas i Soler"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.4,
+          37.4
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

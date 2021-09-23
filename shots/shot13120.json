@@ -1,0 +1,113 @@
+{
+  "id": "6a0bd20a-fe8b-4baa-8a0f-75568bfe1264",
+  "index": 246,
+  "period": 1,
+  "timestamp": "00:04:47.006",
+  "minute": 4,
+  "second": 47,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 9,
+  "possession_team": {
+    "id": 210,
+    "name": "Real Sociedad"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 210,
+    "name": "Real Sociedad"
+  },
+  "player": {
+    "id": 26700,
+    "name": "Diego Ifr\u00e1n Sala"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    107.5,
+    49.5
+  ],
+  "duration": 0.3295,
+  "related_events": [
+    "2c4cc513-eef3-44be-a71b-c6fd93f7fc1e"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.24416767,
+    "end_location": [
+      113.9,
+      44.5,
+      2.0
+    ],
+    "key_pass_id": "c5c29c82-c67a-4b4f-a116-d6827ea67e7b",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.0,
+          47.8
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.2,
+          48.5
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.2,
+          44.5
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

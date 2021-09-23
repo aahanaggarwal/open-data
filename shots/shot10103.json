@@ -1,0 +1,129 @@
+{
+  "id": "dcef1ca6-eef5-476c-8345-cda1316a0282",
+  "index": 3386,
+  "period": 2,
+  "timestamp": "00:46:38.521",
+  "minute": 91,
+  "second": 38,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 182,
+  "possession_team": {
+    "id": 213,
+    "name": "Sevilla"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 213,
+    "name": "Sevilla"
+  },
+  "player": {
+    "id": 25960,
+    "name": "Fr\u00e9d\u00e9ric Oumar Kanout\u00e9"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    108.9,
+    56.8
+  ],
+  "duration": 0.6127,
+  "related_events": [
+    "f3ee4e7f-aa0d-4f64-87d3-ec09348bc912"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.11103159,
+    "end_location": [
+      114.7,
+      48.3,
+      0.8
+    ],
+    "key_pass_id": "b5724599-7c23-4d86-b247-1a69f4ad9613",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.9,
+          57.9
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.3,
+          53.1
+        ],
+        "player": {
+          "id": 25910,
+          "name": "Jos\u00e9 Edm\u00edlson Gomes de Moraes"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.3,
+          54.6
+        ],
+        "player": {
+          "id": 26013,
+          "name": "Antonio Puerta P\u00e9rez"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.6,
+          47.5
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

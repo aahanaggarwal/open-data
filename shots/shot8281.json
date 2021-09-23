@@ -1,0 +1,114 @@
+{
+  "id": "ff3fe7ba-3263-45c3-9450-d4d1e11efda7",
+  "index": 1299,
+  "period": 1,
+  "timestamp": "00:29:06.275",
+  "minute": 29,
+  "second": 6,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 62,
+  "possession_team": {
+    "id": 209,
+    "name": "Celta Vigo"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 209,
+    "name": "Celta Vigo"
+  },
+  "player": {
+    "id": 5217,
+    "name": "Iago Aspas Juncal"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    102.0,
+    40.4
+  ],
+  "duration": 1.334098,
+  "related_events": [
+    "a92dd5b5-689e-42c6-80ec-efa7f308a3b7"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.5325342,
+    "end_location": [
+      120.0,
+      37.0,
+      0.9
+    ],
+    "key_pass_id": "0e738478-26f4-482b-b647-1385bbb733c4",
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          109.0,
+          40.8
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.6,
+          41.9
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.5,
+          45.8
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

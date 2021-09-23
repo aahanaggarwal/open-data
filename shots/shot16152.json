@@ -1,0 +1,191 @@
+{
+  "id": "4794f5bf-258a-4423-9385-da3ef560dff6",
+  "index": 1052,
+  "period": 1,
+  "timestamp": "00:25:32.567",
+  "minute": 25,
+  "second": 32,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 41,
+  "possession_team": {
+    "id": 764,
+    "name": "Orlando Pride"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 764,
+    "name": "Orlando Pride"
+  },
+  "player": {
+    "id": 5086,
+    "name": "Rachel Hill"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    107.9,
+    55.6
+  ],
+  "duration": 0.872559,
+  "under_pressure": true,
+  "related_events": [
+    "0373b52f-0a32-4102-8a1f-617051ecdd68",
+    "f4f14ca5-5868-4ca2-a86c-ebe511af85ea"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.04671674,
+    "end_location": [
+      120.0,
+      37.5,
+      2.5
+    ],
+    "key_pass_id": "5cc851bd-f423-484d-a692-1dd312082f30",
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          107.7,
+          54.5
+        ],
+        "player": {
+          "id": 30648,
+          "name": "Dorian Bailey"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.9,
+          52.1
+        ],
+        "player": {
+          "id": 30650,
+          "name": "Samantha Staab"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.6,
+          46.3
+        ],
+        "player": {
+          "id": 30651,
+          "name": "Paige Nielsen"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.9,
+          41.3
+        ],
+        "player": {
+          "id": 34828,
+          "name": "McKenzie Berryhill"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.9,
+          53.2
+        ],
+        "player": {
+          "id": 25547,
+          "name": "Chloe Logarzo"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.8,
+          43.0
+        ],
+        "player": {
+          "id": 5025,
+          "name": "Aubrey Bledsoe"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          48.0
+        ],
+        "player": {
+          "id": 5078,
+          "name": "Alanna Kennedy"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.8,
+          42.7
+        ],
+        "player": {
+          "id": 5082,
+          "name": "Marta Vieira da Silva"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

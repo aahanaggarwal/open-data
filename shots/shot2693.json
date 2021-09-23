@@ -1,0 +1,159 @@
+{
+  "id": "d0d0f68c-563f-4382-bcd3-df3b11b4f1d6",
+  "index": 2701,
+  "period": 2,
+  "timestamp": "00:22:33.565",
+  "minute": 67,
+  "second": 33,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 147,
+  "possession_team": {
+    "id": 212,
+    "name": "Atl\u00e9tico Madrid"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 212,
+    "name": "Atl\u00e9tico Madrid"
+  },
+  "player": {
+    "id": 19765,
+    "name": "Sim\u00e3o Pedro Fonseca Sabrosa"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    113.7,
+    29.7
+  ],
+  "duration": 1.317084,
+  "related_events": [
+    "de411a14-6ec9-439c-952c-0a7566fadaa4"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.110111125,
+    "end_location": [
+      120.0,
+      43.7,
+      3.6
+    ],
+    "key_pass_id": "ac3abc4a-4ff3-4481-b880-d2b2b54a8340",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.3,
+          30.6
+        ],
+        "player": {
+          "id": 25873,
+          "name": "Oleguer Presas Renom"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.9,
+          34.6
+        ],
+        "player": {
+          "id": 25919,
+          "name": "Gabriel Alejandro Milito"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.4,
+          45.9
+        ],
+        "player": {
+          "id": 20177,
+          "name": "Eric-Sylvain Bilal Abidal"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.3,
+          40.1
+        ],
+        "player": {
+          "id": 26199,
+          "name": "Diego Forl\u00e1n Corazo"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.5,
+          43.1
+        ],
+        "player": {
+          "id": 26391,
+          "name": "Luis Javier Garc\u00eda Sanz"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          116.4,
+          33.4
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

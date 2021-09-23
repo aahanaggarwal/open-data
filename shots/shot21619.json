@@ -1,0 +1,173 @@
+{
+  "id": "6fa5adc8-5e1f-4a76-bdf6-77c5b18b765e",
+  "index": 2405,
+  "period": 2,
+  "timestamp": "00:19:44.966",
+  "minute": 64,
+  "second": 44,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 139,
+  "possession_team": {
+    "id": 1217,
+    "name": "Racing Santander"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 1217,
+    "name": "Racing Santander"
+  },
+  "player": {
+    "id": 26074,
+    "name": "Nikola \u017digi\u0107"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    99.1,
+    55.9
+  ],
+  "duration": 0.0561,
+  "related_events": [
+    "9c10f24a-af4b-4e3b-917f-669d0e0d1bf2",
+    "f402fdc7-6043-431c-a1a5-ba14e689b829"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.015453979,
+    "end_location": [
+      100.2,
+      55.1
+    ],
+    "key_pass_id": "6e752aad-9d79-4392-8506-14d771e4c217",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          86.8,
+          43.9
+        ],
+        "player": {
+          "id": 25430,
+          "name": "Felipe Melo de Carvalho"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.9,
+          38.9
+        ],
+        "player": {
+          "id": 19577,
+          "name": "Pedro Manuel Munitis \u00c1lvarez"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.3,
+          58.0
+        ],
+        "player": {
+          "id": 25854,
+          "name": "Sylvio Mendes Campos Junior"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.6,
+          54.7
+        ],
+        "player": {
+          "id": 5558,
+          "name": "Rafael M\u00e1rquez \u00c1lvarez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.3,
+          46.0
+        ],
+        "player": {
+          "id": 25910,
+          "name": "Jos\u00e9 Edm\u00edlson Gomes de Moraes"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.3,
+          37.9
+        ],
+        "player": {
+          "id": 15774,
+          "name": "Gianluca Zambrotta"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          43.3
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

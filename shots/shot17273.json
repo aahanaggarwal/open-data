@@ -1,0 +1,176 @@
+{
+  "id": "c082fe4d-09d3-4e0b-b432-6102773b2676",
+  "index": 1504,
+  "period": 1,
+  "timestamp": "00:37:56.465",
+  "minute": 37,
+  "second": 56,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 63,
+  "possession_team": {
+    "id": 1203,
+    "name": "Brazil Women's"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1203,
+    "name": "Brazil Women's"
+  },
+  "player": {
+    "id": 15293,
+    "name": "Cristiane Rozeira de Souza Silva"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    112.8,
+    40.5
+  ],
+  "duration": 0.9091,
+  "under_pressure": true,
+  "related_events": [
+    "89488d1f-67e3-4b21-a434-c1ecea4a36ca",
+    "e52815a9-31d1-413f-9dea-f32a18d1e31c"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.103091486,
+    "end_location": [
+      120.0,
+      43.2,
+      0.9
+    ],
+    "key_pass_id": "ac8234d5-3d3c-49ab-8ce4-ee325be77976",
+    "aerial_won": true,
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          109.7,
+          35.9
+        ],
+        "player": {
+          "id": 25537,
+          "name": "Elise Kellond-Knight"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.1,
+          36.7
+        ],
+        "player": {
+          "id": 5082,
+          "name": "Marta Vieira da Silva"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.8,
+          41.0
+        ],
+        "player": {
+          "id": 5000,
+          "name": "Steph Catley"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.6,
+          42.0
+        ],
+        "player": {
+          "id": 25549,
+          "name": "Tameka Butt"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.4,
+          30.4
+        ],
+        "player": {
+          "id": 5076,
+          "name": "Emily van Egmond"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.4,
+          20.9
+        ],
+        "player": {
+          "id": 5095,
+          "name": "Ellie Carpenter"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.5,
+          40.2
+        ],
+        "player": {
+          "id": 5066,
+          "name": "Lydia Williams"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

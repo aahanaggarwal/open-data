@@ -1,0 +1,173 @@
+{
+  "id": "6ed44fa4-ddbe-46ea-b686-e929efd9f42a",
+  "index": 1121,
+  "period": 1,
+  "timestamp": "00:19:01.873",
+  "minute": 19,
+  "second": 1,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 42,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5246,
+    "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    107.3,
+    55.3
+  ],
+  "duration": 1.043143,
+  "related_events": [
+    "c274149e-7921-446b-959f-d9e619a3c9a5"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.05214184,
+    "end_location": [
+      120.0,
+      45.5,
+      4.1
+    ],
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          107.8,
+          51.2
+        ],
+        "player": {
+          "id": 5249,
+          "name": "Diego Roberto God\u00edn Leal"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.4,
+          40.7
+        ],
+        "player": {
+          "id": 5259,
+          "name": "Jos\u00e9 Mar\u00eda Gim\u00e9nez de Vargas"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.7,
+          45.5
+        ],
+        "player": {
+          "id": 6320,
+          "name": "Filipe Luis Kasmirski"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.4,
+          27.8
+        ],
+        "player": {
+          "id": 5696,
+          "name": "Santiago Arias Naranjo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.5,
+          36.3
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          94.3,
+          32.4
+        ],
+        "player": {
+          "id": 3501,
+          "name": "Philippe Coutinho Correia"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          116.0,
+          43.4
+        ],
+        "player": {
+          "id": 6378,
+          "name": "Jan Oblak"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

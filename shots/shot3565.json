@@ -1,0 +1,176 @@
+{
+  "id": "7282e517-39a0-4e08-baa0-5fc1b7df02b0",
+  "index": 3262,
+  "period": 2,
+  "timestamp": "00:41:46.419",
+  "minute": 86,
+  "second": 46,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 168,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    102.9,
+    41.8
+  ],
+  "duration": 0.994,
+  "under_pressure": true,
+  "related_events": [
+    "499f01b7-ef63-48bc-ac29-67d98af00d2e",
+    "584b1976-5dee-447b-9367-c9100a411632",
+    "61ae573b-0821-4bc0-b04b-b73f6697974f"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.18967225,
+    "end_location": [
+      120.0,
+      34.9,
+      0.4
+    ],
+    "key_pass_id": "5f316721-4993-48c3-a39f-35ebc66dbeeb",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          98.3,
+          42.4
+        ],
+        "player": {
+          "id": 4320,
+          "name": "Neymar da Silva Santos Junior"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.2,
+          40.8
+        ],
+        "player": {
+          "id": 6694,
+          "name": "Ger\u00f3nimo Rulli"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.6,
+          38.7
+        ],
+        "player": {
+          "id": 8724,
+          "name": "Carlos Mart\u00ednez D\u00edez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.2,
+          25.7
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.2,
+          43.2
+        ],
+        "player": {
+          "id": 16622,
+          "name": "Mikel Gonz\u00e1lez de Mart\u00edn Mart\u00ednez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.6,
+          42.5
+        ],
+        "player": {
+          "id": 6674,
+          "name": "Alberto De La Bella Madure\u00f1o"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.9,
+          40.9
+        ],
+        "player": {
+          "id": 6665,
+          "name": "\u00cd\u00f1igo Mart\u00ednez Berridi"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

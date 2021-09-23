@@ -1,0 +1,159 @@
+{
+  "id": "74ec2db0-84fe-462d-b7a2-ba859e7213d1",
+  "index": 1421,
+  "period": 1,
+  "timestamp": "00:34:44.651",
+  "minute": 34,
+  "second": 44,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 78,
+  "possession_team": {
+    "id": 180,
+    "name": "Borussia Dortmund"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 180,
+    "name": "Borussia Dortmund"
+  },
+  "player": {
+    "id": 5668,
+    "name": "Robert Lewandowski"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    115.0,
+    52.0
+  ],
+  "duration": 0.415598,
+  "related_events": [
+    "d73ada2e-7aa6-48ec-9da2-416d8fa5267d"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.13232806,
+    "end_location": [
+      116.0,
+      39.1,
+      0.3
+    ],
+    "key_pass_id": "a58cbb06-274d-4aaa-adec-3f707193b2b5",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.0,
+          46.0
+        ],
+        "player": {
+          "id": 18414,
+          "name": "Bastian Schweinsteiger"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          58.0
+        ],
+        "player": {
+          "id": 8220,
+          "name": "David Olatukunbo Alaba"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          51.0
+        ],
+        "player": {
+          "id": 5578,
+          "name": "J\u00e9r\u00f4me Boateng"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.0,
+          50.0
+        ],
+        "player": {
+          "id": 5570,
+          "name": "Manuel Neuer"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          32.0
+        ],
+        "player": {
+          "id": 19295,
+          "name": "Philipp Lahm"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.0,
+          32.0
+        ],
+        "player": {
+          "id": 20665,
+          "name": "Kevin Gro\u00dfkreutz"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

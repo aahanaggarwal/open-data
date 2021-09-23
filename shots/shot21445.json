@@ -1,0 +1,129 @@
+{
+  "id": "1097cf15-94c6-4ef2-92c0-46973b26cc80",
+  "index": 2681,
+  "period": 2,
+  "timestamp": "00:21:14.006",
+  "minute": 66,
+  "second": 14,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 142,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    111.3,
+    33.9
+  ],
+  "duration": 1.020435,
+  "related_events": [
+    "1a4344ea-f8b0-4883-8529-e36bdf7285dd"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.35838363,
+    "end_location": [
+      120.0,
+      41.7,
+      0.0
+    ],
+    "key_pass_id": "5d3e286f-0456-4fbb-a8e4-7b42ab94b25a",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          100.7,
+          31.9
+        ],
+        "player": {
+          "id": 40371,
+          "name": "Michael Duberry"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.5,
+          36.4
+        ],
+        "player": {
+          "id": 40369,
+          "name": "Steven Caldwell"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.6,
+          35.2
+        ],
+        "player": {
+          "id": 40270,
+          "name": "Gary Oliver Kelly"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.3,
+          36.2
+        ],
+        "player": {
+          "id": 40132,
+          "name": "Paul Robinson"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

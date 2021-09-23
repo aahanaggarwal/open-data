@@ -1,0 +1,218 @@
+{
+  "id": "f0af9652-e6ce-4d92-8d5a-69f97b440c19",
+  "index": 1877,
+  "period": 2,
+  "timestamp": "00:07:34.910",
+  "minute": 52,
+  "second": 34,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 102,
+  "possession_team": {
+    "id": 968,
+    "name": "Arsenal WFC"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 968,
+    "name": "Arsenal WFC"
+  },
+  "player": {
+    "id": 15623,
+    "name": "Vivianne Miedema"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    113.0,
+    38.0
+  ],
+  "duration": 0.3163,
+  "related_events": [
+    "d16f9053-aa7c-4164-b059-5c8f4c147af4"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.36643624,
+    "end_location": [
+      116.0,
+      38.7,
+      0.4
+    ],
+    "key_pass_id": "d5fcbe65-8dc1-4500-ab5b-e3aaa32225e5",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          100.0,
+          46.0
+        ],
+        "player": {
+          "id": 10251,
+          "name": "Fara Williams"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          38.0
+        ],
+        "player": {
+          "id": 18149,
+          "name": "Remi Allen"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          37.0
+        ],
+        "player": {
+          "id": 18144,
+          "name": "Rebecca Jane"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          42.0
+        ],
+        "player": {
+          "id": 10198,
+          "name": "Josanne Potter"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          43.0
+        ],
+        "player": {
+          "id": 10192,
+          "name": "Jordan Nobbs"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.0,
+          46.0
+        ],
+        "player": {
+          "id": 15725,
+          "name": "Natasha Harding"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.0,
+          40.0
+        ],
+        "player": {
+          "id": 15719,
+          "name": "Grace Moloney"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          39.0
+        ],
+        "player": {
+          "id": 18152,
+          "name": "Kirstyn Pearce"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          29.0
+        ],
+        "player": {
+          "id": 15619,
+          "name": "Bethany Mead"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.0,
+          48.0
+        ],
+        "player": {
+          "id": 10179,
+          "name": "Lisa Evans"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

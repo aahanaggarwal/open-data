@@ -1,0 +1,204 @@
+{
+  "id": "6597fecf-e34e-4826-ab24-0688ef01a3af",
+  "index": 2252,
+  "period": 2,
+  "timestamp": "00:09:23.547",
+  "minute": 54,
+  "second": 23,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 117,
+  "possession_team": {
+    "id": 770,
+    "name": "Germany"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 770,
+    "name": "Germany"
+  },
+  "player": {
+    "id": 3186,
+    "name": "Julian Draxler"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    105.0,
+    25.0
+  ],
+  "duration": 0.293,
+  "related_events": [
+    "c619208f-f261-44e9-9207-71f765482da4",
+    "e9770504-d58a-4ca2-afa9-6f36593578bc"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.03690991,
+    "end_location": [
+      108.0,
+      29.0
+    ],
+    "key_pass_id": "6b7ac49d-3678-4a14-8a2d-f177576f0e02",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          107.0,
+          26.0
+        ],
+        "player": {
+          "id": 5564,
+          "name": "Carlos Joel Salcedo Hern\u00e1ndez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          39.0
+        ],
+        "player": {
+          "id": 5577,
+          "name": "Francisco Guillermo Ochoa Maga\u00f1a"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          35.0
+        ],
+        "player": {
+          "id": 5561,
+          "name": "Hugo Ayala Castro"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          39.0
+        ],
+        "player": {
+          "id": 3496,
+          "name": "Mesut \u00d6zil"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.0,
+          39.0
+        ],
+        "player": {
+          "id": 5573,
+          "name": "H\u00e9ctor Alfredo Moreno Herrera"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          38.0
+        ],
+        "player": {
+          "id": 5563,
+          "name": "Jos\u00e9 Andr\u00e9s Guardado Hern\u00e1ndez"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          55.0
+        ],
+        "player": {
+          "id": 5557,
+          "name": "Timo Werner"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.0,
+          51.0
+        ],
+        "player": {
+          "id": 5576,
+          "name": "Jes\u00fas Daniel Gallardo Vasconcelos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          38.0
+        ],
+        "player": {
+          "id": 5562,
+          "name": "Thomas M\u00fcller"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

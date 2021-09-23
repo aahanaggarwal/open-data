@@ -1,0 +1,159 @@
+{
+  "id": "f0675b4a-b36b-4488-9eb7-ca551525b93d",
+  "index": 4055,
+  "period": 2,
+  "timestamp": "00:45:14.455",
+  "minute": 90,
+  "second": 14,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 159,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 6658,
+    "name": "Cristian Tello Herrera"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    107.6,
+    26.8
+  ],
+  "duration": 1.1546,
+  "related_events": [
+    "f520d34c-36f1-4a51-a691-72de36a0fe88"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.24718122,
+    "end_location": [
+      120.0,
+      46.7,
+      0.2
+    ],
+    "key_pass_id": "04ba2fd4-8d5e-40a3-9d48-ad0417a38ae7",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.2,
+          33.9
+        ],
+        "player": {
+          "id": 25971,
+          "name": "Esteban Andr\u00e9s Su\u00e1rez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.7,
+          26.6
+        ],
+        "player": {
+          "id": 26589,
+          "name": "N\u00e9lson Augusto Tomar Marcos"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.8,
+          47.8
+        ],
+        "player": {
+          "id": 24075,
+          "name": "Christian Fern\u00e1ndez Salas"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.6,
+          51.0
+        ],
+        "player": {
+          "id": 3958,
+          "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          95.8,
+          35.5
+        ],
+        "player": {
+          "id": 25824,
+          "name": "\u00c1ngel Trujillo Canorea"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.5,
+          24.5
+        ],
+        "player": {
+          "id": 26494,
+          "name": "Hern\u00e1n Dar\u00edo Pellerano"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

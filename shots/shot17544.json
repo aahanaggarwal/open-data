@@ -1,0 +1,143 @@
+{
+  "id": "667aa782-e1de-4e15-816f-9c266211f2cb",
+  "index": 1472,
+  "period": 1,
+  "timestamp": "00:42:57.784",
+  "minute": 42,
+  "second": 57,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 90,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    109.8,
+    52.1
+  ],
+  "duration": 0.4766,
+  "related_events": [
+    "936cb439-d4cd-4e90-abb1-340b4b75dee3"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.07654668,
+    "end_location": [
+      118.8,
+      44.3,
+      0.4
+    ],
+    "key_pass_id": "8c8fc797-04bb-48fe-8ab3-ba64f51f94aa",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.9,
+          40.1
+        ],
+        "player": {
+          "id": 4913,
+          "name": "Bojan Krk\u00edc P\u00e9rez"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.1,
+          44.4
+        ],
+        "player": {
+          "id": 26103,
+          "name": "Idriss Carlos Kameni"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.4,
+          47.4
+        ],
+        "player": {
+          "id": 26162,
+          "name": "Mois\u00e9s Hurtado P\u00e9rez"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.1,
+          49.8
+        ],
+        "player": {
+          "id": 26110,
+          "name": "Daniel Jarque Gonzalez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.9,
+          38.5
+        ],
+        "player": {
+          "id": 3052,
+          "name": "Pablo Javier Zabaleta Girod"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

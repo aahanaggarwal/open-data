@@ -1,0 +1,143 @@
+{
+  "id": "18291c1a-8a70-4b17-93b6-06e6202b070d",
+  "index": 2462,
+  "period": 2,
+  "timestamp": "00:21:15.481",
+  "minute": 66,
+  "second": 15,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 177,
+  "possession_team": {
+    "id": 36,
+    "name": "Manchester City"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 36,
+    "name": "Manchester City"
+  },
+  "player": {
+    "id": 15519,
+    "name": "Nicolas Anelka"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    97.5,
+    46.5
+  ],
+  "duration": 0.515862,
+  "related_events": [
+    "ef4ae47b-403a-476b-adc9-6925c35d234c"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.17566717,
+    "end_location": [
+      112.1,
+      40.8,
+      0.8
+    ],
+    "key_pass_id": "5f458bdc-6aa5-4fcd-8820-faa8df594065",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          96.1,
+          35.5
+        ],
+        "player": {
+          "id": 15654,
+          "name": "Martin Keown"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          85.1,
+          21.8
+        ],
+        "player": {
+          "id": 40222,
+          "name": "Laureano Bisan-Etame Mayer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.3,
+          40.1
+        ],
+        "player": {
+          "id": 38412,
+          "name": "Kolo Habib Tour\u00e9"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.1,
+          44.2
+        ],
+        "player": {
+          "id": 12529,
+          "name": "Ashley Cole"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.9,
+          42.0
+        ],
+        "player": {
+          "id": 20015,
+          "name": "Jens Lehmann"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

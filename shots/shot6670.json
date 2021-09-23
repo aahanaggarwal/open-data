@@ -1,0 +1,188 @@
+{
+  "id": "e701da4d-288a-4e98-93b9-c52e9fb31cf8",
+  "index": 1752,
+  "period": 2,
+  "timestamp": "00:07:28.740",
+  "minute": 52,
+  "second": 28,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 123,
+  "possession_team": {
+    "id": 973,
+    "name": "Bristol City WFC"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 973,
+    "name": "Bristol City WFC"
+  },
+  "player": {
+    "id": 21048,
+    "name": "Rosella Ayane"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    97.0,
+    44.0
+  ],
+  "duration": 1.144099,
+  "related_events": [
+    "cfdf0b10-ee5b-4c5e-9909-fcc88093775a"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.031251937,
+    "end_location": [
+      118.0,
+      35.2,
+      2.2
+    ],
+    "key_pass_id": "3d81d90e-2cc6-4fed-92d9-6d892913e147",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.0,
+          36.0
+        ],
+        "player": {
+          "id": 16390,
+          "name": "Juliette Kemppi"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.0,
+          40.0
+        ],
+        "player": {
+          "id": 15626,
+          "name": "Anke Preu\u00df"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          44.0
+        ],
+        "player": {
+          "id": 19779,
+          "name": "Rhiannon Roberts"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          44.0
+        ],
+        "player": {
+          "id": 15614,
+          "name": "Sophie Elizabeth Bradley-Auckland"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          44.0
+        ],
+        "player": {
+          "id": 15622,
+          "name": "Leandra Little"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          32.0
+        ],
+        "player": {
+          "id": 15629,
+          "name": "Satara Murray"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          23.0
+        ],
+        "player": {
+          "id": 16386,
+          "name": "Lucy Graham"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.0,
+          32.0
+        ],
+        "player": {
+          "id": 19777,
+          "name": "Niamh Fahey"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

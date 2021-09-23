@@ -1,0 +1,158 @@
+{
+  "id": "4b0f67d3-7149-4559-8376-fa7f4e6ebccf",
+  "index": 2275,
+  "period": 2,
+  "timestamp": "00:18:49.031",
+  "minute": 63,
+  "second": 49,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 141,
+  "possession_team": {
+    "id": 212,
+    "name": "Atl\u00e9tico Madrid"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 212,
+    "name": "Atl\u00e9tico Madrid"
+  },
+  "player": {
+    "id": 26124,
+    "name": "Maximiliano Rub\u00e9n Rodr\u00edguez"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    98.9,
+    28.0
+  ],
+  "duration": 0.8728,
+  "related_events": [
+    "54102d22-82d0-4f4c-8342-cd90d0eeed09"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.03293669,
+    "end_location": [
+      117.2,
+      35.5,
+      0.0
+    ],
+    "key_pass_id": "06939971-610c-45aa-9dfc-683030e70c91",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          99.4,
+          35.4
+        ],
+        "player": {
+          "id": 3237,
+          "name": "Sergio Leonel Ag\u00fcero del Castillo"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          116.3,
+          38.4
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.0,
+          21.6
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.3,
+          23.2
+        ],
+        "player": {
+          "id": 15774,
+          "name": "Gianluca Zambrotta"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.4,
+          34.6
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.3,
+          27.7
+        ],
+        "player": {
+          "id": 15071,
+          "name": "Lilian Thuram"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

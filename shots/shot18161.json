@@ -1,0 +1,220 @@
+{
+  "id": "a21d4b83-2a52-4d03-9e9a-84fc90813ea7",
+  "index": 2689,
+  "period": 2,
+  "timestamp": "00:10:01.455",
+  "minute": 55,
+  "second": 1,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 93,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5246,
+    "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    100.1,
+    51.1
+  ],
+  "duration": 0.624745,
+  "under_pressure": true,
+  "related_events": [
+    "442eadb4-52a6-4502-acd2-cd2bc7daa9f5",
+    "f1921c22-81d7-4c1a-863a-4353a560383b"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.06839995,
+    "end_location": [
+      117.5,
+      42.1,
+      1.1
+    ],
+    "key_pass_id": "70e4067a-b01a-4bea-bf32-32be15a6b31e",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          105.1,
+          49.4
+        ],
+        "player": {
+          "id": 10802,
+          "name": "Andr\u00e9 Filipe Tavares Gomes"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.6,
+          34.5
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.6,
+          42.3
+        ],
+        "player": {
+          "id": 6378,
+          "name": "Jan Oblak"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.0,
+          49.9
+        ],
+        "player": {
+          "id": 5633,
+          "name": "Yannick Ferreira Carrasco"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          50.4
+        ],
+        "player": {
+          "id": 5249,
+          "name": "Diego Roberto God\u00edn Leal"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.1,
+          35.2
+        ],
+        "player": {
+          "id": 5199,
+          "name": "Jorge Resurrecci\u00f3n Merodio"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.3,
+          39.9
+        ],
+        "player": {
+          "id": 6384,
+          "name": "Gabriel Fern\u00e1ndez Arenas"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.7,
+          49.0
+        ],
+        "player": {
+          "id": 6320,
+          "name": "Filipe Luis Kasmirski"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.5,
+          39.9
+        ],
+        "player": {
+          "id": 6376,
+          "name": "Stefan Savi\u0107"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.5,
+          35.2
+        ],
+        "player": {
+          "id": 6375,
+          "name": "Juan Francisco Torres Bel\u00e9n"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

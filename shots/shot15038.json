@@ -1,0 +1,173 @@
+{
+  "id": "36f624c7-ad70-4982-a2d6-f747730fce00",
+  "index": 3358,
+  "period": 2,
+  "timestamp": "00:33:06.395",
+  "minute": 78,
+  "second": 6,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 168,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 6658,
+    "name": "Cristian Tello Herrera"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    108.2,
+    26.2
+  ],
+  "duration": 0.1398,
+  "related_events": [
+    "4199fffc-8caf-4588-b80e-2da60f7818bd",
+    "737ea678-ffde-472e-a0d7-51858e9af5af"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.04126846,
+    "end_location": [
+      109.1,
+      27.0
+    ],
+    "key_pass_id": "9181847f-25f4-471a-acc8-0eae38092a4f",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.4,
+          43.5
+        ],
+        "player": {
+          "id": 3385,
+          "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.1,
+          32.8
+        ],
+        "player": {
+          "id": 20128,
+          "name": "David Albelda Aliqu\u00e9s"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.4,
+          40.0
+        ],
+        "player": {
+          "id": 6752,
+          "name": "V\u00edctor Ru\u00edz Torre"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.2,
+          44.0
+        ],
+        "player": {
+          "id": 5211,
+          "name": "Jordi Alba Ramos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.6,
+          33.8
+        ],
+        "player": {
+          "id": 3253,
+          "name": "Adil Rami"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.2,
+          27.1
+        ],
+        "player": {
+          "id": 19454,
+          "name": "Ricardo Miguel Moreira da Costa"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.7,
+          36.1
+        ],
+        "player": {
+          "id": 25144,
+          "name": "Diego Alves Carreira"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

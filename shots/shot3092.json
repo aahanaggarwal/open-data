@@ -1,0 +1,173 @@
+{
+  "id": "fedba24c-badf-4f92-8b9e-c784fef43f11",
+  "index": 2924,
+  "period": 2,
+  "timestamp": "00:22:30.876",
+  "minute": 67,
+  "second": 30,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 130,
+  "possession_team": {
+    "id": 222,
+    "name": "Villarreal"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 222,
+    "name": "Villarreal"
+  },
+  "player": {
+    "id": 25937,
+    "name": "Javier Rodr\u00edguez Venta"
+  },
+  "position": {
+    "id": 2,
+    "name": "Right Back"
+  },
+  "location": [
+    102.0,
+    50.3
+  ],
+  "duration": 0.408992,
+  "related_events": [
+    "6f15b145-687d-496c-bb9c-cffeb9a994df"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.095378384,
+    "end_location": [
+      114.1,
+      43.5,
+      0.6
+    ],
+    "key_pass_id": "4cbe7439-523e-48e1-a68f-62ffcd7fa675",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.1,
+          49.1
+        ],
+        "player": {
+          "id": 20177,
+          "name": "Eric-Sylvain Bilal Abidal"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.6,
+          43.8
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.1,
+          32.1
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.4,
+          43.5
+        ],
+        "player": {
+          "id": 5216,
+          "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.1,
+          16.7
+        ],
+        "player": {
+          "id": 22819,
+          "name": "Bruno Soriano Llido"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          82.8,
+          24.8
+        ],
+        "player": {
+          "id": 25921,
+          "name": "Rub\u00e9n Gracia Calmache"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          86.2,
+          47.8
+        ],
+        "player": {
+          "id": 26198,
+          "name": "Guillermo Luis Franco Farquarson"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

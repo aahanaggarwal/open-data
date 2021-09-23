@@ -1,0 +1,130 @@
+{
+  "id": "9fb2b9fb-4d36-4c75-96b5-94d3f844bff1",
+  "index": 890,
+  "period": 1,
+  "timestamp": "00:21:39.106",
+  "minute": 21,
+  "second": 39,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 61,
+  "possession_team": {
+    "id": 105,
+    "name": "Portsmouth"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 105,
+    "name": "Portsmouth"
+  },
+  "player": {
+    "id": 40337,
+    "name": "Yakubu Aiyegbeni"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    99.4,
+    49.4
+  ],
+  "duration": 0.345024,
+  "under_pressure": true,
+  "related_events": [
+    "9510169b-c4c6-40c0-bddf-420e3c4c30a9",
+    "b773bd2c-f478-487f-b09c-571c474e2f51"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.23634279,
+    "end_location": [
+      111.5,
+      43.6,
+      0.5
+    ],
+    "key_pass_id": "b73a569c-c66f-4cb9-8cfe-2c2f47fdac35",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          98.5,
+          48.5
+        ],
+        "player": {
+          "id": 12529,
+          "name": "Ashley Cole"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.7,
+          46.5
+        ],
+        "player": {
+          "id": 15637,
+          "name": "Sulzeer Jeremiah \"Sol\" Campbell"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          45.5
+        ],
+        "player": {
+          "id": 38412,
+          "name": "Kolo Habib Tour\u00e9"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.8,
+          43.4
+        ],
+        "player": {
+          "id": 20015,
+          "name": "Jens Lehmann"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "id": "be1f9939-74a1-41d4-b80f-a2729ea6da75",
+  "index": 1567,
+  "period": 1,
+  "timestamp": "00:40:06.805",
+  "minute": 40,
+  "second": 6,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 99,
+  "possession_team": {
+    "id": 971,
+    "name": "Chelsea FCW"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 971,
+    "name": "Chelsea FCW"
+  },
+  "player": {
+    "id": 4638,
+    "name": "Drew Spence"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    100.0,
+    50.0
+  ],
+  "duration": 1.242441,
+  "related_events": [
+    "a6d54230-df13-4179-b31f-7457784e56cd"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.041738696,
+    "end_location": [
+      118.0,
+      37.2,
+      0.5
+    ],
+    "key_pass_id": "16b2fd8a-4606-4de4-b01b-cf10227af45a",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          107.0,
+          61.0
+        ],
+        "player": {
+          "id": 15550,
+          "name": "Bethany England"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          93.0,
+          59.0
+        ],
+        "player": {
+          "id": 17275,
+          "name": "Hannah Jayne Blundell"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.0,
+          38.0
+        ],
+        "player": {
+          "id": 4641,
+          "name": "Francesca Kirby"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.0,
+          40.0
+        ],
+        "player": {
+          "id": 15614,
+          "name": "Sophie Elizabeth Bradley-Auckland"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          50.0
+        ],
+        "player": {
+          "id": 15618,
+          "name": "Jasmine Matthews"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.0,
+          59.0
+        ],
+        "player": {
+          "id": 15218,
+          "name": "Jessica Anne Clarke"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          40.0
+        ],
+        "player": {
+          "id": 19778,
+          "name": "Frances Kitching"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          50.0
+        ],
+        "player": {
+          "id": 19777,
+          "name": "Niamh Fahey"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          56.0
+        ],
+        "player": {
+          "id": 15630,
+          "name": "Leigh-Anne Robe"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.0,
+          41.0
+        ],
+        "player": {
+          "id": 19779,
+          "name": "Rhiannon Roberts"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

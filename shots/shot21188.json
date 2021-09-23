@@ -1,0 +1,204 @@
+{
+  "id": "3a75d386-3e10-420d-8ff1-631705b5dde3",
+  "index": 1405,
+  "period": 1,
+  "timestamp": "00:36:10.934",
+  "minute": 36,
+  "second": 10,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 62,
+  "possession_team": {
+    "id": 969,
+    "name": "Birmingham City WFC"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 969,
+    "name": "Birmingham City WFC"
+  },
+  "player": {
+    "id": 15562,
+    "name": "Lucy Staniforth"
+  },
+  "position": {
+    "id": 11,
+    "name": "Left Defensive Midfield"
+  },
+  "location": [
+    116.0,
+    57.0
+  ],
+  "duration": 0.701085,
+  "related_events": [
+    "58227823-ce80-434b-9797-7682db17e7d5"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.02302927,
+    "end_location": [
+      119.0,
+      37.0,
+      1.7
+    ],
+    "key_pass_id": "2f90a226-5cc2-4490-94f2-528b496e5633",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          114.0,
+          50.0
+        ],
+        "player": {
+          "id": 15717,
+          "name": "Hannah Short"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          53.0
+        ],
+        "player": {
+          "id": 15710,
+          "name": "Megan Alexander"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          56.0
+        ],
+        "player": {
+          "id": 15713,
+          "name": "Bonnie Horwood"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          47.0
+        ],
+        "player": {
+          "id": 15707,
+          "name": "Georgia Evans"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          40.0
+        ],
+        "player": {
+          "id": 15708,
+          "name": "Amy Goddard"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          33.0
+        ],
+        "player": {
+          "id": 15714,
+          "name": "Anne-Marie Heatherson"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          43.0
+        ],
+        "player": {
+          "id": 15709,
+          "name": "Megan Walsh"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          38.0
+        ],
+        "player": {
+          "id": 15557,
+          "name": "Emma Follis"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.0,
+          46.0
+        ],
+        "player": {
+          "id": 15564,
+          "name": "Lucy Quinn"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

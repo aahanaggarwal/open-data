@@ -1,0 +1,144 @@
+{
+  "id": "6687b854-da6a-4ed8-b10d-abd67f28b163",
+  "index": 3145,
+  "period": 2,
+  "timestamp": "00:36:35.194",
+  "minute": 81,
+  "second": 35,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 185,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 15743,
+    "name": "Henrik Larsson"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    113.1,
+    43.6
+  ],
+  "duration": 0.566631,
+  "related_events": [
+    "d93b83ab-6a45-45f8-ba4c-7f61c3456ec4"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.42878753,
+    "end_location": [
+      120.0,
+      41.5,
+      0.3
+    ],
+    "key_pass_id": "d1275283-fd81-40ef-ae72-66bb80c5fdea",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          113.8,
+          64.7
+        ],
+        "player": {
+          "id": 25919,
+          "name": "Gabriel Alejandro Milito"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.9,
+          30.3
+        ],
+        "player": {
+          "id": 25922,
+          "name": "Leonardo Daniel Ponzio"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.4,
+          41.7
+        ],
+        "player": {
+          "id": 25913,
+          "name": "\u00c1lvaro Luiz Maior de Aquino"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.6,
+          42.9
+        ],
+        "player": {
+          "id": 25917,
+          "name": "C\u00e9sar S\u00e1nchez Dom\u00ednguez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.0,
+          26.6
+        ],
+        "player": {
+          "id": 25879,
+          "name": "Ronaldo de Assis Moreira"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

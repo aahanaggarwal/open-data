@@ -1,0 +1,234 @@
+{
+  "id": "6ced3225-917a-4ffb-9b11-cb2529823c72",
+  "index": 4000,
+  "period": 3,
+  "timestamp": "00:18:52.377",
+  "minute": 108,
+  "second": 52,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 250,
+  "possession_team": {
+    "id": 852,
+    "name": "Norway Women's"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "out": true,
+  "team": {
+    "id": 852,
+    "name": "Norway Women's"
+  },
+  "player": {
+    "id": 25466,
+    "name": "Vilde B\u00f8e Risa"
+  },
+  "position": {
+    "id": 9,
+    "name": "Right Defensive Midfield"
+  },
+  "location": [
+    80.6,
+    46.9
+  ],
+  "duration": 1.331412,
+  "related_events": [
+    "441bd790-a995-4c92-8e5c-5f08f392b6f7"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.020550273,
+    "end_location": [
+      120.0,
+      37.4,
+      2.8
+    ],
+    "key_pass_id": "fcaf550b-c1a7-4d39-863b-b87067ca1432",
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 99,
+      "name": "Post"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          87.0,
+          53.9
+        ],
+        "player": {
+          "id": 5095,
+          "name": "Ellie Carpenter"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.7,
+          41.7
+        ],
+        "player": {
+          "id": 5066,
+          "name": "Lydia Williams"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          76.2,
+          53.1
+        ],
+        "player": {
+          "id": 10516,
+          "name": "Frida Maanum"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          75.1,
+          50.0
+        ],
+        "player": {
+          "id": 5076,
+          "name": "Emily van Egmond"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          87.3,
+          47.6
+        ],
+        "player": {
+          "id": 10387,
+          "name": "Lisa-Marie Utland"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          91.8,
+          45.3
+        ],
+        "player": {
+          "id": 10386,
+          "name": "Caroline Graham Hansen"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          90.8,
+          47.0
+        ],
+        "player": {
+          "id": 5000,
+          "name": "Steph Catley"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          90.0,
+          43.2
+        ],
+        "player": {
+          "id": 8382,
+          "name": "Clare Polkinghorne"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          88.9,
+          38.7
+        ],
+        "player": {
+          "id": 25547,
+          "name": "Chloe Logarzo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          82.0,
+          44.6
+        ],
+        "player": {
+          "id": 25549,
+          "name": "Tameka Butt"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          84.3,
+          41.0
+        ],
+        "player": {
+          "id": 10514,
+          "name": "Guro Reiten"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

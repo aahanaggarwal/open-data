@@ -1,0 +1,173 @@
+{
+  "id": "5b844e2b-ecfa-4315-99d7-26de571ec19f",
+  "index": 987,
+  "period": 1,
+  "timestamp": "00:25:48.015",
+  "minute": 25,
+  "second": 48,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 66,
+  "possession_team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "player": {
+    "id": 5034,
+    "name": "Jessica McDonald"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    110.0,
+    28.0
+  ],
+  "duration": 0.958,
+  "related_events": [
+    "c8860031-1ab3-4fb3-9afc-c1a681a1ab6a"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.2838159,
+    "end_location": [
+      120.0,
+      45.8,
+      0.2
+    ],
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          93.0,
+          4.0
+        ],
+        "player": {
+          "id": 5055,
+          "name": "Lynn Williams"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          86.0,
+          36.0
+        ],
+        "player": {
+          "id": 5080,
+          "name": "Kristen Hamilton"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.0,
+          36.0
+        ],
+        "player": {
+          "id": 4943,
+          "name": "Estelle Johnson"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.0,
+          41.0
+        ],
+        "player": {
+          "id": 4962,
+          "name": "Caprice Dydasco"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          27.0
+        ],
+        "player": {
+          "id": 4950,
+          "name": "Whitney Church"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          4.0
+        ],
+        "player": {
+          "id": 4941,
+          "name": "Taylor Smith"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          32.0
+        ],
+        "player": {
+          "id": 5025,
+          "name": "Aubrey Bledsoe"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

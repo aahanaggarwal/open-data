@@ -1,0 +1,144 @@
+{
+  "id": "51c07cff-104e-418c-970c-910b488c144f",
+  "index": 2631,
+  "period": 2,
+  "timestamp": "00:27:34.535",
+  "minute": 72,
+  "second": 34,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 174,
+  "possession_team": {
+    "id": 214,
+    "name": "Espanyol"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 214,
+    "name": "Espanyol"
+  },
+  "player": {
+    "id": 26109,
+    "name": "Ra\u00fal Tamudo Montero"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    110.1,
+    51.4
+  ],
+  "duration": 0.5156,
+  "related_events": [
+    "1635607c-d38b-4f0d-b995-4d0030748092"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.21744241,
+    "end_location": [
+      117.2,
+      44.7,
+      0.2
+    ],
+    "key_pass_id": "339b0137-9674-4e10-a623-1130d4bbe5bb",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          109.5,
+          50.4
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.2,
+          41.9
+        ],
+        "player": {
+          "id": 15071,
+          "name": "Lilian Thuram"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.6,
+          40.6
+        ],
+        "player": {
+          "id": 25873,
+          "name": "Oleguer Presas Renom"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.9,
+          44.2
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.3,
+          41.6
+        ],
+        "player": {
+          "id": 23916,
+          "name": "Luis Garc\u00eda Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

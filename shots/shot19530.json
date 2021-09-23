@@ -1,0 +1,159 @@
+{
+  "id": "70baea88-131f-45c1-89c4-68bb70b8f0fa",
+  "index": 3236,
+  "period": 2,
+  "timestamp": "00:39:08.766",
+  "minute": 84,
+  "second": 8,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 167,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 4913,
+    "name": "Bojan Krk\u00edc P\u00e9rez"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    101.6,
+    38.6
+  ],
+  "duration": 0.2198,
+  "related_events": [
+    "5d75b448-92f9-497c-a663-ddbda9007a3a"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.5334361,
+    "end_location": [
+      108.5,
+      40.3,
+      0.0
+    ],
+    "key_pass_id": "9881b745-cd89-4980-b0c7-be44f630efa8",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          100.6,
+          47.0
+        ],
+        "player": {
+          "id": 26547,
+          "name": "Luciano Fabi\u00e1n Monz\u00f3n"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.5,
+          45.0
+        ],
+        "player": {
+          "id": 20519,
+          "name": "Juan Guti\u00e9rrez Moreno"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.5,
+          35.6
+        ],
+        "player": {
+          "id": 26589,
+          "name": "N\u00e9lson Augusto Tomar Marcos"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.4,
+          30.8
+        ],
+        "player": {
+          "id": 5216,
+          "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.0,
+          49.7
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.9,
+          40.0
+        ],
+        "player": {
+          "id": 23815,
+          "name": "Casto Espinosa Barriga"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "id": "917e8bfa-7f92-4246-84c0-03dd0dea9667",
+  "index": 1905,
+  "period": 1,
+  "timestamp": "00:41:01.450",
+  "minute": 41,
+  "second": 1,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 98,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 20169,
+    "name": "Seydou K\u00e9ita"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    116.8,
+    41.6
+  ],
+  "duration": 0.2864,
+  "related_events": [
+    "f8398e01-a775-4ba1-adcf-92b04435de09"
+  ],
+  "shot": {
+    "open_goal": true,
+    "statsbomb_xg": 0.8430146,
+    "end_location": [
+      120.0,
+      40.8,
+      2.4
+    ],
+    "key_pass_id": "55f1857f-389c-4065-a12f-3dd5ef52175b",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          115.3,
+          27.7
+        ],
+        "player": {
+          "id": 3672,
+          "name": "Zlatan Ibrahimovi\u0107"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          95.7,
+          41.6
+        ],
+        "player": {
+          "id": 6192,
+          "name": "Abel Enrique Aguilar Tapia"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.9,
+          40.0
+        ],
+        "player": {
+          "id": 26707,
+          "name": "Juan Pablo Carrizo"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.3,
+          40.1
+        ],
+        "player": {
+          "id": 26215,
+          "name": "Francisco Pav\u00f3n Barahona"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.4,
+          30.0
+        ],
+        "player": {
+          "id": 26708,
+          "name": "Pablo Amo Aguado"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.7,
+          29.9
+        ],
+        "player": {
+          "id": 26062,
+          "name": "Rub\u00e9n Mart\u00edn Pulido"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.1,
+          51.6
+        ],
+        "player": {
+          "id": 26429,
+          "name": "Javier Paredes Arango"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "ad510442-a499-4d86-992d-e57a61694b78",
+  "index": 3632,
+  "period": 2,
+  "timestamp": "00:46:52.871",
+  "minute": 91,
+  "second": 52,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 208,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    105.9,
+    34.9
+  ],
+  "duration": 0.136828,
+  "related_events": [
+    "cb3ed4f6-bcac-4e7a-8284-4d7a5da134ca"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.3231269,
+    "end_location": [
+      109.3,
+      36.9,
+      1.3
+    ],
+    "key_pass_id": "e3216cfe-ea34-4fcf-9104-42a763ef6db1",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.8,
+          36.1
+        ],
+        "player": {
+          "id": 26062,
+          "name": "Rub\u00e9n Mart\u00edn Pulido"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.8,
+          36.9
+        ],
+        "player": {
+          "id": 26059,
+          "name": "Luis Garc\u00eda Conde"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

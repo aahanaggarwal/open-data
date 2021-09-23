@@ -1,0 +1,130 @@
+{
+  "id": "f4699b6a-b094-4486-af38-e28ff4a1666b",
+  "index": 2931,
+  "period": 2,
+  "timestamp": "00:28:32.877",
+  "minute": 73,
+  "second": 32,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 149,
+  "possession_team": {
+    "id": 215,
+    "name": "Athletic Bilbao"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 215,
+    "name": "Athletic Bilbao"
+  },
+  "player": {
+    "id": 6393,
+    "name": "I\u00f1aki Williams Arthuer"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    103.3,
+    41.1
+  ],
+  "duration": 0.612087,
+  "under_pressure": true,
+  "related_events": [
+    "0a9a80af-3ede-456f-ac28-665f2948ba97",
+    "65ee3e8b-6699-4ce2-b1da-450c5d110333",
+    "c4f86fb9-574b-4b96-a187-ac85250afc6b"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.1044178,
+    "end_location": [
+      104.1,
+      41.1
+    ],
+    "key_pass_id": "05f6e70a-60cb-42c8-9006-291f68357bd2",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.6,
+          40.9
+        ],
+        "player": {
+          "id": 6374,
+          "name": "N\u00e9lson Cabral Semedo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.8,
+          40.0
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.1,
+          46.5
+        ],
+        "player": {
+          "id": 6826,
+          "name": "Cl\u00e9ment Lenglet"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.8,
+          37.2
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "id": "165f61a1-027e-4d56-9a60-8f26132e9f5c",
+  "index": 3020,
+  "period": 2,
+  "timestamp": "00:36:03.127",
+  "minute": 81,
+  "second": 3,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 169,
+  "possession_team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "player": {
+    "id": 4654,
+    "name": "Nikita Parris"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    108.0,
+    45.0
+  ],
+  "duration": 0.9925,
+  "related_events": [
+    "9d5d7ff1-3e4d-4ae6-a4f5-5501500bcd44",
+    "b4663cce-b13d-407d-8f88-e3be860d565b"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.66983193,
+    "end_location": [
+      117.0,
+      41.0
+    ],
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.0,
+          37.0
+        ],
+        "player": {
+          "id": 4992,
+          "name": "Janine Beckie"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.0,
+          43.0
+        ],
+        "player": {
+          "id": 22027,
+          "name": "Anne Moorhouse"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          39.0
+        ],
+        "player": {
+          "id": 18151,
+          "name": "Gilly Louise Scarlett Flaherty"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          48.0
+        ],
+        "player": {
+          "id": 18156,
+          "name": "Claire Lauren Rafferty"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

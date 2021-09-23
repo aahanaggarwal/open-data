@@ -1,0 +1,115 @@
+{
+  "id": "26c8b5e5-f59d-450f-886e-22198928ee64",
+  "index": 2306,
+  "period": 2,
+  "timestamp": "00:19:39.247",
+  "minute": 64,
+  "second": 39,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 161,
+  "possession_team": {
+    "id": 974,
+    "name": "Reading WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 974,
+    "name": "Reading WFC"
+  },
+  "player": {
+    "id": 15723,
+    "name": "Brooke Chaplen"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    116.0,
+    45.0
+  ],
+  "duration": 0.86421,
+  "related_events": [
+    "d0fecc7e-eeed-4d90-9505-cd436239260e"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.35079938,
+    "end_location": [
+      119.0,
+      42.8,
+      1.1
+    ],
+    "key_pass_id": "29413891-90b3-470d-a9f3-7feaf847cdaa",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "deflected": true,
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.0,
+          42.0
+        ],
+        "player": {
+          "id": 16376,
+          "name": "Sophie Baggaley"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          43.0
+        ],
+        "player": {
+          "id": 16381,
+          "name": "Gemma Evans"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          46.0
+        ],
+        "player": {
+          "id": 16383,
+          "name": "Danique Kerkdijk"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

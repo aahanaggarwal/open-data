@@ -1,0 +1,173 @@
+{
+  "id": "dda8f2e2-f6bd-4753-aded-f050cd64f043",
+  "index": 3240,
+  "period": 2,
+  "timestamp": "00:39:20.371",
+  "minute": 84,
+  "second": 20,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 130,
+  "possession_team": {
+    "id": 215,
+    "name": "Athletic Bilbao"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 215,
+    "name": "Athletic Bilbao"
+  },
+  "player": {
+    "id": 6666,
+    "name": "Sabin Merino Zuloaga"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    113.2,
+    40.0
+  ],
+  "duration": 0.0664,
+  "related_events": [
+    "d369f7bb-7a2a-4faa-8020-b773d7341421"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.41676015,
+    "end_location": [
+      113.9,
+      39.7,
+      1.5
+    ],
+    "first_time": true,
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          96.5,
+          40.0
+        ],
+        "player": {
+          "id": 6606,
+          "name": "Javier Eraso Go\u00f1i"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.4,
+          25.9
+        ],
+        "player": {
+          "id": 6400,
+          "name": "Aleix Vidal Parreu"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.8,
+          48.7
+        ],
+        "player": {
+          "id": 6379,
+          "name": "Sergi Roberto Carnicer"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.4,
+          39.0
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.9,
+          40.2
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          39.1
+        ],
+        "player": {
+          "id": 7068,
+          "name": "Marc Bartra Aregall"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.6,
+          39.9
+        ],
+        "player": {
+          "id": 4691,
+          "name": "Claudio Andr\u00e9s Bravo Mu\u00f1oz"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

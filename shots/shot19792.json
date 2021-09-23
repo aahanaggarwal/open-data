@@ -1,0 +1,129 @@
+{
+  "id": "e9c2ab78-a83a-4ab6-81e4-8b75bd6a6c3b",
+  "index": 553,
+  "period": 1,
+  "timestamp": "00:11:55.164",
+  "minute": 11,
+  "second": 55,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 28,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 4320,
+    "name": "Neymar da Silva Santos Junior"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    100.4,
+    37.4
+  ],
+  "duration": 0.7697,
+  "related_events": [
+    "a2205b66-207e-4b4a-9899-aefb86b8c572"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.2811933,
+    "end_location": [
+      107.8,
+      38.7,
+      1.6
+    ],
+    "key_pass_id": "a257b573-5624-428c-a37b-3d75d86241c5",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          84.7,
+          53.4
+        ],
+        "player": {
+          "id": 4406,
+          "name": "Aymen Abdennour"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.6,
+          44.7
+        ],
+        "player": {
+          "id": 26780,
+          "name": "Guilherme Magdalena Siqueira"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.5,
+          31.1
+        ],
+        "player": {
+          "id": 6663,
+          "name": "Antonio Barrag\u00e1n Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.9,
+          39.7
+        ],
+        "player": {
+          "id": 25144,
+          "name": "Diego Alves Carreira"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "id": "fec547f5-4803-4b10-a02f-ea287ca351c9",
+  "index": 3127,
+  "period": 2,
+  "timestamp": "00:34:53.003",
+  "minute": 79,
+  "second": 53,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 169,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 23816,
+    "name": "Jos\u00e9 Antonio Reyes Calder\u00f3n"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    100.1,
+    32.2
+  ],
+  "duration": 0.085709,
+  "under_pressure": true,
+  "related_events": [
+    "99ee5619-a493-4427-9816-6d27cb86ec99",
+    "dd1bd2ef-0ed4-4b69-a4a8-31af0d52fa54",
+    "e9b33f4d-1997-4edc-9ef6-3d4728523761"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.06621136,
+    "end_location": [
+      102.8,
+      33.3
+    ],
+    "key_pass_id": "05f98b66-c734-4d3f-8085-e8b39bfcbedb",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.4,
+          39.9
+        ],
+        "player": {
+          "id": 40132,
+          "name": "Paul Robinson"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.5,
+          22.1
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.9,
+          39.3
+        ],
+        "player": {
+          "id": 40371,
+          "name": "Michael Duberry"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.3,
+          33.7
+        ],
+        "player": {
+          "id": 40369,
+          "name": "Steven Caldwell"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.9,
+          48.3
+        ],
+        "player": {
+          "id": 40368,
+          "name": "Ian Harte"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.6,
+          28.5
+        ],
+        "player": {
+          "id": 40270,
+          "name": "Gary Oliver Kelly"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

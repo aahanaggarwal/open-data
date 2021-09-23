@@ -1,0 +1,128 @@
+{
+  "id": "66769971-d577-45f3-924b-7286e2103371",
+  "index": 2566,
+  "period": 2,
+  "timestamp": "00:29:35.174",
+  "minute": 74,
+  "second": 35,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 157,
+  "possession_team": {
+    "id": 215,
+    "name": "Athletic Bilbao"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 215,
+    "name": "Athletic Bilbao"
+  },
+  "player": {
+    "id": 15606,
+    "name": "Joseba Andoni Etxeberria Lizardi"
+  },
+  "position": {
+    "id": 18,
+    "name": "Right Attacking Midfield"
+  },
+  "location": [
+    113.9,
+    53.0
+  ],
+  "duration": 0.0154,
+  "related_events": [
+    "3f1701c7-8ff3-4922-b3de-119b79b03272",
+    "dc96732c-8801-4a2f-abcc-d4324a51e3ec"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.04300441,
+    "end_location": [
+      114.3,
+      52.3
+    ],
+    "key_pass_id": "2988df56-d965-444d-9adf-265cf75cd030",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.5,
+          39.3
+        ],
+        "player": {
+          "id": 5558,
+          "name": "Rafael M\u00e1rquez \u00c1lvarez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.5,
+          44.5
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.3,
+          52.2
+        ],
+        "player": {
+          "id": 17797,
+          "name": "Giovanni van Bronckhorst"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.1,
+          51.2
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

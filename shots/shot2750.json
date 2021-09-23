@@ -1,0 +1,203 @@
+{
+  "id": "5d8e2a18-29b0-4d5a-bdd4-7e39a01df75a",
+  "index": 1843,
+  "period": 1,
+  "timestamp": "00:46:59.109",
+  "minute": 46,
+  "second": 59,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 93,
+  "possession_team": {
+    "id": 968,
+    "name": "Arsenal WFC"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 968,
+    "name": "Arsenal WFC"
+  },
+  "player": {
+    "id": 15620,
+    "name": "Katie McCabe"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    108.0,
+    31.0
+  ],
+  "duration": 0.2208,
+  "related_events": [
+    "8d0b2b94-366f-409b-81fd-5b925b35f64c"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.19291155,
+    "end_location": [
+      117.0,
+      37.6,
+      1.0
+    ],
+    "key_pass_id": "d9883d11-ba78-4ed5-9535-6e19dbbeb65a",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.0,
+          37.0
+        ],
+        "player": {
+          "id": 16376,
+          "name": "Sophie Baggaley"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          46.0
+        ],
+        "player": {
+          "id": 10658,
+          "name": "Danielle van de Donk"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.0,
+          28.0
+        ],
+        "player": {
+          "id": 10192,
+          "name": "Jordan Nobbs"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.0,
+          48.0
+        ],
+        "player": {
+          "id": 15623,
+          "name": "Vivianne Miedema"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.0,
+          33.0
+        ],
+        "player": {
+          "id": 16383,
+          "name": "Danique Kerkdijk"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          40.0
+        ],
+        "player": {
+          "id": 16381,
+          "name": "Gemma Evans"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          45.0
+        ],
+        "player": {
+          "id": 17274,
+          "name": "Poppy Pattinson"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          35.0
+        ],
+        "player": {
+          "id": 10095,
+          "name": "Julie Biesmans"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          38.0
+        ],
+        "player": {
+          "id": 10171,
+          "name": "Frankie Brown"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

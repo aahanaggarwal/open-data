@@ -1,0 +1,158 @@
+{
+  "id": "897e0e81-acde-4f32-a177-dbc4c3de574a",
+  "index": 2084,
+  "period": 2,
+  "timestamp": "00:03:03.073",
+  "minute": 48,
+  "second": 3,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 100,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3478,
+    "name": "Francesc F\u00e0bregas i Soler"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    111.4,
+    28.8
+  ],
+  "duration": 0.80126,
+  "related_events": [
+    "2460c03d-243a-4b3c-a0eb-b497ed9eb660"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.0548853,
+    "end_location": [
+      117.8,
+      38.7,
+      0.1
+    ],
+    "key_pass_id": "214a6bb3-632a-4d19-aab1-c2078a33702c",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.2,
+          39.7
+        ],
+        "player": {
+          "id": 6752,
+          "name": "V\u00edctor Ru\u00edz Torre"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          29.0
+        ],
+        "player": {
+          "id": 20128,
+          "name": "David Albelda Aliqu\u00e9s"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.9,
+          29.3
+        ],
+        "player": {
+          "id": 3253,
+          "name": "Adil Rami"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.1,
+          27.5
+        ],
+        "player": {
+          "id": 19454,
+          "name": "Ricardo Miguel Moreira da Costa"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          37.4
+        ],
+        "player": {
+          "id": 25144,
+          "name": "Diego Alves Carreira"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.6,
+          12.4
+        ],
+        "player": {
+          "id": 3958,
+          "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "id": "ef95c946-1f73-4459-9c81-4c252e8065ff",
+  "index": 2647,
+  "period": 2,
+  "timestamp": "00:12:37.294",
+  "minute": 57,
+  "second": 37,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 104,
+  "possession_team": {
+    "id": 206,
+    "name": "Deportivo Alav\u00e9s"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 206,
+    "name": "Deportivo Alav\u00e9s"
+  },
+  "player": {
+    "id": 6400,
+    "name": "Aleix Vidal Parreu"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    86.8,
+    21.8
+  ],
+  "duration": 0.408331,
+  "related_events": [
+    "62b248ef-e93d-49fc-b61f-159e31e5fe25"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.1210308,
+    "end_location": [
+      94.9,
+      25.7,
+      0.0
+    ],
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.2,
+          29.0
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.6,
+          26.3
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          87.2,
+          41.7
+        ],
+        "player": {
+          "id": 5492,
+          "name": "Samuel Yves Umtiti"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          69.3,
+          26.5
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          85.6,
+          20.4
+        ],
+        "player": {
+          "id": 6379,
+          "name": "Sergi Roberto Carnicer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          83.9,
+          18.2
+        ],
+        "player": {
+          "id": 24049,
+          "name": "Luis Jes\u00fas Rioja Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.6,
+          24.4
+        ],
+        "player": {
+          "id": 6732,
+          "name": "Lucas P\u00e9rez Mart\u00ednez"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

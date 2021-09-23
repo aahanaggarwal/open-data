@@ -1,0 +1,143 @@
+{
+  "id": "a4271b4f-afe1-4719-928b-a3ffc31fef16",
+  "index": 2537,
+  "period": 2,
+  "timestamp": "00:31:54.615",
+  "minute": 76,
+  "second": 54,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 171,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    112.9,
+    42.7
+  ],
+  "duration": 1.372122,
+  "related_events": [
+    "284af88c-3154-4840-9ec4-aee8f7e503c4"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.29256076,
+    "end_location": [
+      120.0,
+      37.8,
+      0.8
+    ],
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 70,
+      "name": "Other"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.6,
+          48.8
+        ],
+        "player": {
+          "id": 34389,
+          "name": "Sami Hyypi\u00e4"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.4,
+          42.6
+        ],
+        "player": {
+          "id": 40254,
+          "name": "Igor Bi\u0161\u0107an"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.3,
+          41.6
+        ],
+        "player": {
+          "id": 34388,
+          "name": "Jamie Carragher"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.3,
+          41.9
+        ],
+        "player": {
+          "id": 34390,
+          "name": "Jerzy Dudek"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.3,
+          18.7
+        ],
+        "player": {
+          "id": 26014,
+          "name": "Eduardo C\u00e9sar Daude Gaspar"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

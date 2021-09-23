@@ -1,0 +1,159 @@
+{
+  "id": "fd78f400-091b-4f3f-a7c8-a6812487eb5b",
+  "index": 1885,
+  "period": 2,
+  "timestamp": "00:09:11.349",
+  "minute": 54,
+  "second": 11,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 137,
+  "possession_team": {
+    "id": 972,
+    "name": "West Ham United LFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 972,
+    "name": "West Ham United LFC"
+  },
+  "player": {
+    "id": 31554,
+    "name": "Jacinta Galabadaarachchi"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    103.8,
+    48.4
+  ],
+  "duration": 0.242915,
+  "related_events": [
+    "45979b56-0f7d-43bc-9f88-cba4941880c3",
+    "af8bc11e-9593-44ab-b5d0-2324ce427b87"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.041104496,
+    "end_location": [
+      105.1,
+      48.0
+    ],
+    "key_pass_id": "57677421-88de-4ab7-8af1-2e0d480a964f",
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          105.0,
+          47.6
+        ],
+        "player": {
+          "id": 4642,
+          "name": "Millie Bright"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.6,
+          35.5
+        ],
+        "player": {
+          "id": 10395,
+          "name": "Maren N\u00e6vdal Mjelde"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.6,
+          53.9
+        ],
+        "player": {
+          "id": 4633,
+          "name": "Magdalena Ericsson"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          42.1
+        ],
+        "player": {
+          "id": 15560,
+          "name": "Ann-Katrin Berger"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.1,
+          57.2
+        ],
+        "player": {
+          "id": 18153,
+          "name": "Alisha Lehmann"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          95.0,
+          56.4
+        ],
+        "player": {
+          "id": 10222,
+          "name": "Jonna Andersson"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

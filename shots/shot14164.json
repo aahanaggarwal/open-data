@@ -1,0 +1,173 @@
+{
+  "id": "7cede7ef-804a-4896-9b0a-e67385d77d32",
+  "index": 459,
+  "period": 1,
+  "timestamp": "00:07:32.968",
+  "minute": 7,
+  "second": 32,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 16,
+  "possession_team": {
+    "id": 212,
+    "name": "Atl\u00e9tico Madrid"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 212,
+    "name": "Atl\u00e9tico Madrid"
+  },
+  "player": {
+    "id": 3445,
+    "name": "Radamel Falcao Garc\u00eda Z\u00e1rate"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    101.0,
+    26.8
+  ],
+  "duration": 0.915044,
+  "related_events": [
+    "2ca7b9a4-682d-4a90-8c2a-6836e7885303"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.050624482,
+    "end_location": [
+      117.0,
+      40.0,
+      0.3
+    ],
+    "key_pass_id": "69538402-c6f0-4e2a-9685-4438f370547b",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          80.6,
+          40.2
+        ],
+        "player": {
+          "id": 27053,
+          "name": "Alexandre Dimitri Song-Billong"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          86.3,
+          45.8
+        ],
+        "player": {
+          "id": 22102,
+          "name": "Adriano Correia Claro"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.0,
+          50.1
+        ],
+        "player": {
+          "id": 5211,
+          "name": "Jordi Alba Ramos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.9,
+          33.6
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.8,
+          28.3
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.5,
+          39.7
+        ],
+        "player": {
+          "id": 26005,
+          "name": "Jos\u00e9 Manuel Pinto Colorado"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          82.6,
+          65.0
+        ],
+        "player": {
+          "id": 6735,
+          "name": "Adri\u00e1n L\u00f3pez \u00c1lvarez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

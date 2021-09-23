@@ -1,0 +1,206 @@
+{
+  "id": "2ec48025-59d9-40a1-967d-76898a65e2b7",
+  "index": 2185,
+  "period": 2,
+  "timestamp": "00:15:35.137",
+  "minute": 60,
+  "second": 35,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 135,
+  "possession_team": {
+    "id": 763,
+    "name": "Sky Blue FC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 763,
+    "name": "Sky Blue FC"
+  },
+  "player": {
+    "id": 4986,
+    "name": "Shea Groom"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    109.0,
+    50.0
+  ],
+  "duration": 0.576,
+  "under_pressure": true,
+  "related_events": [
+    "4f9bc6ec-c0a3-4a21-b209-6048c92ae149",
+    "8a68de5d-c940-45cc-ab92-27ba814e91a8"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.24658422,
+    "end_location": [
+      120.0,
+      44.4,
+      0.7
+    ],
+    "key_pass_id": "fb5e50bf-52be-48bc-8a23-4ee90a9d2864",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 99,
+      "name": "Post"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.0,
+          48.0
+        ],
+        "player": {
+          "id": 5092,
+          "name": "Emily Menges"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          40.0
+        ],
+        "player": {
+          "id": 5095,
+          "name": "Ellie Carpenter"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          46.0
+        ],
+        "player": {
+          "id": 5011,
+          "name": "Meghan Klingenberg"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          45.0
+        ],
+        "player": {
+          "id": 5005,
+          "name": "Britt Eckerstrom"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.0,
+          46.0
+        ],
+        "player": {
+          "id": 6816,
+          "name": "Elizabeth Ball"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.0,
+          52.0
+        ],
+        "player": {
+          "id": 8565,
+          "name": "Angela Salem"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.0,
+          43.0
+        ],
+        "player": {
+          "id": 5096,
+          "name": "Savannah McCaskill"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          89.0,
+          29.0
+        ],
+        "player": {
+          "id": 7180,
+          "name": "Imani Dorsey"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          95.0,
+          41.0
+        ],
+        "player": {
+          "id": 4995,
+          "name": "Celeste Boureille"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

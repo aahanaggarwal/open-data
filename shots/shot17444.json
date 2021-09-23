@@ -1,0 +1,191 @@
+{
+  "id": "814a1252-2da8-4a56-82fd-1cbb18e9a241",
+  "index": 1241,
+  "period": 1,
+  "timestamp": "00:29:50.449",
+  "minute": 29,
+  "second": 50,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 86,
+  "possession_team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "play_pattern": {
+    "id": 2,
+    "name": "From Corner"
+  },
+  "team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "player": {
+    "id": 10185,
+    "name": "Stephanie Houghton"
+  },
+  "position": {
+    "id": 3,
+    "name": "Right Center Back"
+  },
+  "location": [
+    111.0,
+    43.0
+  ],
+  "duration": 1.5683,
+  "under_pressure": true,
+  "related_events": [
+    "270604e0-a5a2-40d2-b677-f00078832b20",
+    "6751f3ff-72a4-4904-b950-a415574c5e3b"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.057537116,
+    "end_location": [
+      119.0,
+      47.3,
+      0.6
+    ],
+    "key_pass_id": "bdd586c3-81d2-449e-a604-9ccdc6de21a7",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "aerial_won": true,
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.0,
+          41.0
+        ],
+        "player": {
+          "id": 15719,
+          "name": "Grace Moloney"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          45.0
+        ],
+        "player": {
+          "id": 15554,
+          "name": "Gemma Bonner"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.0,
+          44.0
+        ],
+        "player": {
+          "id": 18152,
+          "name": "Kirstyn Pearce"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          41.0
+        ],
+        "player": {
+          "id": 18149,
+          "name": "Remi Allen"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          24.0
+        ],
+        "player": {
+          "id": 15725,
+          "name": "Natasha Harding"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          31.0
+        ],
+        "player": {
+          "id": 15706,
+          "name": "Rachel Furness"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          35.0
+        ],
+        "player": {
+          "id": 10198,
+          "name": "Josanne Potter"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          33.0
+        ],
+        "player": {
+          "id": 4654,
+          "name": "Nikita Parris"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

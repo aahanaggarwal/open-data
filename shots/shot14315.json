@@ -1,0 +1,146 @@
+{
+  "id": "57b8fe37-76a4-4377-9344-2c9306715f84",
+  "index": 391,
+  "period": 1,
+  "timestamp": "00:10:14.407",
+  "minute": 10,
+  "second": 14,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 29,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    107.4,
+    27.5
+  ],
+  "duration": 0.6884,
+  "under_pressure": true,
+  "related_events": [
+    "3eeb1874-6beb-4ffb-835e-e2aaab781e66",
+    "ec6ef306-60bc-4558-bbf3-7552368d093b"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.24446583,
+    "end_location": [
+      113.9,
+      32.7,
+      0.2
+    ],
+    "key_pass_id": "600db5f1-d95f-4014-b118-d7e0964121cc",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          114.1,
+          32.4
+        ],
+        "player": {
+          "id": 26397,
+          "name": "Renan Brito Soares"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.9,
+          32.5
+        ],
+        "player": {
+          "id": 3672,
+          "name": "Zlatan Ibrahimovi\u0107"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.1,
+          27.4
+        ],
+        "player": {
+          "id": 26610,
+          "name": "Leandro Andr\u00e9s Gioda"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          29.5
+        ],
+        "player": {
+          "id": 26615,
+          "name": "Francisco Jes\u00fas P\u00e9rez Malia"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.8,
+          41.8
+        ],
+        "player": {
+          "id": 26612,
+          "name": "Jos\u00e9 Manuel Casado Bizcocho"
+        },
+        "position": {
+          "id": 8,
+          "name": "Left Wing Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "id": "3c70b20d-0558-4257-ab15-6b73c69fe446",
+  "index": 62,
+  "period": 1,
+  "timestamp": "00:01:00.496",
+  "minute": 1,
+  "second": 0,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 4,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5246,
+    "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    100.3,
+    31.0
+  ],
+  "duration": 1.004486,
+  "related_events": [
+    "21d859bf-9037-4d75-b700-e306e52a1489"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.084445685,
+    "end_location": [
+      115.9,
+      38.6,
+      0.5
+    ],
+    "key_pass_id": "9cfe9134-d92e-408b-9e8f-aa7727499ba0",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          90.7,
+          55.3
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          90.0,
+          71.9
+        ],
+        "player": {
+          "id": 8206,
+          "name": "Arturo Erasmo Vidal Pardo"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.2,
+          61.7
+        ],
+        "player": {
+          "id": 24841,
+          "name": "Ricard Puig Mart\u00ed"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          95.6,
+          32.9
+        ],
+        "player": {
+          "id": 6377,
+          "name": "\u00c1ngel Mart\u00edn Correa"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          90.9,
+          47.2
+        ],
+        "player": {
+          "id": 6381,
+          "name": "Sa\u00fal \u00d1\u00edguez Esclapez"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.7,
+          45.2
+        ],
+        "player": {
+          "id": 6383,
+          "name": "Thomas Teye Partey"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.4,
+          34.8
+        ],
+        "player": {
+          "id": 5696,
+          "name": "Santiago Arias Naranjo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.7,
+          54.3
+        ],
+        "player": {
+          "id": 26532,
+          "name": "Renan Augusto Lodi dos Santos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.9,
+          43.9
+        ],
+        "player": {
+          "id": 5259,
+          "name": "Jos\u00e9 Mar\u00eda Gim\u00e9nez de Vargas"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.4,
+          60.1
+        ],
+        "player": {
+          "id": 11167,
+          "name": "Felipe Augusto de Almeida Monteiro"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.9,
+          39.1
+        ],
+        "player": {
+          "id": 6378,
+          "name": "Jan Oblak"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "id": "b28aa37d-6f38-451e-b1e5-1d0947d212f6",
+  "index": 1859,
+  "period": 2,
+  "timestamp": "00:02:28.422",
+  "minute": 47,
+  "second": 28,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 105,
+  "possession_team": {
+    "id": 759,
+    "name": "Washington Spirit"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 759,
+    "name": "Washington Spirit"
+  },
+  "player": {
+    "id": 4964,
+    "name": "Ashley Hatch"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    89.0,
+    27.0
+  ],
+  "duration": 1.311,
+  "related_events": [
+    "8c71cec7-0ab0-441b-b875-445368bc364a"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.010469486,
+    "end_location": [
+      120.0,
+      40.3,
+      2.4
+    ],
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          88.0,
+          20.0
+        ],
+        "player": {
+          "id": 5069,
+          "name": "Theresa Nielsen"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          40.0
+        ],
+        "player": {
+          "id": 5066,
+          "name": "Lydia Williams"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          30.0
+        ],
+        "player": {
+          "id": 5007,
+          "name": "Megan Oyster"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          41.0
+        ],
+        "player": {
+          "id": 5065,
+          "name": "Lauren Barnes"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          86.0,
+          29.0
+        ],
+        "player": {
+          "id": 5016,
+          "name": "Jessica Fishlock"
+        },
+        "position": {
+          "id": 14,
+          "name": "Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.0,
+          30.0
+        ],
+        "player": {
+          "id": 5001,
+          "name": "Allie Long"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          84.0,
+          42.0
+        ],
+        "player": {
+          "id": 5008,
+          "name": "Kristen McNabb"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          41.0
+        ],
+        "player": {
+          "id": 5022,
+          "name": "Francisca Ordega"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

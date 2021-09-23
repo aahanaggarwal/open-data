@@ -1,0 +1,98 @@
+{
+  "id": "9d7d2796-afe3-425c-aa51-9ed020530687",
+  "index": 3524,
+  "period": 2,
+  "timestamp": "00:36:27.036",
+  "minute": 81,
+  "second": 27,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 184,
+  "possession_team": {
+    "id": 207,
+    "name": "Valencia"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 207,
+    "name": "Valencia"
+  },
+  "player": {
+    "id": 20124,
+    "name": "Vicente Rodr\u00edguez Guill\u00e9n"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    114.6,
+    26.1
+  ],
+  "duration": 0.775186,
+  "related_events": [
+    "b18a4c66-8ad8-440d-a1c3-fe3e6ed6d024"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.037224095,
+    "end_location": [
+      119.4,
+      35.5,
+      0.7
+    ],
+    "key_pass_id": "d12c0d04-a1da-4730-b416-47865c7d77c4",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          114.6,
+          27.7
+        ],
+        "player": {
+          "id": 5558,
+          "name": "Rafael M\u00e1rquez \u00c1lvarez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.6,
+          35.6
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

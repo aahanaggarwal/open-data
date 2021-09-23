@@ -1,0 +1,174 @@
+{
+  "id": "943226e8-8104-4c1c-9247-398cee3a39a3",
+  "index": 320,
+  "period": 1,
+  "timestamp": "00:08:32.294",
+  "minute": 8,
+  "second": 32,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 25,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15754,
+    "name": "Fredrik Ljungberg"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    114.1,
+    52.5
+  ],
+  "duration": 0.326615,
+  "related_events": [
+    "dce968ba-479c-4cac-ab69-a4b516347bab"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.21148604,
+    "end_location": [
+      117.6,
+      45.1,
+      1.7
+    ],
+    "key_pass_id": "0c8bbc27-2f14-4b06-98db-adf88d4a8bf8",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          111.5,
+          42.4
+        ],
+        "player": {
+          "id": 23816,
+          "name": "Jos\u00e9 Antonio Reyes Calder\u00f3n"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.5,
+          39.5
+        ],
+        "player": {
+          "id": 15402,
+          "name": "Gary Neville"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.3,
+          50.1
+        ],
+        "player": {
+          "id": 15515,
+          "name": "Patrick Vieira"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.2,
+          43.9
+        ],
+        "player": {
+          "id": 40366,
+          "name": "Wes Brown"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          51.8
+        ],
+        "player": {
+          "id": 20341,
+          "name": "Mika\u00ebl Silvestre"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.2,
+          58.5
+        ],
+        "player": {
+          "id": 16890,
+          "name": "John O\"Shea"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.7,
+          44.6
+        ],
+        "player": {
+          "id": 40364,
+          "name": "Roy Carroll"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

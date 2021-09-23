@@ -1,0 +1,83 @@
+{
+  "id": "00688aab-02d6-478e-9b31-989024e4a1be",
+  "index": 158,
+  "period": 1,
+  "timestamp": "00:06:24.480",
+  "minute": 6,
+  "second": 24,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 9,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 5,
+    "name": "Other"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    108.0,
+    40.0
+  ],
+  "duration": 0.562008,
+  "related_events": [
+    "aaa26fb3-46ba-452f-a3e0-a72becc4f9cc"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.76,
+    "end_location": [
+      120.0,
+      43.7,
+      0.1
+    ],
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 88,
+      "name": "Penalty"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.6,
+          40.1
+        ],
+        "player": {
+          "id": 6662,
+          "name": "Iago Herrer\u00edn Buis\u00e1n"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

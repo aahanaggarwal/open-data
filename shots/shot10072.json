@@ -1,0 +1,174 @@
+{
+  "id": "8bbf0df0-9113-4e3a-8d41-78ac38d846a5",
+  "index": 2225,
+  "period": 2,
+  "timestamp": "00:11:45.798",
+  "minute": 56,
+  "second": 45,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 131,
+  "possession_team": {
+    "id": 223,
+    "name": "M\u00e1laga"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 223,
+    "name": "M\u00e1laga"
+  },
+  "player": {
+    "id": 6563,
+    "name": "Juan Pablo A\u00f1or Acosta"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    107.1,
+    44.9
+  ],
+  "duration": 0.648738,
+  "related_events": [
+    "add6bd4c-b7b5-42df-9491-989b1c649521"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.29278848,
+    "end_location": [
+      118.0,
+      41.1,
+      0.8
+    ],
+    "key_pass_id": "91913364-9d8f-4c66-896e-94e66dc5fd85",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.0,
+          23.8
+        ],
+        "player": {
+          "id": 3508,
+          "name": "Sandro Ram\u00edrez Castillo"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.8,
+          38.7
+        ],
+        "player": {
+          "id": 6764,
+          "name": "Pablo Fornals Malla"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.1,
+          41.0
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.4,
+          40.9
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.7,
+          43.2
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.5,
+          30.2
+        ],
+        "player": {
+          "id": 10802,
+          "name": "Andr\u00e9 Filipe Tavares Gomes"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.7,
+          32.1
+        ],
+        "player": {
+          "id": 5492,
+          "name": "Samuel Yves Umtiti"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

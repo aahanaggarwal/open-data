@@ -1,0 +1,204 @@
+{
+  "id": "1e07d0bb-d701-4558-9807-3e1907336f2d",
+  "index": 3652,
+  "period": 2,
+  "timestamp": "00:38:04.089",
+  "minute": 83,
+  "second": 4,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 196,
+  "possession_team": {
+    "id": 213,
+    "name": "Sevilla"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 213,
+    "name": "Sevilla"
+  },
+  "player": {
+    "id": 24507,
+    "name": "Manuel del Moral Fern\u00e1ndez"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    105.7,
+    40.6
+  ],
+  "duration": 0.6843,
+  "related_events": [
+    "549a7f8f-cdee-4c6a-9f68-e4371813e884"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.15327442,
+    "end_location": [
+      117.7,
+      42.4,
+      0.6
+    ],
+    "key_pass_id": "ef63b9fc-7b33-4226-b75d-a6576dae82cf",
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          83.0,
+          68.0
+        ],
+        "player": {
+          "id": 6675,
+          "name": "Antonio Manuel Luna Rodr\u00edguez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.0,
+          39.6
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          59.8
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.6,
+          59.2
+        ],
+        "player": {
+          "id": 6821,
+          "name": "Jes\u00fas Navas Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          95.1,
+          52.0
+        ],
+        "player": {
+          "id": 25960,
+          "name": "Fr\u00e9d\u00e9ric Oumar Kanout\u00e9"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          95.7,
+          44.4
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.3,
+          50.7
+        ],
+        "player": {
+          "id": 22102,
+          "name": "Adriano Correia Claro"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          46.3
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.5,
+          41.3
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "id": "2477bd3a-f996-4936-9efc-bea8ff64f16c",
+  "index": 2219,
+  "period": 2,
+  "timestamp": "00:05:00.616",
+  "minute": 50,
+  "second": 0,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 90,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    108.3,
+    51.6
+  ],
+  "duration": 0.9443,
+  "under_pressure": true,
+  "related_events": [
+    "0b8f6798-eb52-4010-bc5a-6191c15fefca",
+    "7500fd8d-b58b-43c9-a8e8-6a27a14dfba0"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.22060168,
+    "end_location": [
+      120.0,
+      42.1,
+      2.8
+    ],
+    "key_pass_id": "5b22617b-8012-4aa5-b280-ab6f2dea1cf6",
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 99,
+      "name": "Post"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          99.5,
+          32.1
+        ],
+        "player": {
+          "id": 26807,
+          "name": "Marc Bertr\u00e1n Vilanova"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.9,
+          49.9
+        ],
+        "player": {
+          "id": 26068,
+          "name": "Rub\u00e9n Gonz\u00e1lez Rocha"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.8,
+          50.8
+        ],
+        "player": {
+          "id": 26842,
+          "name": "Rov\u00e9rsio Rodrigues de Barros"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.4,
+          46.5
+        ],
+        "player": {
+          "id": 8697,
+          "name": "Andr\u00e9s Eduardo Fern\u00e1ndez Moreno"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

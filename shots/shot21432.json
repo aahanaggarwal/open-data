@@ -1,0 +1,129 @@
+{
+  "id": "019d9224-c746-49d0-8878-e01d5275866a",
+  "index": 273,
+  "period": 1,
+  "timestamp": "00:05:51.347",
+  "minute": 5,
+  "second": 51,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 15,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 19312,
+    "name": "Robert Pir\u00e8s "
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    100.9,
+    29.9
+  ],
+  "duration": 0.894224,
+  "related_events": [
+    "3120b791-96f5-4ab3-90c5-66a6f354550c"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.22699352,
+    "end_location": [
+      120.0,
+      43.8,
+      0.5
+    ],
+    "key_pass_id": "48deb9a5-3f05-472d-b050-7896b31e55f4",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          89.4,
+          47.0
+        ],
+        "player": {
+          "id": 40221,
+          "name": "Gilberto Aparecido da Silva"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.0,
+          47.1
+        ],
+        "player": {
+          "id": 15512,
+          "name": "Sylvain Wiltord"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.8,
+          36.3
+        ],
+        "player": {
+          "id": 40368,
+          "name": "Ian Harte"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.9,
+          36.6
+        ],
+        "player": {
+          "id": 40132,
+          "name": "Paul Robinson"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

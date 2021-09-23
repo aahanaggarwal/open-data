@@ -1,0 +1,173 @@
+{
+  "id": "5ef8974b-e738-4e17-bd69-8454557b7267",
+  "index": 2973,
+  "period": 2,
+  "timestamp": "00:44:29.592",
+  "minute": 89,
+  "second": 29,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 216,
+  "possession_team": {
+    "id": 39,
+    "name": "Manchester United"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 39,
+    "name": "Manchester United"
+  },
+  "player": {
+    "id": 19729,
+    "name": "Ruud van Nistelrooy"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    111.2,
+    42.0
+  ],
+  "duration": 0.668851,
+  "related_events": [
+    "5196f9a7-f20a-46de-9ffc-066d21843637"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.1426101,
+    "end_location": [
+      118.5,
+      40.0,
+      1.7
+    ],
+    "key_pass_id": "21ddb344-30af-4fff-bcc4-aff42a3c03b7",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.0,
+          31.2
+        ],
+        "player": {
+          "id": 15590,
+          "name": "Ole Gunnar Solskj\u00e6r"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.2,
+          46.9
+        ],
+        "player": {
+          "id": 15637,
+          "name": "Sulzeer Jeremiah \"Sol\" Campbell"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.9,
+          47.2
+        ],
+        "player": {
+          "id": 15515,
+          "name": "Patrick Vieira"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.3,
+          43.2
+        ],
+        "player": {
+          "id": 38412,
+          "name": "Kolo Habib Tour\u00e9"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.3,
+          43.2
+        ],
+        "player": {
+          "id": 26014,
+          "name": "Eduardo C\u00e9sar Daude Gaspar"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.5,
+          37.7
+        ],
+        "player": {
+          "id": 40222,
+          "name": "Laureano Bisan-Etame Mayer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.5,
+          40.7
+        ],
+        "player": {
+          "id": 20015,
+          "name": "Jens Lehmann"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

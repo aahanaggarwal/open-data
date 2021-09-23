@@ -1,0 +1,173 @@
+{
+  "id": "b3f3996c-bc4d-427d-b021-526060b7591b",
+  "index": 1320,
+  "period": 1,
+  "timestamp": "00:34:25.231",
+  "minute": 34,
+  "second": 25,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 63,
+  "possession_team": {
+    "id": 360,
+    "name": "Rayo Vallecano"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 360,
+    "name": "Rayo Vallecano"
+  },
+  "player": {
+    "id": 23761,
+    "name": "Alhassane Bangoura"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    107.4,
+    29.9
+  ],
+  "duration": 1.013,
+  "related_events": [
+    "0076ded9-dc0a-48f6-9538-35b5ca224a5b"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.16653882,
+    "end_location": [
+      120.0,
+      58.0,
+      0.4
+    ],
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          106.8,
+          45.2
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.8,
+          39.4
+        ],
+        "player": {
+          "id": 26005,
+          "name": "Jos\u00e9 Manuel Pinto Colorado"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.7,
+          36.9
+        ],
+        "player": {
+          "id": 6593,
+          "name": "Mart\u00edn Montoya Torralbo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.3,
+          41.6
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          39.2
+        ],
+        "player": {
+          "id": 26109,
+          "name": "Ra\u00fal Tamudo Montero"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.8,
+          45.0
+        ],
+        "player": {
+          "id": 26804,
+          "name": "Miguel P\u00e9rez Cuesta"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          96.3,
+          34.1
+        ],
+        "player": {
+          "id": 26848,
+          "name": "Roberto Trashorras Gayoso"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

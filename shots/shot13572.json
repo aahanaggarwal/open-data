@@ -1,0 +1,188 @@
+{
+  "id": "14be20f9-2a56-4138-8a64-7f1a9f6d5f9e",
+  "index": 2605,
+  "period": 2,
+  "timestamp": "00:25:20.105",
+  "minute": 70,
+  "second": 20,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 179,
+  "possession_team": {
+    "id": 256,
+    "name": "FC Porto"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 256,
+    "name": "FC Porto"
+  },
+  "player": {
+    "id": 19757,
+    "name": "Anderson Lu\u00eds de Souza"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    105.8,
+    36.8
+  ],
+  "duration": 0.965517,
+  "related_events": [
+    "2384b627-7c40-4fac-9dff-b2c7a4b58560"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.2595567,
+    "end_location": [
+      120.0,
+      36.4,
+      0.3
+    ],
+    "key_pass_id": "912a692f-cc63-481c-b7a5-722006661a30",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          109.9,
+          47.4
+        ],
+        "player": {
+          "id": 40849,
+          "name": "Vanderlei Fernandes Silva"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.8,
+          21.5
+        ],
+        "player": {
+          "id": 20163,
+          "name": "Dmitriy Alenichev"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.6,
+          40.1
+        ],
+        "player": {
+          "id": 19760,
+          "name": "Nuno Ricardo de Oliveira Ribeiro"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.7,
+          35.0
+        ],
+        "player": {
+          "id": 40843,
+          "name": "Julien Rodriguez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.4,
+          43.4
+        ],
+        "player": {
+          "id": 40842,
+          "name": "Ga\u00ebl Givet-Viaros"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.3,
+          37.3
+        ],
+        "player": {
+          "id": 40848,
+          "name": "Andreas Vasilios Zikos"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.5,
+          40.2
+        ],
+        "player": {
+          "id": 40841,
+          "name": "Flavio Roma"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.8,
+          39.7
+        ],
+        "player": {
+          "id": 40852,
+          "name": "Lucas Bernardi"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

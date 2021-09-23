@@ -1,0 +1,114 @@
+{
+  "id": "b642c0c1-ae57-48b5-a7aa-3a044c737a65",
+  "index": 2509,
+  "period": 2,
+  "timestamp": "00:16:36.135",
+  "minute": 61,
+  "second": 36,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 145,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 25878,
+    "name": "Ludovic Giuly"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    112.1,
+    38.6
+  ],
+  "duration": 0.464771,
+  "related_events": [
+    "646f3609-aaa7-4e80-b330-c1e83da85917"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.5208233,
+    "end_location": [
+      120.0,
+      37.6,
+      0.2
+    ],
+    "key_pass_id": "7503d1be-dbdf-460f-abf6-400281a6baad",
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.0,
+          31.8
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.7,
+          33.0
+        ],
+        "player": {
+          "id": 26062,
+          "name": "Rub\u00e9n Mart\u00edn Pulido"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.4,
+          38.5
+        ],
+        "player": {
+          "id": 26059,
+          "name": "Luis Garc\u00eda Conde"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

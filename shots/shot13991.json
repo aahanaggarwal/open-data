@@ -1,0 +1,190 @@
+{
+  "id": "66e4ee9d-7f4a-4c53-bcee-9336364ee82e",
+  "index": 1893,
+  "period": 2,
+  "timestamp": "00:02:09.524",
+  "minute": 47,
+  "second": 9,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 102,
+  "possession_team": {
+    "id": 971,
+    "name": "Chelsea FCW"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 971,
+    "name": "Chelsea FCW"
+  },
+  "player": {
+    "id": 4638,
+    "name": "Drew Spence"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    114.0,
+    43.0
+  ],
+  "duration": 1.1572,
+  "under_pressure": true,
+  "related_events": [
+    "40b6179a-2594-408c-9d2c-b94c551853e3",
+    "bce5f1f7-4c3a-4627-9342-d1ab9e97be18"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.10025632,
+    "end_location": [
+      120.0,
+      48.0
+    ],
+    "key_pass_id": "0f4269fc-ef35-4255-a421-25c19114e815",
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "aerial_won": true,
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 101,
+      "name": "Wayward"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          107.0,
+          42.0
+        ],
+        "player": {
+          "id": 15577,
+          "name": "Angharad James"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          42.0
+        ],
+        "player": {
+          "id": 15574,
+          "name": "Georgia Brougham"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          41.0
+        ],
+        "player": {
+          "id": 15550,
+          "name": "Bethany England"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          120.0,
+          41.0
+        ],
+        "player": {
+          "id": 15576,
+          "name": "Kirstie Levell"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          46.0
+        ],
+        "player": {
+          "id": 15575,
+          "name": "Gabrielle George"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.0,
+          32.0
+        ],
+        "player": {
+          "id": 19687,
+          "name": "Taylor Hinds"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.0,
+          21.0
+        ],
+        "player": {
+          "id": 10222,
+          "name": "Jonna Andersson"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.0,
+          28.0
+        ],
+        "player": {
+          "id": 15570,
+          "name": "Chloe Kelly"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

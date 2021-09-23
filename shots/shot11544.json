@@ -1,0 +1,173 @@
+{
+  "id": "9376ad5f-4f07-4a03-beed-0c1dc511b56d",
+  "index": 2738,
+  "period": 2,
+  "timestamp": "00:29:40.195",
+  "minute": 74,
+  "second": 40,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 175,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 19312,
+    "name": "Robert Pir\u00e8s "
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    103.3,
+    29.5
+  ],
+  "duration": 1.457723,
+  "related_events": [
+    "8ba81527-6ecb-41e9-9659-50cda0f60a35"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.087567896,
+    "end_location": [
+      120.0,
+      53.1,
+      0.8
+    ],
+    "key_pass_id": "016befdd-1b9d-42cf-bea5-049e62c688bc",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          105.1,
+          31.5
+        ],
+        "player": {
+          "id": 40361,
+          "name": "Mark Anthony Delaney"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.9,
+          33.3
+        ],
+        "player": {
+          "id": 4394,
+          "name": "Peter Whittingham"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.7,
+          38.9
+        ],
+        "player": {
+          "id": 24763,
+          "name": "Ronny Johnsen"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.3,
+          25.3
+        ],
+        "player": {
+          "id": 15761,
+          "name": "Olof Mellberg"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.3,
+          38.1
+        ],
+        "player": {
+          "id": 20145,
+          "name": "Thomas L\u00f8vendahl S\u00f8rensen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.9,
+          14.3
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.9,
+          21.3
+        ],
+        "player": {
+          "id": 40363,
+          "name": "Lee Hendrie"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

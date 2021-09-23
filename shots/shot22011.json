@@ -1,0 +1,189 @@
+{
+  "id": "698f550b-7a29-44d9-8a7d-cc8654b9f171",
+  "index": 1835,
+  "period": 2,
+  "timestamp": "00:05:36.299",
+  "minute": 50,
+  "second": 36,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 128,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15042,
+    "name": "Dennis Bergkamp"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    111.6,
+    29.2
+  ],
+  "duration": 0.334067,
+  "related_events": [
+    "2bd06f1c-5a56-4e57-b681-1a2c43cff5d7"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.17819732,
+    "end_location": [
+      118.3,
+      37.6,
+      1.5
+    ],
+    "key_pass_id": "deff9e56-5193-4ee5-8062-56d9db9f9698",
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.8,
+          40.1
+        ],
+        "player": {
+          "id": 20402,
+          "name": "Boris \u017divkovi\u0107"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          34.5
+        ],
+        "player": {
+          "id": 20510,
+          "name": "Alexei Gennadyevich Smertin"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.1,
+          32.3
+        ],
+        "player": {
+          "id": 40340,
+          "name": "Dejan Stefanovic"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          31.5
+        ],
+        "player": {
+          "id": 40339,
+          "name": "Arjan de Zeeuw"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.2,
+          29.9
+        ],
+        "player": {
+          "id": 40336,
+          "name": "S\u00e9bastien Schemmel"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.3,
+          38.0
+        ],
+        "player": {
+          "id": 38403,
+          "name": "Shaka Hislop"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.1,
+          24.7
+        ],
+        "player": {
+          "id": 12529,
+          "name": "Ashley Cole"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.4,
+          22.0
+        ],
+        "player": {
+          "id": 19312,
+          "name": "Robert Pir\u00e8s "
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

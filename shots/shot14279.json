@@ -1,0 +1,174 @@
+{
+  "id": "badea01a-1aa0-4ca6-8671-6c262b9ec6b8",
+  "index": 3204,
+  "period": 2,
+  "timestamp": "00:36:00.214",
+  "minute": 81,
+  "second": 0,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 164,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 5,
+    "name": "Other"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5246,
+    "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    112.3,
+    44.5
+  ],
+  "duration": 0.324395,
+  "related_events": [
+    "9abab295-57e7-448e-a2b1-f6a21da96e96"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.39959255,
+    "end_location": [
+      120.0,
+      43.3,
+      0.4
+    ],
+    "redirect": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.4,
+          42.4
+        ],
+        "player": {
+          "id": 6884,
+          "name": "Sergio \u00c1lvarez Conde"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          45.1
+        ],
+        "player": {
+          "id": 4320,
+          "name": "Neymar da Silva Santos Junior"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.0,
+          40.0
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.7,
+          38.5
+        ],
+        "player": {
+          "id": 6794,
+          "name": "Gustavo Daniel Cabral C\u00e1ceres"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.1,
+          35.6
+        ],
+        "player": {
+          "id": 5211,
+          "name": "Jordi Alba Ramos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.2,
+          34.0
+        ],
+        "player": {
+          "id": 6805,
+          "name": "Hugo Mallo Novegil"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.6,
+          46.3
+        ],
+        "player": {
+          "id": 6802,
+          "name": "Jonathan Castro Otto"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

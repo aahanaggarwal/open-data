@@ -1,0 +1,158 @@
+{
+  "id": "6b84852f-a6b2-4ff1-9982-6aac63267d04",
+  "index": 3051,
+  "period": 2,
+  "timestamp": "00:39:01.834",
+  "minute": 84,
+  "second": 1,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 200,
+  "possession_team": {
+    "id": 395,
+    "name": "Real Zaragoza"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 395,
+    "name": "Real Zaragoza"
+  },
+  "player": {
+    "id": 26022,
+    "name": "Carlos Andr\u00e9s Diogo Ense\u00f1at"
+  },
+  "position": {
+    "id": 2,
+    "name": "Right Back"
+  },
+  "location": [
+    112.6,
+    54.7
+  ],
+  "duration": 0.124468,
+  "related_events": [
+    "044eb75d-bb52-4c60-a076-9f23f0abf19c",
+    "b5821064-0b49-4be9-8796-07fb2c79ab6e"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.021490928,
+    "end_location": [
+      113.9,
+      52.1
+    ],
+    "key_pass_id": "806afea0-721c-4a2d-870c-8b3b4d9fc5e8",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.6,
+          40.0
+        ],
+        "player": {
+          "id": 19294,
+          "name": "Diego Alberto Milito"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.2,
+          37.7
+        ],
+        "player": {
+          "id": 15774,
+          "name": "Gianluca Zambrotta"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.9,
+          44.9
+        ],
+        "player": {
+          "id": 5558,
+          "name": "Rafael M\u00e1rquez \u00c1lvarez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.5,
+          52.1
+        ],
+        "player": {
+          "id": 25854,
+          "name": "Sylvio Mendes Campos Junior"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.8,
+          59.4
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.1,
+          43.9
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

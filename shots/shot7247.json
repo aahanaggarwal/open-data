@@ -1,0 +1,189 @@
+{
+  "id": "0a5ee7aa-2c74-4e30-b197-6437d0f69db4",
+  "index": 404,
+  "period": 1,
+  "timestamp": "00:08:56.667",
+  "minute": 8,
+  "second": 56,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 16,
+  "possession_team": {
+    "id": 777,
+    "name": "Tunisia"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 777,
+    "name": "Tunisia"
+  },
+  "player": {
+    "id": 3557,
+    "name": "Na\u00efm Sliti"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    95.0,
+    42.0
+  ],
+  "duration": 0.973,
+  "related_events": [
+    "720b977e-3c3e-4b10-b522-0b8e8a406d91"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.060311474,
+    "end_location": [
+      120.0,
+      34.0,
+      2.7
+    ],
+    "key_pass_id": "ada28e4c-f3b3-4362-9497-3cb271c7e941",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "first_time": true,
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          94.0,
+          21.0
+        ],
+        "player": {
+          "id": 3252,
+          "name": "Oussama Haddadi"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.0,
+          28.0
+        ],
+        "player": {
+          "id": 3196,
+          "name": "Wahbi Khazri"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.0,
+          41.0
+        ],
+        "player": {
+          "id": 5636,
+          "name": "Jaime Manuel Penedo Cano"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          28.0
+        ],
+        "player": {
+          "id": 6346,
+          "name": "Adolfo Abdiel Machado"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          33.0
+        ],
+        "player": {
+          "id": 5635,
+          "name": "Rom\u00e1n Aureliano Torres Morcillo"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          36.0
+        ],
+        "player": {
+          "id": 5638,
+          "name": "Fidel Escobar Mendieta"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.0,
+          39.0
+        ],
+        "player": {
+          "id": 5640,
+          "name": "Gabriel Enrique G\u00f3mez Gir\u00f3n"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          51.0
+        ],
+        "player": {
+          "id": 6344,
+          "name": "Luis Carlos Ovalle Victoria"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

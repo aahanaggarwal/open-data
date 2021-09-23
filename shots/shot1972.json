@@ -1,0 +1,220 @@
+{
+  "id": "2ff37a04-b92a-4be9-be94-aa5b1d6f4f09",
+  "index": 1906,
+  "period": 2,
+  "timestamp": "00:00:40.553",
+  "minute": 45,
+  "second": 40,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 86,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 20131,
+    "name": "Xavier Hern\u00e1ndez Creus"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    110.8,
+    40.5
+  ],
+  "duration": 1.770561,
+  "under_pressure": true,
+  "related_events": [
+    "5897ddf5-60dc-42df-85d8-46b469df396f",
+    "5cf28c74-3e46-460f-84d0-367755f32fc3"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.068118796,
+    "end_location": [
+      119.1,
+      28.7
+    ],
+    "key_pass_id": "ee9525bd-3460-4b8b-bf94-2d51384667cc",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "aerial_won": true,
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 101,
+      "name": "Wayward"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.8,
+          41.2
+        ],
+        "player": {
+          "id": 26147,
+          "name": "Ayoze D\u00edaz D\u00edaz"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.2,
+          45.5
+        ],
+        "player": {
+          "id": 26137,
+          "name": "\u00d3scar Serrano Rodriguez"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.7,
+          37.9
+        ],
+        "player": {
+          "id": 26148,
+          "name": "Jos\u00e9 Morat\u00f3n Tae\u00f1o"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.5,
+          37.6
+        ],
+        "player": {
+          "id": 26145,
+          "name": "Francisco Borja Enrique Ayesa"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.9,
+          35.6
+        ],
+        "player": {
+          "id": 26071,
+          "name": "V\u00edctor Javier A\u00f1ino Berm\u00fadez"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.7,
+          36.1
+        ],
+        "player": {
+          "id": 26064,
+          "name": "Antonio Tom\u00e1s Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.2,
+          39.9
+        ],
+        "player": {
+          "id": 26146,
+          "name": "Dud\u00fa Aouate"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.9,
+          49.4
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.8,
+          36.8
+        ],
+        "player": {
+          "id": 25879,
+          "name": "Ronaldo de Assis Moreira"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.0,
+          37.6
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "id": "7016d9ca-ec1e-48eb-b847-6f5e9abedb36",
+  "index": 2350,
+  "period": 2,
+  "timestamp": "00:19:25.074",
+  "minute": 64,
+  "second": 25,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 148,
+  "possession_team": {
+    "id": 969,
+    "name": "Birmingham City WFC"
+  },
+  "play_pattern": {
+    "id": 2,
+    "name": "From Corner"
+  },
+  "team": {
+    "id": 969,
+    "name": "Birmingham City WFC"
+  },
+  "player": {
+    "id": 15563,
+    "name": "Charlie Wellings"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    108.0,
+    58.0
+  ],
+  "duration": 1.445902,
+  "related_events": [
+    "eab9c3d6-2497-4d56-9de9-ca77515c140f"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.02958945,
+    "end_location": [
+      120.0,
+      36.2,
+      4.5
+    ],
+    "key_pass_id": "1cef2a9f-86ba-48a6-bbbf-2ea332b32047",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          100.0,
+          59.0
+        ],
+        "player": {
+          "id": 17274,
+          "name": "Poppy Pattinson"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.0,
+          37.0
+        ],
+        "player": {
+          "id": 15557,
+          "name": "Emma Follis"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.0,
+          31.0
+        ],
+        "player": {
+          "id": 16391,
+          "name": "Loren Dykes"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          39.0
+        ],
+        "player": {
+          "id": 16383,
+          "name": "Danique Kerkdijk"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          45.0
+        ],
+        "player": {
+          "id": 10171,
+          "name": "Frankie Brown"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          56.0
+        ],
+        "player": {
+          "id": 16381,
+          "name": "Gemma Evans"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          120.0,
+          44.0
+        ],
+        "player": {
+          "id": 16376,
+          "name": "Sophie Baggaley"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

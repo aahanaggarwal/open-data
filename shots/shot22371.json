@@ -1,0 +1,100 @@
+{
+  "id": "8a487f30-903e-4563-a881-941f3633fbe9",
+  "index": 3056,
+  "period": 2,
+  "timestamp": "00:39:18.537",
+  "minute": 84,
+  "second": 18,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 193,
+  "possession_team": {
+    "id": 971,
+    "name": "Chelsea FCW"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 971,
+    "name": "Chelsea FCW"
+  },
+  "player": {
+    "id": 15550,
+    "name": "Bethany England"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    102.0,
+    57.0
+  ],
+  "duration": 0.8416,
+  "under_pressure": true,
+  "related_events": [
+    "58d7f37d-4a55-48f6-850e-4fc297615ec0",
+    "fa63b712-4e4d-44e7-825d-b67e2ff3297b"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.025511397,
+    "end_location": [
+      118.0,
+      36.6,
+      1.4
+    ],
+    "key_pass_id": "f8973ddf-69b0-4da0-bc18-a68bfa17daba",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.0,
+          42.0
+        ],
+        "player": {
+          "id": 15719,
+          "name": "Grace Moloney"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          54.0
+        ],
+        "player": {
+          "id": 15724,
+          "name": "Mayumi Pacheco"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

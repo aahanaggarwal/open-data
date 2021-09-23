@@ -1,0 +1,172 @@
+{
+  "id": "b5016489-7057-4853-a840-794dab9835ad",
+  "index": 801,
+  "period": 1,
+  "timestamp": "00:23:06.726",
+  "minute": 23,
+  "second": 6,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 68,
+  "possession_team": {
+    "id": 36,
+    "name": "Manchester City"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 36,
+    "name": "Manchester City"
+  },
+  "player": {
+    "id": 15519,
+    "name": "Nicolas Anelka"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    109.9,
+    61.7
+  ],
+  "duration": 0.079544,
+  "related_events": [
+    "12ce32d2-dca5-4bab-8bf0-99e0c51a3f93",
+    "e5b1dab5-1f14-4fab-a3dc-df2eb0455a63"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.010460208,
+    "end_location": [
+      111.3,
+      58.9
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          105.8,
+          44.2
+        ],
+        "player": {
+          "id": 40221,
+          "name": "Gilberto Aparecido da Silva"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.2,
+          64.8
+        ],
+        "player": {
+          "id": 38551,
+          "name": "Shaun Wright-Phillips"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.6,
+          42.4
+        ],
+        "player": {
+          "id": 15654,
+          "name": "Martin Keown"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.5,
+          55.7
+        ],
+        "player": {
+          "id": 15515,
+          "name": "Patrick Vieira"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.8,
+          60.4
+        ],
+        "player": {
+          "id": 12529,
+          "name": "Ashley Cole"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.5,
+          58.4
+        ],
+        "player": {
+          "id": 38412,
+          "name": "Kolo Habib Tour\u00e9"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          43.0
+        ],
+        "player": {
+          "id": 20015,
+          "name": "Jens Lehmann"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

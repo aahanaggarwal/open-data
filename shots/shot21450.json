@@ -1,0 +1,159 @@
+{
+  "id": "28588886-15b0-40eb-9d5f-09923d2e637d",
+  "index": 3436,
+  "period": 2,
+  "timestamp": "00:42:56.105",
+  "minute": 87,
+  "second": 56,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 189,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 23816,
+    "name": "Jos\u00e9 Antonio Reyes Calder\u00f3n"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    95.2,
+    35.6
+  ],
+  "duration": 1.20108,
+  "related_events": [
+    "844b6acf-e67a-4a28-baf4-6a37df88c77d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.034700844,
+    "end_location": [
+      118.5,
+      38.9,
+      0.5
+    ],
+    "key_pass_id": "602a69bf-6d55-4335-94f1-ffa0f4307d14",
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          119.2,
+          40.5
+        ],
+        "player": {
+          "id": 40132,
+          "name": "Paul Robinson"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.5,
+          19.5
+        ],
+        "player": {
+          "id": 40371,
+          "name": "Michael Duberry"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.9,
+          14.1
+        ],
+        "player": {
+          "id": 26014,
+          "name": "Eduardo C\u00e9sar Daude Gaspar"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.5,
+          31.7
+        ],
+        "player": {
+          "id": 40270,
+          "name": "Gary Oliver Kelly"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.3,
+          44.0
+        ],
+        "player": {
+          "id": 40369,
+          "name": "Steven Caldwell"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.5,
+          39.5
+        ],
+        "player": {
+          "id": 15400,
+          "name": "Nick Barmby"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

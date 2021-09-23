@@ -1,0 +1,370 @@
+{
+  "id": "10ddecfb-2fb6-43c2-8014-cee2f940ffce",
+  "index": 401,
+  "period": 1,
+  "timestamp": "00:10:59.803",
+  "minute": 10,
+  "second": 59,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 24,
+  "possession_team": {
+    "id": 973,
+    "name": "Bristol City WFC"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 973,
+    "name": "Bristol City WFC"
+  },
+  "player": {
+    "id": 31527,
+    "name": "Ebony Salmon"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    102.4,
+    46.6
+  ],
+  "duration": 0.916566,
+  "under_pressure": true,
+  "related_events": [
+    "22a0f647-2bb0-4885-ac47-124a224b069b",
+    "a276d006-d02d-4b36-9da0-e88bab4b6937"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.04771408,
+    "end_location": [
+      120.0,
+      44.6,
+      4.4
+    ],
+    "key_pass_id": "c89088e2-8fda-4e9d-b1f7-d39556de7ffb",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          66.9,
+          18.1
+        ],
+        "player": {
+          "id": 24922,
+          "name": "Florence Allen"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          62.9,
+          33.1
+        ],
+        "player": {
+          "id": 15618,
+          "name": "Jasmine Matthews"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          62.8,
+          45.7
+        ],
+        "player": {
+          "id": 19502,
+          "name": "Meaghan Sargeant"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          66.0,
+          65.6
+        ],
+        "player": {
+          "id": 16391,
+          "name": "Loren Dykes"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          87.6,
+          58.7
+        ],
+        "player": {
+          "id": 10093,
+          "name": "Yana Daniels"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          98.8,
+          33.5
+        ],
+        "player": {
+          "id": 24925,
+          "name": "Olivia Chance"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          91.6,
+          44.1
+        ],
+        "player": {
+          "id": 15563,
+          "name": "Charlie Wellings"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          84.5,
+          48.8
+        ],
+        "player": {
+          "id": 16384,
+          "name": "Carla Humphrey"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          73.4,
+          42.8
+        ],
+        "player": {
+          "id": 10171,
+          "name": "Frankie Brown"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          59.2,
+          41.7
+        ],
+        "player": {
+          "id": 15623,
+          "name": "Vivianne Miedema"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          73.3,
+          32.6
+        ],
+        "player": {
+          "id": 10650,
+          "name": "Jill Roord"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.5,
+          30.3
+        ],
+        "player": {
+          "id": 18999,
+          "name": "Leah Williamson"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.1,
+          41.3
+        ],
+        "player": {
+          "id": 10237,
+          "name": "Manuela Zinsberger"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.3,
+          53.7
+        ],
+        "player": {
+          "id": 10235,
+          "name": "Viktoria Schnaderbeck"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.9,
+          45.6
+        ],
+        "player": {
+          "id": 17524,
+          "name": "Jennifer Beattie"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.1,
+          37.9
+        ],
+        "player": {
+          "id": 10192,
+          "name": "Jordan Nobbs"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          61.7,
+          4.3
+        ],
+        "player": {
+          "id": 10179,
+          "name": "Lisa Evans"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          68.6,
+          59.9
+        ],
+        "player": {
+          "id": 10658,
+          "name": "Danielle van de Donk"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          83.8,
+          65.9
+        ],
+        "player": {
+          "id": 15619,
+          "name": "Bethany Mead"
+        },
+        "position": {
+          "id": 8,
+          "name": "Left Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.5,
+          35.4
+        ],
+        "player": {
+          "id": 10405,
+          "name": "Lia W\u00e4lti"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

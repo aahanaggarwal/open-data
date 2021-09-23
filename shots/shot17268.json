@@ -1,0 +1,144 @@
+{
+  "id": "2851487a-0626-4c40-b084-adc9b95bbfaa",
+  "index": 3543,
+  "period": 2,
+  "timestamp": "00:46:33.019",
+  "minute": 91,
+  "second": 33,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 232,
+  "possession_team": {
+    "id": 216,
+    "name": "Getafe"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "out": true,
+  "team": {
+    "id": 216,
+    "name": "Getafe"
+  },
+  "player": {
+    "id": 26009,
+    "name": "Roberto Soldado Rillo"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    111.0,
+    53.2
+  ],
+  "duration": 1.887839,
+  "related_events": [
+    "dbe16e5c-e9fa-4dca-8d33-3fcb603041f5"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.08389112,
+    "end_location": [
+      120.0,
+      59.7
+    ],
+    "key_pass_id": "da0984ce-3a64-4842-97c1-bdaadedfd9fb",
+    "first_time": true,
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 101,
+      "name": "Wayward"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.6,
+          42.1
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          52.0
+        ],
+        "player": {
+          "id": 20177,
+          "name": "Eric-Sylvain Bilal Abidal"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.6,
+          51.1
+        ],
+        "player": {
+          "id": 18608,
+          "name": "Dmytro Chygrynskiy"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.1,
+          30.3
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.4,
+          59.1
+        ],
+        "player": {
+          "id": 26657,
+          "name": "Pedro R\u00edos Maestre"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

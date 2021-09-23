@@ -1,0 +1,173 @@
+{
+  "id": "de3f96aa-5479-450d-a8d4-c73320b18af7",
+  "index": 1182,
+  "period": 1,
+  "timestamp": "00:33:47.357",
+  "minute": 33,
+  "second": 47,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 66,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 8,
+    "name": "From Keeper"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5246,
+    "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    99.0,
+    26.9
+  ],
+  "duration": 1.17,
+  "related_events": [
+    "62cf3057-43f9-47c6-9305-a742ec71bf7c"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.04988963,
+    "end_location": [
+      120.0,
+      41.4,
+      4.1
+    ],
+    "key_pass_id": "0c4c39d4-e914-4794-b6a3-51281d38b46e",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.1,
+          27.0
+        ],
+        "player": {
+          "id": 5249,
+          "name": "Diego Roberto God\u00edn Leal"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.2,
+          27.7
+        ],
+        "player": {
+          "id": 6376,
+          "name": "Stefan Savi\u0107"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.1,
+          47.3
+        ],
+        "player": {
+          "id": 6998,
+          "name": "Rafael Alc\u00e2ntara do Nascimento"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          85.4,
+          42.7
+        ],
+        "player": {
+          "id": 6379,
+          "name": "Sergi Roberto Carnicer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          98.0,
+          40.7
+        ],
+        "player": {
+          "id": 6320,
+          "name": "Filipe Luis Kasmirski"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          85.1,
+          33.2
+        ],
+        "player": {
+          "id": 5633,
+          "name": "Yannick Ferreira Carrasco"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.4,
+          39.4
+        ],
+        "player": {
+          "id": 6378,
+          "name": "Jan Oblak"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

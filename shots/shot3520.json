@@ -1,0 +1,174 @@
+{
+  "id": "3d2e4938-77d5-4f6b-b3e2-16244c25af1b",
+  "index": 2075,
+  "period": 2,
+  "timestamp": "00:11:06.228",
+  "minute": 56,
+  "second": 6,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 137,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15754,
+    "name": "Fredrik Ljungberg"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    106.5,
+    45.6
+  ],
+  "duration": 0.378298,
+  "related_events": [
+    "ec0a0e23-9235-4a11-901f-16589a7f12a1"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.35730493,
+    "end_location": [
+      116.2,
+      43.2,
+      0.0
+    ],
+    "key_pass_id": "583dc8fa-4aec-4aa0-a3ed-2fc3cf50ddad",
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.2,
+          41.3
+        ],
+        "player": {
+          "id": 9353,
+          "name": "Nicky Hunt"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.6,
+          48.1
+        ],
+        "player": {
+          "id": 40390,
+          "name": "Simon Charlton"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.8,
+          50.2
+        ],
+        "player": {
+          "id": 40383,
+          "name": "\u00c9merson Augusto Thome"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.5,
+          53.2
+        ],
+        "player": {
+          "id": 40386,
+          "name": "Iv\u00e1n Campo Ramos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.3,
+          43.1
+        ],
+        "player": {
+          "id": 40385,
+          "name": "Jussi J\u00e4\u00e4skel\u00e4inen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          53.4
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.8,
+          38.9
+        ],
+        "player": {
+          "id": 19312,
+          "name": "Robert Pir\u00e8s "
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

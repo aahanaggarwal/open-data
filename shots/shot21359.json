@@ -1,0 +1,173 @@
+{
+  "id": "0ddec24e-8053-4c21-9b02-642fc3f74d1f",
+  "index": 1492,
+  "period": 1,
+  "timestamp": "00:43:45.155",
+  "minute": 43,
+  "second": 45,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 90,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19298,
+    "name": "Samuel Eto\"o Fils"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    112.0,
+    46.1
+  ],
+  "duration": 0.3587,
+  "related_events": [
+    "0d5895b9-f169-41cd-8a22-3996bcb8face"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.5241776,
+    "end_location": [
+      120.0,
+      43.6,
+      0.1
+    ],
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          115.2,
+          42.9
+        ],
+        "player": {
+          "id": 6755,
+          "name": "Sergio Asenjo Andr\u00e9s"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.1,
+          41.2
+        ],
+        "player": {
+          "id": 26116,
+          "name": "Jos\u00e9 Antonio Garc\u00eda Calvo"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.9,
+          37.8
+        ],
+        "player": {
+          "id": 6787,
+          "name": "Pedro L\u00f3pez Mu\u00f1oz"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.3,
+          34.3
+        ],
+        "player": {
+          "id": 11270,
+          "name": "Ei\u00f0ur Sm\u00e1ri Gu\u00f0johnsen"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.8,
+          31.7
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.2,
+          26.2
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.3,
+          38.9
+        ],
+        "player": {
+          "id": 26190,
+          "name": "\u00c1lvaro Rubio Robles"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

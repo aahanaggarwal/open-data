@@ -1,0 +1,233 @@
+{
+  "id": "b3ded1fd-7167-44d0-ab63-c5af703dd21b",
+  "index": 2634,
+  "period": 2,
+  "timestamp": "00:22:32.684",
+  "minute": 67,
+  "second": 32,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 157,
+  "possession_team": {
+    "id": 101,
+    "name": "Leeds United"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 101,
+    "name": "Leeds United"
+  },
+  "player": {
+    "id": 40267,
+    "name": "Alan Smith"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    100.9,
+    32.1
+  ],
+  "duration": 0.99814,
+  "related_events": [
+    "1dbc87b7-1789-4fdb-aa09-0f103bc0d085"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.048091773,
+    "end_location": [
+      120.0,
+      36.1,
+      0.2
+    ],
+    "key_pass_id": "716c0ff5-6332-4b5d-9ecc-6e4144432a7d",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 99,
+      "name": "Post"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          97.1,
+          44.6
+        ],
+        "player": {
+          "id": 38557,
+          "name": "David Batty"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.7,
+          53.0
+        ],
+        "player": {
+          "id": 26649,
+          "name": "Jermaine Pennant"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.3,
+          31.7
+        ],
+        "player": {
+          "id": 40266,
+          "name": "Seth Johnson"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.0,
+          26.1
+        ],
+        "player": {
+          "id": 3953,
+          "name": "Aaron Lennon"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.4,
+          46.2
+        ],
+        "player": {
+          "id": 19312,
+          "name": "Robert Pir\u00e8s "
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          39.4
+        ],
+        "player": {
+          "id": 12529,
+          "name": "Ashley Cole"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.5,
+          33.2
+        ],
+        "player": {
+          "id": 15637,
+          "name": "Sulzeer Jeremiah \"Sol\" Campbell"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.3,
+          30.8
+        ],
+        "player": {
+          "id": 38412,
+          "name": "Kolo Habib Tour\u00e9"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.1,
+          28.2
+        ],
+        "player": {
+          "id": 40222,
+          "name": "Laureano Bisan-Etame Mayer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.3,
+          29.7
+        ],
+        "player": {
+          "id": 40221,
+          "name": "Gilberto Aparecido da Silva"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.5,
+          38.5
+        ],
+        "player": {
+          "id": 20015,
+          "name": "Jens Lehmann"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

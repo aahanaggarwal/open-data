@@ -1,0 +1,189 @@
+{
+  "id": "9406eaf3-9025-4ea2-aa74-f5af9fbfacda",
+  "index": 3569,
+  "period": 2,
+  "timestamp": "00:44:28.211",
+  "minute": 89,
+  "second": 28,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 214,
+  "possession_team": {
+    "id": 216,
+    "name": "Getafe"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 216,
+    "name": "Getafe"
+  },
+  "player": {
+    "id": 26009,
+    "name": "Roberto Soldado Rillo"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    114.7,
+    47.0
+  ],
+  "duration": 0.817792,
+  "related_events": [
+    "065f21a8-ff48-4f65-8653-867bdbbf69b9"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.16514732,
+    "end_location": [
+      120.0,
+      23.5,
+      0.1
+    ],
+    "key_pass_id": "9b839f4b-f45b-4c69-aa08-05f82f7ee16f",
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          100.6,
+          48.2
+        ],
+        "player": {
+          "id": 24614,
+          "name": "Rafael L\u00f3pez G\u00f3mez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.8,
+          48.4
+        ],
+        "player": {
+          "id": 20169,
+          "name": "Seydou K\u00e9ita"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.8,
+          35.1
+        ],
+        "player": {
+          "id": 26425,
+          "name": "Juan \u00c1ngel Alb\u00edn Leites"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.9,
+          36.5
+        ],
+        "player": {
+          "id": 26613,
+          "name": "Maxwell Scherrer Cabelino Andrade"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          41.6
+        ],
+        "player": {
+          "id": 25919,
+          "name": "Gabriel Alejandro Milito"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.4,
+          43.8
+        ],
+        "player": {
+          "id": 20177,
+          "name": "Eric-Sylvain Bilal Abidal"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.4,
+          45.8
+        ],
+        "player": {
+          "id": 25942,
+          "name": "Kepa Blanco Gonzalez"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.7,
+          41.9
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

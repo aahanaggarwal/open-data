@@ -1,0 +1,204 @@
+{
+  "id": "1f2f93b0-dc2b-4567-8f20-a5a9bd37d857",
+  "index": 3422,
+  "period": 2,
+  "timestamp": "00:34:24.962",
+  "minute": 79,
+  "second": 24,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 141,
+  "possession_team": {
+    "id": 213,
+    "name": "Sevilla"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 213,
+    "name": "Sevilla"
+  },
+  "player": {
+    "id": 5470,
+    "name": "Ivan Rakiti\u0107"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    106.7,
+    49.7
+  ],
+  "duration": 0.555799,
+  "related_events": [
+    "e1f7b134-36fe-4bc1-9073-15a4de213a16"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.21045463,
+    "end_location": [
+      120.0,
+      38.7,
+      0.4
+    ],
+    "key_pass_id": "8bb6ef26-8e93-45e3-8853-71a9b7687a9e",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.5,
+          31.2
+        ],
+        "player": {
+          "id": 15962,
+          "name": "Marko Marin"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.1,
+          32.9
+        ],
+        "player": {
+          "id": 26790,
+          "name": "Piotr Trochowski"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.5,
+          35.2
+        ],
+        "player": {
+          "id": 6841,
+          "name": "V\u00edctor Mach\u00edn P\u00e9rez"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.1,
+          50.9
+        ],
+        "player": {
+          "id": 6401,
+          "name": "Kevin Gameiro"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.4,
+          21.0
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.5,
+          19.9
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.5,
+          41.2
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.7,
+          46.1
+        ],
+        "player": {
+          "id": 22102,
+          "name": "Adriano Correia Claro"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          35.9
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

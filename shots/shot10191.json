@@ -1,0 +1,189 @@
+{
+  "id": "9c8af2f7-030c-4e71-adce-3bbf01d5e6cf",
+  "index": 850,
+  "period": 1,
+  "timestamp": "00:23:18.653",
+  "minute": 23,
+  "second": 18,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 47,
+  "possession_team": {
+    "id": 971,
+    "name": "Chelsea FCW"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 971,
+    "name": "Chelsea FCW"
+  },
+  "player": {
+    "id": 17275,
+    "name": "Hannah Jayne Blundell"
+  },
+  "position": {
+    "id": 2,
+    "name": "Right Back"
+  },
+  "location": [
+    104.0,
+    45.0
+  ],
+  "duration": 0.5151,
+  "related_events": [
+    "a2e2554b-cdf2-49a4-bc60-1f5c789080ef"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.100841455,
+    "end_location": [
+      117.0,
+      39.9,
+      1.8
+    ],
+    "key_pass_id": "4beb3751-fb5d-4e64-80cd-9e72b509d74f",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.0,
+          41.0
+        ],
+        "player": {
+          "id": 18158,
+          "name": "Rebecca Leigh Spencer"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          47.0
+        ],
+        "player": {
+          "id": 18147,
+          "name": "Kate Longhurst"
+        },
+        "position": {
+          "id": 14,
+          "name": "Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.0,
+          60.0
+        ],
+        "player": {
+          "id": 21014,
+          "name": "Vyan Sampson"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          47.0
+        ],
+        "player": {
+          "id": 18155,
+          "name": "Erin Simon"
+        },
+        "position": {
+          "id": 8,
+          "name": "Left Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          42.0
+        ],
+        "player": {
+          "id": 18145,
+          "name": "Ria Percival"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          38.0
+        ],
+        "player": {
+          "id": 18154,
+          "name": "Esmee de Graaf"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          36.0
+        ],
+        "player": {
+          "id": 4641,
+          "name": "Francesca Kirby"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.0,
+          36.0
+        ],
+        "player": {
+          "id": 15549,
+          "name": "Sophie Ingle"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

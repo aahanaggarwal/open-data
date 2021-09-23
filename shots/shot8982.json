@@ -1,0 +1,191 @@
+{
+  "id": "3829dbfa-3cf8-4b9f-9429-0a7892e3c8fc",
+  "index": 2854,
+  "period": 2,
+  "timestamp": "00:34:20.304",
+  "minute": 79,
+  "second": 20,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 175,
+  "possession_team": {
+    "id": 214,
+    "name": "Espanyol"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 214,
+    "name": "Espanyol"
+  },
+  "player": {
+    "id": 26243,
+    "name": "Iv\u00e1n Daniel Alonso Vallejo"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    104.0,
+    57.5
+  ],
+  "duration": 1.301834,
+  "under_pressure": true,
+  "related_events": [
+    "3d1675cd-bf91-4464-98e1-b16fc14aa90a",
+    "bae21c81-d41d-48af-853a-75d0baa9a3f7"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.023590505,
+    "end_location": [
+      117.1,
+      41.9,
+      0.0
+    ],
+    "key_pass_id": "535e320c-2182-46c4-9664-2a8933d66d2d",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          117.5,
+          42.0
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.7,
+          31.7
+        ],
+        "player": {
+          "id": 26609,
+          "name": "Pablo Daniel Osvaldo"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.4,
+          38.1
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.2,
+          56.4
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          73.6,
+          19.7
+        ],
+        "player": {
+          "id": 24744,
+          "name": "Juan Daniel Forl\u00edn"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          81.6,
+          74.2
+        ],
+        "player": {
+          "id": 23916,
+          "name": "Luis Garc\u00eda Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          89.5,
+          54.9
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.1,
+          62.5
+        ],
+        "player": {
+          "id": 20169,
+          "name": "Seydou K\u00e9ita"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

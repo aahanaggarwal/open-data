@@ -1,0 +1,218 @@
+{
+  "id": "73a92d08-3803-4e21-b3ca-1ebbc693160f",
+  "index": 4194,
+  "period": 3,
+  "timestamp": "00:14:23.410",
+  "minute": 104,
+  "second": 23,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 242,
+  "possession_team": {
+    "id": 212,
+    "name": "Atl\u00e9tico Madrid"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 212,
+    "name": "Atl\u00e9tico Madrid"
+  },
+  "player": {
+    "id": 5633,
+    "name": "Yannick Ferreira Carrasco"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    105.0,
+    25.0
+  ],
+  "duration": 0.1978,
+  "related_events": [
+    "3df69197-f035-45ce-a406-67e582b3bb5b",
+    "79fce679-19ad-4923-bf4d-7925d84b1417"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.052332368,
+    "end_location": [
+      107.0,
+      27.0
+    ],
+    "key_pass_id": "65f69195-9a5a-43f2-808b-72a7f8d4b248",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          107.0,
+          28.0
+        ],
+        "player": {
+          "id": 20016,
+          "name": "Kl\u00e9per Laveran Lima Ferreira"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.08957,
+          27.272392
+        ],
+        "player": {
+          "id": 3063,
+          "name": "Danilo Luiz da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          38.0
+        ],
+        "player": {
+          "id": 5201,
+          "name": "Sergio Ramos Garc\u00eda"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.0,
+          32.0
+        ],
+        "player": {
+          "id": 4926,
+          "name": "Francisco Rom\u00e1n Alarc\u00f3n Su\u00e1rez"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.0,
+          21.0
+        ],
+        "player": {
+          "id": 5539,
+          "name": "Carlos Henrique Casimiro"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          24.0
+        ],
+        "player": {
+          "id": 5200,
+          "name": "Lucas V\u00e1zquez Iglesias"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          38.0
+        ],
+        "player": {
+          "id": 5597,
+          "name": "Keylor Navas Gamboa"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.0,
+          30.0
+        ],
+        "player": {
+          "id": 6381,
+          "name": "Sa\u00fal \u00d1\u00edguez Esclapez"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.0,
+          34.0
+        ],
+        "player": {
+          "id": 5487,
+          "name": "Antoine Griezmann"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.0,
+          42.0
+        ],
+        "player": {
+          "id": 6382,
+          "name": "Fernando Jos\u00e9 Torres Sanz"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

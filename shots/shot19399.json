@@ -1,0 +1,173 @@
+{
+  "id": "1fdc638f-88f9-491f-a492-6be16f8b93a7",
+  "index": 1316,
+  "period": 1,
+  "timestamp": "00:27:12.405",
+  "minute": 27,
+  "second": 12,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 51,
+  "possession_team": {
+    "id": 206,
+    "name": "Deportivo Alav\u00e9s"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 206,
+    "name": "Deportivo Alav\u00e9s"
+  },
+  "player": {
+    "id": 6626,
+    "name": "Mubarak Wakaso"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    103.7,
+    40.8
+  ],
+  "duration": 1.010156,
+  "related_events": [
+    "05d86cae-829c-41a9-8721-0fc6df3a150a"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.10893671,
+    "end_location": [
+      120.0,
+      47.3,
+      0.0
+    ],
+    "key_pass_id": "b1e9f004-29a2-4eeb-bcf5-15f7d05229c1",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          107.1,
+          44.2
+        ],
+        "player": {
+          "id": 5211,
+          "name": "Jordi Alba Ramos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          50.8
+        ],
+        "player": {
+          "id": 6400,
+          "name": "Aleix Vidal Parreu"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.4,
+          40.3
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.1,
+          37.5
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.4,
+          38.5
+        ],
+        "player": {
+          "id": 5492,
+          "name": "Samuel Yves Umtiti"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.9,
+          33.5
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.6,
+          26.4
+        ],
+        "player": {
+          "id": 6732,
+          "name": "Lucas P\u00e9rez Mart\u00ednez"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

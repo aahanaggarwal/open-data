@@ -1,0 +1,189 @@
+{
+  "id": "901000f3-30de-4c6a-9f9d-29614230c93a",
+  "index": 3290,
+  "period": 2,
+  "timestamp": "00:34:56.800",
+  "minute": 79,
+  "second": 56,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 172,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5246,
+    "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    104.0,
+    43.2
+  ],
+  "duration": 1.382017,
+  "related_events": [
+    "d0d10356-e6be-4aec-9b8a-0ee6dd5a7f67"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.3743978,
+    "end_location": [
+      120.0,
+      34.1,
+      0.0
+    ],
+    "key_pass_id": "0aa53ff8-a3e2-453e-904b-2702f35c1762",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.3,
+          40.9
+        ],
+        "player": {
+          "id": 6692,
+          "name": "Oier Olaz\u00e1bal Paredes"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.1,
+          52.3
+        ],
+        "player": {
+          "id": 6784,
+          "name": "Antonio Garc\u00eda Aranda"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.3,
+          32.6
+        ],
+        "player": {
+          "id": 6807,
+          "name": "Roberto Su\u00e1rez Pier"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.9,
+          31.1
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          91.8,
+          21.3
+        ],
+        "player": {
+          "id": 5211,
+          "name": "Jordi Alba Ramos"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          96.6,
+          34.1
+        ],
+        "player": {
+          "id": 3501,
+          "name": "Philippe Coutinho Correia"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.4,
+          39.6
+        ],
+        "player": {
+          "id": 6672,
+          "name": "Jorge And\u00fajar Moreno"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.7,
+          21.7
+        ],
+        "player": {
+          "id": 6668,
+          "name": "Jos\u00e9 Luis Morales Nogales"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

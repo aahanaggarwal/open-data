@@ -1,0 +1,128 @@
+{
+  "id": "496a28a4-d0d5-4202-98ec-38ae9d321503",
+  "index": 1961,
+  "period": 2,
+  "timestamp": "00:04:41.526",
+  "minute": 49,
+  "second": 41,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 116,
+  "possession_team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "player": {
+    "id": 16378,
+    "name": "Iniabasi Anefiok Umotong"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    107.0,
+    31.0
+  ],
+  "duration": 0.761562,
+  "related_events": [
+    "2055b76b-e4dc-4550-af64-f0c4f4e57d13"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.23906943,
+    "end_location": [
+      114.0,
+      43.6,
+      0.4
+    ],
+    "key_pass_id": "68cfd11b-b443-4d4b-90ee-dd52e3567f4a",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          114.0,
+          38.0
+        ],
+        "player": {
+          "id": 19421,
+          "name": "Carly Mitchell Telford"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          33.0
+        ],
+        "player": {
+          "id": 10395,
+          "name": "Maren N\u00e6vdal Mjelde"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          45.0
+        ],
+        "player": {
+          "id": 4633,
+          "name": "Magdalena Ericsson"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          36.0
+        ],
+        "player": {
+          "id": 4642,
+          "name": "Millie Bright"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

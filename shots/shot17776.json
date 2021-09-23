@@ -1,0 +1,130 @@
+{
+  "id": "22fe2b60-d0e7-4555-bb3b-dac03b792a7e",
+  "index": 1383,
+  "period": 1,
+  "timestamp": "00:28:26.011",
+  "minute": 28,
+  "second": 26,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 53,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 6379,
+    "name": "Sergi Roberto Carnicer"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    110.9,
+    25.8
+  ],
+  "duration": 0.216847,
+  "under_pressure": true,
+  "related_events": [
+    "6e6dfcc7-a34d-4e45-b7a0-bbf1f0de5948",
+    "841d8f14-7cbd-4828-b68c-75502acd4d61",
+    "c992440e-4423-4608-9f69-86800f8dddbf"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.029775532,
+    "end_location": [
+      111.6,
+      26.6
+    ],
+    "key_pass_id": "f54fc142-ef51-447a-9c57-38c288ec07f3",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          111.5,
+          27.1
+        ],
+        "player": {
+          "id": 6648,
+          "name": "A\u00efssa Mandi"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.5,
+          36.4
+        ],
+        "player": {
+          "id": 6654,
+          "name": "Antonio Ad\u00e1n Garrido"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.9,
+          41.1
+        ],
+        "player": {
+          "id": 6647,
+          "name": "Zouhair Feddal"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.5,
+          25.3
+        ],
+        "player": {
+          "id": 5563,
+          "name": "Jos\u00e9 Andr\u00e9s Guardado Hern\u00e1ndez"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

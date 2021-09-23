@@ -1,0 +1,189 @@
+{
+  "id": "20355c49-cfa2-4f75-bb56-0f2c52ba28c5",
+  "index": 2219,
+  "period": 2,
+  "timestamp": "00:04:04.610",
+  "minute": 49,
+  "second": 4,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 104,
+  "possession_team": {
+    "id": 222,
+    "name": "Villarreal"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 222,
+    "name": "Villarreal"
+  },
+  "player": {
+    "id": 3551,
+    "name": "Karl Brillant Toko Ekambi"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    115.0,
+    60.4
+  ],
+  "duration": 1.345062,
+  "related_events": [
+    "07d91db5-74d7-4f41-836b-21419995dc03"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.021863379,
+    "end_location": [
+      120.0,
+      36.8,
+      0.5
+    ],
+    "key_pass_id": "9585703b-a477-4665-a7d1-8269dc24466b",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.2,
+          44.3
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.8,
+          59.2
+        ],
+        "player": {
+          "id": 6826,
+          "name": "Cl\u00e9ment Lenglet"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.9,
+          56.4
+        ],
+        "player": {
+          "id": 5492,
+          "name": "Samuel Yves Umtiti"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.8,
+          40.2
+        ],
+        "player": {
+          "id": 6379,
+          "name": "Sergi Roberto Carnicer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.6,
+          43.4
+        ],
+        "player": {
+          "id": 8206,
+          "name": "Arturo Erasmo Vidal Pardo"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.9,
+          54.1
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          87.8,
+          56.4
+        ],
+        "player": {
+          "id": 16335,
+          "name": "Samuel Chimerenka Chukwueze"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.9,
+          40.3
+        ],
+        "player": {
+          "id": 3497,
+          "name": "Vicente Iborra De La Fuente"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

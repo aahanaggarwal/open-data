@@ -1,0 +1,189 @@
+{
+  "id": "ae8effd0-5c53-4625-a3a2-cb5cc61a950c",
+  "index": 955,
+  "period": 1,
+  "timestamp": "00:29:13.423",
+  "minute": 29,
+  "second": 13,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 66,
+  "possession_team": {
+    "id": 970,
+    "name": "Yeovil Town LFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 970,
+    "name": "Yeovil Town LFC"
+  },
+  "player": {
+    "id": 15718,
+    "name": "Olivia Fergusson"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    112.0,
+    24.0
+  ],
+  "duration": 0.2394,
+  "related_events": [
+    "83caeee9-d3dd-4a61-9ae7-c08b66f10a7f"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.09175583,
+    "end_location": [
+      114.0,
+      36.6,
+      0.2
+    ],
+    "key_pass_id": "b0f1ae0c-8a64-4a43-967d-d73f0af16c5a",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          91.0,
+          32.0
+        ],
+        "player": {
+          "id": 18149,
+          "name": "Remi Allen"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          28.0
+        ],
+        "player": {
+          "id": 15719,
+          "name": "Grace Moloney"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          85.0,
+          51.0
+        ],
+        "player": {
+          "id": 15724,
+          "name": "Mayumi Pacheco"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          34.0
+        ],
+        "player": {
+          "id": 10198,
+          "name": "Josanne Potter"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.0,
+          24.0
+        ],
+        "player": {
+          "id": 15720,
+          "name": "Sophie Howard"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.0,
+          32.0
+        ],
+        "player": {
+          "id": 15711,
+          "name": "Amber Gaylor"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.0,
+          25.0
+        ],
+        "player": {
+          "id": 15714,
+          "name": "Anne-Marie Heatherson"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.0,
+          25.0
+        ],
+        "player": {
+          "id": 18152,
+          "name": "Kirstyn Pearce"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "id": "6b3688c2-0cd1-4452-ab9a-e0f1511139e9",
+  "index": 879,
+  "period": 1,
+  "timestamp": "00:19:49.948",
+  "minute": 19,
+  "second": 49,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 48,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19298,
+    "name": "Samuel Eto\"o Fils"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    92.4,
+    22.9
+  ],
+  "duration": 0.9057,
+  "under_pressure": true,
+  "related_events": [
+    "2cdbbe32-aabb-4cb1-9f9a-2d0ec4ec5393",
+    "d99db9e3-f7af-49e8-96b1-0b174d8dc4da"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.022053985,
+    "end_location": [
+      114.4,
+      35.9,
+      1.5
+    ],
+    "key_pass_id": "90a624d0-af3b-4805-8485-4f72570c16b1",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          93.3,
+          49.0
+        ],
+        "player": {
+          "id": 26448,
+          "name": "Javier Garrido Behovide"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.5,
+          23.8
+        ],
+        "player": {
+          "id": 25915,
+          "name": "S\u00e1vio Bortolini Pimentel"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.2,
+          29.7
+        ],
+        "player": {
+          "id": 26449,
+          "name": "Mikel Aranburu Eizagirre"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          88.1,
+          34.6
+        ],
+        "player": {
+          "id": 26445,
+          "name": "V\u00edctor Rub\u00e9n L\u00f3pez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          77.2,
+          37.6
+        ],
+        "player": {
+          "id": 26431,
+          "name": "Aitor L\u00f3pez Rekarte"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          81.2,
+          31.3
+        ],
+        "player": {
+          "id": 25879,
+          "name": "Ronaldo de Assis Moreira"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          83.8,
+          53.7
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.0,
+          36.4
+        ],
+        "player": {
+          "id": 4691,
+          "name": "Claudio Andr\u00e9s Bravo Mu\u00f1oz"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

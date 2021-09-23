@@ -1,0 +1,205 @@
+{
+  "id": "c76292d0-aaad-425a-bcb7-d913b1f2ca1c",
+  "index": 3159,
+  "period": 2,
+  "timestamp": "00:31:00.724",
+  "minute": 76,
+  "second": 0,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 145,
+  "possession_team": {
+    "id": 220,
+    "name": "Real Madrid"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 220,
+    "name": "Real Madrid"
+  },
+  "player": {
+    "id": 5566,
+    "name": "Sami Khedira"
+  },
+  "position": {
+    "id": 9,
+    "name": "Right Defensive Midfield"
+  },
+  "location": [
+    110.4,
+    52.8
+  ],
+  "duration": 0.1783,
+  "under_pressure": true,
+  "related_events": [
+    "7c13d277-c405-459e-956b-9c5628546773",
+    "7c2f5838-877c-4a6a-8220-c1fa6087d985",
+    "cb3afdee-7c98-4666-af3f-5533ef8db8d7"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.03523376,
+    "end_location": [
+      111.0,
+      52.1
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          111.1,
+          51.8
+        ],
+        "player": {
+          "id": 5208,
+          "name": "Thiago Alc\u00e2ntara do Nascimento"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.2,
+          52.5
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.9,
+          48.7
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.8,
+          54.1
+        ],
+        "player": {
+          "id": 5216,
+          "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.2,
+          52.5
+        ],
+        "player": {
+          "id": 19677,
+          "name": "Karim Benzema"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.8,
+          41.4
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.7,
+          44.1
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.6,
+          52.6
+        ],
+        "player": {
+          "id": 3496,
+          "name": "Mesut \u00d6zil"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.6,
+          36.3
+        ],
+        "player": {
+          "id": 6770,
+          "name": "Esteban F\u00e9lix Granero Molina"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

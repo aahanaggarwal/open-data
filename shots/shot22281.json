@@ -1,0 +1,220 @@
+{
+  "id": "f07f737d-134b-49de-b0a6-2d0cf2f64ee3",
+  "index": 1509,
+  "period": 1,
+  "timestamp": "00:39:28.094",
+  "minute": 39,
+  "second": 28,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 85,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 20131,
+    "name": "Xavier Hern\u00e1ndez Creus"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    93.4,
+    48.3
+  ],
+  "duration": 0.033942,
+  "under_pressure": true,
+  "related_events": [
+    "eba86717-ba8d-4329-87b7-b9953e7f3338",
+    "f2324de5-bac1-4910-973d-04b65d960d3a",
+    "f7daf494-513c-4c3d-96f0-2a15f2c35afe"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.036709897,
+    "end_location": [
+      97.4,
+      47.8
+    ],
+    "key_pass_id": "a42de03f-8cca-405d-a79b-d3400b55cfc4",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.9,
+          40.9
+        ],
+        "player": {
+          "id": 11179,
+          "name": "Iker Casillas Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.9,
+          40.5
+        ],
+        "player": {
+          "id": 15584,
+          "name": "Iv\u00e1n Helguera Buj\u00eda"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.8,
+          44.5
+        ],
+        "player": {
+          "id": 5201,
+          "name": "Sergio Ramos Garc\u00eda"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.2,
+          35.2
+        ],
+        "player": {
+          "id": 25932,
+          "name": "Pablo Gabriel Garc\u00eda P\u00e9rez"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          87.5,
+          34.3
+        ],
+        "player": {
+          "id": 15661,
+          "name": "David Beckham"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.7,
+          27.6
+        ],
+        "player": {
+          "id": 15601,
+          "name": "Miguel \u00c1ngel Salgado Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.5,
+          47.8
+        ],
+        "player": {
+          "id": 25926,
+          "name": "Roberto Carlos da Silva"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          84.2,
+          18.1
+        ],
+        "player": {
+          "id": 25879,
+          "name": "Ronaldo de Assis Moreira"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.2,
+          31.5
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          98.3,
+          40.6
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

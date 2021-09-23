@@ -1,0 +1,116 @@
+{
+  "id": "9b637e24-45d2-411a-af46-12ee06243e03",
+  "index": 1435,
+  "period": 1,
+  "timestamp": "00:42:34.236",
+  "minute": 42,
+  "second": 34,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 100,
+  "possession_team": {
+    "id": 974,
+    "name": "Reading WFC"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 974,
+    "name": "Reading WFC"
+  },
+  "player": {
+    "id": 24747,
+    "name": "Millie Farrow"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    108.3,
+    35.6
+  ],
+  "duration": 0.936764,
+  "under_pressure": true,
+  "related_events": [
+    "9afcdf57-9027-484d-a093-eddd005c039b",
+    "e5584477-60a2-4b98-89c6-6f83c92526b0"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.3761249,
+    "end_location": [
+      120.0,
+      45.8,
+      1.5
+    ],
+    "key_pass_id": "4c4c17c3-020f-4d1e-ad38-f4e448ba6c1c",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          101.6,
+          40.5
+        ],
+        "player": {
+          "id": 20034,
+          "name": "Danielle Buet"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.5,
+          37.0
+        ],
+        "player": {
+          "id": 19420,
+          "name": "Fern Whelan"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.9,
+          37.2
+        ],
+        "player": {
+          "id": 19419,
+          "name": "Marie Hourihan"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

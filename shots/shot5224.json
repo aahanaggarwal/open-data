@@ -1,0 +1,204 @@
+{
+  "id": "2eae464d-d004-4b9d-ad4a-b7563eec7b63",
+  "index": 772,
+  "period": 1,
+  "timestamp": "00:15:42.865",
+  "minute": 15,
+  "second": 42,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 38,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15042,
+    "name": "Dennis Bergkamp"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    100.8,
+    26.4
+  ],
+  "duration": 0.132561,
+  "under_pressure": true,
+  "related_events": [
+    "6df4aa1f-31ea-48e5-a76e-8666b8d098ab",
+    "9c783c40-f2dc-4000-99ab-9ce03b90f13e",
+    "cc59a78b-26c9-42a3-87d9-59d6638fac19"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.038181163,
+    "end_location": [
+      104.2,
+      29.2
+    ],
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          96.5,
+          25.5
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.0,
+          52.7
+        ],
+        "player": {
+          "id": 15754,
+          "name": "Fredrik Ljungberg"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.1,
+          46.8
+        ],
+        "player": {
+          "id": 40377,
+          "name": "Hermann Hreidarsson"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.6,
+          32.0
+        ],
+        "player": {
+          "id": 40417,
+          "name": "Jonathan Fortune"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.2,
+          29.1
+        ],
+        "player": {
+          "id": 40380,
+          "name": "Mark Fish"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          20.3
+        ],
+        "player": {
+          "id": 40416,
+          "name": "Luke Young"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.2,
+          19.0
+        ],
+        "player": {
+          "id": 13808,
+          "name": "Radostin Kishishev"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.6,
+          29.2
+        ],
+        "player": {
+          "id": 40376,
+          "name": "Graham Stuart"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.7,
+          39.5
+        ],
+        "player": {
+          "id": 40378,
+          "name": "Dean Kiely"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

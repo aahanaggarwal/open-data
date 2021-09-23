@@ -1,0 +1,277 @@
+{
+  "id": "33f59fd9-9d8d-42f6-84c7-63abf9f966e9",
+  "index": 340,
+  "period": 1,
+  "timestamp": "00:10:53.160",
+  "minute": 10,
+  "second": 53,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 37,
+  "possession_team": {
+    "id": 967,
+    "name": "Everton LFC"
+  },
+  "play_pattern": {
+    "id": 2,
+    "name": "From Corner"
+  },
+  "team": {
+    "id": 967,
+    "name": "Everton LFC"
+  },
+  "player": {
+    "id": 15579,
+    "name": "Inessa Kaagman"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    100.0,
+    27.0
+  ],
+  "duration": 1.518232,
+  "related_events": [
+    "580600c9-c5da-4839-adb4-14f7950dd451"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.01907642,
+    "end_location": [
+      119.0,
+      39.7,
+      1.8
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.0,
+          27.0
+        ],
+        "player": {
+          "id": 18254,
+          "name": "Megan Finnigan"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          95.0,
+          35.0
+        ],
+        "player": {
+          "id": 15573,
+          "name": "Abbey-Leigh Stringer"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.0,
+          49.0
+        ],
+        "player": {
+          "id": 15556,
+          "name": "Chantelle Boye-Hlorkah"
+        },
+        "position": {
+          "id": 18,
+          "name": "Right Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.0,
+          47.0
+        ],
+        "player": {
+          "id": 15575,
+          "name": "Gabrielle George"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.0,
+          44.0
+        ],
+        "player": {
+          "id": 15558,
+          "name": "Dominique Bruinenberg"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.0,
+          41.0
+        ],
+        "player": {
+          "id": 15709,
+          "name": "Megan Walsh"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          31.0
+        ],
+        "player": {
+          "id": 15715,
+          "name": "Ellie Mason"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          27.0
+        ],
+        "player": {
+          "id": 15707,
+          "name": "Georgia Evans"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          39.0
+        ],
+        "player": {
+          "id": 15717,
+          "name": "Hannah Short"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          39.0
+        ],
+        "player": {
+          "id": 15710,
+          "name": "Megan Alexander"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          36.0
+        ],
+        "player": {
+          "id": 15708,
+          "name": "Amy Goddard"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          46.0
+        ],
+        "player": {
+          "id": 15714,
+          "name": "Anne-Marie Heatherson"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          46.0
+        ],
+        "player": {
+          "id": 15711,
+          "name": "Amber Gaylor"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          48.0
+        ],
+        "player": {
+          "id": 15712,
+          "name": "Nicola Cousins"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

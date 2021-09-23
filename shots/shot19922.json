@@ -1,0 +1,83 @@
+{
+  "id": "41e7c293-2ec7-47e7-a252-0b760fc42ac4",
+  "index": 2524,
+  "period": 2,
+  "timestamp": "00:16:45.404",
+  "minute": 61,
+  "second": 45,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 108,
+  "possession_team": {
+    "id": 212,
+    "name": "Atl\u00e9tico Madrid"
+  },
+  "play_pattern": {
+    "id": 5,
+    "name": "Other"
+  },
+  "team": {
+    "id": 212,
+    "name": "Atl\u00e9tico Madrid"
+  },
+  "player": {
+    "id": 6381,
+    "name": "Sa\u00fal \u00d1\u00edguez Esclapez"
+  },
+  "position": {
+    "id": 11,
+    "name": "Left Defensive Midfield"
+  },
+  "location": [
+    107.9,
+    39.7
+  ],
+  "duration": 0.567095,
+  "related_events": [
+    "aa9b95c3-413e-4767-9e96-f026bcba4cf3"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.76,
+    "end_location": [
+      120.0,
+      43.3,
+      0.2
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 88,
+      "name": "Penalty"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.0,
+          39.4
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

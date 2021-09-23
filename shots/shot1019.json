@@ -1,0 +1,129 @@
+{
+  "id": "626d6124-baa8-46ff-9f51-a6d4ca4cd32d",
+  "index": 171,
+  "period": 1,
+  "timestamp": "00:03:34.603",
+  "minute": 3,
+  "second": 34,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 13,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15754,
+    "name": "Fredrik Ljungberg"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    109.3,
+    41.2
+  ],
+  "duration": 0.603788,
+  "related_events": [
+    "8f81a76e-9e88-465f-9e58-9144b7814f44"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.63323927,
+    "end_location": [
+      120.0,
+      36.5,
+      0.2
+    ],
+    "key_pass_id": "522754a0-ea86-4b76-8d1e-66b0652b9feb",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          101.5,
+          27.6
+        ],
+        "player": {
+          "id": 40293,
+          "name": "Damien Johnson"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.2,
+          41.1
+        ],
+        "player": {
+          "id": 40296,
+          "name": "Kenny Cunningham"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.7,
+          40.8
+        ],
+        "player": {
+          "id": 40292,
+          "name": "Maik Taylor"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.2,
+          21.9
+        ],
+        "player": {
+          "id": 20302,
+          "name": "Ga\u00ebl Clichy"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

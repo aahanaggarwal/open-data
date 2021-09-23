@@ -1,0 +1,205 @@
+{
+  "id": "b716b126-b9c0-4c89-bfc4-6636c4f38222",
+  "index": 2072,
+  "period": 2,
+  "timestamp": "00:05:35.837",
+  "minute": 50,
+  "second": 35,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 104,
+  "possession_team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "player": {
+    "id": 10180,
+    "name": "Ellen White"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    105.6,
+    47.0
+  ],
+  "duration": 0.256834,
+  "related_events": [
+    "253b2068-deb5-4b79-9559-e1fc1ced59b1",
+    "87ef324a-8aeb-40e6-a96c-648451e89333"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.10819705,
+    "end_location": [
+      117.2,
+      39.1,
+      0.4
+    ],
+    "key_pass_id": "63234ac1-47b3-490c-8482-b70b45469399",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "deflected": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          92.4,
+          18.8
+        ],
+        "player": {
+          "id": 4848,
+          "name": "Ashleigh Neville"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.5,
+          41.6
+        ],
+        "player": {
+          "id": 18158,
+          "name": "Rebecca Leigh Spencer"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.4,
+          45.2
+        ],
+        "player": {
+          "id": 31552,
+          "name": "Hannah Godfrey"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.8,
+          50.2
+        ],
+        "player": {
+          "id": 31703,
+          "name": "Anna Filbey"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.1,
+          50.9
+        ],
+        "player": {
+          "id": 4865,
+          "name": "Josie Green"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.3,
+          54.6
+        ],
+        "player": {
+          "id": 18998,
+          "name": "Emma Mitchell"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          73.4,
+          64.2
+        ],
+        "player": {
+          "id": 15721,
+          "name": "Gemma Suzanne Davison"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          90.9,
+          69.3
+        ],
+        "player": {
+          "id": 10172,
+          "name": "Jill Scott"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.7,
+          49.6
+        ],
+        "player": {
+          "id": 20725,
+          "name": "Pauline Bremer"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

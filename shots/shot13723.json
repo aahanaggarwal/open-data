@@ -1,0 +1,204 @@
+{
+  "id": "49ea6933-0f77-4167-ab55-c48d51866890",
+  "index": 3923,
+  "period": 2,
+  "timestamp": "00:45:17.877",
+  "minute": 90,
+  "second": 17,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 157,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 12737,
+    "name": "David Villa S\u00e1nchez"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    105.1,
+    26.9
+  ],
+  "duration": 0.820563,
+  "related_events": [
+    "96f1a5d2-3d61-44cf-a59e-348a6f5050dc"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.10326054,
+    "end_location": [
+      120.0,
+      42.0,
+      4.4
+    ],
+    "key_pass_id": "13e9ad7d-9e33-46d6-b6e0-566a37fdd138",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          106.0,
+          31.1
+        ],
+        "player": {
+          "id": 3991,
+          "name": "Allan Romeo Nyom"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.4,
+          35.6
+        ],
+        "player": {
+          "id": 26573,
+          "name": "\u00cd\u00f1igo L\u00f3pez Monta\u00f1a"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.6,
+          38.7
+        ],
+        "player": {
+          "id": 26503,
+          "name": "Abel G\u00f3mez Moreno"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.5,
+          37.8
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          91.3,
+          40.9
+        ],
+        "player": {
+          "id": 5216,
+          "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          87.4,
+          55.6
+        ],
+        "player": {
+          "id": 6656,
+          "name": "Mikel Rico Moreno"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.1,
+          54.0
+        ],
+        "player": {
+          "id": 26776,
+          "name": "Juan Isaac Cuenca L\u00f3pez"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.7,
+          46.3
+        ],
+        "player": {
+          "id": 26781,
+          "name": "Diego Mainz Garc\u00eda"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.5,
+          37.4
+        ],
+        "player": {
+          "id": 26659,
+          "name": "Roberto Fern\u00e1ndez Alvarellos"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

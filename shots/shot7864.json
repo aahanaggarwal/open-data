@@ -1,0 +1,157 @@
+{
+  "id": "49eea192-f2e5-4824-bf6d-d175e9cf6b7d",
+  "index": 96,
+  "period": 1,
+  "timestamp": "00:01:31.374",
+  "minute": 1,
+  "second": 31,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 5,
+  "possession_team": {
+    "id": 207,
+    "name": "Valencia"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 20131,
+    "name": "Xavier Hern\u00e1ndez Creus"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    104.3,
+    48.3
+  ],
+  "duration": 0.8945,
+  "related_events": [
+    "64b45a4f-ecff-455f-bd34-8f62780448f4"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.31630743,
+    "end_location": [
+      120.0,
+      36.0,
+      0.2
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 99,
+      "name": "Post"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          96.3,
+          45.4
+        ],
+        "player": {
+          "id": 20128,
+          "name": "David Albelda Aliqu\u00e9s"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.6,
+          44.7
+        ],
+        "player": {
+          "id": 26396,
+          "name": "Hedwiges Maduro"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.6,
+          35.9
+        ],
+        "player": {
+          "id": 7030,
+          "name": "Ra\u00fal Albiol Tortajada"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.5,
+          33.5
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          94.9,
+          48.9
+        ],
+        "player": {
+          "id": 18882,
+          "name": "Aliaksandr Hleb"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.1,
+          43.8
+        ],
+        "player": {
+          "id": 26397,
+          "name": "Renan Brito Soares"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

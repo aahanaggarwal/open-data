@@ -1,0 +1,188 @@
+{
+  "id": "d187f496-cc26-4595-bbbd-7da9443b2308",
+  "index": 2900,
+  "period": 2,
+  "timestamp": "00:40:31.230",
+  "minute": 85,
+  "second": 31,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 184,
+  "possession_team": {
+    "id": 974,
+    "name": "Reading WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 974,
+    "name": "Reading WFC"
+  },
+  "player": {
+    "id": 15721,
+    "name": "Gemma Suzanne Davison"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    94.0,
+    28.0
+  ],
+  "duration": 1.5149,
+  "related_events": [
+    "d40cd5bf-7cd4-4d3e-813f-f9b3ed2b148a"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.03766019,
+    "end_location": [
+      119.0,
+      46.7,
+      0.9
+    ],
+    "key_pass_id": "2a2336d6-1d5d-4875-a395-2efc64f1692c",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          101.0,
+          35.0
+        ],
+        "player": {
+          "id": 15726,
+          "name": "Lauren Bruton"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          87.0,
+          53.0
+        ],
+        "player": {
+          "id": 15703,
+          "name": "Charlotte Estcourt"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          90.0,
+          56.0
+        ],
+        "player": {
+          "id": 15702,
+          "name": "Leah Burridge"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.0,
+          34.0
+        ],
+        "player": {
+          "id": 15707,
+          "name": "Georgia Evans"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.0,
+          27.0
+        ],
+        "player": {
+          "id": 15708,
+          "name": "Amy Goddard"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          21.0
+        ],
+        "player": {
+          "id": 15723,
+          "name": "Brooke Chaplen"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.0,
+          29.0
+        ],
+        "player": {
+          "id": 15717,
+          "name": "Hannah Short"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          39.0
+        ],
+        "player": {
+          "id": 15709,
+          "name": "Megan Walsh"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

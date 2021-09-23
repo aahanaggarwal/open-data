@@ -1,0 +1,144 @@
+{
+  "id": "b7b6f092-bb40-4334-8fc3-5c40f96a7424",
+  "index": 2280,
+  "period": 2,
+  "timestamp": "00:09:45.175",
+  "minute": 54,
+  "second": 45,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 125,
+  "possession_team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "player": {
+    "id": 5055,
+    "name": "Lynn Williams"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    116.0,
+    50.0
+  ],
+  "duration": 0.879,
+  "related_events": [
+    "63dc16bf-0d87-4c8b-abac-1e6ac22c0a39"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.27856144,
+    "end_location": [
+      118.0,
+      43.2,
+      0.5
+    ],
+    "key_pass_id": "d502fe84-6d59-4830-b289-eb1d0dbbdd1a",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.0,
+          50.0
+        ],
+        "player": {
+          "id": 4943,
+          "name": "Estelle Johnson"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          53.0
+        ],
+        "player": {
+          "id": 5034,
+          "name": "Jessica McDonald"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.0,
+          43.0
+        ],
+        "player": {
+          "id": 5025,
+          "name": "Aubrey Bledsoe"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          45.0
+        ],
+        "player": {
+          "id": 4950,
+          "name": "Whitney Church"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          90.0,
+          65.0
+        ],
+        "player": {
+          "id": 4962,
+          "name": "Caprice Dydasco"
+        },
+        "position": {
+          "id": 8,
+          "name": "Left Wing Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

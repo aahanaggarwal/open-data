@@ -1,0 +1,114 @@
+{
+  "id": "473787e5-ca7a-456b-96eb-743572f90f05",
+  "index": 2501,
+  "period": 2,
+  "timestamp": "00:23:44.422",
+  "minute": 68,
+  "second": 44,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 138,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5246,
+    "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    105.3,
+    27.2
+  ],
+  "duration": 1.154,
+  "related_events": [
+    "6254d3a0-80aa-4a5d-afd6-e44f399341af"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.28433877,
+    "end_location": [
+      120.0,
+      37.9,
+      0.6
+    ],
+    "key_pass_id": "39c4d846-4693-4ffb-8116-4c2dbb352f11",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.0,
+          37.3
+        ],
+        "player": {
+          "id": 6573,
+          "name": "Bernardo Jos\u00e9 Espinosa Z\u00fa\u00f1iga"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.5,
+          28.3
+        ],
+        "player": {
+          "id": 6887,
+          "name": "Jon\u00e1s Ramalho Chimeno"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.4,
+          31.4
+        ],
+        "player": {
+          "id": 6576,
+          "name": "Gorka Iraizoz Moreno"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

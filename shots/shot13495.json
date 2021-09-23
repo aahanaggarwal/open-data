@@ -1,0 +1,176 @@
+{
+  "id": "5e92a82b-1777-45ec-8112-e535ab6c5ee4",
+  "index": 1596,
+  "period": 1,
+  "timestamp": "00:42:33.977",
+  "minute": 42,
+  "second": 33,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 81,
+  "possession_team": {
+    "id": 1206,
+    "name": "Canada Women's"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 1206,
+    "name": "Canada Women's"
+  },
+  "player": {
+    "id": 5043,
+    "name": "Nichelle Prince"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    108.3,
+    51.8
+  ],
+  "duration": 0.1937,
+  "under_pressure": true,
+  "related_events": [
+    "0f8c2d6e-3b83-4704-844c-7d56c0e60974",
+    "40cb1437-f2e4-4ab5-9a46-50c670ad31bd",
+    "90a17187-eb62-448f-b6cd-d3fe016669d8"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.04781402,
+    "end_location": [
+      110.5,
+      50.2
+    ],
+    "key_pass_id": "30f2779a-26b9-4961-8ae0-fe051a981044",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.8,
+          50.0
+        ],
+        "player": {
+          "id": 25623,
+          "name": "Yvonne Patrice Leuko"
+        },
+        "position": {
+          "id": 8,
+          "name": "Left Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.6,
+          43.0
+        ],
+        "player": {
+          "id": 25620,
+          "name": "Annette Ngo"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.1,
+          41.6
+        ],
+        "player": {
+          "id": 4943,
+          "name": "Estelle Johnson"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.5,
+          30.5
+        ],
+        "player": {
+          "id": 25631,
+          "name": "Jeannette Yango"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.1,
+          30.2
+        ],
+        "player": {
+          "id": 25618,
+          "name": "Christine Manie"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.3,
+          33.0
+        ],
+        "player": {
+          "id": 25612,
+          "name": "Jessie Fleming"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.5,
+          28.7
+        ],
+        "player": {
+          "id": 5038,
+          "name": "Allysha Chapman"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

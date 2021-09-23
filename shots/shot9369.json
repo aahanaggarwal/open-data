@@ -1,0 +1,144 @@
+{
+  "id": "8467cbfc-4f53-4a39-a341-1864bf6f4506",
+  "index": 1357,
+  "period": 1,
+  "timestamp": "00:35:58.795",
+  "minute": 35,
+  "second": 58,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 58,
+  "possession_team": {
+    "id": 858,
+    "name": "Sweden Women's"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 858,
+    "name": "Sweden Women's"
+  },
+  "player": {
+    "id": 10229,
+    "name": "Stina Blackstenius"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    104.0,
+    53.0
+  ],
+  "duration": 0.6368,
+  "related_events": [
+    "77d6eec3-6b30-46ad-a5ab-a5c97e36fd8e"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.09769499,
+    "end_location": [
+      116.9,
+      43.4,
+      2.2
+    ],
+    "key_pass_id": "fe007e0f-a7eb-4355-98de-a3b25ea91faa",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          90.5,
+          51.4
+        ],
+        "player": {
+          "id": 10220,
+          "name": "Kosovare Asllani"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.6,
+          53.1
+        ],
+        "player": {
+          "id": 25491,
+          "name": "Marina Hegering"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.3,
+          43.2
+        ],
+        "player": {
+          "id": 10257,
+          "name": "Almuth Schult"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          82.8,
+          70.6
+        ],
+        "player": {
+          "id": 10258,
+          "name": "Linda Dallmann"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.2,
+          60.0
+        ],
+        "player": {
+          "id": 10376,
+          "name": "Carolin Simon"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "id": "b1fd8555-9743-4959-80e0-953c161320ee",
+  "index": 2262,
+  "period": 2,
+  "timestamp": "00:10:30.639",
+  "minute": 55,
+  "second": 30,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 110,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5246,
+    "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    105.3,
+    51.8
+  ],
+  "duration": 1.182012,
+  "under_pressure": true,
+  "related_events": [
+    "1505395e-fb52-412a-8b83-a57b2e2639c7",
+    "57b7a7e8-4ddd-426f-86fd-7e176aece866"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.10550416,
+    "end_location": [
+      120.0,
+      37.0,
+      0.2
+    ],
+    "key_pass_id": "eb35679b-5849-4f87-a230-f37659888f88",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          95.6,
+          53.6
+        ],
+        "player": {
+          "id": 5470,
+          "name": "Ivan Rakiti\u0107"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.9,
+          50.5
+        ],
+        "player": {
+          "id": 5201,
+          "name": "Sergio Ramos Garc\u00eda"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.5,
+          50.7
+        ],
+        "player": {
+          "id": 20016,
+          "name": "Kl\u00e9per Laveran Lima Ferreira"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.6,
+          44.9
+        ],
+        "player": {
+          "id": 11179,
+          "name": "Iker Casillas Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

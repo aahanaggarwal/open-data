@@ -1,0 +1,174 @@
+{
+  "id": "7c0c655d-1c43-4fa8-a06d-d2251dc09e8e",
+  "index": 2760,
+  "period": 2,
+  "timestamp": "00:19:03.474",
+  "minute": 64,
+  "second": 3,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 163,
+  "possession_team": {
+    "id": 967,
+    "name": "Everton LFC"
+  },
+  "play_pattern": {
+    "id": 8,
+    "name": "From Keeper"
+  },
+  "team": {
+    "id": 967,
+    "name": "Everton LFC"
+  },
+  "player": {
+    "id": 15559,
+    "name": "Simone Magill"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    104.9,
+    41.8
+  ],
+  "duration": 0.4069,
+  "related_events": [
+    "3f45a24a-fc5c-4eeb-b1f8-7b06c2ed9d83"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.30350533,
+    "end_location": [
+      111.9,
+      40.9,
+      2.0
+    ],
+    "key_pass_id": "96573761-390b-4569-83fa-3669e56fbf56",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          91.9,
+          41.2
+        ],
+        "player": {
+          "id": 15726,
+          "name": "Lauren Bruton"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          42.9
+        ],
+        "player": {
+          "id": 15724,
+          "name": "Mayumi Pacheco"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.9,
+          40.9
+        ],
+        "player": {
+          "id": 21021,
+          "name": "Molly Bartrip"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.3,
+          35.8
+        ],
+        "player": {
+          "id": 15725,
+          "name": "Natasha Harding"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          84.8,
+          37.7
+        ],
+        "player": {
+          "id": 18253,
+          "name": "Hannah Cain"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          85.5,
+          42.1
+        ],
+        "player": {
+          "id": 15556,
+          "name": "Chantelle Boye-Hlorkah"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.1,
+          40.9
+        ],
+        "player": {
+          "id": 15719,
+          "name": "Grace Moloney"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

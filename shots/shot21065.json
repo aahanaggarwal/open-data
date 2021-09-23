@@ -1,0 +1,158 @@
+{
+  "id": "6c0906c0-b825-40ad-99d7-10d464704a04",
+  "index": 1747,
+  "period": 2,
+  "timestamp": "00:00:17.722",
+  "minute": 45,
+  "second": 17,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 89,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    113.7,
+    27.6
+  ],
+  "duration": 0.650449,
+  "related_events": [
+    "84400017-d44c-416b-b671-304d30cc3c26",
+    "a5c8096b-6370-4b4b-8bd5-7ab7bd3d39bc"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.28447708,
+    "end_location": [
+      119.1,
+      35.4
+    ],
+    "key_pass_id": "30ea5358-195b-4656-b117-7bee5afbd985",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          111.7,
+          30.3
+        ],
+        "player": {
+          "id": 25912,
+          "name": "Ricardo L\u00f3pez Felipe"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.9,
+          31.1
+        ],
+        "player": {
+          "id": 25871,
+          "name": "Jos\u00e9 Izquierdo Mart\u00ednez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.6,
+          38.4
+        ],
+        "player": {
+          "id": 25861,
+          "name": "I\u00f1aki Mu\u00f1oz Oroz"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.8,
+          36.9
+        ],
+        "player": {
+          "id": 25865,
+          "name": "Jos\u00e9 Romero Urtasun"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.2,
+          39.6
+        ],
+        "player": {
+          "id": 25914,
+          "name": "Rafael Clavero Prados"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.1,
+          41.5
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

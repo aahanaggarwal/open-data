@@ -1,0 +1,221 @@
+{
+  "id": "74e3907b-aecf-4c89-9681-8ba83d0b3b46",
+  "index": 741,
+  "period": 1,
+  "timestamp": "00:15:35.574",
+  "minute": 15,
+  "second": 35,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 30,
+  "possession_team": {
+    "id": 214,
+    "name": "Espanyol"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 214,
+    "name": "Espanyol"
+  },
+  "player": {
+    "id": 6866,
+    "name": "Marc Roca Junqu\u00e9"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    98.6,
+    30.8
+  ],
+  "duration": 0.396643,
+  "under_pressure": true,
+  "related_events": [
+    "40c6f422-1bdd-4a26-81d4-0be4d0388377",
+    "c5c09cbd-16ac-41db-8506-f1d9552ed240",
+    "c8fcbae5-9862-4e63-acda-1124a8dc9fd6"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.03897059,
+    "end_location": [
+      109.2,
+      35.0
+    ],
+    "key_pass_id": "063420fb-54e1-4734-87ee-908dccbbbe84",
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          98.9,
+          32.5
+        ],
+        "player": {
+          "id": 5470,
+          "name": "Ivan Rakiti\u0107"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.4,
+          41.6
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.7,
+          44.7
+        ],
+        "player": {
+          "id": 5211,
+          "name": "Jordi Alba Ramos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.3,
+          42.8
+        ],
+        "player": {
+          "id": 6826,
+          "name": "Cl\u00e9ment Lenglet"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.9,
+          37.6
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.9,
+          21.0
+        ],
+        "player": {
+          "id": 6374,
+          "name": "N\u00e9lson Cabral Semedo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.8,
+          35.3
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.6,
+          16.3
+        ],
+        "player": {
+          "id": 6886,
+          "name": "D\u00eddac Vil\u00e1 Rossell\u00f3"
+        },
+        "position": {
+          "id": 8,
+          "name": "Left Wing Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.1,
+          40.2
+        ],
+        "player": {
+          "id": 16209,
+          "name": "Ra\u00fal de Tom\u00e1s G\u00f3mez"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.7,
+          53.9
+        ],
+        "player": {
+          "id": 11539,
+          "name": "Adri\u00e1n Embarba Bl\u00e1zquez"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

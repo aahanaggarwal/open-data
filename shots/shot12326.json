@@ -1,0 +1,158 @@
+{
+  "id": "a530a62e-f67b-4724-b115-6d5c6917a863",
+  "index": 3014,
+  "period": 2,
+  "timestamp": "00:36:01.935",
+  "minute": 81,
+  "second": 1,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 169,
+  "possession_team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "player": {
+    "id": 4654,
+    "name": "Nikita Parris"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    104.0,
+    44.0
+  ],
+  "duration": 0.385,
+  "related_events": [
+    "07771c81-91c1-493a-9ed3-ae87f23b95e2"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.37095696,
+    "end_location": [
+      108.0,
+      44.0
+    ],
+    "key_pass_id": "d14c5b93-8d69-4605-8561-4bf5610f160b",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 101,
+      "name": "Wayward"
+    },
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          107.0,
+          32.0
+        ],
+        "player": {
+          "id": 4992,
+          "name": "Janine Beckie"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          76.0,
+          23.0
+        ],
+        "player": {
+          "id": 10188,
+          "name": "Caroline Weir"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.0,
+          35.0
+        ],
+        "player": {
+          "id": 18145,
+          "name": "Ria Percival"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          38.0
+        ],
+        "player": {
+          "id": 18151,
+          "name": "Gilly Louise Scarlett Flaherty"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.0,
+          44.0
+        ],
+        "player": {
+          "id": 18156,
+          "name": "Claire Lauren Rafferty"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          43.0
+        ],
+        "player": {
+          "id": 22027,
+          "name": "Anne Moorhouse"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "id": "0e95451a-e6d5-46c4-bc96-244e2712bc5c",
+  "index": 438,
+  "period": 1,
+  "timestamp": "00:10:23.517",
+  "minute": 10,
+  "second": 23,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 19,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 24972,
+    "name": "Ray Parlour"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    95.7,
+    56.7
+  ],
+  "duration": 0.385533,
+  "related_events": [
+    "4e72d1f7-ebd9-47ba-8a2d-e3cc94967e75",
+    "95bee2c5-4a03-4674-98a9-1b727bc7be29"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.014193849,
+    "end_location": [
+      103.6,
+      47.8
+    ],
+    "key_pass_id": "43d7c0b1-8b1a-43d7-a4e2-af7ee7e32529",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          87.1,
+          66.4
+        ],
+        "player": {
+          "id": 40222,
+          "name": "Laureano Bisan-Etame Mayer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          116.8,
+          42.4
+        ],
+        "player": {
+          "id": 20446,
+          "name": "Shay Given"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          57.0
+        ],
+        "player": {
+          "id": 40233,
+          "name": "Olivier Bernard"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.6,
+          64.6
+        ],
+        "player": {
+          "id": 40227,
+          "name": "Laurent Robert"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          50.3
+        ],
+        "player": {
+          "id": 40230,
+          "name": "Titus Malachi Bramble"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.8,
+          53.9
+        ],
+        "player": {
+          "id": 40234,
+          "name": "Jermaine Jenas"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.5,
+          44.1
+        ],
+        "player": {
+          "id": 40225,
+          "name": "Andy O\"Brien"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.8,
+          31.6
+        ],
+        "player": {
+          "id": 20059,
+          "name": "Aaron Hughes"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.2,
+          53.7
+        ],
+        "player": {
+          "id": 15512,
+          "name": "Sylvain Wiltord"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.6,
+          46.5
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

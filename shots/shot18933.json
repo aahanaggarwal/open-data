@@ -1,0 +1,161 @@
+{
+  "id": "1b58bd23-3352-41e7-afa9-d68e98fea378",
+  "index": 3816,
+  "period": 2,
+  "timestamp": "00:42:21.149",
+  "minute": 87,
+  "second": 21,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 196,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5211,
+    "name": "Jordi Alba Ramos"
+  },
+  "position": {
+    "id": 6,
+    "name": "Left Back"
+  },
+  "location": [
+    108.7,
+    44.7
+  ],
+  "duration": 0.4092,
+  "under_pressure": true,
+  "related_events": [
+    "2063e948-8bb0-440c-bd74-e56e0d43301d",
+    "aba62fa7-86f3-4e25-b96d-cf3f145df26d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.332796,
+    "end_location": [
+      115.9,
+      41.7,
+      0.5
+    ],
+    "key_pass_id": "e6112e96-430d-460b-b0fb-d8f59db5711e",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          116.4,
+          41.5
+        ],
+        "player": {
+          "id": 25144,
+          "name": "Diego Alves Carreira"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.7,
+          43.7
+        ],
+        "player": {
+          "id": 19454,
+          "name": "Ricardo Miguel Moreira da Costa"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.9,
+          33.1
+        ],
+        "player": {
+          "id": 20138,
+          "name": "Jo\u00e3o Pedro da Silva Pereira"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.8,
+          46.7
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.4,
+          49.3
+        ],
+        "player": {
+          "id": 5563,
+          "name": "Jos\u00e9 Andr\u00e9s Guardado Hern\u00e1ndez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.6,
+          57.9
+        ],
+        "player": {
+          "id": 26257,
+          "name": "Dorlan Mauricio Pab\u00f3n R\u00edos"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

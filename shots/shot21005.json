@@ -1,0 +1,219 @@
+{
+  "id": "cd2cd1f5-e595-4d9f-b501-d661fa07bc15",
+  "index": 4404,
+  "period": 4,
+  "timestamp": "00:06:20.283",
+  "minute": 111,
+  "second": 20,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 243,
+  "possession_team": {
+    "id": 169,
+    "name": "Bayern Munich"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 169,
+    "name": "Bayern Munich"
+  },
+  "player": {
+    "id": 5565,
+    "name": "Mario G\u00f3mez Garc\u00eda"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    113.0,
+    43.0
+  ],
+  "duration": 0.0587,
+  "related_events": [
+    "0828a940-1957-49e5-b1a4-f6509843c20b",
+    "bfdd96fd-2119-4dc2-be5c-84bee50d50d8"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.49804583,
+    "end_location": [
+      114.0,
+      43.0
+    ],
+    "key_pass_id": "8fc3be06-a1c1-422d-bb77-9cdeeac51766",
+    "first_time": true,
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          105.0,
+          56.0
+        ],
+        "player": {
+          "id": 5475,
+          "name": "John Michael Nchekwube Obinna"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          48.0
+        ],
+        "player": {
+          "id": 3956,
+          "name": "David Luiz Moreira Marinho"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          43.0
+        ],
+        "player": {
+          "id": 20330,
+          "name": "Frank Lampard"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          42.0
+        ],
+        "player": {
+          "id": 3645,
+          "name": "Gary Cahill"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          32.0
+        ],
+        "player": {
+          "id": 19289,
+          "name": "Ivica Oli\u0107"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.0,
+          53.0
+        ],
+        "player": {
+          "id": 20290,
+          "name": "Florent Malouda"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          50.0
+        ],
+        "player": {
+          "id": 3461,
+          "name": "Petr \u010cech"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          62.0
+        ],
+        "player": {
+          "id": 12529,
+          "name": "Ashley Cole"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          67.0
+        ],
+        "player": {
+          "id": 8218,
+          "name": "Arjen Robben"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          116.0,
+          52.0
+        ],
+        "player": {
+          "id": 19295,
+          "name": "Philipp Lahm"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

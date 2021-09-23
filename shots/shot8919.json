@@ -1,0 +1,204 @@
+{
+  "id": "5f49ab86-79a9-41dc-98e6-d989c6984a16",
+  "index": 2326,
+  "period": 2,
+  "timestamp": "00:06:48.126",
+  "minute": 51,
+  "second": 48,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 88,
+  "possession_team": {
+    "id": 422,
+    "name": "Osasuna"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 422,
+    "name": "Osasuna"
+  },
+  "player": {
+    "id": 23947,
+    "name": "Roberto Torres Morales"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    114.8,
+    20.5
+  ],
+  "duration": 0.3376,
+  "related_events": [
+    "d2c330f3-0869-4855-8760-76f25b31026e"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.016229413,
+    "end_location": [
+      119.4,
+      35.7,
+      1.6
+    ],
+    "key_pass_id": "938ad768-70d1-4b6d-9e68-dad67c5b458b",
+    "first_time": true,
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          101.3,
+          61.3
+        ],
+        "player": {
+          "id": 23995,
+          "name": "Jaime Romero G\u00f3mez"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          116.5,
+          31.4
+        ],
+        "player": {
+          "id": 6657,
+          "name": "Sergio Le\u00f3n Limones"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.5,
+          24.5
+        ],
+        "player": {
+          "id": 10802,
+          "name": "Andr\u00e9 Filipe Tavares Gomes"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.2,
+          31.4
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.7,
+          37.1
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.2,
+          47.3
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.5,
+          55.4
+        ],
+        "player": {
+          "id": 6849,
+          "name": "Lucas Digne"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.5,
+          58.4
+        ],
+        "player": {
+          "id": 6609,
+          "name": "Denis Su\u00e1rez Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.8,
+          54.7
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

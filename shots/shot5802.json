@@ -1,0 +1,175 @@
+{
+  "id": "852f0e5f-0aec-4a0f-9c9d-b171208c8470",
+  "index": 1525,
+  "period": 1,
+  "timestamp": "00:44:42.165",
+  "minute": 44,
+  "second": 42,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 88,
+  "possession_team": {
+    "id": 1475,
+    "name": "Manchester United"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1475,
+    "name": "Manchester United"
+  },
+  "player": {
+    "id": 31531,
+    "name": "Lauren James"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    102.6,
+    25.7
+  ],
+  "duration": 0.946527,
+  "related_events": [
+    "9c773063-02d5-4c6c-816b-d8b3cea0467d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.070976056,
+    "end_location": [
+      120.0,
+      42.9,
+      0.6
+    ],
+    "key_pass_id": "4fa58629-debd-406d-bef8-69a61182d7e0",
+    "follows_dribble": true,
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          106.7,
+          18.2
+        ],
+        "player": {
+          "id": 10654,
+          "name": "Jackie Groenen"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.4,
+          43.8
+        ],
+        "player": {
+          "id": 31535,
+          "name": "Jessica Sigsworth"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.4,
+          41.2
+        ],
+        "player": {
+          "id": 15571,
+          "name": "Danielle Turner"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.1,
+          31.6
+        ],
+        "player": {
+          "id": 15575,
+          "name": "Gabrielle George"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.4,
+          16.2
+        ],
+        "player": {
+          "id": 4649,
+          "name": "Esme Beth Morgan"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.7,
+          19.6
+        ],
+        "player": {
+          "id": 18254,
+          "name": "Megan Finnigan"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.9,
+          36.6
+        ],
+        "player": {
+          "id": 13857,
+          "name": "Tinja-Riikka Korpela"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

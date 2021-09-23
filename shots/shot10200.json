@@ -1,0 +1,187 @@
+{
+  "id": "67ee9bdd-4dab-42c6-841f-605e37f70d44",
+  "index": 2132,
+  "period": 2,
+  "timestamp": "00:15:21.655",
+  "minute": 60,
+  "second": 21,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 122,
+  "possession_team": {
+    "id": 972,
+    "name": "West Ham United LFC"
+  },
+  "play_pattern": {
+    "id": 2,
+    "name": "From Corner"
+  },
+  "team": {
+    "id": 972,
+    "name": "West Ham United LFC"
+  },
+  "player": {
+    "id": 18157,
+    "name": "Brianna Visalli"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    113.0,
+    47.0
+  ],
+  "duration": 2.169112,
+  "related_events": [
+    "07c26b63-300b-401a-bed0-b8e615d1b66d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.17434376,
+    "end_location": [
+      113.0,
+      37.0
+    ],
+    "key_pass_id": "1ea56675-df9d-4b9c-9aa9-7d26cd6bdef9",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "outcome": {
+      "id": 101,
+      "name": "Wayward"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.0,
+          34.0
+        ],
+        "player": {
+          "id": 4642,
+          "name": "Millie Bright"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          44.0
+        ],
+        "player": {
+          "id": 4633,
+          "name": "Magdalena Ericsson"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          41.0
+        ],
+        "player": {
+          "id": 10222,
+          "name": "Jonna Andersson"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          51.0
+        ],
+        "player": {
+          "id": 4660,
+          "name": "Erin Cuthbert"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.0,
+          54.0
+        ],
+        "player": {
+          "id": 17275,
+          "name": "Hannah Jayne Blundell"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          41.0
+        ],
+        "player": {
+          "id": 19421,
+          "name": "Carly Mitchell Telford"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          35.0
+        ],
+        "player": {
+          "id": 15550,
+          "name": "Bethany England"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          38.0
+        ],
+        "player": {
+          "id": 4653,
+          "name": "Jane Ross"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

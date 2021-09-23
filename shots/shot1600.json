@@ -1,0 +1,143 @@
+{
+  "id": "70adeba3-126d-49c6-bc57-d40381dfb3df",
+  "index": 890,
+  "period": 1,
+  "timestamp": "00:20:34.170",
+  "minute": 20,
+  "second": 34,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 42,
+  "possession_team": {
+    "id": 2647,
+    "name": "Aston Villa"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "player": {
+    "id": 4643,
+    "name": "Georgia Stanway"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    113.2,
+    34.5
+  ],
+  "duration": 1.314514,
+  "related_events": [
+    "9198ef1e-5118-4e30-9c31-52d21fd8d8e2"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.57508415,
+    "end_location": [
+      120.0,
+      36.7,
+      0.2
+    ],
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.1,
+          12.7
+        ],
+        "player": {
+          "id": 46534,
+          "name": "Elisha N\"Dow"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.4,
+          31.2
+        ],
+        "player": {
+          "id": 15565,
+          "name": "Marisa Ewers"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.2,
+          58.9
+        ],
+        "player": {
+          "id": 46535,
+          "name": "Natalie Haigh"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.1,
+          35.6
+        ],
+        "player": {
+          "id": 46540,
+          "name": "Sian Rogers"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.5,
+          51.4
+        ],
+        "player": {
+          "id": 5087,
+          "name": "Samantha Mewis"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

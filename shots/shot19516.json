@@ -1,0 +1,174 @@
+{
+  "id": "d02f6f2c-39d9-4da1-96e6-02ad54acaba1",
+  "index": 1981,
+  "period": 2,
+  "timestamp": "00:01:20.960",
+  "minute": 46,
+  "second": 20,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 89,
+  "possession_team": {
+    "id": 218,
+    "name": "Real Betis"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 218,
+    "name": "Real Betis"
+  },
+  "player": {
+    "id": 25896,
+    "name": "Dami\u00e0 Abella P\u00e9rez"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    116.8,
+    57.3
+  ],
+  "duration": 0.668394,
+  "related_events": [
+    "8fcf47d7-a8d2-4d8a-8e3b-16ca687e87b7"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.021271035,
+    "end_location": [
+      120.0,
+      52.2,
+      4.5
+    ],
+    "key_pass_id": "8982465b-7163-4710-ae21-f94a2e661768",
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.7,
+          34.2
+        ],
+        "player": {
+          "id": 25940,
+          "name": "Jos\u00e9 Mar\u00eda Romero Poy\u00f3n"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.2,
+          43.5
+        ],
+        "player": {
+          "id": 6767,
+          "name": "Sergio Garc\u00eda De La Fuente"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.3,
+          35.0
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.1,
+          39.0
+        ],
+        "player": {
+          "id": 5558,
+          "name": "Rafael M\u00e1rquez \u00c1lvarez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.8,
+          44.5
+        ],
+        "player": {
+          "id": 5248,
+          "name": "Jos\u00e9 Mart\u00edn C\u00e1ceres Silva"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.7,
+          44.3
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.7,
+          56.8
+        ],
+        "player": {
+          "id": 20177,
+          "name": "Eric-Sylvain Bilal Abidal"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "id": "4293d009-2657-4ff4-84e8-f8034533a3a9",
+  "index": 1918,
+  "period": 2,
+  "timestamp": "00:05:05.538",
+  "minute": 50,
+  "second": 5,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 107,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 4913,
+    "name": "Bojan Krk\u00edc P\u00e9rez"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    109.1,
+    38.7
+  ],
+  "duration": 2.182585,
+  "under_pressure": true,
+  "related_events": [
+    "01134d09-c0ea-45ec-b56e-1e1a7c842f93",
+    "8fc97ad8-7ca4-4b2a-916c-6ed89bc58c6f"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.056202378,
+    "end_location": [
+      119.0,
+      39.6,
+      2.2
+    ],
+    "key_pass_id": "fc7e0186-e0d3-4f78-9827-48ffdff24094",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "aerial_won": true,
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.5,
+          39.6
+        ],
+        "player": {
+          "id": 25912,
+          "name": "Ricardo L\u00f3pez Felipe"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          23.5
+        ],
+        "player": {
+          "id": 26517,
+          "name": "Mart\u00edn Mauricio Astudillo"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.9,
+          32.1
+        ],
+        "player": {
+          "id": 5216,
+          "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          98.6,
+          31.1
+        ],
+        "player": {
+          "id": 3150,
+          "name": "Jaroslav Pla\u0161il"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.3,
+          39.5
+        ],
+        "player": {
+          "id": 6836,
+          "name": "Francisco Javier Garc\u00eda Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.6,
+          35.4
+        ],
+        "player": {
+          "id": 25867,
+          "name": "C\u00e9sar Cruchaga Lasa"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.8,
+          19.5
+        ],
+        "player": {
+          "id": 3957,
+          "name": "C\u00e9sar Azpilicueta Tanco"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          15.1
+        ],
+        "player": {
+          "id": 6375,
+          "name": "Juan Francisco Torres Bel\u00e9n"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.9,
+          50.7
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.5,
+          44.9
+        ],
+        "player": {
+          "id": 3498,
+          "name": "Ignacio Monreal Eraso"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.2,
+          18.0
+        ],
+        "player": {
+          "id": 19757,
+          "name": "Anderson Lu\u00eds de Souza"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          95.7,
+          12.2
+        ],
+        "player": {
+          "id": 20177,
+          "name": "Eric-Sylvain Bilal Abidal"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

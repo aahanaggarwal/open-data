@@ -1,0 +1,158 @@
+{
+  "id": "f14aa345-e0de-47d4-8807-5cafc909d562",
+  "index": 2840,
+  "period": 2,
+  "timestamp": "00:24:49.837",
+  "minute": 69,
+  "second": 49,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 146,
+  "possession_team": {
+    "id": 1218,
+    "name": "H\u00e9rcules"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 1218,
+    "name": "H\u00e9rcules"
+  },
+  "player": {
+    "id": 3269,
+    "name": "Francisco Femen\u00eda Far"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    99.8,
+    48.3
+  ],
+  "duration": 0.6157,
+  "related_events": [
+    "bc7227af-7ebc-4a43-a2e9-8f8bf1e26b95"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.08083951,
+    "end_location": [
+      115.7,
+      39.9,
+      1.9
+    ],
+    "key_pass_id": "7ad64fe3-5b2a-4adb-81b9-c5d54f3c6acc",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          116.0,
+          40.6
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.6,
+          42.5
+        ],
+        "player": {
+          "id": 20177,
+          "name": "Eric-Sylvain Bilal Abidal"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.3,
+          51.3
+        ],
+        "player": {
+          "id": 26613,
+          "name": "Maxwell Scherrer Cabelino Andrade"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.1,
+          42.1
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.5,
+          52.2
+        ],
+        "player": {
+          "id": 3958,
+          "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.2,
+          40.3
+        ],
+        "player": {
+          "id": 19311,
+          "name": "David Sergio Tr\u00e9z\u00e9guet"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

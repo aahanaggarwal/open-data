@@ -1,0 +1,233 @@
+{
+  "id": "dba85cd1-2520-4217-909c-f658e0af9548",
+  "index": 1526,
+  "period": 1,
+  "timestamp": "00:46:22.257",
+  "minute": 46,
+  "second": 22,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 104,
+  "possession_team": {
+    "id": 1205,
+    "name": "Australia Women's"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1205,
+    "name": "Australia Women's"
+  },
+  "player": {
+    "id": 11338,
+    "name": "Caitlin Foord"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    98.1,
+    31.3
+  ],
+  "duration": 0.090495,
+  "related_events": [
+    "7af38d32-7974-40f9-97fc-dfee16000a29",
+    "fe375314-6591-49f2-ba74-d5e16319b99a"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.033201683,
+    "end_location": [
+      100.0,
+      31.7
+    ],
+    "key_pass_id": "525a1a17-1803-4972-aa7b-fff0569852e8",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          94.4,
+          58.0
+        ],
+        "player": {
+          "id": 5095,
+          "name": "Ellie Carpenter"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.2,
+          44.7
+        ],
+        "player": {
+          "id": 10213,
+          "name": "Alia Guagni"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.6,
+          37.1
+        ],
+        "player": {
+          "id": 10208,
+          "name": "Elena Linari"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.8,
+          35.7
+        ],
+        "player": {
+          "id": 6818,
+          "name": "Hayley Raso"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.4,
+          44.4
+        ],
+        "player": {
+          "id": 4961,
+          "name": "Samantha Kerr"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.1,
+          24.2
+        ],
+        "player": {
+          "id": 25544,
+          "name": "Valentina Bergamaschi"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          38.1
+        ],
+        "player": {
+          "id": 10218,
+          "name": "Laura Giuliani"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.9,
+          31.6
+        ],
+        "player": {
+          "id": 10228,
+          "name": "Manuela Giugliano"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.0,
+          26.1
+        ],
+        "player": {
+          "id": 10359,
+          "name": "Ilaria Mauro"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.2,
+          39.6
+        ],
+        "player": {
+          "id": 10398,
+          "name": "Valentina Cernoia"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.5,
+          31.6
+        ],
+        "player": {
+          "id": 10366,
+          "name": "Sara Gama"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

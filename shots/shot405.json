@@ -1,0 +1,158 @@
+{
+  "id": "200f6a14-7e01-40a7-81b4-6a6ce0eb4df4",
+  "index": 2476,
+  "period": 2,
+  "timestamp": "00:27:15.936",
+  "minute": 72,
+  "second": 15,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 181,
+  "possession_team": {
+    "id": 763,
+    "name": "Sky Blue FC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 763,
+    "name": "Sky Blue FC"
+  },
+  "player": {
+    "id": 7180,
+    "name": "Imani Dorsey"
+  },
+  "position": {
+    "id": 11,
+    "name": "Left Defensive Midfield"
+  },
+  "location": [
+    111.0,
+    31.0
+  ],
+  "duration": 1.332,
+  "related_events": [
+    "fa68f38e-450f-4b69-b284-577e7dfdf29c"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.27441102,
+    "end_location": [
+      120.0,
+      39.7,
+      0.2
+    ],
+    "key_pass_id": "44ecd9d4-92d5-473d-bf03-aaa0f6bba133",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          114.0,
+          34.0
+        ],
+        "player": {
+          "id": 5100,
+          "name": "Alyssa Naeher"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          33.0
+        ],
+        "player": {
+          "id": 4942,
+          "name": "Arin Gilliland"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          34.0
+        ],
+        "player": {
+          "id": 4958,
+          "name": "Kathleen Naughton"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          40.0
+        ],
+        "player": {
+          "id": 6811,
+          "name": "Julie Ertz"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          45.0
+        ],
+        "player": {
+          "id": 7179,
+          "name": "Casey Short"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          39.0
+        ],
+        "player": {
+          "id": 4986,
+          "name": "Shea Groom"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

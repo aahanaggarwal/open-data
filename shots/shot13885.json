@@ -1,0 +1,189 @@
+{
+  "id": "57af09fc-89b7-4b47-84a7-039ee72771a5",
+  "index": 1620,
+  "period": 1,
+  "timestamp": "00:36:21.338",
+  "minute": 36,
+  "second": 21,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 75,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    106.1,
+    34.5
+  ],
+  "duration": 0.482024,
+  "related_events": [
+    "209a3fdd-f09e-4767-a61f-9ce727ba47c7"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.2796769,
+    "end_location": [
+      120.0,
+      38.6,
+      2.8
+    ],
+    "key_pass_id": "fef034d2-97f9-453e-b1b2-2397d3b358b4",
+    "outcome": {
+      "id": 99,
+      "name": "Post"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          100.4,
+          43.3
+        ],
+        "player": {
+          "id": 6777,
+          "name": "Sidnei Rechel da Silva J\u00fanior"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.6,
+          39.5
+        ],
+        "player": {
+          "id": 6735,
+          "name": "Adri\u00e1n L\u00f3pez \u00c1lvarez"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.9,
+          34.2
+        ],
+        "player": {
+          "id": 6913,
+          "name": "Fernando Navarro i Corbacho"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.9,
+          31.3
+        ],
+        "player": {
+          "id": 6738,
+          "name": "Juan Francisco Moreno Fuertes"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.2,
+          41.4
+        ],
+        "player": {
+          "id": 6400,
+          "name": "Aleix Vidal Parreu"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.7,
+          50.2
+        ],
+        "player": {
+          "id": 5542,
+          "name": "Jos\u00e9 Paulo Bezzera Maciel J\u00fanior"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.4,
+          37.2
+        ],
+        "player": {
+          "id": 6730,
+          "name": "Rub\u00e9n Iv\u00e1n Mart\u00ednez Andrade"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.2,
+          25.2
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

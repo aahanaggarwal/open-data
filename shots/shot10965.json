@@ -1,0 +1,131 @@
+{
+  "id": "c6b2d4a6-c5d7-4fb0-9b12-4435bfee3e7a",
+  "index": 1211,
+  "period": 1,
+  "timestamp": "00:25:09.208",
+  "minute": 25,
+  "second": 9,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 60,
+  "possession_team": {
+    "id": 969,
+    "name": "Birmingham City WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 969,
+    "name": "Birmingham City WFC"
+  },
+  "player": {
+    "id": 15563,
+    "name": "Charlie Wellings"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    101.0,
+    57.0
+  ],
+  "duration": 0.585804,
+  "under_pressure": true,
+  "related_events": [
+    "9ae1a0e4-396c-4645-ac5e-c2ea3921a48e",
+    "bb3776f8-5e28-4a6f-8d23-af44846ce2d0",
+    "ed1f9514-5b28-4253-a7c4-158a1514eaac"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.23506369,
+    "end_location": [
+      105.0,
+      57.0
+    ],
+    "key_pass_id": "d8f4a7fc-8666-4e48-b6a9-c52b42dc0fbc",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          94.0,
+          29.0
+        ],
+        "player": {
+          "id": 18999,
+          "name": "Leah Williamson"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.0,
+          47.0
+        ],
+        "player": {
+          "id": 15621,
+          "name": "Louise Quinn"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          56.0
+        ],
+        "player": {
+          "id": 18998,
+          "name": "Emma Mitchell"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          52.0
+        ],
+        "player": {
+          "id": 15615,
+          "name": "Pauline Peyraud Magnin"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "d60ce2cf-c3bc-47c0-9045-4924fe546dc8",
+  "index": 1335,
+  "period": 1,
+  "timestamp": "00:31:32.643",
+  "minute": 31,
+  "second": 32,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 65,
+  "possession_team": {
+    "id": 223,
+    "name": "M\u00e1laga"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 223,
+    "name": "M\u00e1laga"
+  },
+  "player": {
+    "id": 3508,
+    "name": "Sandro Ram\u00edrez Castillo"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    107.2,
+    30.2
+  ],
+  "duration": 0.9237,
+  "under_pressure": true,
+  "related_events": [
+    "be6e3779-841d-4809-9302-1fb31337e81f",
+    "cc3b4e4e-5962-472a-abc9-482bf05b3401"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.2970797,
+    "end_location": [
+      120.0,
+      37.2,
+      0.2
+    ],
+    "key_pass_id": "ba6da0cb-1e67-4202-8ffe-b1baf88bb0d7",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          106.4,
+          30.6
+        ],
+        "player": {
+          "id": 10609,
+          "name": "J\u00e9r\u00e9my Mathieu"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          36.8
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

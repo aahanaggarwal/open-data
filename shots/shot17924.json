@@ -1,0 +1,127 @@
+{
+  "id": "9b34e711-fd2d-47b3-81a1-4e29aa3c898a",
+  "index": 851,
+  "period": 1,
+  "timestamp": "00:21:09.336",
+  "minute": 21,
+  "second": 9,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 43,
+  "possession_team": {
+    "id": 1208,
+    "name": "Cameroon Women's"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1208,
+    "name": "Cameroon Women's"
+  },
+  "player": {
+    "id": 25616,
+    "name": "Gabrielle Onguene"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    108.2,
+    28.3
+  ],
+  "duration": 0.901672,
+  "related_events": [
+    "cdca343c-e734-4c7e-8c9e-c8e27e17c5a5"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.08487074,
+    "end_location": [
+      120.0,
+      35.4,
+      0.5
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.6,
+          37.2
+        ],
+        "player": {
+          "id": 10646,
+          "name": "Sari van Veenendaal"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.4,
+          30.1
+        ],
+        "player": {
+          "id": 10652,
+          "name": "Anouk Dekker"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.7,
+          26.2
+        ],
+        "player": {
+          "id": 10657,
+          "name": "Desiree van Lunteren"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.5,
+          28.0
+        ],
+        "player": {
+          "id": 10645,
+          "name": "Sherida Spitse"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

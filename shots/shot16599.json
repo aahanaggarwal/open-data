@@ -1,0 +1,114 @@
+{
+  "id": "6b8e3306-4dcb-47d6-8b01-086fc288691c",
+  "index": 3132,
+  "period": 2,
+  "timestamp": "00:45:40.148",
+  "minute": 90,
+  "second": 40,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 203,
+  "possession_team": {
+    "id": 968,
+    "name": "Arsenal WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 968,
+    "name": "Arsenal WFC"
+  },
+  "player": {
+    "id": 15623,
+    "name": "Vivianne Miedema"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    102.4,
+    46.8
+  ],
+  "duration": 1.80366,
+  "related_events": [
+    "e2e9d89b-5091-41d2-9078-298615f1067a"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.3531994,
+    "end_location": [
+      120.0,
+      39.9,
+      1.9
+    ],
+    "key_pass_id": "7c5159b8-dc13-4477-86e6-41e316f04d17",
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          91.6,
+          32.4
+        ],
+        "player": {
+          "id": 15720,
+          "name": "Sophie Howard"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.6,
+          45.2
+        ],
+        "player": {
+          "id": 10198,
+          "name": "Josanne Potter"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.9,
+          43.0
+        ],
+        "player": {
+          "id": 15719,
+          "name": "Grace Moloney"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

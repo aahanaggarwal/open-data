@@ -1,0 +1,189 @@
+{
+  "id": "e2174ebb-881e-49cd-a396-3932a86625b7",
+  "index": 549,
+  "period": 1,
+  "timestamp": "00:15:28.880",
+  "minute": 15,
+  "second": 28,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 33,
+  "possession_team": {
+    "id": 768,
+    "name": "England"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 768,
+    "name": "England"
+  },
+  "player": {
+    "id": 10955,
+    "name": "Harry Kane"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    119.0,
+    36.0
+  ],
+  "duration": 1.013,
+  "related_events": [
+    "7b43c222-398d-4c26-ba82-3414a3d6b6f2"
+  ],
+  "shot": {
+    "open_goal": true,
+    "statsbomb_xg": 0.36664945,
+    "end_location": [
+      120.0,
+      40.5,
+      3.1
+    ],
+    "key_pass_id": "fa5d8315-6908-4e32-b465-60dfc9a89e53",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          120.0,
+          43.0
+        ],
+        "player": {
+          "id": 4276,
+          "name": "David Ospina Ram\u00edrez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          38.0
+        ],
+        "player": {
+          "id": 6196,
+          "name": "Yerry Fernando Mina Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          120.0,
+          61.0
+        ],
+        "player": {
+          "id": 3308,
+          "name": "Kieran Trippier"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          120.0,
+          59.0
+        ],
+        "player": {
+          "id": 5686,
+          "name": "W\u00edlmar Enrique Barrios Ter\u00e1n"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          42.0
+        ],
+        "player": {
+          "id": 3094,
+          "name": "Bamidele Alli"
+        },
+        "position": {
+          "id": 20,
+          "name": "Left Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.0,
+          37.0
+        ],
+        "player": {
+          "id": 5696,
+          "name": "Santiago Arias Naranjo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          39.0
+        ],
+        "player": {
+          "id": 5685,
+          "name": "Carlos Alberto S\u00e1nchez Moreno"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          45.0
+        ],
+        "player": {
+          "id": 3494,
+          "name": "Davinson S\u00e1nchez Mina"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

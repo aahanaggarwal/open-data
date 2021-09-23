@@ -1,0 +1,173 @@
+{
+  "id": "a0f3db1f-5afa-4e15-ab9d-3532f3eb82d9",
+  "index": 1815,
+  "period": 2,
+  "timestamp": "00:05:07.158",
+  "minute": 50,
+  "second": 7,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 113,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19296,
+    "name": "Mark van Bommel"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    96.7,
+    62.1
+  ],
+  "duration": 0.1184,
+  "related_events": [
+    "95983ea7-dbe2-4dec-9359-84c091fc3d97",
+    "d1aa5d9c-fad0-4e82-949b-45c2c1f6368a"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.011931223,
+    "end_location": [
+      98.0,
+      61.0
+    ],
+    "key_pass_id": "72cb6628-9edd-4a22-b639-87f990b072f5",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          87.6,
+          53.8
+        ],
+        "player": {
+          "id": 25878,
+          "name": "Ludovic Giuly"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          93.6,
+          38.0
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          96.5,
+          36.0
+        ],
+        "player": {
+          "id": 6614,
+          "name": "Alexis Ruano Delgado"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.0,
+          51.8
+        ],
+        "player": {
+          "id": 26044,
+          "name": "C\u00e9sar Gonz\u00e1lez Navas"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.6,
+          60.6
+        ],
+        "player": {
+          "id": 25868,
+          "name": "Fernando Sanz Dur\u00e1n"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.8,
+          52.8
+        ],
+        "player": {
+          "id": 26459,
+          "name": "Vicente Valcarce Cano"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.5,
+          42.6
+        ],
+        "player": {
+          "id": 26460,
+          "name": "Francesc Arnau"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

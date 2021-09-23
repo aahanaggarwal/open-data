@@ -1,0 +1,217 @@
+{
+  "id": "4a2736fe-9d4c-47b0-9a2d-02cf81de477c",
+  "index": 1509,
+  "period": 2,
+  "timestamp": "00:03:32.902",
+  "minute": 48,
+  "second": 32,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 108,
+  "possession_team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "player": {
+    "id": 16393,
+    "name": "Ellie Brazil"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    115.0,
+    44.0
+  ],
+  "duration": 2.083806,
+  "related_events": [
+    "213c7b44-c535-4bf8-8aa5-8f7daac65226"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.37442818,
+    "end_location": [
+      117.0,
+      29.0
+    ],
+    "key_pass_id": "d1023002-61b3-4040-84ca-ef079e4d5a5e",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 101,
+      "name": "Wayward"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.0,
+          46.0
+        ],
+        "player": {
+          "id": 15713,
+          "name": "Bonnie Horwood"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          42.0
+        ],
+        "player": {
+          "id": 15709,
+          "name": "Megan Walsh"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          40.0
+        ],
+        "player": {
+          "id": 15717,
+          "name": "Hannah Short"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          41.0
+        ],
+        "player": {
+          "id": 15707,
+          "name": "Georgia Evans"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          37.0
+        ],
+        "player": {
+          "id": 19774,
+          "name": "Charlotte Buxton"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          40.0
+        ],
+        "player": {
+          "id": 23413,
+          "name": "Megan Connolly"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.0,
+          70.0
+        ],
+        "player": {
+          "id": 16399,
+          "name": "Kate Natkiel"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.0,
+          59.0
+        ],
+        "player": {
+          "id": 16395,
+          "name": "Victoria Williams"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.0,
+          57.0
+        ],
+        "player": {
+          "id": 15705,
+          "name": "Emily Donovan"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          38.0
+        ],
+        "player": {
+          "id": 16400,
+          "name": "Kayleigh Green"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

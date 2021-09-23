@@ -1,0 +1,160 @@
+{
+  "id": "df027bac-226d-4a92-ab08-0d8e2261a5a4",
+  "index": 1849,
+  "period": 1,
+  "timestamp": "00:43:26.238",
+  "minute": 43,
+  "second": 26,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 84,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 4320,
+    "name": "Neymar da Silva Santos Junior"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    113.0,
+    36.2
+  ],
+  "duration": 0.6094,
+  "related_events": [
+    "c57d4ccb-ffaa-4185-80b6-833ec7ab2447"
+  ],
+  "shot": {
+    "open_goal": true,
+    "statsbomb_xg": 0.8776338,
+    "end_location": [
+      120.0,
+      39.8,
+      0.2
+    ],
+    "key_pass_id": "28c99087-9f60-48ab-8ff7-18c2f0a91e09",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          101.1,
+          32.9
+        ],
+        "player": {
+          "id": 24133,
+          "name": "V\u00edctor David D\u00edaz Miguel"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.9,
+          48.1
+        ],
+        "player": {
+          "id": 6895,
+          "name": "Diego Rico Salguero"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.4,
+          38.3
+        ],
+        "player": {
+          "id": 6598,
+          "name": "Unai Bustinza Mart\u00ednez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          39.9
+        ],
+        "player": {
+          "id": 9879,
+          "name": "Jon Ander Serantes Simon"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.2,
+          41.4
+        ],
+        "player": {
+          "id": 5470,
+          "name": "Ivan Rakiti\u0107"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.3,
+          43.6
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

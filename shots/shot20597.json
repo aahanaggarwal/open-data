@@ -1,0 +1,160 @@
+{
+  "id": "c397170e-2bbc-4094-a601-01b3ff83df0f",
+  "index": 421,
+  "period": 1,
+  "timestamp": "00:13:18.905",
+  "minute": 13,
+  "second": 18,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 31,
+  "possession_team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "player": {
+    "id": 4643,
+    "name": "Georgia Stanway"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    101.1,
+    34.6
+  ],
+  "duration": 0.057679,
+  "under_pressure": true,
+  "related_events": [
+    "004cc6ef-af02-40a7-ae6c-3c443d476764",
+    "1a397df1-d1d8-41db-94ce-ff831c78279a",
+    "ef671190-0a98-4e60-92ae-7efc8910eec3"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.095110886,
+    "end_location": [
+      102.4,
+      35.1
+    ],
+    "key_pass_id": "05010dd1-4493-45f1-93c8-83dc7ab755e4",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.9,
+          34.7
+        ],
+        "player": {
+          "id": 16395,
+          "name": "Victoria Williams"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.5,
+          40.3
+        ],
+        "player": {
+          "id": 16392,
+          "name": "Felicity Gibbons"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.7,
+          36.7
+        ],
+        "player": {
+          "id": 16383,
+          "name": "Danique Kerkdijk"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.8,
+          36.1
+        ],
+        "player": {
+          "id": 23289,
+          "name": "Emily Simpkins"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.6,
+          27.6
+        ],
+        "player": {
+          "id": 10180,
+          "name": "Ellen White"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.3,
+          38.2
+        ],
+        "player": {
+          "id": 23290,
+          "name": "Sophie Harris"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

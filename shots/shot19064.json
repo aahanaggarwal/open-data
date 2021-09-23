@@ -1,0 +1,172 @@
+{
+  "id": "7b59763a-1329-4d7a-9bb1-2b10b08c33e5",
+  "index": 2764,
+  "period": 2,
+  "timestamp": "00:19:05.233",
+  "minute": 64,
+  "second": 5,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 163,
+  "possession_team": {
+    "id": 967,
+    "name": "Everton LFC"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 967,
+    "name": "Everton LFC"
+  },
+  "player": {
+    "id": 15559,
+    "name": "Simone Magill"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    112.2,
+    35.1
+  ],
+  "duration": 0.9175,
+  "related_events": [
+    "3a305692-e19a-462b-af89-9583617fea91"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.35261685,
+    "end_location": [
+      120.0,
+      37.8,
+      0.8
+    ],
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          115.9,
+          38.6
+        ],
+        "player": {
+          "id": 15724,
+          "name": "Mayumi Pacheco"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.1,
+          34.5
+        ],
+        "player": {
+          "id": 15725,
+          "name": "Natasha Harding"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.5,
+          32.6
+        ],
+        "player": {
+          "id": 18152,
+          "name": "Kirstyn Pearce"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.6,
+          36.4
+        ],
+        "player": {
+          "id": 21021,
+          "name": "Molly Bartrip"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.4,
+          40.3
+        ],
+        "player": {
+          "id": 15719,
+          "name": "Grace Moloney"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          88.3,
+          30.5
+        ],
+        "player": {
+          "id": 18253,
+          "name": "Hannah Cain"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          96.2,
+          38.4
+        ],
+        "player": {
+          "id": 15556,
+          "name": "Chantelle Boye-Hlorkah"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

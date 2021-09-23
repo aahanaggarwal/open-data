@@ -1,0 +1,128 @@
+{
+  "id": "11257756-de20-4892-af0d-c41b17d307be",
+  "index": 2010,
+  "period": 2,
+  "timestamp": "00:04:49.146",
+  "minute": 49,
+  "second": 49,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 132,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    107.8,
+    38.7
+  ],
+  "duration": 0.668409,
+  "related_events": [
+    "faceb769-88dd-4895-9d62-6d941202c693"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.05302447,
+    "end_location": [
+      120.0,
+      34.4,
+      1.0
+    ],
+    "key_pass_id": "3ce20f23-e2be-4d93-8d2c-b4c47ea6454c",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.8,
+          25.1
+        ],
+        "player": {
+          "id": 19312,
+          "name": "Robert Pir\u00e8s "
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.3,
+          41.2
+        ],
+        "player": {
+          "id": 40260,
+          "name": "Carlo Cudicini"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.6,
+          34.9
+        ],
+        "player": {
+          "id": 4724,
+          "name": "Glen Johnson"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.9,
+          40.4
+        ],
+        "player": {
+          "id": 20281,
+          "name": "Mario Melchiot"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

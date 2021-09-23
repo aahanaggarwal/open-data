@@ -1,0 +1,235 @@
+{
+  "id": "eda7c2a7-9f16-4916-abe2-197b6f4baac3",
+  "index": 3277,
+  "period": 2,
+  "timestamp": "00:41:07.879",
+  "minute": 86,
+  "second": 7,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 188,
+  "possession_team": {
+    "id": 212,
+    "name": "Atl\u00e9tico Madrid"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 212,
+    "name": "Atl\u00e9tico Madrid"
+  },
+  "player": {
+    "id": 23816,
+    "name": "Jos\u00e9 Antonio Reyes Calder\u00f3n"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    97.5,
+    24.1
+  ],
+  "duration": 0.1872,
+  "related_events": [
+    "c1ce0421-496c-454e-9bbd-9cbb2f667607",
+    "fa7ad981-8b75-4b37-a129-2b38a8ee5866"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.027315533,
+    "end_location": [
+      118.3,
+      38.7,
+      2.1
+    ],
+    "key_pass_id": "66a7c34d-46a3-442f-94f3-8ce14eca531f",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "deflected": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          101.4,
+          28.3
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.5,
+          38.5
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.2,
+          25.7
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.2,
+          49.2
+        ],
+        "player": {
+          "id": 26613,
+          "name": "Maxwell Scherrer Cabelino Andrade"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.1,
+          46.4
+        ],
+        "player": {
+          "id": 20169,
+          "name": "Seydou K\u00e9ita"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.6,
+          37.2
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.1,
+          40.7
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.5,
+          34.9
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.3,
+          19.4
+        ],
+        "player": {
+          "id": 26199,
+          "name": "Diego Forl\u00e1n Corazo"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.5,
+          41.5
+        ],
+        "player": {
+          "id": 5198,
+          "name": "Diego da Silva Costa"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.1,
+          47.2
+        ],
+        "player": {
+          "id": 20669,
+          "name": "Tiago Cardoso Mendes"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

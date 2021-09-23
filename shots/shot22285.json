@@ -1,0 +1,190 @@
+{
+  "id": "bcc748c0-0c4e-4ef1-a636-e9632d987dec",
+  "index": 1893,
+  "period": 2,
+  "timestamp": "00:02:01.464",
+  "minute": 47,
+  "second": 1,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 104,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    115.6,
+    52.4
+  ],
+  "duration": 0.1327,
+  "under_pressure": true,
+  "related_events": [
+    "97ca40dd-fa36-4827-8310-d5ed8c4e4f0e",
+    "ddc69d83-085b-48e6-b86f-7a8ff2f281cc",
+    "f959ea87-a234-4b48-ae26-13efed5ea6d7"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.06384667,
+    "end_location": [
+      116.3,
+      51.2
+    ],
+    "key_pass_id": "21d384f6-9c10-4e6a-8c6b-953ccea35d29",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.1,
+          31.7
+        ],
+        "player": {
+          "id": 15601,
+          "name": "Miguel \u00c1ngel Salgado Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          50.6
+        ],
+        "player": {
+          "id": 25932,
+          "name": "Pablo Gabriel Garc\u00eda P\u00e9rez"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.3,
+          51.2
+        ],
+        "player": {
+          "id": 15584,
+          "name": "Iv\u00e1n Helguera Buj\u00eda"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.8,
+          59.9
+        ],
+        "player": {
+          "id": 15074,
+          "name": "Zin\u00e9dine Zidane"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.9,
+          55.9
+        ],
+        "player": {
+          "id": 25926,
+          "name": "Roberto Carlos da Silva"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.1,
+          39.9
+        ],
+        "player": {
+          "id": 5201,
+          "name": "Sergio Ramos Garc\u00eda"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.2,
+          44.1
+        ],
+        "player": {
+          "id": 11179,
+          "name": "Iker Casillas Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          41.9
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

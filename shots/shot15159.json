@@ -1,0 +1,129 @@
+{
+  "id": "32f115f1-1459-4f6d-8965-219b3e4485fb",
+  "index": 3438,
+  "period": 2,
+  "timestamp": "00:49:42.517",
+  "minute": 94,
+  "second": 42,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 192,
+  "possession_team": {
+    "id": 762,
+    "name": "Houston Dash"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 762,
+    "name": "Houston Dash"
+  },
+  "player": {
+    "id": 5052,
+    "name": "Thembi Kgatlana"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    108.0,
+    27.0
+  ],
+  "duration": 1.251,
+  "related_events": [
+    "e922361d-c595-4f57-9922-1c5c1c2f4eba"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.24484837,
+    "end_location": [
+      118.0,
+      43.6,
+      0.6
+    ],
+    "key_pass_id": "dc1f01e9-c3a3-4c0e-98a2-54cef24f28e0",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.0,
+          32.0
+        ],
+        "player": {
+          "id": 5090,
+          "name": "Ashlyn Harris"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.0,
+          22.0
+        ],
+        "player": {
+          "id": 5038,
+          "name": "Allysha Chapman"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.0,
+          25.0
+        ],
+        "player": {
+          "id": 5071,
+          "name": "Monica Hickmann Alves"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          32.0
+        ],
+        "player": {
+          "id": 5074,
+          "name": "Shelina Zadorsky"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

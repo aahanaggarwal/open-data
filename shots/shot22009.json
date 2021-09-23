@@ -1,0 +1,159 @@
+{
+  "id": "67285083-a648-45d0-9467-fff6f731eac7",
+  "index": 1778,
+  "period": 2,
+  "timestamp": "00:04:17.211",
+  "minute": 49,
+  "second": 17,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 126,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15042,
+    "name": "Dennis Bergkamp"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    116.3,
+    31.0
+  ],
+  "duration": 0.185366,
+  "under_pressure": true,
+  "related_events": [
+    "0ed84615-642e-4658-ad27-1911b0ba8190",
+    "edbca85c-564a-4474-b080-a7e2c6fd5b97"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.18028641,
+    "end_location": [
+      117.1,
+      32.8,
+      0.0
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.4,
+          37.8
+        ],
+        "player": {
+          "id": 40340,
+          "name": "Dejan Stefanovic"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.2,
+          37.4
+        ],
+        "player": {
+          "id": 40343,
+          "name": "Amdy Moustapha Faye"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.3,
+          36.7
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.6,
+          27.0
+        ],
+        "player": {
+          "id": 40336,
+          "name": "S\u00e9bastien Schemmel"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.5,
+          30.1
+        ],
+        "player": {
+          "id": 40339,
+          "name": "Arjan de Zeeuw"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          33.3
+        ],
+        "player": {
+          "id": 38403,
+          "name": "Shaka Hislop"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

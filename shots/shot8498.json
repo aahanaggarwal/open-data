@@ -1,0 +1,144 @@
+{
+  "id": "b1640944-177e-4b33-85ce-e6e114531adb",
+  "index": 1354,
+  "period": 1,
+  "timestamp": "00:33:30.361",
+  "minute": 33,
+  "second": 30,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 80,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 12529,
+    "name": "Ashley Cole"
+  },
+  "position": {
+    "id": 6,
+    "name": "Left Back"
+  },
+  "location": [
+    115.4,
+    28.1
+  ],
+  "duration": 0.720635,
+  "related_events": [
+    "c4f4610e-6f86-40cc-84cf-df6beaddc26d"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.055672225,
+    "end_location": [
+      118.6,
+      36.3,
+      1.6
+    ],
+    "key_pass_id": "3b9bd4c6-de3f-42b5-86cb-285ad2169f39",
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.6,
+          37.3
+        ],
+        "player": {
+          "id": 15036,
+          "name": "Edwin van der Sar"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.7,
+          43.4
+        ],
+        "player": {
+          "id": 40420,
+          "name": "Carlos Manuel Bocanegra"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.1,
+          41.0
+        ],
+        "player": {
+          "id": 40422,
+          "name": "Alain Goma"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.3,
+          44.5
+        ],
+        "player": {
+          "id": 15754,
+          "name": "Fredrik Ljungberg"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.8,
+          28.7
+        ],
+        "player": {
+          "id": 40408,
+          "name": "Moritz Volz"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

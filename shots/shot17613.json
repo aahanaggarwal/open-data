@@ -1,0 +1,191 @@
+{
+  "id": "806c28d8-2745-4b88-84f2-b0626b97a842",
+  "index": 253,
+  "period": 1,
+  "timestamp": "00:04:24.436",
+  "minute": 4,
+  "second": 24,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 11,
+  "possession_team": {
+    "id": 207,
+    "name": "Valencia"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 207,
+    "name": "Valencia"
+  },
+  "player": {
+    "id": 5211,
+    "name": "Jordi Alba Ramos"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    110.2,
+    36.8
+  ],
+  "duration": 1.107534,
+  "under_pressure": true,
+  "related_events": [
+    "0b892035-1354-4626-8603-3215c3125327",
+    "3796e403-d2a1-4b32-a4ab-c1107894804d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.07897346,
+    "end_location": [
+      120.0,
+      38.0,
+      3.3
+    ],
+    "key_pass_id": "bad17402-55f1-4bd8-87f8-682a281c36c6",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "aerial_won": true,
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.6,
+          36.6
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.1,
+          38.6
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.8,
+          41.9
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.4,
+          45.9
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.7,
+          58.8
+        ],
+        "player": {
+          "id": 26613,
+          "name": "Maxwell Scherrer Cabelino Andrade"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.3,
+          61.3
+        ],
+        "player": {
+          "id": 25919,
+          "name": "Gabriel Alejandro Milito"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.7,
+          40.5
+        ],
+        "player": {
+          "id": 3064,
+          "name": "David Josu\u00e9 Jim\u00e9nez Silva"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.3,
+          40.3
+        ],
+        "player": {
+          "id": 26646,
+          "name": "Alejandro Dami\u00e1n Dom\u00ednguez"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

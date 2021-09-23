@@ -1,0 +1,128 @@
+{
+  "id": "fffc1926-8a44-4f8d-b798-aac32b2e8a2b",
+  "index": 551,
+  "period": 1,
+  "timestamp": "00:10:43.260",
+  "minute": 10,
+  "second": 43,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 27,
+  "possession_team": {
+    "id": 207,
+    "name": "Valencia"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 207,
+    "name": "Valencia"
+  },
+  "player": {
+    "id": 26009,
+    "name": "Roberto Soldado Rillo"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    96.8,
+    31.1
+  ],
+  "duration": 1.370397,
+  "related_events": [
+    "98023512-cd44-46df-bf2e-82afae199d71"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.02866188,
+    "end_location": [
+      120.0,
+      44.9,
+      1.5
+    ],
+    "key_pass_id": "badb83c5-f705-4c6e-b53d-bc2d86c0b5f3",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          94.5,
+          20.8
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.1,
+          32.0
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.7,
+          40.0
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.0,
+          36.2
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

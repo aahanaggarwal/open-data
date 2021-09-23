@@ -1,0 +1,128 @@
+{
+  "id": "3feffedb-d181-46e3-9395-6dbfb8a7ad1d",
+  "index": 2908,
+  "period": 2,
+  "timestamp": "00:42:09.113",
+  "minute": 87,
+  "second": 9,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 208,
+  "possession_team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "player": {
+    "id": 5055,
+    "name": "Lynn Williams"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    108.0,
+    50.0
+  ],
+  "duration": 0.383,
+  "related_events": [
+    "6eb18ada-534e-4009-9ec1-6d7e8c899dae",
+    "c1869a4a-2a0a-4ceb-a3e1-3607983f0bb6"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.18879566,
+    "end_location": [
+      115.0,
+      45.0
+    ],
+    "key_pass_id": "3194b739-d395-484d-ba9d-bc2228a67d43",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          111.0,
+          45.0
+        ],
+        "player": {
+          "id": 4984,
+          "name": "Rachel Corsie"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          47.0
+        ],
+        "player": {
+          "id": 5101,
+          "name": "Samantha Johnson"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          32.0
+        ],
+        "player": {
+          "id": 5036,
+          "name": "Darian Jenkins"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.0,
+          42.0
+        ],
+        "player": {
+          "id": 4969,
+          "name": "Nicole Barnhart"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

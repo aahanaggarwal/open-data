@@ -1,0 +1,114 @@
+{
+  "id": "6da28f07-71e6-48a4-894c-01e0a70f3587",
+  "index": 1372,
+  "period": 1,
+  "timestamp": "00:30:50.324",
+  "minute": 30,
+  "second": 50,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 84,
+  "possession_team": {
+    "id": 852,
+    "name": "Norway Women's"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 852,
+    "name": "Norway Women's"
+  },
+  "player": {
+    "id": 13479,
+    "name": "Isabell Herlovsen"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    103.9,
+    49.8
+  ],
+  "duration": 0.879376,
+  "related_events": [
+    "1bf07e21-9d91-4ef3-8783-29bf4311753d"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.43609354,
+    "end_location": [
+      120.0,
+      43.1,
+      1.2
+    ],
+    "key_pass_id": "5db6a0a1-dbf9-43b8-b179-9dc84035c5d2",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.0,
+          51.2
+        ],
+        "player": {
+          "id": 5000,
+          "name": "Steph Catley"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.9,
+          46.4
+        ],
+        "player": {
+          "id": 5066,
+          "name": "Lydia Williams"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.4,
+          48.0
+        ],
+        "player": {
+          "id": 5078,
+          "name": "Alanna Kennedy"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

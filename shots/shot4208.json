@@ -1,0 +1,188 @@
+{
+  "id": "31461e01-7140-431e-9732-73fd3b065a5c",
+  "index": 2206,
+  "period": 2,
+  "timestamp": "00:00:58.180",
+  "minute": 45,
+  "second": 58,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 99,
+  "possession_team": {
+    "id": 214,
+    "name": "Espanyol"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 214,
+    "name": "Espanyol"
+  },
+  "player": {
+    "id": 26609,
+    "name": "Pablo Daniel Osvaldo"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    101.2,
+    25.9
+  ],
+  "duration": 0.2531,
+  "related_events": [
+    "60dc1ce5-a828-4b2b-ae1f-5a84e3edc273",
+    "698cbdbe-a7ce-4f6e-a3b3-5fc493f3dd98"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.028871756,
+    "end_location": [
+      102.2,
+      26.6
+    ],
+    "key_pass_id": "2099017f-a76a-4375-b1e4-1c5e9b0fe922",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.1,
+          37.9
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.4,
+          26.6
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.6,
+          32.6
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.1,
+          37.9
+        ],
+        "player": {
+          "id": 5216,
+          "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          42.8
+        ],
+        "player": {
+          "id": 6890,
+          "name": "Andreu Font\u00e0s Prat"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.8,
+          32.8
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.2,
+          37.3
+        ],
+        "player": {
+          "id": 26211,
+          "name": "Joan Verd\u00fa Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.9,
+          49.7
+        ],
+        "player": {
+          "id": 7029,
+          "name": "Jos\u00e9 Mar\u00eda Callej\u00f3n Bueno"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

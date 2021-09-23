@@ -1,0 +1,174 @@
+{
+  "id": "5b4c1498-5684-4d05-ab67-fae0035f110b",
+  "index": 1816,
+  "period": 1,
+  "timestamp": "00:40:15.825",
+  "minute": 40,
+  "second": 15,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 77,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3385,
+    "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    97.3,
+    50.8
+  ],
+  "duration": 0.1979,
+  "related_events": [
+    "168e596c-a14a-4ade-833a-32530aadf615",
+    "75d9f18f-bb0d-4d56-9570-5bb849120d06"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.044009097,
+    "end_location": [
+      100.4,
+      49.2
+    ],
+    "key_pass_id": "8d974b58-dbe5-4cd6-b61d-10b7e3d42d39",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          94.3,
+          47.9
+        ],
+        "player": {
+          "id": 26252,
+          "name": "Diego Castro Gim\u00e9nez"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.0,
+          52.7
+        ],
+        "player": {
+          "id": 26436,
+          "name": "Jos\u00e9 Manuel Jim\u00e9nez Ortiz"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.1,
+          48.6
+        ],
+        "player": {
+          "id": 24614,
+          "name": "Rafael L\u00f3pez G\u00f3mez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.8,
+          42.2
+        ],
+        "player": {
+          "id": 7069,
+          "name": "Miguel \u00c1ngel Moy\u00e0 Rumbo"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.3,
+          66.2
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          96.2,
+          39.1
+        ],
+        "player": {
+          "id": 26496,
+          "name": "Daniel Alberto D\u00edaz"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.8,
+          33.7
+        ],
+        "player": {
+          "id": 26195,
+          "name": "Juan Valera Esp\u00edn"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

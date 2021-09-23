@@ -1,0 +1,114 @@
+{
+  "id": "2151111b-8321-4287-bd79-b72ae7dac63c",
+  "index": 2643,
+  "period": 2,
+  "timestamp": "00:25:54.902",
+  "minute": 70,
+  "second": 54,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 141,
+  "possession_team": {
+    "id": 444,
+    "name": "Numancia"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 444,
+    "name": "Numancia"
+  },
+  "player": {
+    "id": 26395,
+    "name": "\u00c1lvaro Ant\u00f3n Camarero"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    102.1,
+    53.4
+  ],
+  "duration": 1.3422,
+  "related_events": [
+    "093dfc76-e206-4ebd-85c7-ecbd070ab76a"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.041869327,
+    "end_location": [
+      115.5,
+      42.0,
+      0.3
+    ],
+    "key_pass_id": "4223c39e-9d4d-482d-825e-75f0f3d96a0a",
+    "first_time": true,
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          115.0,
+          43.8
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.5,
+          48.8
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.1,
+          52.6
+        ],
+        "player": {
+          "id": 20177,
+          "name": "Eric-Sylvain Bilal Abidal"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

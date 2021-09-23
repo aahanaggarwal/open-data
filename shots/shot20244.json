@@ -1,0 +1,114 @@
+{
+  "id": "c4ce9a38-d03b-4540-aac9-a235c50be614",
+  "index": 2233,
+  "period": 2,
+  "timestamp": "00:18:53.419",
+  "minute": 63,
+  "second": 53,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 184,
+  "possession_team": {
+    "id": 966,
+    "name": "Liverpool WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 966,
+    "name": "Liverpool WFC"
+  },
+  "player": {
+    "id": 15613,
+    "name": "Rinsola Babajide"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    111.6,
+    30.3
+  ],
+  "duration": 0.1347,
+  "under_pressure": true,
+  "related_events": [
+    "1da994cb-9f68-47e5-ace0-cc0edcf72880",
+    "23941b4c-b388-4b61-84e8-4d8f09cdcd1a",
+    "f6de2cd4-54ef-4162-9795-d224e0027549"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.2324972,
+    "end_location": [
+      112.3,
+      31.0
+    ],
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.5,
+          41.3
+        ],
+        "player": {
+          "id": 10095,
+          "name": "Julie Biesmans"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          30.7
+        ],
+        "player": {
+          "id": 16376,
+          "name": "Sophie Baggaley"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.5,
+          31.1
+        ],
+        "player": {
+          "id": 16381,
+          "name": "Gemma Evans"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

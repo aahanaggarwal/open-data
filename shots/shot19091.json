@@ -1,0 +1,144 @@
+{
+  "id": "66be2639-f946-4689-b3bf-0aff13335123",
+  "index": 2950,
+  "period": 2,
+  "timestamp": "00:22:13.115",
+  "minute": 67,
+  "second": 13,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 154,
+  "possession_team": {
+    "id": 221,
+    "name": "Levante"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 221,
+    "name": "Levante"
+  },
+  "player": {
+    "id": 6668,
+    "name": "Jos\u00e9 Luis Morales Nogales"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    107.3,
+    32.7
+  ],
+  "duration": 0.460696,
+  "related_events": [
+    "c73f1d2c-26ba-44c2-aacc-b3554a364764"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.22993906,
+    "end_location": [
+      120.0,
+      42.7,
+      3.5
+    ],
+    "key_pass_id": "7e9c1dc3-0598-4b99-8dfb-1cc166c3c168",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          105.6,
+          32.7
+        ],
+        "player": {
+          "id": 5470,
+          "name": "Ivan Rakiti\u0107"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.7,
+          31.6
+        ],
+        "player": {
+          "id": 6374,
+          "name": "N\u00e9lson Cabral Semedo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.1,
+          34.8
+        ],
+        "player": {
+          "id": 21147,
+          "name": "Borja Mayoral Moya"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.2,
+          34.8
+        ],
+        "player": {
+          "id": 6826,
+          "name": "Cl\u00e9ment Lenglet"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.6,
+          37.6
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

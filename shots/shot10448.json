@@ -1,0 +1,176 @@
+{
+  "id": "aca650e0-1d07-4586-9598-ac31980e7f2c",
+  "index": 3770,
+  "period": 3,
+  "timestamp": "00:08:41.166",
+  "minute": 98,
+  "second": 41,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 231,
+  "possession_team": {
+    "id": 852,
+    "name": "Norway Women's"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 852,
+    "name": "Norway Women's"
+  },
+  "player": {
+    "id": 10386,
+    "name": "Caroline Graham Hansen"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    107.0,
+    51.2
+  ],
+  "duration": 0.339668,
+  "under_pressure": true,
+  "related_events": [
+    "2b9a20da-8af5-4605-a391-fc249e1feb26",
+    "7cfa39b7-8deb-42de-bd93-33833ebd0045"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.17186843,
+    "end_location": [
+      116.5,
+      44.0,
+      1.9
+    ],
+    "key_pass_id": "9028a8c9-432e-4d16-a39b-b4b350501f2d",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          116.8,
+          44.1
+        ],
+        "player": {
+          "id": 5066,
+          "name": "Lydia Williams"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.4,
+          45.6
+        ],
+        "player": {
+          "id": 8382,
+          "name": "Clare Polkinghorne"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.7,
+          40.3
+        ],
+        "player": {
+          "id": 5095,
+          "name": "Ellie Carpenter"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.5,
+          46.9
+        ],
+        "player": {
+          "id": 5000,
+          "name": "Steph Catley"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.8,
+          42.0
+        ],
+        "player": {
+          "id": 10387,
+          "name": "Lisa-Marie Utland"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.9,
+          49.6
+        ],
+        "player": {
+          "id": 5078,
+          "name": "Alanna Kennedy"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.1,
+          40.1
+        ],
+        "player": {
+          "id": 5076,
+          "name": "Emily van Egmond"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "id": "f9982c90-3061-4c0f-88c6-dcbfcf3cd449",
+  "index": 3727,
+  "period": 2,
+  "timestamp": "00:43:14.939",
+  "minute": 88,
+  "second": 14,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 163,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5216,
+    "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    115.0,
+    43.3
+  ],
+  "duration": 0.3429,
+  "under_pressure": true,
+  "related_events": [
+    "6f4123d7-fffd-4c45-9001-8eae70e1fcce",
+    "8ef15129-f5c0-49a8-91c5-dadaf1884b1f"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.119606,
+    "end_location": [
+      118.8,
+      40.1,
+      0.6
+    ],
+    "key_pass_id": "e53f403c-5c5c-492f-9392-018642ef2b2a",
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "aerial_won": true,
+    "freeze_frame": [
+      {
+        "location": [
+          112.9,
+          37.9
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.7,
+          39.9
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.1,
+          39.5
+        ],
+        "player": {
+          "id": 25936,
+          "name": "Mario Sebasti\u00e1n Viera Galain"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          43.9
+        ],
+        "player": {
+          "id": 20134,
+          "name": "Joan Capdevila M\u00e9ndez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.7,
+          42.5
+        ],
+        "player": {
+          "id": 26194,
+          "name": "Pascal Cygan"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.9,
+          35.5
+        ],
+        "player": {
+          "id": 26196,
+          "name": "Fabricio Fabio Fuentes"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

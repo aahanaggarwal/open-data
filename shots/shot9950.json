@@ -1,0 +1,173 @@
+{
+  "id": "0c2232d7-f4c8-4f35-96c9-288559a258be",
+  "index": 1693,
+  "period": 2,
+  "timestamp": "00:06:22.669",
+  "minute": 51,
+  "second": 22,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 118,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19757,
+    "name": "Anderson Lu\u00eds de Souza"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    85.6,
+    37.1
+  ],
+  "duration": 1.473828,
+  "related_events": [
+    "1444a2b8-1590-4690-b4c7-93248cf56d76"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.22400232,
+    "end_location": [
+      120.0,
+      45.3,
+      0.9
+    ],
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          86.5,
+          41.1
+        ],
+        "player": {
+          "id": 24797,
+          "name": "Didier Domi"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.6,
+          33.6
+        ],
+        "player": {
+          "id": 26103,
+          "name": "Idriss Carlos Kameni"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.1,
+          41.0
+        ],
+        "player": {
+          "id": 26110,
+          "name": "Daniel Jarque Gonzalez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          37.1
+        ],
+        "player": {
+          "id": 26107,
+          "name": "Alberto Lopo Garc\u00eda"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.2,
+          31.7
+        ],
+        "player": {
+          "id": 26106,
+          "name": "Armando Miguel Correia de Sa"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.7,
+          28.8
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          82.5,
+          53.3
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

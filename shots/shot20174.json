@@ -1,0 +1,144 @@
+{
+  "id": "54e6c1f8-03d0-4026-bb4e-75f4d12508f1",
+  "index": 3195,
+  "period": 2,
+  "timestamp": "00:43:52.583",
+  "minute": 88,
+  "second": 52,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 214,
+  "possession_team": {
+    "id": 552,
+    "name": "C\u00e1diz"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "off_camera": true,
+  "team": {
+    "id": 552,
+    "name": "C\u00e1diz"
+  },
+  "player": {
+    "id": 25944,
+    "name": "Nenad Mirosavljevi\u0107"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    107.7,
+    41.0
+  ],
+  "duration": 1.173066,
+  "related_events": [
+    "679b38f9-3296-4ff5-a7c1-0022ceb5b6c5",
+    "7fd8827d-339c-418c-9a18-aff08d6e76aa"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.021393767,
+    "end_location": [
+      108.7,
+      40.9
+    ],
+    "key_pass_id": "25a925b9-c117-4c7a-bbaa-c10c8b34032f",
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          98.9,
+          30.3
+        ],
+        "player": {
+          "id": 25955,
+          "name": "Jonathan Sesma Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.5,
+          32.9
+        ],
+        "player": {
+          "id": 25873,
+          "name": "Oleguer Presas Renom"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.1,
+          41.1
+        ],
+        "player": {
+          "id": 25910,
+          "name": "Jos\u00e9 Edm\u00edlson Gomes de Moraes"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.9,
+          40.9
+        ],
+        "player": {
+          "id": 5558,
+          "name": "Rafael M\u00e1rquez \u00c1lvarez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.5,
+          40.2
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

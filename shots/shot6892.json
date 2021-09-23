@@ -1,0 +1,189 @@
+{
+  "id": "e3a20d57-5ae7-4a15-a651-592c5784478c",
+  "index": 2326,
+  "period": 2,
+  "timestamp": "00:25:55.878",
+  "minute": 70,
+  "second": 55,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 171,
+  "possession_team": {
+    "id": 971,
+    "name": "Chelsea LFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "off_camera": false,
+  "team": {
+    "id": 971,
+    "name": "Chelsea LFC"
+  },
+  "player": {
+    "id": 4634,
+    "name": "Crystal Dunn"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    111.0,
+    32.0
+  ],
+  "duration": 1.093,
+  "related_events": [
+    "6586bfc8-d9dc-4129-b117-bd36ee74a2d9"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.094950564,
+    "end_location": [
+      120.0,
+      40.5,
+      4.5
+    ],
+    "key_pass_id": "c0a05ac2-02e2-41ab-b09a-87b7ee723102",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.0,
+          37.0
+        ],
+        "player": {
+          "id": 4658,
+          "name": "Keira Walsh"
+        },
+        "position": {
+          "id": 14,
+          "name": "Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          39.0
+        ],
+        "player": {
+          "id": 4655,
+          "name": "Jennifer Beattie"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          35.0
+        ],
+        "player": {
+          "id": 4649,
+          "name": "Esme Beth Morgan"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          39.0
+        ],
+        "player": {
+          "id": 4637,
+          "name": "Ellie Roebuck"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          55.0
+        ],
+        "player": {
+          "id": 4651,
+          "name": "Demi Stokes"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          44.0
+        ],
+        "player": {
+          "id": 4648,
+          "name": "Abbie McManus"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          52.0
+        ],
+        "player": {
+          "id": 4656,
+          "name": "Hannah Jayne Blundell"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.0,
+          46.0
+        ],
+        "player": {
+          "id": 4641,
+          "name": "Francesca Kirby"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

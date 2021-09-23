@@ -1,0 +1,188 @@
+{
+  "id": "717b8e40-5bbd-4d89-ba9d-ef34ba9fc66b",
+  "index": 2167,
+  "period": 2,
+  "timestamp": "00:27:29.951",
+  "minute": 72,
+  "second": 29,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 172,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19298,
+    "name": "Samuel Eto\"o Fils"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    106.1,
+    26.5
+  ],
+  "duration": 0.0776,
+  "related_events": [
+    "0f868144-6345-4805-a9d6-8048c6c40fea",
+    "2e862fce-3918-4e9e-b0d5-1f4d79c1e98f"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.03390849,
+    "end_location": [
+      107.9,
+      28.1
+    ],
+    "key_pass_id": "544ae68d-7282-452a-916b-a39e314d4c53",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.1,
+          26.7
+        ],
+        "player": {
+          "id": 26224,
+          "name": "H\u00e9lder Miguel Do Rosario Data"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.1,
+          31.0
+        ],
+        "player": {
+          "id": 25875,
+          "name": "Miguel \u00c1ngel Lozano Ayala"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.6,
+          36.6
+        ],
+        "player": {
+          "id": 26460,
+          "name": "Francesc Arnau"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.6,
+          42.7
+        ],
+        "player": {
+          "id": 26668,
+          "name": "Javier Calleja Revilla"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.4,
+          40.8
+        ],
+        "player": {
+          "id": 25859,
+          "name": "S\u00e9rgio Paulo Barbosa Valente"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.7,
+          37.5
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.9,
+          21.0
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.0,
+          28.3
+        ],
+        "player": {
+          "id": 26669,
+          "name": "Weligton R\u00f3bson Pena de Oliveira"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

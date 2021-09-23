@@ -1,0 +1,158 @@
+{
+  "id": "5a6a9aa0-26d7-4e66-9f43-418884739e46",
+  "index": 1919,
+  "period": 2,
+  "timestamp": "00:10:01.496",
+  "minute": 55,
+  "second": 1,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 132,
+  "possession_team": {
+    "id": 973,
+    "name": "Bristol City WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 973,
+    "name": "Bristol City WFC"
+  },
+  "player": {
+    "id": 16388,
+    "name": "Ella Rutherford"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    90.0,
+    44.0
+  ],
+  "duration": 1.431084,
+  "related_events": [
+    "22abdffe-2155-4811-ae23-8f29e870f4a0"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.015580913,
+    "end_location": [
+      120.0,
+      43.2,
+      1.8
+    ],
+    "key_pass_id": "9acbdb00-0755-490c-ab14-80781001f9f7",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          95.0,
+          34.0
+        ],
+        "player": {
+          "id": 16390,
+          "name": "Juliette Kemppi"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.0,
+          42.0
+        ],
+        "player": {
+          "id": 15719,
+          "name": "Grace Moloney"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.0,
+          40.0
+        ],
+        "player": {
+          "id": 18152,
+          "name": "Kirstyn Pearce"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          88.0,
+          61.0
+        ],
+        "player": {
+          "id": 15724,
+          "name": "Mayumi Pacheco"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.0,
+          46.0
+        ],
+        "player": {
+          "id": 10198,
+          "name": "Josanne Potter"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          85.0,
+          45.0
+        ],
+        "player": {
+          "id": 21021,
+          "name": "Molly Bartrip"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

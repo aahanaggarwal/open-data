@@ -1,0 +1,203 @@
+{
+  "id": "cfc672ba-98fc-4840-87fe-8cfa29187bda",
+  "index": 229,
+  "period": 1,
+  "timestamp": "00:04:31.659",
+  "minute": 4,
+  "second": 31,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 23,
+  "possession_team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "player": {
+    "id": 5088,
+    "name": "Crystal Alyssia Dunn"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    106.7,
+    59.0
+  ],
+  "duration": 0.097589,
+  "related_events": [
+    "0ff25e73-2ef4-4e0b-8ef1-11cc81f1763d",
+    "9293795c-8201-4898-b2e8-a59746618bf4"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.016345656,
+    "end_location": [
+      107.4,
+      58.2
+    ],
+    "key_pass_id": "061fb261-d2fe-4e5b-bf44-cb7b99bb5c51",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.6,
+          67.6
+        ],
+        "player": {
+          "id": 5034,
+          "name": "Jessica McDonald"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.6,
+          37.1
+        ],
+        "player": {
+          "id": 5055,
+          "name": "Lynn Williams"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.6,
+          37.0
+        ],
+        "player": {
+          "id": 5089,
+          "name": "Ali Krieger"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          41.7
+        ],
+        "player": {
+          "id": 5078,
+          "name": "Alanna Kennedy"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          57.7
+        ],
+        "player": {
+          "id": 5074,
+          "name": "Shelina Zadorsky"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.1,
+          57.6
+        ],
+        "player": {
+          "id": 5064,
+          "name": "Carson Pickett"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.3,
+          50.1
+        ],
+        "player": {
+          "id": 5076,
+          "name": "Emily van Egmond"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.6,
+          63.2
+        ],
+        "player": {
+          "id": 5062,
+          "name": "Dani Weatherholt"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.7,
+          41.3
+        ],
+        "player": {
+          "id": 5090,
+          "name": "Ashlyn Harris"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

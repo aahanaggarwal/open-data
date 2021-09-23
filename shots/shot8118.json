@@ -1,0 +1,174 @@
+{
+  "id": "e7678b81-64f9-4eeb-8320-df8e390d120b",
+  "index": 3689,
+  "period": 2,
+  "timestamp": "00:48:30.855",
+  "minute": 93,
+  "second": 30,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 191,
+  "possession_team": {
+    "id": 422,
+    "name": "Osasuna"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 422,
+    "name": "Osasuna"
+  },
+  "player": {
+    "id": 23947,
+    "name": "Roberto Torres Morales"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    113.8,
+    44.7
+  ],
+  "duration": 0.290139,
+  "related_events": [
+    "5b37092d-6651-4452-96e0-48949ead25d6"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.39163044,
+    "end_location": [
+      120.0,
+      43.1,
+      1.2
+    ],
+    "key_pass_id": "eab99a37-7a91-4b3b-8ed9-48f5da8fbcb1",
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          105.4,
+          40.7
+        ],
+        "player": {
+          "id": 6591,
+          "name": "Ignacio Vidal Miralles"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.9,
+          20.2
+        ],
+        "player": {
+          "id": 24315,
+          "name": "Enrique Barja Afonso"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.6,
+          41.1
+        ],
+        "player": {
+          "id": 5211,
+          "name": "Jordi Alba Ramos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.7,
+          41.8
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.3,
+          31.0
+        ],
+        "player": {
+          "id": 6826,
+          "name": "Cl\u00e9ment Lenglet"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.7,
+          36.4
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.6,
+          43.4
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "id": "7d0ce942-9961-4058-8069-bc2e39c2d722",
+  "index": 530,
+  "period": 1,
+  "timestamp": "00:13:39.487",
+  "minute": 13,
+  "second": 39,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 24,
+  "possession_team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "player": {
+    "id": 31529,
+    "name": "L\u00e9a Le Garrec"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    103.4,
+    43.3
+  ],
+  "duration": 0.254819,
+  "related_events": [
+    "64ab1486-8cad-4e29-a457-46b4b8318c39",
+    "8d21770b-f731-4aca-89ba-aa3e9287ebe6"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.047019105,
+    "end_location": [
+      106.2,
+      43.2
+    ],
+    "key_pass_id": "0d6aea44-230a-4591-ae3c-38231e72c345",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          95.7,
+          34.3
+        ],
+        "player": {
+          "id": 15421,
+          "name": "Kenza Dali"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.7,
+          36.5
+        ],
+        "player": {
+          "id": 23217,
+          "name": "Tessel Middag"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.2,
+          39.2
+        ],
+        "player": {
+          "id": 18151,
+          "name": "Gilly Louise Scarlett Flaherty"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          36.5
+        ],
+        "player": {
+          "id": 16400,
+          "name": "Kayleigh Green"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.5,
+          42.3
+        ],
+        "player": {
+          "id": 31555,
+          "name": "Courtney Brosnan"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.8,
+          24.8
+        ],
+        "player": {
+          "id": 31553,
+          "name": "Cecilie Redisch Kvamme"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.1,
+          32.3
+        ],
+        "player": {
+          "id": 34232,
+          "name": "Grace Fisk"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.7,
+          42.6
+        ],
+        "player": {
+          "id": 18147,
+          "name": "Kate Longhurst"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.8,
+          44.7
+        ],
+        "player": {
+          "id": 31557,
+          "name": "Katharina Baunach"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

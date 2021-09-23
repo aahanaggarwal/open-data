@@ -1,0 +1,129 @@
+{
+  "id": "78a594c9-cf9b-4029-8c05-31c1294bb49e",
+  "index": 1666,
+  "period": 1,
+  "timestamp": "00:42:57.347",
+  "minute": 42,
+  "second": 57,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 103,
+  "possession_team": {
+    "id": 243,
+    "name": "AC Milan"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 243,
+    "name": "AC Milan"
+  },
+  "player": {
+    "id": 34394,
+    "name": "Hern\u00e1n Jorge Crespo"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    101.0,
+    36.2
+  ],
+  "duration": 1.580635,
+  "related_events": [
+    "632894d7-8485-4268-83a6-235245da9344"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.38922572,
+    "end_location": [
+      120.0,
+      42.1,
+      0.9
+    ],
+    "key_pass_id": "634f915b-828a-40fa-8ea2-f3bdd8169778",
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "first_time": true,
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          95.3,
+          37.2
+        ],
+        "player": {
+          "id": 34392,
+          "name": "Steve Finnan"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.1,
+          46.8
+        ],
+        "player": {
+          "id": 34388,
+          "name": "Jamie Carragher"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          90.0,
+          54.0
+        ],
+        "player": {
+          "id": 34389,
+          "name": "Sami Hyypi\u00e4"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.8,
+          37.5
+        ],
+        "player": {
+          "id": 34390,
+          "name": "Jerzy Dudek"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "id": "2a30b7bf-e721-466c-bef6-f08f76c5e31f",
+  "index": 1899,
+  "period": 2,
+  "timestamp": "00:16:56.607",
+  "minute": 61,
+  "second": 56,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 149,
+  "possession_team": {
+    "id": 974,
+    "name": "Reading WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 974,
+    "name": "Reading WFC"
+  },
+  "player": {
+    "id": 10251,
+    "name": "Fara Williams"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    104.4,
+    40.5
+  ],
+  "duration": 0.23725,
+  "related_events": [
+    "24301beb-2716-4ad7-b6ea-72229882afa2",
+    "5d586875-daa6-49d0-9714-fe579bacecc6"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.17137793,
+    "end_location": [
+      107.4,
+      40.0
+    ],
+    "key_pass_id": "8057ddfa-8865-4602-a5e3-33875731b482",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.3,
+          39.6
+        ],
+        "player": {
+          "id": 13857,
+          "name": "Tinja-Riikka Korpela"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.7,
+          38.4
+        ],
+        "player": {
+          "id": 10387,
+          "name": "Lisa-Marie Utland"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.0,
+          22.7
+        ],
+        "player": {
+          "id": 26570,
+          "name": "Amalie Vevle Eikeland"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.2,
+          48.8
+        ],
+        "player": {
+          "id": 15723,
+          "name": "Brooke Chaplen"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.2,
+          35.9
+        ],
+        "player": {
+          "id": 18254,
+          "name": "Megan Finnigan"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.7,
+          33.4
+        ],
+        "player": {
+          "id": 15575,
+          "name": "Gabrielle George"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.9,
+          42.1
+        ],
+        "player": {
+          "id": 15571,
+          "name": "Danielle Turner"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.2,
+          39.8
+        ],
+        "player": {
+          "id": 15573,
+          "name": "Abbey-Leigh Stringer"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "id": "6df7c651-3fbb-4afb-9482-05e2f1a60a25",
+  "index": 2000,
+  "period": 2,
+  "timestamp": "00:10:44.320",
+  "minute": 55,
+  "second": 44,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 112,
+  "possession_team": {
+    "id": 790,
+    "name": "Sweden"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 790,
+    "name": "Sweden"
+  },
+  "player": {
+    "id": 4417,
+    "name": "Ola Toivonen"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    113.0,
+    37.0
+  ],
+  "duration": 0.493,
+  "related_events": [
+    "a5f35264-86a7-4139-acde-ee1e848ba733"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.07531369,
+    "end_location": [
+      120.0,
+      38.5,
+      0.4
+    ],
+    "key_pass_id": "dd7792ec-70cc-4718-92ec-caaaadd82f82",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          116.0,
+          46.0
+        ],
+        "player": {
+          "id": 5610,
+          "name": "Min-Woo Kim"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          45.0
+        ],
+        "player": {
+          "id": 5626,
+          "name": "Shin-Wook Kim"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          43.0
+        ],
+        "player": {
+          "id": 5606,
+          "name": "Hyun-Soo Jang"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          36.0
+        ],
+        "player": {
+          "id": 5608,
+          "name": "Yong Lee"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          46.0
+        ],
+        "player": {
+          "id": 5623,
+          "name": "Jae-Sung Lee"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          38.0
+        ],
+        "player": {
+          "id": 3083,
+          "name": "Heung-Min Son"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          37.0
+        ],
+        "player": {
+          "id": 3605,
+          "name": "Sung-Yeung Ki"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          40.0
+        ],
+        "player": {
+          "id": 5627,
+          "name": "Ja-Cheol Koo"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          42.0
+        ],
+        "player": {
+          "id": 5604,
+          "name": "Young-Gwon Kim"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          41.0
+        ],
+        "player": {
+          "id": 5619,
+          "name": "Hyun-Woo Cho"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          18.0
+        ],
+        "player": {
+          "id": 5620,
+          "name": "Hee-Chan Hwang"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          38.0
+        ],
+        "player": {
+          "id": 4709,
+          "name": "Pontus Jansson"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.0,
+          5.0
+        ],
+        "player": {
+          "id": 5617,
+          "name": "Sebastian Larsson"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.0,
+          31.0
+        ],
+        "player": {
+          "id": 5607,
+          "name": "Andreas Granqvist"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          95.0,
+          33.0
+        ],
+        "player": {
+          "id": 5625,
+          "name": "Emil Forsberg"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.0,
+          49.0
+        ],
+        "player": {
+          "id": 5613,
+          "name": "Viktor Claesson"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.0,
+          43.0
+        ],
+        "player": {
+          "id": 5612,
+          "name": "Mikael Lustig"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          116.0,
+          38.0
+        ],
+        "player": {
+          "id": 5624,
+          "name": "Albin Ekdal"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.0,
+          48.0
+        ],
+        "player": {
+          "id": 11098,
+          "name": "Marcus Berg"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

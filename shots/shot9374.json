@@ -1,0 +1,175 @@
+{
+  "id": "9dc07117-a399-4599-931f-1303b6e5465f",
+  "index": 2589,
+  "period": 2,
+  "timestamp": "00:25:45.808",
+  "minute": 70,
+  "second": 45,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 132,
+  "possession_team": {
+    "id": 858,
+    "name": "Sweden Women's"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 858,
+    "name": "Sweden Women's"
+  },
+  "player": {
+    "id": 10229,
+    "name": "Stina Blackstenius"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    107.1,
+    46.3
+  ],
+  "duration": 0.2437,
+  "under_pressure": true,
+  "related_events": [
+    "4ad2a141-70a8-49a8-b51e-10a1cc735f83",
+    "b2d7cabe-53a0-47b4-91e8-03d9810e970c",
+    "c874c162-5efa-479e-8a70-337707e86d30"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.23754166,
+    "end_location": [
+      109.0,
+      45.8
+    ],
+    "key_pass_id": "43b54e5e-050c-4c53-accf-abfec27b8ee8",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.1,
+          45.3
+        ],
+        "player": {
+          "id": 25491,
+          "name": "Marina Hegering"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.7,
+          29.2
+        ],
+        "player": {
+          "id": 10215,
+          "name": "Fridolina Rolf\u00f6"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          98.1,
+          45.7
+        ],
+        "player": {
+          "id": 10374,
+          "name": "Svenja Huth"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.9,
+          21.0
+        ],
+        "player": {
+          "id": 10261,
+          "name": "Sara Doorsoun-Khajeh"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.3,
+          30.1
+        ],
+        "player": {
+          "id": 10380,
+          "name": "Leonie Maier"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          38.8
+        ],
+        "player": {
+          "id": 25478,
+          "name": "Lena Oberdorf"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.9,
+          44.1
+        ],
+        "player": {
+          "id": 10257,
+          "name": "Almuth Schult"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

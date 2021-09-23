@@ -1,0 +1,203 @@
+{
+  "id": "98a327f9-7093-4d4e-82e0-79ea8f03c584",
+  "index": 923,
+  "period": 1,
+  "timestamp": "00:21:11.117",
+  "minute": 21,
+  "second": 11,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 37,
+  "possession_team": {
+    "id": 971,
+    "name": "Chelsea FCW"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 971,
+    "name": "Chelsea FCW"
+  },
+  "player": {
+    "id": 15550,
+    "name": "Bethany England"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    110.8,
+    43.1
+  ],
+  "duration": 1.724177,
+  "related_events": [
+    "c904c5f7-191d-4a42-80d2-a608edbc87e6"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.11102515,
+    "end_location": [
+      120.0,
+      30.7,
+      0.9
+    ],
+    "key_pass_id": "b7a9f39e-d56b-45c7-8abb-5bf271aef0b7",
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.2,
+          36.6
+        ],
+        "player": {
+          "id": 4641,
+          "name": "Francesca Kirby"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          93.8,
+          57.5
+        ],
+        "player": {
+          "id": 4660,
+          "name": "Erin Cuthbert"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.8,
+          40.8
+        ],
+        "player": {
+          "id": 10237,
+          "name": "Manuela Zinsberger"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.1,
+          44.5
+        ],
+        "player": {
+          "id": 15620,
+          "name": "Katie McCabe"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.1,
+          34.8
+        ],
+        "player": {
+          "id": 10650,
+          "name": "Jill Roord"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.9,
+          42.2
+        ],
+        "player": {
+          "id": 10405,
+          "name": "Lia W\u00e4lti"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.5,
+          40.8
+        ],
+        "player": {
+          "id": 17524,
+          "name": "Jennifer Beattie"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.8,
+          32.3
+        ],
+        "player": {
+          "id": 18999,
+          "name": "Leah Williamson"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          85.8,
+          51.3
+        ],
+        "player": {
+          "id": 15619,
+          "name": "Bethany Mead"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

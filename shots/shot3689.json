@@ -1,0 +1,188 @@
+{
+  "id": "4cf015b2-509d-4429-8a92-e686fc3a1914",
+  "index": 3392,
+  "period": 2,
+  "timestamp": "00:28:46.219",
+  "minute": 73,
+  "second": 46,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 183,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    97.1,
+    38.9
+  ],
+  "duration": 0.7875,
+  "related_events": [
+    "ee8f9d09-3fe9-4a9d-a794-793e47c5daf4"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.059308637,
+    "end_location": [
+      117.9,
+      42.7,
+      0.3
+    ],
+    "key_pass_id": "7cbb82e2-988d-4253-8bed-a72d64a80658",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.0,
+          50.0
+        ],
+        "player": {
+          "id": 26788,
+          "name": "Jon Aurtenetxe Borde"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.9,
+          41.9
+        ],
+        "player": {
+          "id": 26736,
+          "name": "Borja Ekiza Imaz"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.3,
+          44.5
+        ],
+        "player": {
+          "id": 6388,
+          "name": "Ander Iturraspe Derteano"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.8,
+          39.3
+        ],
+        "player": {
+          "id": 3606,
+          "name": "Ander Herrera Ag\u00fcera"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.7,
+          41.0
+        ],
+        "player": {
+          "id": 6576,
+          "name": "Gorka Iraizoz Moreno"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.8,
+          26.5
+        ],
+        "player": {
+          "id": 26031,
+          "name": "Andoni Iraola Sagarna"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.6,
+          47.9
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.9,
+          48.7
+        ],
+        "player": {
+          "id": 3385,
+          "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

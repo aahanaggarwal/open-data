@@ -1,0 +1,158 @@
+{
+  "id": "187572c0-5daf-47aa-858b-9ebec7457ed8",
+  "index": 960,
+  "period": 1,
+  "timestamp": "00:25:01.308",
+  "minute": 25,
+  "second": 1,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 47,
+  "possession_team": {
+    "id": 972,
+    "name": "West Ham United LFC"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 972,
+    "name": "West Ham United LFC"
+  },
+  "player": {
+    "id": 8297,
+    "name": "Adriana Leon"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    98.6,
+    30.2
+  ],
+  "duration": 1.114015,
+  "related_events": [
+    "a2f75260-68d2-4589-b995-005ed6866e2f"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.04594276,
+    "end_location": [
+      120.0,
+      36.5,
+      0.4
+    ],
+    "key_pass_id": "71d19a5f-f512-4b05-8d49-cd5adf9402b5",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.9,
+          49.6
+        ],
+        "player": {
+          "id": 31558,
+          "name": "Martha Thomas"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          87.1,
+          46.2
+        ],
+        "player": {
+          "id": 19777,
+          "name": "Niamh Fahey"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.3,
+          47.6
+        ],
+        "player": {
+          "id": 15630,
+          "name": "Leigh-Anne Robe"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.2,
+          37.5
+        ],
+        "player": {
+          "id": 15626,
+          "name": "Anke Preu\u00df"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.8,
+          32.9
+        ],
+        "player": {
+          "id": 15614,
+          "name": "Sophie Elizabeth Bradley-Auckland"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          31.8
+        ],
+        "player": {
+          "id": 18144,
+          "name": "Rebecca Jane"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "id": "bd7e88cb-3f24-4883-b977-8fa956040a18",
+  "index": 1230,
+  "period": 1,
+  "timestamp": "00:29:49.358",
+  "minute": 29,
+  "second": 49,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 79,
+  "possession_team": {
+    "id": 395,
+    "name": "Real Zaragoza"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 395,
+    "name": "Real Zaragoza"
+  },
+  "player": {
+    "id": 6767,
+    "name": "Sergio Garc\u00eda De La Fuente"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    104.9,
+    54.4
+  ],
+  "duration": 0.98307,
+  "related_events": [
+    "9f609edd-95cb-4de5-b797-c9bba9d77deb"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.06287799,
+    "end_location": [
+      120.0,
+      44.4,
+      0.3
+    ],
+    "key_pass_id": "3aac8588-fe37-4553-9c69-d49f4c93ed1f",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.6,
+          43.0
+        ],
+        "player": {
+          "id": 26024,
+          "name": "Pablo C\u00e9sar Aimar Giordano"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.5,
+          33.6
+        ],
+        "player": {
+          "id": 19294,
+          "name": "Diego Alberto Milito"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.6,
+          34.5
+        ],
+        "player": {
+          "id": 25873,
+          "name": "Oleguer Presas Renom"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.3,
+          46.4
+        ],
+        "player": {
+          "id": 5558,
+          "name": "Rafael M\u00e1rquez \u00c1lvarez"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.6,
+          40.7
+        ],
+        "player": {
+          "id": 15071,
+          "name": "Lilian Thuram"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.2,
+          42.4
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.4,
+          54.2
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

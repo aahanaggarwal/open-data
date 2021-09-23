@@ -1,0 +1,188 @@
+{
+  "id": "b859955c-617c-4a0c-a969-8a55dd80c63a",
+  "index": 1122,
+  "period": 1,
+  "timestamp": "00:24:28.424",
+  "minute": 24,
+  "second": 28,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 63,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5246,
+    "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    112.1,
+    56.1
+  ],
+  "duration": 0.228509,
+  "related_events": [
+    "2245f423-95f6-4b69-8101-f3b87ac27463",
+    "a9d44f06-e82e-4d42-b885-ebbcc2efdc55"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.027013449,
+    "end_location": [
+      113.1,
+      54.4
+    ],
+    "key_pass_id": "62ef6092-4d52-497d-83c2-f6ca7798b7f7",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.6,
+          53.3
+        ],
+        "player": {
+          "id": 6397,
+          "name": "Unai N\u00fa\u00f1ez Gestoso"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.2,
+          43.7
+        ],
+        "player": {
+          "id": 6388,
+          "name": "Ander Iturraspe Derteano"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.2,
+          44.4
+        ],
+        "player": {
+          "id": 6395,
+          "name": "Kepa Arrizabalaga Revuelta"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.2,
+          30.1
+        ],
+        "player": {
+          "id": 6386,
+          "name": "Eneko B\u00f3veda Altube"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.1,
+          32.8
+        ],
+        "player": {
+          "id": 10802,
+          "name": "Andr\u00e9 Filipe Tavares Gomes"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.7,
+          59.6
+        ],
+        "player": {
+          "id": 4353,
+          "name": "Aymeric Laporte"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.1,
+          61.2
+        ],
+        "player": {
+          "id": 6392,
+          "name": "\u00cd\u00f1igo Lekue Mart\u00ednez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.9,
+          63.2
+        ],
+        "player": {
+          "id": 6379,
+          "name": "Sergi Roberto Carnicer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

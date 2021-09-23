@@ -1,0 +1,188 @@
+{
+  "id": "2c3c5e5d-c152-4a82-ae48-09b62559e762",
+  "index": 3391,
+  "period": 2,
+  "timestamp": "00:47:15.123",
+  "minute": 92,
+  "second": 15,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 197,
+  "possession_team": {
+    "id": 967,
+    "name": "Everton LFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 967,
+    "name": "Everton LFC"
+  },
+  "player": {
+    "id": 15556,
+    "name": "Chantelle Boye-Hlorkah"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    107.3,
+    60.4
+  ],
+  "duration": 0.84144,
+  "related_events": [
+    "5d261f7c-31aa-47e4-821b-b697a6e36998"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.021086259,
+    "end_location": [
+      120.0,
+      44.3,
+      4.5
+    ],
+    "key_pass_id": "dfded324-c621-407b-ae73-c3df4ff11e87",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.9,
+          45.6
+        ],
+        "player": {
+          "id": 15559,
+          "name": "Simone Magill"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.6,
+          37.9
+        ],
+        "player": {
+          "id": 18253,
+          "name": "Hannah Cain"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.9,
+          45.9
+        ],
+        "player": {
+          "id": 31534,
+          "name": "Ella Toone"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.1,
+          60.3
+        ],
+        "player": {
+          "id": 10196,
+          "name": "Kirsty Smith"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.3,
+          51.0
+        ],
+        "player": {
+          "id": 31540,
+          "name": "Katie Zelem"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.5,
+          44.9
+        ],
+        "player": {
+          "id": 31536,
+          "name": "Millie Turner"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.1,
+          37.7
+        ],
+        "player": {
+          "id": 4648,
+          "name": "Abbie McManus"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.4,
+          43.5
+        ],
+        "player": {
+          "id": 31538,
+          "name": "Mary Alexandra Earps"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

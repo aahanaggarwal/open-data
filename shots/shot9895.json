@@ -1,0 +1,158 @@
+{
+  "id": "1b0ffbb2-1737-4195-ad87-6dbd0379aadc",
+  "index": 1498,
+  "period": 1,
+  "timestamp": "00:40:14.384",
+  "minute": 40,
+  "second": 14,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 85,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19298,
+    "name": "Samuel Eto\"o Fils"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    108.7,
+    46.3
+  ],
+  "duration": 0.2481,
+  "related_events": [
+    "43b9a8e9-d55e-40fc-93ba-e09f989b0213",
+    "6d669433-3df2-4ff6-8450-7c829786003e"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.16558728,
+    "end_location": [
+      109.6,
+      45.7
+    ],
+    "key_pass_id": "05de7821-4c24-4792-a336-da1581366f33",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          101.0,
+          54.8
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.2,
+          46.8
+        ],
+        "player": {
+          "id": 26029,
+          "name": "Daniel Aranzubia Aguado"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.1,
+          45.3
+        ],
+        "player": {
+          "id": 6320,
+          "name": "Filipe Luis Kasmirski"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.3,
+          45.6
+        ],
+        "player": {
+          "id": 26107,
+          "name": "Alberto Lopo Garc\u00eda"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.2,
+          37.7
+        ],
+        "player": {
+          "id": 26209,
+          "name": "Manuel Pablo Garc\u00eda D\u00edaz"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.9,
+          42.0
+        ],
+        "player": {
+          "id": 26222,
+          "name": "Jos\u00e9 Eduardo Rosa Vale e Castro"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

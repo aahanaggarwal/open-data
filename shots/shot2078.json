@@ -1,0 +1,189 @@
+{
+  "id": "941c2de2-a738-4bbc-b6dc-d0f2b6fa1536",
+  "index": 282,
+  "period": 1,
+  "timestamp": "00:10:32.592",
+  "minute": 10,
+  "second": 32,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 26,
+  "possession_team": {
+    "id": 852,
+    "name": "Norway Women's"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 852,
+    "name": "Norway Women's"
+  },
+  "player": {
+    "id": 25728,
+    "name": "Karina S\u00e6vik"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    109.2,
+    40.2
+  ],
+  "duration": 1.094733,
+  "related_events": [
+    "b75df552-78b8-4361-a1e7-741ac08d18f5"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.16028067,
+    "end_location": [
+      120.0,
+      34.3,
+      0.5
+    ],
+    "key_pass_id": "b38e4d95-133f-46ff-afe9-d85e6482c8c4",
+    "first_time": true,
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          105.1,
+          28.5
+        ],
+        "player": {
+          "id": 10386,
+          "name": "Caroline Graham Hansen"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.1,
+          35.9
+        ],
+        "player": {
+          "id": 13479,
+          "name": "Isabell Herlovsen"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.1,
+          36.7
+        ],
+        "player": {
+          "id": 10125,
+          "name": "Wendie Renard"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.7,
+          31.1
+        ],
+        "player": {
+          "id": 10121,
+          "name": "Eug\u00e9nie Le Sommer"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.6,
+          29.4
+        ],
+        "player": {
+          "id": 10114,
+          "name": "Elise Bussaglia"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.3,
+          39.7
+        ],
+        "player": {
+          "id": 10123,
+          "name": "Amandine Henry"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.5,
+          41.4
+        ],
+        "player": {
+          "id": 15249,
+          "name": "Amel Majri"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.4,
+          40.2
+        ],
+        "player": {
+          "id": 10129,
+          "name": "Sarah Bouhaddi"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "id": "b65aa0b4-329a-4654-a07b-6fd90742693e",
+  "index": 1816,
+  "period": 2,
+  "timestamp": "00:04:05.926",
+  "minute": 49,
+  "second": 5,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 100,
+  "possession_team": {
+    "id": 865,
+    "name": "England Women's"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 865,
+    "name": "England Women's"
+  },
+  "player": {
+    "id": 4654,
+    "name": "Nikita Parris"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    91.4,
+    40.5
+  ],
+  "duration": 1.177536,
+  "related_events": [
+    "c525d6c8-a053-49b5-84ab-d513c687bcc9"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.02312024,
+    "end_location": [
+      120.0,
+      40.6,
+      5.3
+    ],
+    "key_pass_id": "137eb2d6-5256-4760-91e2-f07fa639c370",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          96.7,
+          32.8
+        ],
+        "player": {
+          "id": 10188,
+          "name": "Caroline Weir"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.4,
+          33.0
+        ],
+        "player": {
+          "id": 4984,
+          "name": "Rachel Corsie"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          24.7
+        ],
+        "player": {
+          "id": 15720,
+          "name": "Sophie Howard"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.6,
+          40.0
+        ],
+        "player": {
+          "id": 17524,
+          "name": "Jennifer Beattie"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.1,
+          44.2
+        ],
+        "player": {
+          "id": 25569,
+          "name": "Nicola Docherty"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.1,
+          39.8
+        ],
+        "player": {
+          "id": 25570,
+          "name": "Lee Alexander"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          90.4,
+          46.0
+        ],
+        "player": {
+          "id": 10179,
+          "name": "Lisa Evans"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.8,
+          35.4
+        ],
+        "player": {
+          "id": 15628,
+          "name": "Christie Murray"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          86.5,
+          34.9
+        ],
+        "player": {
+          "id": 15616,
+          "name": "Kim Little"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.1,
+          25.3
+        ],
+        "player": {
+          "id": 15619,
+          "name": "Bethany Mead"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          95.3,
+          31.7
+        ],
+        "player": {
+          "id": 10172,
+          "name": "Jill Scott"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.1,
+          33.0
+        ],
+        "player": {
+          "id": 10180,
+          "name": "Ellen White"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          91.5,
+          51.9
+        ],
+        "player": {
+          "id": 10178,
+          "name": "Lucy Bronze"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          81.5,
+          34.2
+        ],
+        "player": {
+          "id": 4641,
+          "name": "Francesca Kirby"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

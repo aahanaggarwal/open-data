@@ -1,0 +1,174 @@
+{
+  "id": "e504fb3b-9e48-4d53-9560-956c5f0e4f18",
+  "index": 2857,
+  "period": 2,
+  "timestamp": "00:15:24.471",
+  "minute": 60,
+  "second": 24,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 133,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3478,
+    "name": "Francesc F\u00e0bregas i Soler"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    108.5,
+    49.9
+  ],
+  "duration": 0.923214,
+  "related_events": [
+    "d98f5690-da52-46ca-a37e-986a0e70088e"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.438515,
+    "end_location": [
+      120.0,
+      40.0,
+      5.4
+    ],
+    "key_pass_id": "0dfd9687-9f1a-4ae8-ab0e-c73cc0bdf60e",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.3,
+          56.7
+        ],
+        "player": {
+          "id": 3958,
+          "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.0,
+          44.9
+        ],
+        "player": {
+          "id": 8697,
+          "name": "Andr\u00e9s Eduardo Fern\u00e1ndez Moreno"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.8,
+          48.5
+        ],
+        "player": {
+          "id": 25896,
+          "name": "Dami\u00e0 Abella P\u00e9rez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.1,
+          45.8
+        ],
+        "player": {
+          "id": 6869,
+          "name": "Alejandro Arribas Garrido"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.2,
+          40.0
+        ],
+        "player": {
+          "id": 26254,
+          "name": "Manuel Jes\u00fas Ortiz Toribio"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.9,
+          40.0
+        ],
+        "player": {
+          "id": 26807,
+          "name": "Marc Bertr\u00e1n Vilanova"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.8,
+          48.6
+        ],
+        "player": {
+          "id": 23947,
+          "name": "Roberto Torres Morales"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "id": "b2a150c6-0cf2-40c0-b1c0-1b5530c11232",
+  "index": 2865,
+  "period": 2,
+  "timestamp": "00:43:51.160",
+  "minute": 88,
+  "second": 51,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 232,
+  "possession_team": {
+    "id": 966,
+    "name": "Liverpool WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 966,
+    "name": "Liverpool WFC"
+  },
+  "player": {
+    "id": 19416,
+    "name": "Laura Coombs"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    102.0,
+    36.5
+  ],
+  "duration": 0.1537,
+  "related_events": [
+    "9fafb7cc-c261-4af6-887f-2e528030c963",
+    "e1007e2f-95db-46b2-a047-37c063db81f1"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.10596412,
+    "end_location": [
+      105.1,
+      37.7
+    ],
+    "key_pass_id": "b5d544d8-2278-40b8-a332-86a3efe6b93f",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.2,
+          43.8
+        ],
+        "player": {
+          "id": 17274,
+          "name": "Poppy Pattinson"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.5,
+          43.8
+        ],
+        "player": {
+          "id": 15622,
+          "name": "Leandra Little"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.4,
+          38.1
+        ],
+        "player": {
+          "id": 16381,
+          "name": "Gemma Evans"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.3,
+          40.7
+        ],
+        "player": {
+          "id": 15613,
+          "name": "Rinsola Babajide"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.9,
+          32.5
+        ],
+        "player": {
+          "id": 24238,
+          "name": "Ashley Hodson"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.2,
+          30.1
+        ],
+        "player": {
+          "id": 16391,
+          "name": "Loren Dykes"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.7,
+          22.1
+        ],
+        "player": {
+          "id": 21048,
+          "name": "Rosella Ayane"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.6,
+          39.3
+        ],
+        "player": {
+          "id": 16376,
+          "name": "Sophie Baggaley"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.5,
+          37.8
+        ],
+        "player": {
+          "id": 10171,
+          "name": "Frankie Brown"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

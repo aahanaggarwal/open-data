@@ -1,0 +1,203 @@
+{
+  "id": "f2947cda-1641-4afa-a0ee-0975dcad4478",
+  "index": 1072,
+  "period": 1,
+  "timestamp": "00:22:21.970",
+  "minute": 22,
+  "second": 21,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 52,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15754,
+    "name": "Fredrik Ljungberg"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    107.3,
+    51.4
+  ],
+  "duration": 0.674814,
+  "related_events": [
+    "8bdf8025-a619-4440-9249-68f211096f59"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.10951795,
+    "end_location": [
+      118.1,
+      42.2,
+      1.6
+    ],
+    "key_pass_id": "3b50cb64-07a9-4cec-8766-5a56c9a9cc23",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.7,
+          49.2
+        ],
+        "player": {
+          "id": 40379,
+          "name": "Matt Holland"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.6,
+          33.6
+        ],
+        "player": {
+          "id": 40416,
+          "name": "Luke Young"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.6,
+          31.8
+        ],
+        "player": {
+          "id": 13808,
+          "name": "Radostin Kishishev"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.2,
+          41.1
+        ],
+        "player": {
+          "id": 40380,
+          "name": "Mark Fish"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.6,
+          30.6
+        ],
+        "player": {
+          "id": 19312,
+          "name": "Robert Pir\u00e8s "
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.4,
+          41.1
+        ],
+        "player": {
+          "id": 15042,
+          "name": "Dennis Bergkamp"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.1,
+          45.6
+        ],
+        "player": {
+          "id": 40417,
+          "name": "Jonathan Fortune"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.1,
+          42.0
+        ],
+        "player": {
+          "id": 40378,
+          "name": "Dean Kiely"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.7,
+          50.4
+        ],
+        "player": {
+          "id": 40377,
+          "name": "Hermann Hreidarsson"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

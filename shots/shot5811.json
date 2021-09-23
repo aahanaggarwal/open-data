@@ -1,0 +1,160 @@
+{
+  "id": "accf7f82-49e1-4895-b902-55be421169e0",
+  "index": 2921,
+  "period": 2,
+  "timestamp": "00:34:08.499",
+  "minute": 79,
+  "second": 8,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 174,
+  "possession_team": {
+    "id": 967,
+    "name": "Everton LFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 967,
+    "name": "Everton LFC"
+  },
+  "player": {
+    "id": 15570,
+    "name": "Chloe Kelly"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    103.0,
+    54.4
+  ],
+  "duration": 1.978289,
+  "under_pressure": true,
+  "related_events": [
+    "38f59da5-8460-4948-9fd4-1d6247cc5ff3",
+    "6b50ef54-e993-45f2-a837-452bd447a1cc"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.04264384,
+    "end_location": [
+      120.0,
+      28.7,
+      0.9
+    ],
+    "key_pass_id": "c40ea4d4-f1f1-4866-a020-925bdaafc0dd",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          106.1,
+          53.6
+        ],
+        "player": {
+          "id": 32618,
+          "name": "Martha Harris"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.6,
+          50.8
+        ],
+        "player": {
+          "id": 31536,
+          "name": "Millie Turner"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.5,
+          37.2
+        ],
+        "player": {
+          "id": 4648,
+          "name": "Abbie McManus"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.7,
+          34.0
+        ],
+        "player": {
+          "id": 18253,
+          "name": "Hannah Cain"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.1,
+          44.0
+        ],
+        "player": {
+          "id": 31540,
+          "name": "Katie Zelem"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.8,
+          40.6
+        ],
+        "player": {
+          "id": 31538,
+          "name": "Mary Alexandra Earps"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

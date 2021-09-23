@@ -1,0 +1,219 @@
+{
+  "id": "b6a02019-ea89-446d-85db-94c43e4e206b",
+  "index": 2446,
+  "period": 2,
+  "timestamp": "00:16:50.305",
+  "minute": 61,
+  "second": 50,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 143,
+  "possession_team": {
+    "id": 220,
+    "name": "Real Madrid"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 220,
+    "name": "Real Madrid"
+  },
+  "player": {
+    "id": 6399,
+    "name": "Gareth Frank Bale"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    100.0,
+    31.0
+  ],
+  "duration": 0.038127,
+  "related_events": [
+    "7efdbfbd-96d1-4086-87af-14b6f181b273",
+    "895cc500-3247-4f5d-8c23-d3d6914ea2ea"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.045280788,
+    "end_location": [
+      104.0,
+      33.0
+    ],
+    "key_pass_id": "18d6527d-084b-4438-b585-642db851cf7a",
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          98.0,
+          41.0
+        ],
+        "player": {
+          "id": 6384,
+          "name": "Gabriel Fern\u00e1ndez Arenas"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          41.0
+        ],
+        "player": {
+          "id": 6320,
+          "name": "Filipe Luis Kasmirski"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.0,
+          25.0
+        ],
+        "player": {
+          "id": 5487,
+          "name": "Antoine Griezmann"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          27.0
+        ],
+        "player": {
+          "id": 6375,
+          "name": "Juan Francisco Torres Bel\u00e9n"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          33.0
+        ],
+        "player": {
+          "id": 6376,
+          "name": "Stefan Savi\u0107"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          35.0
+        ],
+        "player": {
+          "id": 5249,
+          "name": "Diego Roberto God\u00edn Leal"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          41.0
+        ],
+        "player": {
+          "id": 6378,
+          "name": "Jan Oblak"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.0,
+          20.0
+        ],
+        "player": {
+          "id": 5552,
+          "name": "Marcelo Vieira da Silva J\u00fanior"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          98.0,
+          37.0
+        ],
+        "player": {
+          "id": 19677,
+          "name": "Karim Benzema"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.0,
+          34.0
+        ],
+        "player": {
+          "id": 5207,
+          "name": "Cristiano Ronaldo dos Santos Aveiro"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

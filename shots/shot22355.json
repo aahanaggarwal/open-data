@@ -1,0 +1,143 @@
+{
+  "id": "5ef2e43c-0892-49cb-b5a8-77ed488f5476",
+  "index": 498,
+  "period": 1,
+  "timestamp": "00:12:07.659",
+  "minute": 12,
+  "second": 7,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 39,
+  "possession_team": {
+    "id": 974,
+    "name": "Reading WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 974,
+    "name": "Reading WFC"
+  },
+  "player": {
+    "id": 15721,
+    "name": "Gemma Suzanne Davison"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    103.0,
+    57.0
+  ],
+  "duration": 1.960256,
+  "related_events": [
+    "4be975a8-9e33-4841-ba7a-59ee123b8899"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.036101993,
+    "end_location": [
+      120.0,
+      32.5,
+      0.1
+    ],
+    "key_pass_id": "adc06b4f-34a0-4d54-bc56-825e2a477e6b",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          101.0,
+          45.0
+        ],
+        "player": {
+          "id": 15723,
+          "name": "Brooke Chaplen"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.0,
+          48.0
+        ],
+        "player": {
+          "id": 15549,
+          "name": "Sophie Ingle"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          54.0
+        ],
+        "player": {
+          "id": 4633,
+          "name": "Magdalena Ericsson"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          41.0
+        ],
+        "player": {
+          "id": 4640,
+          "name": "Rut Hedvig Lindahl"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.0,
+          61.0
+        ],
+        "player": {
+          "id": 10222,
+          "name": "Jonna Andersson"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "id": "67a15ce6-7672-4da1-8335-e0528d4a259f",
+  "index": 1558,
+  "period": 1,
+  "timestamp": "00:38:05.634",
+  "minute": 38,
+  "second": 5,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 66,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5246,
+    "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    103.3,
+    30.2
+  ],
+  "duration": 1.075123,
+  "under_pressure": true,
+  "related_events": [
+    "2871ca14-b2c6-4097-b6f6-0b4bcbe3062d",
+    "73137146-ba9c-4ee4-ad27-04a54b45aacc"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.06910658,
+    "end_location": [
+      120.0,
+      34.4,
+      4.9
+    ],
+    "key_pass_id": "221ff580-ef55-4b5d-8934-eacf175f9af9",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.2,
+          39.2
+        ],
+        "player": {
+          "id": 6792,
+          "name": "Pau L\u00f3pez Sabata"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.7,
+          31.7
+        ],
+        "player": {
+          "id": 6758,
+          "name": "V\u00edctor S\u00e1nchez Mata"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          31.6
+        ],
+        "player": {
+          "id": 6754,
+          "name": "David L\u00f3pez Silva"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.1,
+          46.5
+        ],
+        "player": {
+          "id": 6790,
+          "name": "Mario Hermoso Canseco"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

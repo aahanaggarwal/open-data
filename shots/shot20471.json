@@ -1,0 +1,113 @@
+{
+  "id": "cdf1cae6-adaa-4d91-ba85-061c29df8a8f",
+  "index": 2878,
+  "period": 2,
+  "timestamp": "00:43:19.451",
+  "minute": 88,
+  "second": 19,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 219,
+  "possession_team": {
+    "id": 973,
+    "name": "Bristol City WFC"
+  },
+  "play_pattern": {
+    "id": 8,
+    "name": "From Keeper"
+  },
+  "team": {
+    "id": 972,
+    "name": "West Ham United LFC"
+  },
+  "player": {
+    "id": 4653,
+    "name": "Jane Ross"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    107.0,
+    36.0
+  ],
+  "duration": 1.168245,
+  "related_events": [
+    "17bc95ce-2a75-46e5-89f8-e82e24279f84"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.5086126,
+    "end_location": [
+      119.0,
+      36.6,
+      1.6
+    ],
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          109.0,
+          37.0
+        ],
+        "player": {
+          "id": 16376,
+          "name": "Sophie Baggaley"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.0,
+          37.0
+        ],
+        "player": {
+          "id": 18157,
+          "name": "Brianna Visalli"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          98.0,
+          36.0
+        ],
+        "player": {
+          "id": 10171,
+          "name": "Frankie Brown"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

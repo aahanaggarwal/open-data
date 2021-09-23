@@ -1,0 +1,116 @@
+{
+  "id": "c25f905d-bace-4b25-b773-b7b901594d9b",
+  "index": 1409,
+  "period": 1,
+  "timestamp": "00:45:33.973",
+  "minute": 45,
+  "second": 33,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 97,
+  "possession_team": {
+    "id": 763,
+    "name": "Sky Blue FC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 763,
+    "name": "Sky Blue FC"
+  },
+  "player": {
+    "id": 4992,
+    "name": "Janine Beckie"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    116.0,
+    22.0
+  ],
+  "duration": 0.707,
+  "under_pressure": true,
+  "related_events": [
+    "cb2c699e-13ea-4733-a402-1f38bdbcd292",
+    "de9da795-af74-4b46-b439-89879bd1d2bc"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.02686589,
+    "end_location": [
+      119.0,
+      36.8,
+      0.5
+    ],
+    "key_pass_id": "77799692-7eb9-464a-96e1-64bd7096c555",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.0,
+          24.0
+        ],
+        "player": {
+          "id": 4984,
+          "name": "Rachel Corsie"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          21.0
+        ],
+        "player": {
+          "id": 4983,
+          "name": "Brooke Elby"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          39.0
+        ],
+        "player": {
+          "id": 4969,
+          "name": "Nicole Barnhart"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

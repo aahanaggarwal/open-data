@@ -1,0 +1,173 @@
+{
+  "id": "6708fe79-594f-495e-975e-f1377f10138a",
+  "index": 838,
+  "period": 1,
+  "timestamp": "00:17:18.618",
+  "minute": 17,
+  "second": 18,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 38,
+  "possession_team": {
+    "id": 214,
+    "name": "Espanyol"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 214,
+    "name": "Espanyol"
+  },
+  "player": {
+    "id": 10325,
+    "name": "Lu\u00eds Miguel Afonso Fernandes"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    107.7,
+    47.8
+  ],
+  "duration": 1.269534,
+  "related_events": [
+    "7e66de1d-b589-41a5-8a18-1598a5b64b8d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.13636705,
+    "end_location": [
+      120.0,
+      35.6,
+      5.3
+    ],
+    "key_pass_id": "6461fbd0-919e-489c-af55-c1988d262fe6",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          111.3,
+          42.6
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.2,
+          32.5
+        ],
+        "player": {
+          "id": 19765,
+          "name": "Sim\u00e3o Pedro Fonseca Sabrosa"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.0,
+          56.1
+        ],
+        "player": {
+          "id": 5211,
+          "name": "Jordi Alba Ramos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.9,
+          52.8
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.5,
+          49.7
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.7,
+          39.9
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.1,
+          40.9
+        ],
+        "player": {
+          "id": 26005,
+          "name": "Jos\u00e9 Manuel Pinto Colorado"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

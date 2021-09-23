@@ -1,0 +1,145 @@
+{
+  "id": "15d88954-d173-498e-9e2f-0b237a01a941",
+  "index": 1297,
+  "period": 1,
+  "timestamp": "00:37:18.528",
+  "minute": 37,
+  "second": 18,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 73,
+  "possession_team": {
+    "id": 973,
+    "name": "Bristol City WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 973,
+    "name": "Bristol City WFC"
+  },
+  "player": {
+    "id": 15563,
+    "name": "Charlie Wellings"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    109.8,
+    52.3
+  ],
+  "duration": 0.7551,
+  "under_pressure": true,
+  "related_events": [
+    "2242e7f5-2202-465e-8212-fd7890db459a",
+    "bee28248-658e-4f6d-a8e1-acfd6158682b"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.06997219,
+    "end_location": [
+      120.0,
+      36.6,
+      0.3
+    ],
+    "key_pass_id": "e9a90819-a992-4a7e-87c8-eab492e9fb38",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.7,
+          43.8
+        ],
+        "player": {
+          "id": 15719,
+          "name": "Grace Moloney"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.1,
+          43.7
+        ],
+        "player": {
+          "id": 31714,
+          "name": "Georgia Wilson"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.9,
+          54.9
+        ],
+        "player": {
+          "id": 15720,
+          "name": "Sophie Howard"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.1,
+          51.0
+        ],
+        "player": {
+          "id": 31628,
+          "name": "Kristine Leine"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.5,
+          50.4
+        ],
+        "player": {
+          "id": 19780,
+          "name": "Rachel Rowe"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

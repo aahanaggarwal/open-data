@@ -1,0 +1,157 @@
+{
+  "id": "45ac6bcb-92d3-4130-9451-4e8e3936f834",
+  "index": 2583,
+  "period": 2,
+  "timestamp": "00:24:22.590",
+  "minute": 69,
+  "second": 22,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 181,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 36,
+    "name": "Manchester City"
+  },
+  "player": {
+    "id": 24758,
+    "name": "Michael Tarnat"
+  },
+  "position": {
+    "id": 6,
+    "name": "Left Back"
+  },
+  "location": [
+    71.2,
+    5.3
+  ],
+  "duration": 2.622646,
+  "related_events": [
+    "ec07120e-8c9e-4091-acf8-e4ad4a2cf510"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.08361003,
+    "end_location": [
+      113.1,
+      38.6,
+      2.3
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.7,
+          38.7
+        ],
+        "player": {
+          "id": 20015,
+          "name": "Jens Lehmann"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          86.0,
+          32.3
+        ],
+        "player": {
+          "id": 15654,
+          "name": "Martin Keown"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          86.4,
+          42.2
+        ],
+        "player": {
+          "id": 38412,
+          "name": "Kolo Habib Tour\u00e9"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          75.0,
+          30.8
+        ],
+        "player": {
+          "id": 40217,
+          "name": "Trevor Sinclair"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          81.8,
+          45.9
+        ],
+        "player": {
+          "id": 15519,
+          "name": "Nicolas Anelka"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          72.2,
+          13.1
+        ],
+        "player": {
+          "id": 40222,
+          "name": "Laureano Bisan-Etame Mayer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

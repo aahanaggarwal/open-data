@@ -1,0 +1,146 @@
+{
+  "id": "413315e0-2647-4e82-a234-018d877c121d",
+  "index": 1929,
+  "period": 2,
+  "timestamp": "00:06:27.491",
+  "minute": 51,
+  "second": 27,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 103,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5246,
+    "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    108.3,
+    43.4
+  ],
+  "duration": 0.8152,
+  "under_pressure": true,
+  "related_events": [
+    "3eb48576-6b4d-408d-bafb-0663f4d3df5c",
+    "c5f61364-a136-47a6-8b53-39b1fbac4473"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.480265,
+    "end_location": [
+      120.0,
+      41.7,
+      1.5
+    ],
+    "key_pass_id": "f63eeb5f-d957-46cb-a190-de4b5ffe5325",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.5,
+          35.0
+        ],
+        "player": {
+          "id": 4320,
+          "name": "Neymar da Silva Santos Junior"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.0,
+          42.2
+        ],
+        "player": {
+          "id": 6792,
+          "name": "Pau L\u00f3pez Sabata"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.3,
+          40.5
+        ],
+        "player": {
+          "id": 16456,
+          "name": "Enzo Pablo Roco Roco"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.7,
+          35.7
+        ],
+        "player": {
+          "id": 6791,
+          "name": "Javier L\u00f3pez Rodr\u00edguez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.9,
+          43.4
+        ],
+        "player": {
+          "id": 27241,
+          "name": "V\u00edctor Guillermo \u00c1lvarez Delgado"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

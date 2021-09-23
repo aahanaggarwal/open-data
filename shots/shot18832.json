@@ -1,0 +1,203 @@
+{
+  "id": "ff0a91bd-bf13-45b2-b40c-734c60501ebd",
+  "index": 953,
+  "period": 1,
+  "timestamp": "00:28:29.694",
+  "minute": 28,
+  "second": 29,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 66,
+  "possession_team": {
+    "id": 968,
+    "name": "Arsenal WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 968,
+    "name": "Arsenal WFC"
+  },
+  "player": {
+    "id": 15623,
+    "name": "Vivianne Miedema"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    108.4,
+    41.9
+  ],
+  "duration": 0.1236,
+  "related_events": [
+    "8e85b0c0-033f-45cf-8f01-c0252c5b7380"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.1729627,
+    "end_location": [
+      109.7,
+      41.4,
+      0.2
+    ],
+    "key_pass_id": "b6ca698f-9b50-4be0-890f-befbb1dd507c",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.3,
+          41.4
+        ],
+        "player": {
+          "id": 22032,
+          "name": "Hannah Hampton"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          40.6
+        ],
+        "player": {
+          "id": 15569,
+          "name": "Kerys Harrop"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.8,
+          39.8
+        ],
+        "player": {
+          "id": 19502,
+          "name": "Meaghan Sargeant"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.8,
+          35.7
+        ],
+        "player": {
+          "id": 19592,
+          "name": "Harriet Scott"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          87.3,
+          27.4
+        ],
+        "player": {
+          "id": 15563,
+          "name": "Charlie Wellings"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.0,
+          28.7
+        ],
+        "player": {
+          "id": 15619,
+          "name": "Bethany Mead"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.2,
+          47.8
+        ],
+        "player": {
+          "id": 19503,
+          "name": "Aoife Mannion"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.4,
+          47.1
+        ],
+        "player": {
+          "id": 10658,
+          "name": "Danielle van de Donk"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.4,
+          45.0
+        ],
+        "player": {
+          "id": 15620,
+          "name": "Katie McCabe"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

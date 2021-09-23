@@ -1,0 +1,160 @@
+{
+  "id": "cdbf1663-72f4-47d8-9682-b9cc9336bcb6",
+  "index": 791,
+  "period": 1,
+  "timestamp": "00:18:11.792",
+  "minute": 18,
+  "second": 11,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 43,
+  "possession_team": {
+    "id": 395,
+    "name": "Real Zaragoza"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 395,
+    "name": "Real Zaragoza"
+  },
+  "player": {
+    "id": 26716,
+    "name": "Braulio N\u00f3brega Rodr\u00edguez"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    106.6,
+    32.2
+  ],
+  "duration": 0.718757,
+  "under_pressure": true,
+  "related_events": [
+    "07d09b00-f5c3-41d3-8196-c6213e7440ad",
+    "992950a8-f6b6-4f42-9b1b-111315d62b90"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.113691494,
+    "end_location": [
+      114.1,
+      38.3,
+      0.5
+    ],
+    "key_pass_id": "22a2f28e-138f-4838-b1e3-45eacdea5073",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          90.5,
+          53.5
+        ],
+        "player": {
+          "id": 26020,
+          "name": "\u00c1ngel Lafita Castillo"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.6,
+          33.6
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.3,
+          38.1
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.9,
+          43.7
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.4,
+          53.2
+        ],
+        "player": {
+          "id": 20177,
+          "name": "Eric-Sylvain Bilal Abidal"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          87.8,
+          51.7
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

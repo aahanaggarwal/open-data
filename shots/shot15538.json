@@ -1,0 +1,114 @@
+{
+  "id": "33ea69e7-b5f4-457f-a1f2-3dd26d0ae2e5",
+  "index": 1798,
+  "period": 1,
+  "timestamp": "00:44:21.694",
+  "minute": 44,
+  "second": 21,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 98,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    111.3,
+    36.4
+  ],
+  "duration": 0.4861,
+  "related_events": [
+    "64240a86-7b88-4894-b62b-b215572ebd00"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.43066207,
+    "end_location": [
+      120.0,
+      36.7,
+      2.0
+    ],
+    "key_pass_id": "61069e6d-902c-4f2b-85b7-90e0bfeb1ba1",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.6,
+          38.1
+        ],
+        "player": {
+          "id": 26146,
+          "name": "Dud\u00fa Aouate"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.1,
+          40.4
+        ],
+        "player": {
+          "id": 20134,
+          "name": "Joan Capdevila M\u00e9ndez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.6,
+          39.4
+        ],
+        "player": {
+          "id": 19758,
+          "name": "Jorge Manuel Almeida Gomes de Andrade"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

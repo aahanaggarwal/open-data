@@ -1,0 +1,143 @@
+{
+  "id": "d5409ad3-3f0c-45e1-8a5b-1fdcb29735c8",
+  "index": 2992,
+  "period": 2,
+  "timestamp": "00:29:30.371",
+  "minute": 74,
+  "second": 30,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 158,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 4320,
+    "name": "Neymar da Silva Santos Junior"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    119.6,
+    34.1
+  ],
+  "duration": 0.2195,
+  "related_events": [
+    "09a7b5fc-e6c3-46cd-9b6a-3cd8405095b6",
+    "fb43fcd1-1930-409d-b25e-10fdde6bb004"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.14427502,
+    "end_location": [
+      119.8,
+      36.1
+    ],
+    "key_pass_id": "271e502f-5104-45ca-b12d-a20de69a3e86",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.7,
+          28.3
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.4,
+          47.3
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.6,
+          37.2
+        ],
+        "player": {
+          "id": 6802,
+          "name": "Jonathan Castro Otto"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.8,
+          36.3
+        ],
+        "player": {
+          "id": 6805,
+          "name": "Hugo Mallo Novegil"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.4,
+          34.3
+        ],
+        "player": {
+          "id": 6884,
+          "name": "Sergio \u00c1lvarez Conde"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

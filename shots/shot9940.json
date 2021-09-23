@@ -1,0 +1,129 @@
+{
+  "id": "b0c1cae8-ab72-4714-8fec-56513bd91182",
+  "index": 746,
+  "period": 1,
+  "timestamp": "00:19:26.902",
+  "minute": 19,
+  "second": 26,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 48,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 25863,
+    "name": "Juliano Haus Belletti"
+  },
+  "position": {
+    "id": 2,
+    "name": "Right Back"
+  },
+  "location": [
+    108.2,
+    48.5
+  ],
+  "duration": 0.1818,
+  "related_events": [
+    "0810e099-fe87-45d5-b88a-89e195816686"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.39464024,
+    "end_location": [
+      113.0,
+      44.4,
+      1.0
+    ],
+    "key_pass_id": "ae63bc2e-bb1e-439e-8010-bf41ac2f7eee",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.2,
+          44.7
+        ],
+        "player": {
+          "id": 26103,
+          "name": "Idriss Carlos Kameni"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.6,
+          39.9
+        ],
+        "player": {
+          "id": 26106,
+          "name": "Armando Miguel Correia de Sa"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.2,
+          38.4
+        ],
+        "player": {
+          "id": 24797,
+          "name": "Didier Domi"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.4,
+          30.6
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

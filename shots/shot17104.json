@@ -1,0 +1,187 @@
+{
+  "id": "6914c61e-fcc1-44fb-b4dc-7fa32845a8f9",
+  "index": 2170,
+  "period": 2,
+  "timestamp": "00:30:02.623",
+  "minute": 75,
+  "second": 2,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 185,
+  "possession_team": {
+    "id": 967,
+    "name": "Everton LFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 967,
+    "name": "Everton LFC"
+  },
+  "player": {
+    "id": 15578,
+    "name": "Faye Bryson"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    100.0,
+    53.0
+  ],
+  "duration": 2.037504,
+  "related_events": [
+    "444e67b2-ac29-494e-8c47-8507c4954370"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.02819161,
+    "end_location": [
+      119.0,
+      39.9,
+      3.8
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          105.0,
+          51.0
+        ],
+        "player": {
+          "id": 15710,
+          "name": "Megan Alexander"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          45.0
+        ],
+        "player": {
+          "id": 15712,
+          "name": "Nicola Cousins"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          40.0
+        ],
+        "player": {
+          "id": 15709,
+          "name": "Megan Walsh"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          35.0
+        ],
+        "player": {
+          "id": 15717,
+          "name": "Hannah Short"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          45.0
+        ],
+        "player": {
+          "id": 15718,
+          "name": "Olivia Fergusson"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          46.0
+        ],
+        "player": {
+          "id": 15716,
+          "name": "Emily Syme"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          40.0
+        ],
+        "player": {
+          "id": 15707,
+          "name": "Georgia Evans"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.0,
+          48.0
+        ],
+        "player": {
+          "id": 15558,
+          "name": "Dominique Bruinenberg"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "id": "5bea2361-d025-4c0e-a497-034ed9fe26a1",
+  "index": 2412,
+  "period": 2,
+  "timestamp": "00:24:42.734",
+  "minute": 69,
+  "second": 42,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 143,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5203,
+    "name": "Sergio Busquets i Burgos"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    108.9,
+    42.6
+  ],
+  "duration": 1.3218,
+  "related_events": [
+    "00d72ffb-423c-4fe8-8741-b464552a1da3"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.20804663,
+    "end_location": [
+      120.0,
+      19.6,
+      0.4
+    ],
+    "key_pass_id": "3b234b42-cf9a-4ebf-8fad-e1cab97bc92a",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          115.1,
+          38.8
+        ],
+        "player": {
+          "id": 26103,
+          "name": "Idriss Carlos Kameni"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.5,
+          34.5
+        ],
+        "player": {
+          "id": 11270,
+          "name": "Ei\u00f0ur Sm\u00e1ri Gu\u00f0johnsen"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.5,
+          37.3
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.9,
+          38.8
+        ],
+        "player": {
+          "id": 26110,
+          "name": "Daniel Jarque Gonzalez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          35.7
+        ],
+        "player": {
+          "id": 6904,
+          "name": "Sergio S\u00e1nchez Ortega"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.4,
+          42.7
+        ],
+        "player": {
+          "id": 7909,
+          "name": "Nicol\u00e1s Mart\u00edn Pareja"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.6,
+          30.2
+        ],
+        "player": {
+          "id": 23916,
+          "name": "Luis Garc\u00eda Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

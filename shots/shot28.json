@@ -1,0 +1,159 @@
+{
+  "id": "66a06e3d-1d58-4c70-a874-388aace61270",
+  "index": 943,
+  "period": 1,
+  "timestamp": "00:21:23.649",
+  "minute": 21,
+  "second": 23,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 50,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 12737,
+    "name": "David Villa S\u00e1nchez"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    102.9,
+    36.5
+  ],
+  "duration": 0.66179,
+  "related_events": [
+    "0c02cefb-81ad-4800-81ea-2df6ef8fe080"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.22696795,
+    "end_location": [
+      117.2,
+      40.2,
+      0.1
+    ],
+    "key_pass_id": "a481ef25-1616-46fa-b91a-64558392899e",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.8,
+          39.1
+        ],
+        "player": {
+          "id": 3623,
+          "name": "Adri\u00e1n San Miguel del Castillo"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.7,
+          41.6
+        ],
+        "player": {
+          "id": 26081,
+          "name": "Pedro Mario \u00c1lvarez Abrante"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.5,
+          48.2
+        ],
+        "player": {
+          "id": 25022,
+          "name": "Alejandro Mart\u00ednez S\u00e1nchez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.3,
+          50.6
+        ],
+        "player": {
+          "id": 3385,
+          "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.1,
+          29.9
+        ],
+        "player": {
+          "id": 27144,
+          "name": "Antonio Amaya Carazo"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.7,
+          24.2
+        ],
+        "player": {
+          "id": 6658,
+          "name": "Cristian Tello Herrera"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

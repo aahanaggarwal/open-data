@@ -1,0 +1,176 @@
+{
+  "id": "37e84db5-1134-4b92-87e8-1326f078e3ed",
+  "index": 2254,
+  "period": 2,
+  "timestamp": "00:05:25.334",
+  "minute": 50,
+  "second": 25,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 93,
+  "possession_team": {
+    "id": 215,
+    "name": "Athletic Bilbao"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 215,
+    "name": "Athletic Bilbao"
+  },
+  "player": {
+    "id": 6666,
+    "name": "Sabin Merino Zuloaga"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    106.7,
+    25.3
+  ],
+  "duration": 3.596171,
+  "under_pressure": true,
+  "related_events": [
+    "139e2ea0-11a5-408e-9cae-b83e2605790d",
+    "20bf3457-5719-4dba-b90b-da5dac0413dd"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.059553094,
+    "end_location": [
+      120.0,
+      57.7,
+      0.1
+    ],
+    "key_pass_id": "ae7c38f3-da4c-4909-8d9c-bc18a5fee528",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          116.9,
+          35.8
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.5,
+          26.3
+        ],
+        "player": {
+          "id": 6379,
+          "name": "Sergi Roberto Carnicer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.5,
+          26.0
+        ],
+        "player": {
+          "id": 3501,
+          "name": "Philippe Coutinho Correia"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.1,
+          25.1
+        ],
+        "player": {
+          "id": 5211,
+          "name": "Jordi Alba Ramos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.6,
+          40.4
+        ],
+        "player": {
+          "id": 5492,
+          "name": "Samuel Yves Umtiti"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.9,
+          43.6
+        ],
+        "player": {
+          "id": 5470,
+          "name": "Ivan Rakiti\u0107"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.5,
+          44.2
+        ],
+        "player": {
+          "id": 6391,
+          "name": "Ra\u00fal Garc\u00eda Escudero"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

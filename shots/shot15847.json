@@ -1,0 +1,159 @@
+{
+  "id": "aaf6abe8-dbdf-4972-bb0e-960fee96fd05",
+  "index": 1018,
+  "period": 1,
+  "timestamp": "00:23:29.916",
+  "minute": 23,
+  "second": 29,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 56,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    111.6,
+    33.2
+  ],
+  "duration": 0.7086,
+  "related_events": [
+    "ab22adae-9cb0-4a00-8513-01a14941eedf"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.19586311,
+    "end_location": [
+      120.0,
+      39.3,
+      5.5
+    ],
+    "key_pass_id": "331629c2-996c-4bae-a374-2222e254a9f0",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.9,
+          51.2
+        ],
+        "player": {
+          "id": 5249,
+          "name": "Diego Roberto God\u00edn Leal"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.9,
+          51.1
+        ],
+        "player": {
+          "id": 12737,
+          "name": "David Villa S\u00e1nchez"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          94.2,
+          22.8
+        ],
+        "player": {
+          "id": 3958,
+          "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.3,
+          37.2
+        ],
+        "player": {
+          "id": 26120,
+          "name": "Luis Amaranto Perea Mosquera"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.6,
+          32.1
+        ],
+        "player": {
+          "id": 19731,
+          "name": "Tom\u00e1\u0161 Ujfalu\u0161i"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.8,
+          39.6
+        ],
+        "player": {
+          "id": 3333,
+          "name": "David de Gea Quintana"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

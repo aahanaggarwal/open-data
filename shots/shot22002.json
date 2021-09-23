@@ -1,0 +1,83 @@
+{
+  "id": "d4fddb9f-22a0-4846-84df-a162e453b511",
+  "index": 1343,
+  "period": 1,
+  "timestamp": "00:38:56.272",
+  "minute": 38,
+  "second": 56,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 92,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 5,
+    "name": "Other"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    107.7,
+    40.0
+  ],
+  "duration": 0.3443,
+  "related_events": [
+    "2dab98b9-8faa-4569-93f6-cd3bd47434c9"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.76,
+    "end_location": [
+      120.0,
+      41.8,
+      0.7
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 88,
+      "name": "Penalty"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.3,
+          40.0
+        ],
+        "player": {
+          "id": 38403,
+          "name": "Shaka Hislop"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

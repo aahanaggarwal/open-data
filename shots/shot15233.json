@@ -1,0 +1,129 @@
+{
+  "id": "87abde88-5ffe-42a5-b210-9c756aa3c073",
+  "index": 2674,
+  "period": 2,
+  "timestamp": "00:04:22.723",
+  "minute": 49,
+  "second": 22,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 95,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3478,
+    "name": "Francesc F\u00e0bregas i Soler"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    110.5,
+    30.2
+  ],
+  "duration": 1.190178,
+  "related_events": [
+    "8b0720cb-d4b5-45e6-865a-cda8bd0e5300"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.36704808,
+    "end_location": [
+      120.0,
+      43.9,
+      0.0
+    ],
+    "key_pass_id": "d5d4394a-290d-4f96-89cc-3ea7d373bf6b",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.2,
+          43.1
+        ],
+        "player": {
+          "id": 26669,
+          "name": "Weligton R\u00f3bson Pena de Oliveira"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.7,
+          35.7
+        ],
+        "player": {
+          "id": 3659,
+          "name": "Wilfredo Daniel Caballero"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.3,
+          29.8
+        ],
+        "player": {
+          "id": 19288,
+          "name": "Mart\u00edn Gast\u00f3n Demichelis"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.6,
+          30.5
+        ],
+        "player": {
+          "id": 6904,
+          "name": "Sergio S\u00e1nchez Ortega"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

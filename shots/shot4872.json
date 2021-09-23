@@ -1,0 +1,189 @@
+{
+  "id": "64ad6d32-aa64-4684-8cb9-7534db8e8377",
+  "index": 501,
+  "period": 1,
+  "timestamp": "00:13:02.157",
+  "minute": 13,
+  "second": 2,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 23,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    109.7,
+    30.0
+  ],
+  "duration": 0.2799,
+  "related_events": [
+    "4c234ff4-dab2-46b0-ab32-aaf2df44cdbf"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.2953557,
+    "end_location": [
+      113.8,
+      33.3,
+      0.9
+    ],
+    "key_pass_id": "ad4b3cbb-5f8b-4629-938c-298a624b3945",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.9,
+          33.4
+        ],
+        "player": {
+          "id": 25917,
+          "name": "C\u00e9sar S\u00e1nchez Dom\u00ednguez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.6,
+          51.4
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.7,
+          32.6
+        ],
+        "player": {
+          "id": 25969,
+          "name": "Sergio Fern\u00e1ndez Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.8,
+          30.9
+        ],
+        "player": {
+          "id": 26022,
+          "name": "Carlos Andr\u00e9s Diogo Ense\u00f1at"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          46.5
+        ],
+        "player": {
+          "id": 26023,
+          "name": "Juan Francisco Garc\u00eda Garc\u00eda"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.3,
+          41.5
+        ],
+        "player": {
+          "id": 5216,
+          "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.0,
+          38.4
+        ],
+        "player": {
+          "id": 26215,
+          "name": "Francisco Pav\u00f3n Barahona"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.9,
+          39.9
+        ],
+        "player": {
+          "id": 26220,
+          "name": "Matuzal\u00e9m Francelino da Silva"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

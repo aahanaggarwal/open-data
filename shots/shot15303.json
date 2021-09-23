@@ -1,0 +1,236 @@
+{
+  "id": "d1ab912d-9279-4370-a234-65c0f9b7d979",
+  "index": 848,
+  "period": 1,
+  "timestamp": "00:21:00.837",
+  "minute": 21,
+  "second": 0,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 45,
+  "possession_team": {
+    "id": 1475,
+    "name": "Manchester United"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 1475,
+    "name": "Manchester United"
+  },
+  "player": {
+    "id": 31539,
+    "name": "Leah Galton"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    108.7,
+    33.9
+  ],
+  "duration": 0.661864,
+  "under_pressure": true,
+  "related_events": [
+    "2df48e55-c921-4888-973e-b9c27c3e55d8",
+    "6f1a0dfc-7343-4b0f-ace7-69e360a75335"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.02755354,
+    "end_location": [
+      119.3,
+      37.6,
+      0.6
+    ],
+    "key_pass_id": "01868009-50a1-4df3-9874-14de20720759",
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "aerial_won": true,
+    "freeze_frame": [
+      {
+        "location": [
+          92.5,
+          64.7
+        ],
+        "player": {
+          "id": 31533,
+          "name": "Amy Turner"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.1,
+          40.6
+        ],
+        "player": {
+          "id": 4653,
+          "name": "Jane Ross"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          98.3,
+          61.1
+        ],
+        "player": {
+          "id": 15564,
+          "name": "Lucy Quinn"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.7,
+          35.4
+        ],
+        "player": {
+          "id": 10654,
+          "name": "Jackie Groenen"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.0,
+          36.3
+        ],
+        "player": {
+          "id": 4865,
+          "name": "Josie Green"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.4,
+          48.1
+        ],
+        "player": {
+          "id": 18145,
+          "name": "Ria Percival"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.1,
+          52.2
+        ],
+        "player": {
+          "id": 19501,
+          "name": "Hayley Ladd"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.3,
+          37.6
+        ],
+        "player": {
+          "id": 33349,
+          "name": "Chloe Morgan"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.8,
+          37.9
+        ],
+        "player": {
+          "id": 31552,
+          "name": "Hannah Godfrey"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.9,
+          45.0
+        ],
+        "player": {
+          "id": 31703,
+          "name": "Anna Filbey"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.3,
+          33.5
+        ],
+        "player": {
+          "id": 4848,
+          "name": "Ashleigh Neville"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

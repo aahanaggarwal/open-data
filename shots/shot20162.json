@@ -1,0 +1,188 @@
+{
+  "id": "b43923df-dbb0-48fd-bb2f-c8c4096a0acc",
+  "index": 2631,
+  "period": 2,
+  "timestamp": "00:25:57.197",
+  "minute": 70,
+  "second": 57,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 177,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    112.5,
+    35.9
+  ],
+  "duration": 0.876249,
+  "related_events": [
+    "14f80f43-8f06-4fb8-a498-48df2e1f1b20"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.07780058,
+    "end_location": [
+      120.0,
+      28.4,
+      0.3
+    ],
+    "key_pass_id": "6871250f-01ba-4cb0-9a20-11a32fe38767",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.8,
+          27.4
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          116.9,
+          28.6
+        ],
+        "player": {
+          "id": 25961,
+          "name": "Ram\u00f3n de Quintana Dalmau"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.5,
+          36.4
+        ],
+        "player": {
+          "id": 25963,
+          "name": "Jos\u00e9 Juli\u00e1n De La Cuesta Herrera"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.9,
+          40.0
+        ],
+        "player": {
+          "id": 25951,
+          "name": "M\u00e1rio Fernando Magalh\u00e3es da Silva"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          48.5
+        ],
+        "player": {
+          "id": 25955,
+          "name": "Jonathan Sesma Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.8,
+          36.5
+        ],
+        "player": {
+          "id": 25953,
+          "name": "Armando Riveiro de Aguilar Malda"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.4,
+          44.4
+        ],
+        "player": {
+          "id": 19757,
+          "name": "Anderson Lu\u00eds de Souza"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.1,
+          42.9
+        ],
+        "player": {
+          "id": 15743,
+          "name": "Henrik Larsson"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

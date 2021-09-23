@@ -1,0 +1,187 @@
+{
+  "id": "46803f6f-0040-478c-9f59-68327f00c606",
+  "index": 217,
+  "period": 1,
+  "timestamp": "00:04:44.165",
+  "minute": 4,
+  "second": 44,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 12,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 38412,
+    "name": "Kolo Habib Tour\u00e9"
+  },
+  "position": {
+    "id": 2,
+    "name": "Right Back"
+  },
+  "location": [
+    103.0,
+    52.5
+  ],
+  "duration": 0.18813,
+  "related_events": [
+    "6956e929-a9ee-4dc8-b447-e6ff34da86ca",
+    "bb52bafb-14a6-4adb-929c-9622fd0341de"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.036280803,
+    "end_location": [
+      105.1,
+      51.3
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          89.4,
+          71.4
+        ],
+        "player": {
+          "id": 15042,
+          "name": "Dennis Bergkamp"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.4,
+          51.2
+        ],
+        "player": {
+          "id": 40445,
+          "name": "Danny Higginbotham"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.6,
+          49.8
+        ],
+        "player": {
+          "id": 40441,
+          "name": "Michael Lennart Svensson"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.3,
+          42.6
+        ],
+        "player": {
+          "id": 40438,
+          "name": "Antti Mikko Niemi"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.7,
+          62.9
+        ],
+        "player": {
+          "id": 40440,
+          "name": "L\u00e9andre Griffit"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.6,
+          42.2
+        ],
+        "player": {
+          "id": 40444,
+          "name": "Fitz Hall"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.2,
+          48.5
+        ],
+        "player": {
+          "id": 40435,
+          "name": "Rory Delap"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.8,
+          50.6
+        ],
+        "player": {
+          "id": 40433,
+          "name": "Kevin Phillips"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

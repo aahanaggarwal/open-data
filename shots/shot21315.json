@@ -1,0 +1,250 @@
+{
+  "id": "920db34e-cae1-4c0b-bfc5-86f17048db91",
+  "index": 315,
+  "period": 1,
+  "timestamp": "00:08:57.500",
+  "minute": 8,
+  "second": 57,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 16,
+  "possession_team": {
+    "id": 793,
+    "name": "Iceland"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 793,
+    "name": "Iceland"
+  },
+  "player": {
+    "id": 3720,
+    "name": "Johann Berg Gu\u00f0munds\u00adson"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    100.0,
+    54.0
+  ],
+  "duration": 0.493,
+  "under_pressure": true,
+  "related_events": [
+    "0fee36d4-0949-4d36-a8d7-e715d19fd55d",
+    "b4601141-ab57-40ee-aed3-02c4b8de373b",
+    "d4d8bd90-31f8-4fe1-8f9a-f7da31cad647"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.039541468,
+    "end_location": [
+      105.0,
+      49.0
+    ],
+    "key_pass_id": "314256d1-c36c-43e5-a481-1aa404827c11",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          106.0,
+          38.0
+        ],
+        "player": {
+          "id": 3090,
+          "name": "Nicol\u00e1s Hern\u00e1n Otamendi"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          43.0
+        ],
+        "player": {
+          "id": 3659,
+          "name": "Wilfredo Daniel Caballero"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          24.0
+        ],
+        "player": {
+          "id": 5513,
+          "name": "Eduardo Antonio Salvio"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.0,
+          30.0
+        ],
+        "player": {
+          "id": 5509,
+          "name": "Birkir Bjarnason"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.0,
+          46.0
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.0,
+          42.0
+        ],
+        "player": {
+          "id": 5512,
+          "name": "Emil Hallfre\u00f0sson"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.0,
+          51.0
+        ],
+        "player": {
+          "id": 5510,
+          "name": "Lucas Rodrigo Biglia"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          42.0
+        ],
+        "player": {
+          "id": 3944,
+          "name": "Gylfi \u00de\u00f3r Sigur\u00f0sson"
+        },
+        "position": {
+          "id": 25,
+          "name": "Secondary Striker"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.0,
+          49.0
+        ],
+        "player": {
+          "id": 3602,
+          "name": "Faustino Marcos Alberto Rojo"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          55.0
+        ],
+        "player": {
+          "id": 5507,
+          "name": "Nicol\u00e1s Alejandro Tagliafico"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          45.0
+        ],
+        "player": {
+          "id": 5515,
+          "name": "Aron Einar Gunnarsson"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.0,
+          54.0
+        ],
+        "player": {
+          "id": 5514,
+          "name": "Alfre\u00f0 Finnbogason"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

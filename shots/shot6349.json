@@ -1,0 +1,218 @@
+{
+  "id": "8ef7c414-d58d-4882-8d14-f8cd7e77496d",
+  "index": 2240,
+  "period": 2,
+  "timestamp": "00:21:45.664",
+  "minute": 66,
+  "second": 45,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 153,
+  "possession_team": {
+    "id": 966,
+    "name": "Liverpool WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 966,
+    "name": "Liverpool WFC"
+  },
+  "player": {
+    "id": 15218,
+    "name": "Jessica Anne Clarke"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    109.0,
+    26.0
+  ],
+  "duration": 1.197648,
+  "related_events": [
+    "80ed75d5-fb65-4089-a4d2-f316f2b27f03"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.028188458,
+    "end_location": [
+      120.0,
+      43.4,
+      2.0
+    ],
+    "key_pass_id": "b8cf4591-b2b5-4e45-a2d6-c71dcb570173",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          94.0,
+          17.0
+        ],
+        "player": {
+          "id": 15630,
+          "name": "Leigh-Anne Robe"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.0,
+          40.0
+        ],
+        "player": {
+          "id": 15611,
+          "name": "Courtney Sweetman-Kirk"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.0,
+          35.0
+        ],
+        "player": {
+          "id": 19416,
+          "name": "Laura Coombs"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.0,
+          39.0
+        ],
+        "player": {
+          "id": 15709,
+          "name": "Megan Walsh"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          28.0
+        ],
+        "player": {
+          "id": 15711,
+          "name": "Amber Gaylor"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          26.0
+        ],
+        "player": {
+          "id": 15708,
+          "name": "Amy Goddard"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          32.0
+        ],
+        "player": {
+          "id": 15717,
+          "name": "Hannah Short"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          40.0
+        ],
+        "player": {
+          "id": 15712,
+          "name": "Nicola Cousins"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          35.0
+        ],
+        "player": {
+          "id": 15707,
+          "name": "Georgia Evans"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          44.0
+        ],
+        "player": {
+          "id": 15715,
+          "name": "Ellie Mason"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

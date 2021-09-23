@@ -1,0 +1,173 @@
+{
+  "id": "77a0d9ea-f9dd-4493-9c52-6d630d1d0017",
+  "index": 1747,
+  "period": 2,
+  "timestamp": "00:04:14.342",
+  "minute": 49,
+  "second": 14,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 111,
+  "possession_team": {
+    "id": 974,
+    "name": "Reading WFC"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 974,
+    "name": "Reading WFC"
+  },
+  "player": {
+    "id": 15723,
+    "name": "Brooke Chaplen"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    105.0,
+    29.0
+  ],
+  "duration": 0.393701,
+  "related_events": [
+    "10de7df1-9f5e-4068-98b0-d35488437279",
+    "407be12e-183a-43d8-a506-ad12800bc8c3"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.14572826,
+    "end_location": [
+      107.0,
+      31.0
+    ],
+    "key_pass_id": "b5005e1a-4d0b-4bee-afc2-916e0347a699",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          94.0,
+          66.0
+        ],
+        "player": {
+          "id": 15726,
+          "name": "Lauren Bruton"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.0,
+          30.0
+        ],
+        "player": {
+          "id": 15709,
+          "name": "Megan Walsh"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          30.0
+        ],
+        "player": {
+          "id": 15712,
+          "name": "Nicola Cousins"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          30.0
+        ],
+        "player": {
+          "id": 15708,
+          "name": "Amy Goddard"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          51.0
+        ],
+        "player": {
+          "id": 15710,
+          "name": "Megan Alexander"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.0,
+          42.0
+        ],
+        "player": {
+          "id": 15713,
+          "name": "Bonnie Horwood"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.0,
+          48.0
+        ],
+        "player": {
+          "id": 10251,
+          "name": "Fara Williams"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

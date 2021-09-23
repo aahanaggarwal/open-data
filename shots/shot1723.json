@@ -1,0 +1,158 @@
+{
+  "id": "1bad694b-c9b0-46e9-b862-86aa855935aa",
+  "index": 2672,
+  "period": 2,
+  "timestamp": "00:46:21.132",
+  "minute": 91,
+  "second": 21,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 222,
+  "possession_team": {
+    "id": 967,
+    "name": "Everton LFC"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 967,
+    "name": "Everton LFC"
+  },
+  "player": {
+    "id": 18253,
+    "name": "Hannah Cain"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    108.2,
+    41.8
+  ],
+  "duration": 0.1604,
+  "related_events": [
+    "e7f1b8be-7f38-4277-add6-694334ccbeb0"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.2695763,
+    "end_location": [
+      111.9,
+      41.9,
+      0.6
+    ],
+    "key_pass_id": "f44fdf4c-792a-4fc2-aa8d-c52dba581b15",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.9,
+          41.8
+        ],
+        "player": {
+          "id": 22032,
+          "name": "Hannah Hampton"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.1,
+          41.2
+        ],
+        "player": {
+          "id": 19501,
+          "name": "Hayley Ladd"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          40.6
+        ],
+        "player": {
+          "id": 15569,
+          "name": "Kerys Harrop"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.4,
+          28.7
+        ],
+        "player": {
+          "id": 19500,
+          "name": "Sarah Emma Mayling"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.9,
+          29.2
+        ],
+        "player": {
+          "id": 15571,
+          "name": "Danielle Turner"
+        },
+        "position": {
+          "id": 8,
+          "name": "Left Wing Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          95.1,
+          23.1
+        ],
+        "player": {
+          "id": 21230,
+          "name": "Elise Hughes"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

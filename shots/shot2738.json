@@ -1,0 +1,205 @@
+{
+  "id": "17709493-db9b-43d6-afe5-1f0bbd7ed65a",
+  "index": 2576,
+  "period": 2,
+  "timestamp": "00:46:20.937",
+  "minute": 91,
+  "second": 20,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 221,
+  "possession_team": {
+    "id": 1475,
+    "name": "Manchester United"
+  },
+  "play_pattern": {
+    "id": 8,
+    "name": "From Keeper"
+  },
+  "team": {
+    "id": 1475,
+    "name": "Manchester United"
+  },
+  "player": {
+    "id": 4653,
+    "name": "Jane Ross"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    113.3,
+    38.0
+  ],
+  "duration": 0.13118,
+  "related_events": [
+    "29475e89-3a32-49d7-b0a9-df2a10ceb3f4",
+    "71264d8a-6296-46ce-8c70-fb8e6c54db5e"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.16356948,
+    "end_location": [
+      120.0,
+      36.8,
+      0.2
+    ],
+    "key_pass_id": "057463e2-a0ef-4c10-aba5-be06aae0d04f",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "deflected": true,
+    "freeze_frame": [
+      {
+        "location": [
+          114.2,
+          38.4
+        ],
+        "player": {
+          "id": 4848,
+          "name": "Ashleigh Neville"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.4,
+          21.3
+        ],
+        "player": {
+          "id": 32617,
+          "name": "Megan Wynne"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.8,
+          26.3
+        ],
+        "player": {
+          "id": 18145,
+          "name": "Ria Percival"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.5,
+          35.4
+        ],
+        "player": {
+          "id": 31552,
+          "name": "Hannah Godfrey"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.6,
+          45.4
+        ],
+        "player": {
+          "id": 4852,
+          "name": "Coral-Jade Haines"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.4,
+          38.3
+        ],
+        "player": {
+          "id": 18158,
+          "name": "Rebecca Leigh Spencer"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          32.2
+        ],
+        "player": {
+          "id": 4865,
+          "name": "Josie Green"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.4,
+          37.0
+        ],
+        "player": {
+          "id": 31534,
+          "name": "Ella Toone"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.9,
+          50.4
+        ],
+        "player": {
+          "id": 31535,
+          "name": "Jessica Sigsworth"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

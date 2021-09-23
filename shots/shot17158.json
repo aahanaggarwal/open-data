@@ -1,0 +1,114 @@
+{
+  "id": "359ebfa8-4b8d-4fb3-9cdd-0deb11357c83",
+  "index": 2490,
+  "period": 2,
+  "timestamp": "00:10:56.354",
+  "minute": 55,
+  "second": 56,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 134,
+  "possession_team": {
+    "id": 222,
+    "name": "Villarreal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 222,
+    "name": "Villarreal"
+  },
+  "player": {
+    "id": 19312,
+    "name": "Robert Pir\u00e8s "
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    108.3,
+    51.2
+  ],
+  "duration": 1.027,
+  "related_events": [
+    "3507c1d3-e54b-45ec-a98b-7411eb718e29"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.5442425,
+    "end_location": [
+      120.0,
+      36.5,
+      0.2
+    ],
+    "key_pass_id": "1ad0e15b-836e-43c4-9941-79eec958a737",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          97.1,
+          18.5
+        ],
+        "player": {
+          "id": 7669,
+          "name": "Marcos Garc\u00eda Barreno"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          95.1,
+          28.4
+        ],
+        "player": {
+          "id": 15774,
+          "name": "Gianluca Zambrotta"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.4,
+          47.3
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "id": "442941c7-1791-4fd7-a993-bd3f91308c24",
+  "index": 2890,
+  "period": 2,
+  "timestamp": "00:24:37.708",
+  "minute": 69,
+  "second": 37,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 183,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3672,
+    "name": "Zlatan Ibrahimovi\u0107"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    111.6,
+    54.5
+  ],
+  "duration": 0.299813,
+  "related_events": [
+    "a19c8045-3f57-4785-ab21-30fffb2fb439"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.104979776,
+    "end_location": [
+      116.3,
+      44.5,
+      0.3
+    ],
+    "key_pass_id": "03edbaf3-cdc0-4fa6-a757-8d09fb566770",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.3,
+          44.5
+        ],
+        "player": {
+          "id": 26601,
+          "name": "Justo Wilmar Villar Viveros"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.8,
+          49.8
+        ],
+        "player": {
+          "id": 25848,
+          "name": "C\u00e9sar Arzo Amposta"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.4,
+          47.8
+        ],
+        "player": {
+          "id": 26188,
+          "name": "Alberto Marcos Rey"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.3,
+          41.0
+        ],
+        "player": {
+          "id": 6787,
+          "name": "Pedro L\u00f3pez Mu\u00f1oz"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.3,
+          40.9
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

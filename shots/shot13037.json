@@ -1,0 +1,158 @@
+{
+  "id": "2776f49c-73a8-4185-bcce-9cbef244cf3c",
+  "index": 793,
+  "period": 1,
+  "timestamp": "00:23:34.907",
+  "minute": 23,
+  "second": 34,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 49,
+  "possession_team": {
+    "id": 785,
+    "name": "Croatia"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 785,
+    "name": "Croatia"
+  },
+  "player": {
+    "id": 5470,
+    "name": "Ivan Rakiti\u0107"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    108.0,
+    29.0
+  ],
+  "duration": 2.053,
+  "related_events": [
+    "c0201b3a-c444-4179-a42a-324d928d7a38"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.066235095,
+    "end_location": [
+      120.0,
+      47.5,
+      6.4
+    ],
+    "key_pass_id": "efc066fd-75c1-4744-b7fc-070cf6c8c293",
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          120.0,
+          40.0
+        ],
+        "player": {
+          "id": 3099,
+          "name": "Hugo Lloris"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          45.0
+        ],
+        "player": {
+          "id": 3961,
+          "name": "N\"Golo Kant\u00e9"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          40.0
+        ],
+        "player": {
+          "id": 5465,
+          "name": "Ante Rebi\u0107"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.0,
+          36.0
+        ],
+        "player": {
+          "id": 3604,
+          "name": "Olivier Giroud"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          33.0
+        ],
+        "player": {
+          "id": 5476,
+          "name": "Benjamin Pavard"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          43.0
+        ],
+        "player": {
+          "id": 5485,
+          "name": "Rapha\u00ebl Varane"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

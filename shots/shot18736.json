@@ -1,0 +1,188 @@
+{
+  "id": "010e297f-53d0-45e3-a2d8-8729b7af1c73",
+  "index": 664,
+  "period": 1,
+  "timestamp": "00:17:22.202",
+  "minute": 17,
+  "second": 22,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 47,
+  "possession_team": {
+    "id": 901,
+    "name": "Real Valladolid"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 901,
+    "name": "Real Valladolid"
+  },
+  "player": {
+    "id": 5198,
+    "name": "Diego da Silva Costa"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    100.1,
+    36.7
+  ],
+  "duration": 0.7847,
+  "related_events": [
+    "caf4ab22-b378-4a4f-8cfa-8d6e8606cb28"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.11515647,
+    "end_location": [
+      115.0,
+      37.8,
+      0.5
+    ],
+    "key_pass_id": "b314d0c9-8fd4-41c9-900a-0dc97c4d3891",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          96.6,
+          43.6
+        ],
+        "player": {
+          "id": 25980,
+          "name": "N\u00e9stor Fabi\u00e1n Canobbio Bentaberry"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          94.5,
+          21.1
+        ],
+        "player": {
+          "id": 25955,
+          "name": "Jonathan Sesma Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          87.8,
+          38.3
+        ],
+        "player": {
+          "id": 7669,
+          "name": "Marcos Garc\u00eda Barreno"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          92.2,
+          31.3
+        ],
+        "player": {
+          "id": 20169,
+          "name": "Seydou K\u00e9ita"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          39.3
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.7,
+          35.6
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.8,
+          37.9
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.0,
+          49.9
+        ],
+        "player": {
+          "id": 20177,
+          "name": "Eric-Sylvain Bilal Abidal"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

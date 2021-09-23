@@ -1,0 +1,160 @@
+{
+  "id": "8160172b-e630-44b5-a472-c53176575e8d",
+  "index": 3538,
+  "period": 2,
+  "timestamp": "00:46:04.356",
+  "minute": 91,
+  "second": 4,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 195,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 23816,
+    "name": "Jos\u00e9 Antonio Reyes Calder\u00f3n"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    106.7,
+    46.4
+  ],
+  "duration": 0.130305,
+  "under_pressure": true,
+  "related_events": [
+    "021fd35c-abab-46e2-a47a-5c51a7942329",
+    "6c5ee95e-1787-41eb-815e-49148db6623a"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.42755347,
+    "end_location": [
+      110.0,
+      45.1,
+      0.0
+    ],
+    "key_pass_id": "8ca07a45-c1ab-460e-98b6-7264272d49f3",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.5,
+          45.5
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.2,
+          49.2
+        ],
+        "player": {
+          "id": 40369,
+          "name": "Steven Caldwell"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.1,
+          48.3
+        ],
+        "player": {
+          "id": 40371,
+          "name": "Michael Duberry"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.3,
+          38.4
+        ],
+        "player": {
+          "id": 40270,
+          "name": "Gary Oliver Kelly"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.7,
+          28.8
+        ],
+        "player": {
+          "id": 15512,
+          "name": "Sylvain Wiltord"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.0,
+          45.5
+        ],
+        "player": {
+          "id": 40132,
+          "name": "Paul Robinson"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

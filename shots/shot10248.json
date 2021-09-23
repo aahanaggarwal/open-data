@@ -1,0 +1,187 @@
+{
+  "id": "0325ecf5-f663-4390-ab94-9b6477481fd4",
+  "index": 565,
+  "period": 1,
+  "timestamp": "00:14:08.819",
+  "minute": 14,
+  "second": 8,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 34,
+  "possession_team": {
+    "id": 855,
+    "name": "Italy Women's"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 855,
+    "name": "Italy Women's"
+  },
+  "player": {
+    "id": 10371,
+    "name": "Elisa Bartoli"
+  },
+  "position": {
+    "id": 6,
+    "name": "Left Back"
+  },
+  "location": [
+    108.4,
+    36.5
+  ],
+  "duration": 0.0988,
+  "related_events": [
+    "378b952d-d55e-4765-a086-4bce290b2960"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.24010687,
+    "end_location": [
+      110.0,
+      36.8,
+      0.2
+    ],
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          106.8,
+          45.3
+        ],
+        "player": {
+          "id": 25486,
+          "name": "Shanshan Liu"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.6,
+          43.8
+        ],
+        "player": {
+          "id": 25541,
+          "name": "Valentina Giacinti"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.0,
+          39.9
+        ],
+        "player": {
+          "id": 25544,
+          "name": "Valentina Bergamaschi"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.5,
+          33.7
+        ],
+        "player": {
+          "id": 25487,
+          "name": "Yuping Lin"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.8,
+          40.0
+        ],
+        "player": {
+          "id": 25750,
+          "name": "Yan Wang"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.1,
+          41.9
+        ],
+        "player": {
+          "id": 25480,
+          "name": "Haiyan Wu"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.7,
+          37.9
+        ],
+        "player": {
+          "id": 25481,
+          "name": "Peng Han"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.7,
+          36.8
+        ],
+        "player": {
+          "id": 25483,
+          "name": "Shimeng Peng"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

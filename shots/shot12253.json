@@ -1,0 +1,143 @@
+{
+  "id": "7ee4d7ff-cc1d-4819-ad8e-850305214395",
+  "index": 1901,
+  "period": 1,
+  "timestamp": "00:41:11.869",
+  "minute": 41,
+  "second": 11,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 86,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    110.6,
+    39.6
+  ],
+  "duration": 0.8332,
+  "related_events": [
+    "c1ed06af-3bad-4afb-a8f1-656a64069b53"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.26056686,
+    "end_location": [
+      120.0,
+      40.8,
+      2.8
+    ],
+    "key_pass_id": "50b10e4d-32d1-4c0e-bc9d-401bc936bff7",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 99,
+      "name": "Post"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.7,
+          37.7
+        ],
+        "player": {
+          "id": 5248,
+          "name": "Jos\u00e9 Mart\u00edn C\u00e1ceres Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.2,
+          40.5
+        ],
+        "player": {
+          "id": 6349,
+          "name": "Federico Juli\u00e1n Fazio"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.4,
+          46.8
+        ],
+        "player": {
+          "id": 4913,
+          "name": "Bojan Krk\u00edc P\u00e9rez"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.0,
+          41.0
+        ],
+        "player": {
+          "id": 26753,
+          "name": "Javier Varas Herrera"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.9,
+          25.6
+        ],
+        "player": {
+          "id": 24683,
+          "name": "Diego \u00c1ngel Capel Trinidad"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

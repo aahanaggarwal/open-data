@@ -1,0 +1,143 @@
+{
+  "id": "e82cfb96-c743-49d4-8503-96381ef21ec9",
+  "index": 409,
+  "period": 1,
+  "timestamp": "00:07:56.243",
+  "minute": 7,
+  "second": 56,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 21,
+  "possession_team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "player": {
+    "id": 16374,
+    "name": "Aileen Whelan"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    111.0,
+    26.0
+  ],
+  "duration": 1.0435,
+  "related_events": [
+    "6460673f-e089-4bc7-b43e-57508dd71726"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.033852253,
+    "end_location": [
+      119.0,
+      43.6,
+      2.3
+    ],
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.0,
+          39.0
+        ],
+        "player": {
+          "id": 16378,
+          "name": "Iniabasi Anefiok Umotong"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.0,
+          40.0
+        ],
+        "player": {
+          "id": 4640,
+          "name": "Rut Hedvig Lindahl"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.0,
+          25.0
+        ],
+        "player": {
+          "id": 4642,
+          "name": "Millie Bright"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          28.0
+        ],
+        "player": {
+          "id": 17275,
+          "name": "Hannah Jayne Blundell"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          48.0
+        ],
+        "player": {
+          "id": 10222,
+          "name": "Jonna Andersson"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

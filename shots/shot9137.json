@@ -1,0 +1,176 @@
+{
+  "id": "96b9f6dc-1110-4324-b1e5-0bcad3fc19fc",
+  "index": 192,
+  "period": 1,
+  "timestamp": "00:03:00.465",
+  "minute": 3,
+  "second": 0,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 8,
+  "possession_team": {
+    "id": 322,
+    "name": "Eibar"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 322,
+    "name": "Eibar"
+  },
+  "player": {
+    "id": 6700,
+    "name": "Sergio Enrich Ametller"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    106.2,
+    33.6
+  ],
+  "duration": 0.396,
+  "under_pressure": true,
+  "related_events": [
+    "00b34e91-4afa-4e1e-b1b6-c361c880e8a7",
+    "c810e607-eb81-4fd7-b824-1ebf71eb55ac"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.28068522,
+    "end_location": [
+      113.9,
+      38.8,
+      0.2
+    ],
+    "key_pass_id": "6de6df1a-04c5-46f7-890c-075484327ff6",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          78.3,
+          31.1
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 14,
+          "name": "Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          87.5,
+          56.1
+        ],
+        "player": {
+          "id": 6849,
+          "name": "Lucas Digne"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          78.6,
+          9.6
+        ],
+        "player": {
+          "id": 3726,
+          "name": "Gerard Deulofeu L\u00e1zaro"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          85.7,
+          14.5
+        ],
+        "player": {
+          "id": 6374,
+          "name": "N\u00e9lson Cabral Semedo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.1,
+          40.9
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.1,
+          37.4
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.6,
+          34.5
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

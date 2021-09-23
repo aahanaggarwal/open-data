@@ -1,0 +1,158 @@
+{
+  "id": "c912a2e7-76d0-4e44-b6df-350cf268332e",
+  "index": 538,
+  "period": 1,
+  "timestamp": "00:12:22.822",
+  "minute": 12,
+  "second": 22,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 31,
+  "possession_team": {
+    "id": 25,
+    "name": "Southampton"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 25,
+    "name": "Southampton"
+  },
+  "player": {
+    "id": 40433,
+    "name": "Kevin Phillips"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    108.4,
+    60.9
+  ],
+  "duration": 0.647547,
+  "related_events": [
+    "adede2df-831d-4297-bba0-f39fa8d74db5"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.01816194,
+    "end_location": [
+      118.9,
+      44.0,
+      0.0
+    ],
+    "key_pass_id": "0b0ac8db-b22b-4c6f-82f4-8b30cac20f67",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          95.5,
+          36.2
+        ],
+        "player": {
+          "id": 38412,
+          "name": "Kolo Habib Tour\u00e9"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.8,
+          48.8
+        ],
+        "player": {
+          "id": 15637,
+          "name": "Sulzeer Jeremiah \"Sol\" Campbell"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.9,
+          60.7
+        ],
+        "player": {
+          "id": 20302,
+          "name": "Ga\u00ebl Clichy"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.6,
+          58.0
+        ],
+        "player": {
+          "id": 26194,
+          "name": "Pascal Cygan"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.3,
+          34.7
+        ],
+        "player": {
+          "id": 40440,
+          "name": "L\u00e9andre Griffit"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.2,
+          43.6
+        ],
+        "player": {
+          "id": 20015,
+          "name": "Jens Lehmann"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

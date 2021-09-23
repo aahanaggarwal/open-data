@@ -1,0 +1,159 @@
+{
+  "id": "2309e051-9829-41b1-a332-6941a08a7199",
+  "index": 2089,
+  "period": 2,
+  "timestamp": "00:13:32.040",
+  "minute": 58,
+  "second": 32,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 112,
+  "possession_team": {
+    "id": 776,
+    "name": "Denmark"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 776,
+    "name": "Denmark"
+  },
+  "player": {
+    "id": 5536,
+    "name": "Yussuf Yurary Poulsen"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    108.0,
+    28.0
+  ],
+  "duration": 0.813,
+  "related_events": [
+    "a4e50061-0a02-47f5-a3c2-6a93757c84d9"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.2005442,
+    "end_location": [
+      120.0,
+      37.0,
+      0.5
+    ],
+    "key_pass_id": "791de869-8207-4f47-bd3a-2c82b46ee8c8",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.0,
+          50.0
+        ],
+        "player": {
+          "id": 5522,
+          "name": "Nicolai J\u00f8rgensen"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.0,
+          33.0
+        ],
+        "player": {
+          "id": 3043,
+          "name": "Christian Dannemann Eriksen"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.0,
+          37.0
+        ],
+        "player": {
+          "id": 5532,
+          "name": "Alberto Junior Rodr\u00edguez Valdelomar"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          45.0
+        ],
+        "player": {
+          "id": 5518,
+          "name": "Miguel \u00c1ngel Trauco Saavedra"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          32.0
+        ],
+        "player": {
+          "id": 5530,
+          "name": "Christian Guillermo Mart\u00edn Ramos Garagay"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          31.0
+        ],
+        "player": {
+          "id": 5528,
+          "name": "Pedro David Gallese Quir\u00f3z"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

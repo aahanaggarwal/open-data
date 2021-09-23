@@ -1,0 +1,234 @@
+{
+  "id": "09c3e828-8d48-45e1-8c5f-78b82e0ddc54",
+  "index": 516,
+  "period": 1,
+  "timestamp": "00:08:26.330",
+  "minute": 8,
+  "second": 26,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 14,
+  "possession_team": {
+    "id": 968,
+    "name": "Arsenal WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 968,
+    "name": "Arsenal WFC"
+  },
+  "player": {
+    "id": 15616,
+    "name": "Kim Little"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    112.2,
+    33.5
+  ],
+  "duration": 0.635855,
+  "related_events": [
+    "65b0620b-b8c6-45bd-b6d9-2201e15a7fbf"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.34739286,
+    "end_location": [
+      120.0,
+      37.2,
+      0.4
+    ],
+    "key_pass_id": "7aef3222-5c72-4351-aa45-e9673445bfd9",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          106.7,
+          46.2
+        ],
+        "player": {
+          "id": 16392,
+          "name": "Felicity Gibbons"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.6,
+          42.2
+        ],
+        "player": {
+          "id": 16395,
+          "name": "Victoria Williams"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.2,
+          45.2
+        ],
+        "player": {
+          "id": 10192,
+          "name": "Jordan Nobbs"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          98.3,
+          37.5
+        ],
+        "player": {
+          "id": 15623,
+          "name": "Vivianne Miedema"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.2,
+          39.7
+        ],
+        "player": {
+          "id": 10380,
+          "name": "Leonie Maier"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.0,
+          37.7
+        ],
+        "player": {
+          "id": 20034,
+          "name": "Danielle Buet"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.9,
+          31.4
+        ],
+        "player": {
+          "id": 16374,
+          "name": "Aileen Whelan"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.2,
+          33.6
+        ],
+        "player": {
+          "id": 23289,
+          "name": "Emily Simpkins"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          34.3
+        ],
+        "player": {
+          "id": 19420,
+          "name": "Fern Whelan"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.6,
+          37.1
+        ],
+        "player": {
+          "id": 15709,
+          "name": "Megan Walsh"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          33.9
+        ],
+        "player": {
+          "id": 31528,
+          "name": "Matilde Lundorf Skovsen"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

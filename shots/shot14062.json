@@ -1,0 +1,175 @@
+{
+  "id": "417c309d-d6c7-4523-8b17-46c60809cf96",
+  "index": 2898,
+  "period": 2,
+  "timestamp": "00:42:10.900",
+  "minute": 87,
+  "second": 10,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 210,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    104.9,
+    29.1
+  ],
+  "duration": 0.745634,
+  "under_pressure": true,
+  "related_events": [
+    "525771cc-9b8a-445b-96ea-15099f58732c",
+    "f09032d7-9c0a-41c5-b031-750aba0ba41b"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.06536072,
+    "end_location": [
+      118.3,
+      36.1,
+      0.6
+    ],
+    "key_pass_id": "a1595a05-ca49-4a5f-952c-7b998a317f8d",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.6,
+          37.2
+        ],
+        "player": {
+          "id": 20341,
+          "name": "Mika\u00ebl Silvestre"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.5,
+          34.2
+        ],
+        "player": {
+          "id": 24805,
+          "name": "Roy Keane"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.3,
+          29.8
+        ],
+        "player": {
+          "id": 40366,
+          "name": "Wes Brown"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          24.3
+        ],
+        "player": {
+          "id": 15402,
+          "name": "Gary Neville"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.4,
+          38.0
+        ],
+        "player": {
+          "id": 40364,
+          "name": "Roy Carroll"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.5,
+          17.9
+        ],
+        "player": {
+          "id": 26194,
+          "name": "Pascal Cygan"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.5,
+          36.3
+        ],
+        "player": {
+          "id": 26014,
+          "name": "Eduardo C\u00e9sar Daude Gaspar"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "id": "60cae1b2-0242-4bde-9b45-04377b62b7d7",
+  "index": 149,
+  "period": 1,
+  "timestamp": "00:02:35.388",
+  "minute": 2,
+  "second": 35,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 8,
+  "possession_team": {
+    "id": 973,
+    "name": "Bristol City WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 973,
+    "name": "Bristol City WFC"
+  },
+  "player": {
+    "id": 16386,
+    "name": "Lucy Graham"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    81.0,
+    59.0
+  ],
+  "duration": 1.98606,
+  "related_events": [
+    "6e77b5ea-1ff6-4d93-a1fd-934154286d0c"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.013135295,
+    "end_location": [
+      119.0,
+      41.3,
+      1.1
+    ],
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.0,
+          43.0
+        ],
+        "player": {
+          "id": 4637,
+          "name": "Ellie Roebuck"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.0,
+          50.0
+        ],
+        "player": {
+          "id": 4648,
+          "name": "Abbie McManus"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.0,
+          56.0
+        ],
+        "player": {
+          "id": 10185,
+          "name": "Stephanie Houghton"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          74.0,
+          41.0
+        ],
+        "player": {
+          "id": 10099,
+          "name": "Tessa Wullaert"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          72.0,
+          53.0
+        ],
+        "player": {
+          "id": 10172,
+          "name": "Jill Scott"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          82.0,
+          56.0
+        ],
+        "player": {
+          "id": 17524,
+          "name": "Jennifer Beattie"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          83.0,
+          58.0
+        ],
+        "player": {
+          "id": 16390,
+          "name": "Juliette Kemppi"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          84.0,
+          52.0
+        ],
+        "player": {
+          "id": 16388,
+          "name": "Ella Rutherford"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          91.0,
+          66.0
+        ],
+        "player": {
+          "id": 4651,
+          "name": "Demi Stokes"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          66.0,
+          44.0
+        ],
+        "player": {
+          "id": 10095,
+          "name": "Julie Biesmans"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          74.0,
+          71.0
+        ],
+        "player": {
+          "id": 16380,
+          "name": "Katie Rood"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

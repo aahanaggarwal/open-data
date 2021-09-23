@@ -1,0 +1,144 @@
+{
+  "id": "d90ec520-9eeb-46cc-9c3b-62abce9d3841",
+  "index": 2850,
+  "period": 2,
+  "timestamp": "00:32:51.518",
+  "minute": 77,
+  "second": 51,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 174,
+  "possession_team": {
+    "id": 760,
+    "name": "Seattle Reign"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 760,
+    "name": "Seattle Reign"
+  },
+  "player": {
+    "id": 5077,
+    "name": "Jasmyne Spencer"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    105.0,
+    45.0
+  ],
+  "duration": 0.372,
+  "related_events": [
+    "6ca83c9a-664a-4e71-a8fe-f59c657846f2"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.2826656,
+    "end_location": [
+      116.0,
+      43.2,
+      1.6
+    ],
+    "key_pass_id": "f4a909ba-1027-4038-adb0-b1b83ef7631c",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.0,
+          45.0
+        ],
+        "player": {
+          "id": 6811,
+          "name": "Julie Ertz"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          44.0
+        ],
+        "player": {
+          "id": 7179,
+          "name": "Casey Short"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.0,
+          36.0
+        ],
+        "player": {
+          "id": 4958,
+          "name": "Kathleen Naughton"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.0,
+          43.0
+        ],
+        "player": {
+          "id": 8298,
+          "name": "Megan Rapinoe"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.0,
+          42.0
+        ],
+        "player": {
+          "id": 5100,
+          "name": "Alyssa Naeher"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

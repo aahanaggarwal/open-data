@@ -1,0 +1,250 @@
+{
+  "id": "f6303dc6-bfe8-4cc8-9bce-7be8c551fca1",
+  "index": 574,
+  "period": 1,
+  "timestamp": "00:10:16.568",
+  "minute": 10,
+  "second": 16,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 26,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    117.5,
+    47.9
+  ],
+  "duration": 1.1308,
+  "related_events": [
+    "24aa7a15-e19d-4378-86ec-b98f4a85a8aa"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "open_goal": true,
+    "statsbomb_xg": 0.67775047,
+    "end_location": [
+      120.0,
+      36.5,
+      0.2
+    ],
+    "key_pass_id": "ede0486e-4e2d-40d5-819f-35e39760571f",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          105.3,
+          50.8
+        ],
+        "player": {
+          "id": 5216,
+          "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.2,
+          43.0
+        ],
+        "player": {
+          "id": 3958,
+          "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.0,
+          38.0
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.0,
+          47.4
+        ],
+        "player": {
+          "id": 26070,
+          "name": "Antonio Rodr\u00edguez Mart\u00ednez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          48.8
+        ],
+        "player": {
+          "id": 24075,
+          "name": "Christian Fern\u00e1ndez Salas"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.9,
+          45.7
+        ],
+        "player": {
+          "id": 6573,
+          "name": "Bernardo Jos\u00e9 Espinosa Z\u00fa\u00f1iga"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.1,
+          42.9
+        ],
+        "player": {
+          "id": 26615,
+          "name": "Francisco Jes\u00fas P\u00e9rez Malia"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.1,
+          47.7
+        ],
+        "player": {
+          "id": 6867,
+          "name": "Papa Kouly Diop"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.9,
+          48.2
+        ],
+        "player": {
+          "id": 6762,
+          "name": "\u00c1lvaro Gonz\u00e1lez Sober\u00f3n"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          54.3
+        ],
+        "player": {
+          "id": 20538,
+          "name": "Alexandros Tziolis"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.8,
+          31.7
+        ],
+        "player": {
+          "id": 6925,
+          "name": "Jairo Samperio Bustara"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.2,
+          51.5
+        ],
+        "player": {
+          "id": 6557,
+          "name": "Adri\u00e1n Gonz\u00e1lez Morales"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

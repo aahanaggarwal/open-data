@@ -1,0 +1,188 @@
+{
+  "id": "e4aa0844-8e66-48fd-ab1a-06eeb71367b6",
+  "index": 2161,
+  "period": 2,
+  "timestamp": "00:06:16.941",
+  "minute": 51,
+  "second": 16,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 99,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    104.9,
+    44.7
+  ],
+  "duration": 1.292109,
+  "related_events": [
+    "631e1360-5368-46b8-b6e3-9dc8bf8c42cf"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.1794559,
+    "end_location": [
+      120.0,
+      36.8,
+      0.2
+    ],
+    "key_pass_id": "fbb2f84a-3cda-40c2-8ec5-43141f73e6be",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          99.8,
+          40.5
+        ],
+        "player": {
+          "id": 26064,
+          "name": "Antonio Tom\u00e1s Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.5,
+          48.8
+        ],
+        "player": {
+          "id": 26148,
+          "name": "Jos\u00e9 Morat\u00f3n Tae\u00f1o"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.8,
+          42.5
+        ],
+        "player": {
+          "id": 26145,
+          "name": "Francisco Borja Enrique Ayesa"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.1,
+          38.9
+        ],
+        "player": {
+          "id": 25889,
+          "name": "Pablo Pinillos Caro"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.2,
+          42.3
+        ],
+        "player": {
+          "id": 26146,
+          "name": "Dud\u00fa Aouate"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.6,
+          29.0
+        ],
+        "player": {
+          "id": 25879,
+          "name": "Ronaldo de Assis Moreira"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.5,
+          36.6
+        ],
+        "player": {
+          "id": 19757,
+          "name": "Anderson Lu\u00eds de Souza"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.7,
+          40.2
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

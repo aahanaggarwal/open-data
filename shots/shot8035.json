@@ -1,0 +1,113 @@
+{
+  "id": "efd13452-b65b-42fe-9142-6798470b0420",
+  "index": 3456,
+  "period": 2,
+  "timestamp": "00:37:37.870",
+  "minute": 82,
+  "second": 37,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 177,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3958,
+    "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    109.3,
+    28.5
+  ],
+  "duration": 0.1541,
+  "related_events": [
+    "355e1cd2-730f-40d1-a4bb-10edda40567b",
+    "bd3d58e2-ff95-486d-af86-d0c55ae6026d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.0861744,
+    "end_location": [
+      110.5,
+      30.0
+    ],
+    "key_pass_id": "00609a43-1d56-4c51-8365-6ad9d21e9501",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.7,
+          36.8
+        ],
+        "player": {
+          "id": 26686,
+          "name": "Jordi Codina Rodr\u00edguez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.5,
+          30.3
+        ],
+        "player": {
+          "id": 26722,
+          "name": "Pablo C\u00e9sar Pintos Cabral"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.2,
+          38.7
+        ],
+        "player": {
+          "id": 24614,
+          "name": "Rafael L\u00f3pez G\u00f3mez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

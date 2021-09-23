@@ -1,0 +1,175 @@
+{
+  "id": "c7577633-3ec7-413c-bb48-31e1b39393ba",
+  "index": 423,
+  "period": 1,
+  "timestamp": "00:13:44.310",
+  "minute": 13,
+  "second": 44,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 49,
+  "possession_team": {
+    "id": 969,
+    "name": "Birmingham City WFC"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 969,
+    "name": "Birmingham City WFC"
+  },
+  "player": {
+    "id": 31565,
+    "name": "Abbi Grant"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    101.0,
+    54.1
+  ],
+  "duration": 0.09419,
+  "under_pressure": true,
+  "related_events": [
+    "5ce52740-4a12-4cf3-9d97-cf8ab548fae0",
+    "81d67958-58ca-4f9b-ba60-56cf5cbd5b6d",
+    "acdc99e9-0cb7-42b8-8e4c-470eeec7edb8"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.031036189,
+    "end_location": [
+      102.4,
+      53.2
+    ],
+    "key_pass_id": "4447addd-0107-44e9-b051-c0739a42064e",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.5,
+          53.2
+        ],
+        "player": {
+          "id": 15618,
+          "name": "Jasmine Matthews"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.8,
+          34.5
+        ],
+        "player": {
+          "id": 19502,
+          "name": "Meaghan Sargeant"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          48.0
+        ],
+        "player": {
+          "id": 16381,
+          "name": "Gemma Evans"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.4,
+          58.0
+        ],
+        "player": {
+          "id": 17274,
+          "name": "Poppy Pattinson"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.8,
+          42.3
+        ],
+        "player": {
+          "id": 16376,
+          "name": "Sophie Baggaley"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.3,
+          54.9
+        ],
+        "player": {
+          "id": 31566,
+          "name": "Lucy Whipp"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          93.9,
+          67.1
+        ],
+        "player": {
+          "id": 15580,
+          "name": "Claudia Walker"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

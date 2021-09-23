@@ -1,0 +1,190 @@
+{
+  "id": "9d18853b-3f59-44db-b7c1-43fa053936b2",
+  "index": 2636,
+  "period": 2,
+  "timestamp": "00:19:51.535",
+  "minute": 64,
+  "second": 51,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 157,
+  "possession_team": {
+    "id": 763,
+    "name": "Sky Blue FC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 763,
+    "name": "Sky Blue FC"
+  },
+  "player": {
+    "id": 4986,
+    "name": "Shea Groom"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    103.0,
+    42.0
+  ],
+  "duration": 0.283,
+  "under_pressure": true,
+  "related_events": [
+    "0d87ffc6-eab2-42d7-85dc-54ad1660a868",
+    "555336ca-6cee-4ce1-a918-e1b7fdc497fb",
+    "dd82e9e3-4973-4680-a2d9-f5c8cccd56c7"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.07356882,
+    "end_location": [
+      105.0,
+      42.0
+    ],
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          105.0,
+          42.0
+        ],
+        "player": {
+          "id": 5030,
+          "name": "Becky Sauerbrunn"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.0,
+          46.0
+        ],
+        "player": {
+          "id": 4966,
+          "name": "Desiree Scott"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.0,
+          58.0
+        ],
+        "player": {
+          "id": 5027,
+          "name": "Erika Tymrak"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.0,
+          60.0
+        ],
+        "player": {
+          "id": 5096,
+          "name": "Savannah McCaskill"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.0,
+          51.0
+        ],
+        "player": {
+          "id": 4992,
+          "name": "Janine Beckie"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.0,
+          45.0
+        ],
+        "player": {
+          "id": 5101,
+          "name": "Samantha Johnson"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          39.0
+        ],
+        "player": {
+          "id": 5031,
+          "name": "Abby Smith"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          52.0
+        ],
+        "player": {
+          "id": 10384,
+          "name": "Elise Thorsnes"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

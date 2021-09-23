@@ -1,0 +1,176 @@
+{
+  "id": "313aa091-6d1b-445e-84a4-2f8388adef4b",
+  "index": 688,
+  "period": 1,
+  "timestamp": "00:14:03.577",
+  "minute": 14,
+  "second": 3,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 31,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 4447,
+    "name": "Martin Braithwaite Christensen"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    106.2,
+    53.8
+  ],
+  "duration": 0.74394,
+  "under_pressure": true,
+  "related_events": [
+    "7a4c7007-5e07-4f16-a170-84522c7f1642",
+    "8f4b83f3-1785-4564-a824-048bdeb2704e"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.08227738,
+    "end_location": [
+      117.5,
+      43.8,
+      0.2
+    ],
+    "key_pass_id": "f4c9013f-baed-4d73-affe-647ae7be4793",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.5,
+          43.9
+        ],
+        "player": {
+          "id": 32185,
+          "name": "Alejandro Remiro Gargallo"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          84.7,
+          50.6
+        ],
+        "player": {
+          "id": 24236,
+          "name": "Ander Guevara Lajo"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.0,
+          48.5
+        ],
+        "player": {
+          "id": 5487,
+          "name": "Antoine Griezmann"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          94.9,
+          52.2
+        ],
+        "player": {
+          "id": 22128,
+          "name": "Robin Aime Robert Le Normand"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.5,
+          60.5
+        ],
+        "player": {
+          "id": 3498,
+          "name": "Ignacio Monreal Eraso"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.4,
+          44.0
+        ],
+        "player": {
+          "id": 6670,
+          "name": "Andoni Gorosabel Espinosa"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.2,
+          52.7
+        ],
+        "player": {
+          "id": 6713,
+          "name": "Diego Javier Llorente R\u00edos"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

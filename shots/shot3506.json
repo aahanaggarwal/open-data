@@ -1,0 +1,190 @@
+{
+  "id": "18a42210-9060-4395-bb45-b59002378508",
+  "index": 150,
+  "period": 1,
+  "timestamp": "00:04:46.125",
+  "minute": 4,
+  "second": 46,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 15,
+  "possession_team": {
+    "id": 328,
+    "name": "Bolton Wanderers"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 328,
+    "name": "Bolton Wanderers"
+  },
+  "player": {
+    "id": 40388,
+    "name": "Kevin Cyril Davies"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    104.1,
+    38.9
+  ],
+  "duration": 0.652542,
+  "under_pressure": true,
+  "related_events": [
+    "169c5911-6d6a-4a37-baa7-9d5ffdd4e7cd",
+    "d62af87a-982c-4d04-94a4-7748c40503e5"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.06431495,
+    "end_location": [
+      119.1,
+      39.8,
+      0.2
+    ],
+    "first_time": true,
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          99.0,
+          50.8
+        ],
+        "player": {
+          "id": 40389,
+          "name": "Per Frandsen"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.0,
+          39.9
+        ],
+        "player": {
+          "id": 15637,
+          "name": "Sulzeer Jeremiah \"Sol\" Campbell"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.6,
+          38.6
+        ],
+        "player": {
+          "id": 38412,
+          "name": "Kolo Habib Tour\u00e9"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          40.8
+        ],
+        "player": {
+          "id": 40221,
+          "name": "Gilberto Aparecido da Silva"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.8,
+          44.4
+        ],
+        "player": {
+          "id": 26194,
+          "name": "Pascal Cygan"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.4,
+          43.8
+        ],
+        "player": {
+          "id": 40384,
+          "name": "Augustine Azuka \"Jay-Jay\" Okocha"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.0,
+          57.8
+        ],
+        "player": {
+          "id": 20302,
+          "name": "Ga\u00ebl Clichy"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.4,
+          39.0
+        ],
+        "player": {
+          "id": 20015,
+          "name": "Jens Lehmann"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

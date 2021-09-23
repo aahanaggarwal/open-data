@@ -1,0 +1,191 @@
+{
+  "id": "658aa8b6-2b39-4793-b4d6-0ee528984e67",
+  "index": 156,
+  "period": 1,
+  "timestamp": "00:02:53.825",
+  "minute": 2,
+  "second": 53,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 10,
+  "possession_team": {
+    "id": 973,
+    "name": "Bristol City WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 973,
+    "name": "Bristol City WFC"
+  },
+  "player": {
+    "id": 17274,
+    "name": "Poppy Pattinson"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    116.0,
+    26.0
+  ],
+  "duration": 0.956759,
+  "under_pressure": true,
+  "related_events": [
+    "5fef7474-5959-4e5c-93ee-234842149919",
+    "766a176e-d63e-40ec-8af0-2115df4f10eb"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.021097355,
+    "end_location": [
+      120.0,
+      34.8,
+      1.6
+    ],
+    "key_pass_id": "5e4981eb-70f5-47da-901c-a7e14e17627f",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          120.0,
+          40.0
+        ],
+        "player": {
+          "id": 10646,
+          "name": "Sari van Veenendaal"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          36.0
+        ],
+        "player": {
+          "id": 15621,
+          "name": "Louise Quinn"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          35.0
+        ],
+        "player": {
+          "id": 10666,
+          "name": "Dominique Johanna Anna Bloodworth"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          33.0
+        ],
+        "player": {
+          "id": 16388,
+          "name": "Ella Rutherford"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.0,
+          27.0
+        ],
+        "player": {
+          "id": 10405,
+          "name": "Lia W\u00e4lti"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          47.0
+        ],
+        "player": {
+          "id": 18998,
+          "name": "Emma Mitchell"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          47.0
+        ],
+        "player": {
+          "id": 16390,
+          "name": "Juliette Kemppi"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.0,
+          27.0
+        ],
+        "player": {
+          "id": 18999,
+          "name": "Leah Williamson"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

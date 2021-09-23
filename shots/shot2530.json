@@ -1,0 +1,157 @@
+{
+  "id": "d428338e-f0b7-46dc-b964-f1c069af09f8",
+  "index": 2653,
+  "period": 2,
+  "timestamp": "00:13:20.792",
+  "minute": 58,
+  "second": 20,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 118,
+  "possession_team": {
+    "id": 627,
+    "name": "Tenerife"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 627,
+    "name": "Tenerife"
+  },
+  "player": {
+    "id": 26632,
+    "name": "Juan Luis Hens Lorite"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    90.5,
+    50.9
+  ],
+  "duration": 1.2691,
+  "related_events": [
+    "7c43eaf3-692f-4823-9481-b61be85edc7f"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.02112045,
+    "end_location": [
+      116.2,
+      38.2,
+      0.0
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          116.2,
+          40.7
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.9,
+          47.7
+        ],
+        "player": {
+          "id": 26613,
+          "name": "Maxwell Scherrer Cabelino Andrade"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.9,
+          41.9
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.0,
+          27.5
+        ],
+        "player": {
+          "id": 3087,
+          "name": "Gn\u00e9gn\u00e9ri Yaya Tour\u00e9"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.2,
+          24.3
+        ],
+        "player": {
+          "id": 26126,
+          "name": "Daniel Armand N\"Gom Kom\u00e9"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          93.7,
+          35.9
+        ],
+        "player": {
+          "id": 26629,
+          "name": "Mikel Alonso Olano"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

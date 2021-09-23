@@ -1,0 +1,189 @@
+{
+  "id": "51b58efa-c364-4292-be5e-1b8d5c7432f2",
+  "index": 2428,
+  "period": 2,
+  "timestamp": "00:06:52.214",
+  "minute": 51,
+  "second": 52,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 116,
+  "possession_team": {
+    "id": 209,
+    "name": "Celta Vigo"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 209,
+    "name": "Celta Vigo"
+  },
+  "player": {
+    "id": 19668,
+    "name": "Augusto Mat\u00edas Fern\u00e1ndez"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    111.7,
+    38.4
+  ],
+  "duration": 0.3422,
+  "related_events": [
+    "5740e0f3-d530-44e7-8c0b-bb5f6404030a"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.2564776,
+    "end_location": [
+      118.5,
+      40.1,
+      0.8
+    ],
+    "key_pass_id": "df583855-8273-4bac-80ca-7c26814d0862",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          101.6,
+          31.5
+        ],
+        "player": {
+          "id": 6594,
+          "name": "Santiago Mina Lorenzo"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.4,
+          40.4
+        ],
+        "player": {
+          "id": 27200,
+          "name": "Alejandro L\u00f3pez S\u00e1nchez"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.4,
+          39.9
+        ],
+        "player": {
+          "id": 26005,
+          "name": "Jos\u00e9 Manuel Pinto Colorado"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          39.5
+        ],
+        "player": {
+          "id": 5211,
+          "name": "Jordi Alba Ramos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          27.6
+        ],
+        "player": {
+          "id": 7068,
+          "name": "Marc Bartra Aregall"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.9,
+          27.7
+        ],
+        "player": {
+          "id": 27053,
+          "name": "Alexandre Dimitri Song-Billong"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.5,
+          37.5
+        ],
+        "player": {
+          "id": 3478,
+          "name": "Francesc F\u00e0bregas i Soler"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.8,
+          37.4
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

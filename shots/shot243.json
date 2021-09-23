@@ -1,0 +1,143 @@
+{
+  "id": "17bbbcf9-1d0d-42f0-a6de-1eb84cfd2c7b",
+  "index": 2326,
+  "period": 2,
+  "timestamp": "00:25:30.988",
+  "minute": 70,
+  "second": 30,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 153,
+  "possession_team": {
+    "id": 1214,
+    "name": "United States Women's"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1214,
+    "name": "United States Women's"
+  },
+  "player": {
+    "id": 5085,
+    "name": "Alex Morgan"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    108.9,
+    42.1
+  ],
+  "duration": 0.12,
+  "related_events": [
+    "9ebd535d-7907-47c6-b83d-8a10ddbb0963",
+    "db224ebf-f1bc-4737-9cb7-1b201e7b7a6b"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.23121312,
+    "end_location": [
+      110.5,
+      41.5
+    ],
+    "key_pass_id": "ae8eaccd-a13b-4070-a533-0fd35465ff65",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.0,
+          45.0
+        ],
+        "player": {
+          "id": 10652,
+          "name": "Anouk Dekker"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.7,
+          41.5
+        ],
+        "player": {
+          "id": 10646,
+          "name": "Sari van Veenendaal"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.5,
+          35.2
+        ],
+        "player": {
+          "id": 10657,
+          "name": "Desiree van Lunteren"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.8,
+          36.4
+        ],
+        "player": {
+          "id": 8298,
+          "name": "Megan Rapinoe"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.8,
+          41.6
+        ],
+        "player": {
+          "id": 10645,
+          "name": "Sherida Spitse"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

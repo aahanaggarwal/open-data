@@ -1,0 +1,188 @@
+{
+  "id": "a6594f0c-f804-4540-bc99-4cd546d961df",
+  "index": 307,
+  "period": 1,
+  "timestamp": "00:06:02.460",
+  "minute": 6,
+  "second": 2,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 20,
+  "possession_team": {
+    "id": 775,
+    "name": "Nigeria"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 775,
+    "name": "Nigeria"
+  },
+  "player": {
+    "id": 5466,
+    "name": "Oghenekaro Etebo"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    98.0,
+    38.0
+  ],
+  "duration": 0.313,
+  "related_events": [
+    "41a4ce42-c078-4545-bd48-e2b5e6716ff7",
+    "a9b26f61-cb7f-4c72-9683-a1a8952f2d4f"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.07800732,
+    "end_location": [
+      100.0,
+      38.0
+    ],
+    "key_pass_id": "d2f434b0-3dad-4e25-8996-1454011be647",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.0,
+          46.0
+        ],
+        "player": {
+          "id": 5507,
+          "name": "Nicol\u00e1s Alejandro Tagliafico"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          40.0
+        ],
+        "player": {
+          "id": 3602,
+          "name": "Faustino Marcos Alberto Rojo"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          44.0
+        ],
+        "player": {
+          "id": 3708,
+          "name": "Kelechi Promise Iheanacho"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          96.0,
+          59.0
+        ],
+        "player": {
+          "id": 3963,
+          "name": "Victor Moses"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          90.0,
+          40.0
+        ],
+        "player": {
+          "id": 3338,
+          "name": "Onyinye Wilfred Ndidi"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.0,
+          37.0
+        ],
+        "player": {
+          "id": 3090,
+          "name": "Nicol\u00e1s Hern\u00e1n Otamendi"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          27.0
+        ],
+        "player": {
+          "id": 5742,
+          "name": "Gabriel Iv\u00e1n Mercado"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          40.0
+        ],
+        "player": {
+          "id": 6312,
+          "name": "Franco Armani"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "id": "e0d8641c-ae41-49ab-bd30-7aecd05a9bbf",
+  "index": 1900,
+  "period": 2,
+  "timestamp": "00:05:01.209",
+  "minute": 50,
+  "second": 1,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 106,
+  "possession_team": {
+    "id": 764,
+    "name": "Orlando Pride"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 764,
+    "name": "Orlando Pride"
+  },
+  "player": {
+    "id": 5082,
+    "name": "Marta Vieira da Silva"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    117.0,
+    40.0
+  ],
+  "duration": 0.443,
+  "related_events": [
+    "92ce723f-ded6-41ff-a3ea-b98ad7376f7b"
+  ],
+  "shot": {
+    "open_goal": true,
+    "statsbomb_xg": 0.7634185,
+    "end_location": [
+      120.0,
+      39.5,
+      0.5
+    ],
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "first_time": true,
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.0,
+          38.0
+        ],
+        "player": {
+          "id": 4981,
+          "name": "Kailen Sheridan"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.0,
+          37.0
+        ],
+        "player": {
+          "id": 5098,
+          "name": "Erica Skroski"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          42.0
+        ],
+        "player": {
+          "id": 4970,
+          "name": "Amanda Frisbie"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          45.0
+        ],
+        "player": {
+          "id": 5068,
+          "name": "Kristen Edmonds"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.0,
+          43.0
+        ],
+        "player": {
+          "id": 7180,
+          "name": "Imani Dorsey"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

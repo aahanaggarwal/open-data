@@ -1,0 +1,190 @@
+{
+  "id": "31b5c900-3972-4d97-b78b-1aa122d09b35",
+  "index": 105,
+  "period": 1,
+  "timestamp": "00:01:35.667",
+  "minute": 1,
+  "second": 35,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 3,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3958,
+    "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    102.8,
+    26.7
+  ],
+  "duration": 1.013146,
+  "under_pressure": true,
+  "related_events": [
+    "e89d0802-d51e-439e-af89-80d3fee15e73",
+    "ebdc8fc2-0e7a-4e15-baf0-3993a3ba63f5"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.04313833,
+    "end_location": [
+      120.0,
+      47.1,
+      5.1
+    ],
+    "key_pass_id": "4e34593f-ca1e-4f34-b011-63d7da91c193",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          87.9,
+          38.0
+        ],
+        "player": {
+          "id": 26790,
+          "name": "Piotr Trochowski"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.4,
+          25.4
+        ],
+        "player": {
+          "id": 26638,
+          "name": "Alberto Bot\u00eda Rabasco"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.1,
+          45.2
+        ],
+        "player": {
+          "id": 6913,
+          "name": "Fernando Navarro i Corbacho"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.8,
+          22.0
+        ],
+        "player": {
+          "id": 27119,
+          "name": "Alex Sandro Mendon\u00e7a Dos Santos"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.3,
+          28.1
+        ],
+        "player": {
+          "id": 26791,
+          "name": "Emir Spahi\u0107"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.6,
+          33.5
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.3,
+          55.2
+        ],
+        "player": {
+          "id": 3385,
+          "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.9,
+          36.9
+        ],
+        "player": {
+          "id": 25946,
+          "name": "Andr\u00e9s Palop Cervera"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "c028933e-712e-4a04-971e-2cbf09504feb",
+  "index": 1072,
+  "period": 1,
+  "timestamp": "00:26:56.224",
+  "minute": 26,
+  "second": 56,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 48,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19298,
+    "name": "Samuel Eto\"o Fils"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    105.2,
+    49.6
+  ],
+  "duration": 1.296895,
+  "related_events": [
+    "4b9e2a84-4027-4a98-9c23-dd3ebd8def72"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.31179953,
+    "end_location": [
+      120.0,
+      40.0,
+      1.4
+    ],
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          100.1,
+          58.7
+        ],
+        "player": {
+          "id": 25865,
+          "name": "Jos\u00e9 Romero Urtasun"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.9,
+          45.3
+        ],
+        "player": {
+          "id": 26004,
+          "name": "Carlos Javier Cu\u00e9llar Jim\u00e9nez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          47.6
+        ],
+        "player": {
+          "id": 25912,
+          "name": "Ricardo L\u00f3pez Felipe"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

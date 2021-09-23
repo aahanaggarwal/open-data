@@ -1,0 +1,161 @@
+{
+  "id": "21d4358a-4fd2-42f4-aa7a-4fca63a1d31c",
+  "index": 3053,
+  "period": 2,
+  "timestamp": "00:37:16.935",
+  "minute": 82,
+  "second": 16,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 164,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 4320,
+    "name": "Neymar da Silva Santos Junior"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    114.2,
+    35.3
+  ],
+  "duration": 0.7229,
+  "under_pressure": true,
+  "related_events": [
+    "1ec335e5-a52c-4927-8929-2ad971c29eb0",
+    "c01b1a23-45df-4154-bd20-75d6dbcc27a8"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.65447587,
+    "end_location": [
+      120.0,
+      37.7,
+      0.2
+    ],
+    "key_pass_id": "c67ea42b-2be2-46e1-8855-c2ba813d4b3a",
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.8,
+          40.0
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.8,
+          41.9
+        ],
+        "player": {
+          "id": 6792,
+          "name": "Pau L\u00f3pez Sabata"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.6,
+          51.2
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.8,
+          41.4
+        ],
+        "player": {
+          "id": 11094,
+          "name": "Arda Turan"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.1,
+          41.7
+        ],
+        "player": {
+          "id": 16456,
+          "name": "Enzo Pablo Roco Roco"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.9,
+          39.2
+        ],
+        "player": {
+          "id": 23974,
+          "name": "Roberto Antonio Correa Silva"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

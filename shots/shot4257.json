@@ -1,0 +1,158 @@
+{
+  "id": "b9b55480-340f-4bce-b234-a8573b5b938e",
+  "index": 1375,
+  "period": 1,
+  "timestamp": "00:34:32.453",
+  "minute": 34,
+  "second": 32,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 75,
+  "possession_team": {
+    "id": 794,
+    "name": "Mexico"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 794,
+    "name": "Mexico"
+  },
+  "player": {
+    "id": 5571,
+    "name": "Hirving Rodrigo Lozano Bahena"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    109.0,
+    32.0
+  ],
+  "duration": 0.96,
+  "related_events": [
+    "2fdb0b1a-37f8-4084-abe2-8d3ad1f5de31"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.1432629,
+    "end_location": [
+      120.0,
+      37.0,
+      0.5
+    ],
+    "key_pass_id": "ac189f20-e924-4b2b-9083-0a3c5ee4d663",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          120.0,
+          40.0
+        ],
+        "player": {
+          "id": 5570,
+          "name": "Manuel Neuer"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          32.0
+        ],
+        "player": {
+          "id": 5563,
+          "name": "Jos\u00e9 Andr\u00e9s Guardado Hern\u00e1ndez"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.0,
+          41.0
+        ],
+        "player": {
+          "id": 3058,
+          "name": "Javier Hern\u00e1ndez Balc\u00e1zar"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.0,
+          43.0
+        ],
+        "player": {
+          "id": 5578,
+          "name": "J\u00e9r\u00f4me Boateng"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          30.0
+        ],
+        "player": {
+          "id": 3496,
+          "name": "Mesut \u00d6zil"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          34.0
+        ],
+        "player": {
+          "id": 5574,
+          "name": "Toni Kroos"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

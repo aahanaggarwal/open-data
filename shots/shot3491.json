@@ -1,0 +1,146 @@
+{
+  "id": "2c10a674-8ebc-4d91-806a-a63296a7e35f",
+  "index": 1669,
+  "period": 1,
+  "timestamp": "00:38:45.860",
+  "minute": 38,
+  "second": 45,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 88,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    95.5,
+    29.7
+  ],
+  "duration": 2.549945,
+  "under_pressure": true,
+  "related_events": [
+    "9fde67ee-3294-431d-85cc-35dc6cdf6fcd",
+    "ef09cb94-7c8e-40f2-a203-f715d1f7057d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.2673821,
+    "end_location": [
+      119.9,
+      44.0,
+      0.5
+    ],
+    "key_pass_id": "dac42405-50b5-46c2-bf80-c5cc5c41a0d4",
+    "outcome": {
+      "id": 99,
+      "name": "Post"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          82.1,
+          59.1
+        ],
+        "player": {
+          "id": 6674,
+          "name": "Alberto De La Bella Madure\u00f1o"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.2,
+          28.6
+        ],
+        "player": {
+          "id": 8724,
+          "name": "Carlos Mart\u00ednez D\u00edez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.8,
+          30.5
+        ],
+        "player": {
+          "id": 16622,
+          "name": "Mikel Gonz\u00e1lez de Mart\u00edn Mart\u00ednez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          90.1,
+          41.2
+        ],
+        "player": {
+          "id": 6665,
+          "name": "\u00cd\u00f1igo Mart\u00ednez Berridi"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.9,
+          32.1
+        ],
+        "player": {
+          "id": 4691,
+          "name": "Claudio Andr\u00e9s Bravo Mu\u00f1oz"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

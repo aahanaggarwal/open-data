@@ -1,0 +1,159 @@
+{
+  "id": "ef424be2-ec08-4dd1-9897-ce5b9cc16338",
+  "index": 3164,
+  "period": 2,
+  "timestamp": "00:28:33.471",
+  "minute": 73,
+  "second": 33,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 175,
+  "possession_team": {
+    "id": 218,
+    "name": "Real Betis"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 218,
+    "name": "Real Betis"
+  },
+  "player": {
+    "id": 6832,
+    "name": "Rub\u00e9n Castro Mart\u00edn"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    101.4,
+    40.1
+  ],
+  "duration": 1.2832,
+  "related_events": [
+    "1683bf7c-539c-48ee-8167-6b6e1a49c6fb"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.5388037,
+    "end_location": [
+      120.0,
+      43.7,
+      0.2
+    ],
+    "key_pass_id": "16078d4a-43cc-4f5e-b76e-5bdb665c3cf7",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          100.9,
+          41.5
+        ],
+        "player": {
+          "id": 22102,
+          "name": "Adriano Correia Claro"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.8,
+          34.8
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.5,
+          28.5
+        ],
+        "player": {
+          "id": 6593,
+          "name": "Mart\u00edn Montoya Torralbo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.5,
+          30.8
+        ],
+        "player": {
+          "id": 26783,
+          "name": "Roque Luis Santa Cruz Cantero"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.6,
+          54.1
+        ],
+        "player": {
+          "id": 23804,
+          "name": "Jonathan Pereira Rodr\u00edguez"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.7,
+          40.4
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

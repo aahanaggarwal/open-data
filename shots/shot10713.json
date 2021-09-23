@@ -1,0 +1,218 @@
+{
+  "id": "4a548ad6-0c2c-4ccc-90e0-7d5ec7b432ef",
+  "index": 2776,
+  "period": 2,
+  "timestamp": "00:34:18.598",
+  "minute": 79,
+  "second": 18,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 182,
+  "possession_team": {
+    "id": 973,
+    "name": "Bristol City WFC"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 973,
+    "name": "Bristol City WFC"
+  },
+  "player": {
+    "id": 16384,
+    "name": "Carla Humphrey"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    89.0,
+    41.9
+  ],
+  "duration": 1.506997,
+  "related_events": [
+    "17fb1991-c5c3-419a-a4c0-fe725e485a49"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.015469012,
+    "end_location": [
+      120.0,
+      31.3,
+      0.5
+    ],
+    "key_pass_id": "94ea9de1-e232-4b9b-89db-067ec2079fb4",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.7,
+          40.3
+        ],
+        "player": {
+          "id": 18158,
+          "name": "Rebecca Leigh Spencer"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.1,
+          46.4
+        ],
+        "player": {
+          "id": 15563,
+          "name": "Charlie Wellings"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          95.2,
+          41.6
+        ],
+        "player": {
+          "id": 4865,
+          "name": "Josie Green"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.3,
+          42.2
+        ],
+        "player": {
+          "id": 31703,
+          "name": "Anna Filbey"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.2,
+          30.3
+        ],
+        "player": {
+          "id": 31552,
+          "name": "Hannah Godfrey"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          84.6,
+          25.6
+        ],
+        "player": {
+          "id": 23412,
+          "name": "Abigail Harrison"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          78.7,
+          41.3
+        ],
+        "player": {
+          "id": 10171,
+          "name": "Frankie Brown"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.4,
+          56.0
+        ],
+        "player": {
+          "id": 15572,
+          "name": "Siri Worm"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.7,
+          24.3
+        ],
+        "player": {
+          "id": 31527,
+          "name": "Ebony Salmon"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          96.6,
+          24.8
+        ],
+        "player": {
+          "id": 18145,
+          "name": "Ria Percival"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

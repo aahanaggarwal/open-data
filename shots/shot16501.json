@@ -1,0 +1,250 @@
+{
+  "id": "d11a52ac-9d83-40d6-ae49-c2643b26ac6c",
+  "index": 891,
+  "period": 1,
+  "timestamp": "00:21:30.418",
+  "minute": 21,
+  "second": 30,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 40,
+  "possession_team": {
+    "id": 970,
+    "name": "Yeovil Town LFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 970,
+    "name": "Yeovil Town LFC"
+  },
+  "player": {
+    "id": 19774,
+    "name": "Charlotte Buxton"
+  },
+  "position": {
+    "id": 2,
+    "name": "Right Back"
+  },
+  "location": [
+    86.9,
+    55.9
+  ],
+  "duration": 2.211078,
+  "under_pressure": true,
+  "related_events": [
+    "03e3c10f-00a4-4bcf-864a-9b7c52e427bb",
+    "9d62be83-1a32-4d37-9493-b13e5341687b"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.01417126,
+    "end_location": [
+      120.0,
+      25.3,
+      1.0
+    ],
+    "key_pass_id": "13aa7ad1-9d14-44ec-96d4-b01ddf5ab32c",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          86.7,
+          42.5
+        ],
+        "player": {
+          "id": 4658,
+          "name": "Keira Walsh"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          85.1,
+          29.2
+        ],
+        "player": {
+          "id": 15717,
+          "name": "Hannah Short"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.1,
+          54.5
+        ],
+        "player": {
+          "id": 23465,
+          "name": "Megan Campbell"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          88.6,
+          51.9
+        ],
+        "player": {
+          "id": 15555,
+          "name": "Lauren Hemp"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.6,
+          41.3
+        ],
+        "player": {
+          "id": 4643,
+          "name": "Georgia Stanway"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          38.6
+        ],
+        "player": {
+          "id": 10185,
+          "name": "Stephanie Houghton"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.1,
+          28.0
+        ],
+        "player": {
+          "id": 4648,
+          "name": "Abbie McManus"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          84.9,
+          26.9
+        ],
+        "player": {
+          "id": 4646,
+          "name": "Claire Emslie"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.7,
+          35.7
+        ],
+        "player": {
+          "id": 15716,
+          "name": "Emily Syme"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          95.6,
+          50.4
+        ],
+        "player": {
+          "id": 15718,
+          "name": "Olivia Fergusson"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.7,
+          51.0
+        ],
+        "player": {
+          "id": 15554,
+          "name": "Gemma Bonner"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.6,
+          38.2
+        ],
+        "player": {
+          "id": 4637,
+          "name": "Ellie Roebuck"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

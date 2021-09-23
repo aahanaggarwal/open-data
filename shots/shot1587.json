@@ -1,0 +1,202 @@
+{
+  "id": "fdd17e7e-55bf-47e7-a53a-1c812bb4f7d4",
+  "index": 3581,
+  "period": 2,
+  "timestamp": "00:49:27.240",
+  "minute": 94,
+  "second": 27,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 178,
+  "possession_team": {
+    "id": 770,
+    "name": "Germany"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 770,
+    "name": "Germany"
+  },
+  "player": {
+    "id": 5572,
+    "name": "Mats Hummels"
+  },
+  "position": {
+    "id": 5,
+    "name": "Left Center Back"
+  },
+  "location": [
+    115.0,
+    47.0
+  ],
+  "duration": 1.133,
+  "related_events": [
+    "a766a279-5002-4d54-8956-3c971828e465"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.12002199,
+    "end_location": [
+      120.0,
+      36.6,
+      3.3
+    ],
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.0,
+          43.0
+        ],
+        "player": {
+          "id": 5619,
+          "name": "Hyun-Woo Cho"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          42.0
+        ],
+        "player": {
+          "id": 5565,
+          "name": "Mario G\u00f3mez Garc\u00eda"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.0,
+          50.0
+        ],
+        "player": {
+          "id": 6325,
+          "name": "Yo-Han Ko"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.0,
+          46.0
+        ],
+        "player": {
+          "id": 5986,
+          "name": "Chul Hong"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          42.0
+        ],
+        "player": {
+          "id": 5604,
+          "name": "Young-Gwon Kim"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          32.0
+        ],
+        "player": {
+          "id": 6323,
+          "name": "Young-Sun Yun"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          37.0
+        ],
+        "player": {
+          "id": 5562,
+          "name": "Thomas M\u00fcller"
+        },
+        "position": {
+          "id": 25,
+          "name": "Secondary Striker"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.0,
+          24.0
+        ],
+        "player": {
+          "id": 5559,
+          "name": "Marco Reus"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.0,
+          37.0
+        ],
+        "player": {
+          "id": 5606,
+          "name": "Hyun-Soo Jang"
+        },
+        "position": {
+          "id": 14,
+          "name": "Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "69e2a829-bca9-4da4-b4f7-b7bf7e767aa6",
+  "index": 2834,
+  "period": 2,
+  "timestamp": "00:25:45.952",
+  "minute": 70,
+  "second": 45,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 134,
+  "possession_team": {
+    "id": 762,
+    "name": "Houston Dash"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 762,
+    "name": "Houston Dash"
+  },
+  "player": {
+    "id": 5058,
+    "name": "Rachel Daly"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    95.0,
+    58.0
+  ],
+  "duration": 1.525,
+  "under_pressure": true,
+  "related_events": [
+    "b81aa054-9c24-41ef-93c5-2395c68bc123",
+    "e2eb89be-25a3-4de7-a9c6-d50c46f95329"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.013807968,
+    "end_location": [
+      119.0,
+      44.8,
+      6.0
+    ],
+    "key_pass_id": "d74b11d8-2928-419a-809e-7d95af056c27",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          97.0,
+          55.0
+        ],
+        "player": {
+          "id": 4971,
+          "name": "Rebecca Moros"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          41.0
+        ],
+        "player": {
+          "id": 4969,
+          "name": "Nicole Barnhart"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

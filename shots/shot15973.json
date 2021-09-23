@@ -1,0 +1,144 @@
+{
+  "id": "ec6e8f66-b589-49c0-adb9-90f331173536",
+  "index": 2611,
+  "period": 2,
+  "timestamp": "00:24:16.882",
+  "minute": 69,
+  "second": 16,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 161,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 8,
+    "name": "From Keeper"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 12737,
+    "name": "David Villa S\u00e1nchez"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    100.2,
+    39.4
+  ],
+  "duration": 1.575677,
+  "related_events": [
+    "e347ff52-9dd7-4596-bd26-127f7a6af532"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.29774228,
+    "end_location": [
+      120.0,
+      38.9,
+      4.2
+    ],
+    "key_pass_id": "aea51e21-2ab6-438d-9069-120d7847435c",
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.6,
+          39.7
+        ],
+        "player": {
+          "id": 26438,
+          "name": "David Cobe\u00f1o Iglesias"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.6,
+          35.0
+        ],
+        "player": {
+          "id": 26803,
+          "name": "Pedro Roberto Silva Botelho"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.2,
+          39.0
+        ],
+        "player": {
+          "id": 26799,
+          "name": "Rafael Garc\u00eda Garc\u00eda"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          74.9,
+          41.6
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          72.1,
+          37.6
+        ],
+        "player": {
+          "id": 25920,
+          "name": "Jose Mar\u00eda Movilla Cubero"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

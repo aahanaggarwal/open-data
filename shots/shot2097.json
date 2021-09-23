@@ -1,0 +1,234 @@
+{
+  "id": "2d7d84e4-4777-4866-8e7b-1af0435e168d",
+  "index": 217,
+  "period": 1,
+  "timestamp": "00:05:25.406",
+  "minute": 5,
+  "second": 25,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 10,
+  "possession_team": {
+    "id": 968,
+    "name": "Arsenal WFC"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 968,
+    "name": "Arsenal WFC"
+  },
+  "player": {
+    "id": 15623,
+    "name": "Vivianne Miedema"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    111.0,
+    46.0
+  ],
+  "duration": 0.4101,
+  "related_events": [
+    "07664911-fa7c-48a3-96bf-f2c2630d3b58",
+    "841a48d2-75e3-4acc-9356-9631053d7729"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.12157266,
+    "end_location": [
+      113.0,
+      43.0
+    ],
+    "key_pass_id": "be9e1750-fde8-472b-a204-024559c26f02",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.0,
+          33.0
+        ],
+        "player": {
+          "id": 15619,
+          "name": "Bethany Mead"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.0,
+          45.0
+        ],
+        "player": {
+          "id": 15616,
+          "name": "Kim Little"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.0,
+          48.0
+        ],
+        "player": {
+          "id": 10658,
+          "name": "Danielle van de Donk"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.0,
+          41.0
+        ],
+        "player": {
+          "id": 15626,
+          "name": "Anke Preu\u00df"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          26.0
+        ],
+        "player": {
+          "id": 15614,
+          "name": "Sophie Elizabeth Bradley-Auckland"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          44.0
+        ],
+        "player": {
+          "id": 15618,
+          "name": "Jasmine Matthews"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          51.0
+        ],
+        "player": {
+          "id": 15630,
+          "name": "Leigh-Anne Robe"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          36.0
+        ],
+        "player": {
+          "id": 15622,
+          "name": "Leandra Little"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.0,
+          58.0
+        ],
+        "player": {
+          "id": 10179,
+          "name": "Lisa Evans"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.0,
+          40.0
+        ],
+        "player": {
+          "id": 19416,
+          "name": "Laura Coombs"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          37.0
+        ],
+        "player": {
+          "id": 19777,
+          "name": "Niamh Fahey"
+        },
+        "position": {
+          "id": 14,
+          "name": "Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

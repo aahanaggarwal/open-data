@@ -1,0 +1,203 @@
+{
+  "id": "73fb2ace-ff42-41f3-b923-b27eed02cd36",
+  "index": 3881,
+  "period": 2,
+  "timestamp": "00:47:27.957",
+  "minute": 92,
+  "second": 27,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 203,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3385,
+    "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    105.1,
+    47.1
+  ],
+  "duration": 0.235936,
+  "related_events": [
+    "83a08df3-7739-4158-84da-ecc5ea2e9c7f",
+    "fd95c2c9-569b-4904-87e7-5774cdb0a2d4"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.09366717,
+    "end_location": [
+      107.1,
+      45.8
+    ],
+    "key_pass_id": "9ed80641-df6c-4cbf-8548-9de8dfe89ff2",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          107.4,
+          40.4
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.7,
+          33.1
+        ],
+        "player": {
+          "id": 3958,
+          "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.3,
+          52.9
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.5,
+          41.2
+        ],
+        "player": {
+          "id": 6768,
+          "name": "Diego L\u00f3pez Rodr\u00edguez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.7,
+          37.1
+        ],
+        "player": {
+          "id": 5207,
+          "name": "Cristiano Ronaldo dos Santos Aveiro"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.1,
+          31.8
+        ],
+        "player": {
+          "id": 5721,
+          "name": "Daniel Carvajal Ramos"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.3,
+          39.3
+        ],
+        "player": {
+          "id": 20016,
+          "name": "Kl\u00e9per Laveran Lima Ferreira"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.6,
+          47.4
+        ],
+        "player": {
+          "id": 5552,
+          "name": "Marcelo Vieira da Silva J\u00fanior"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.1,
+          45.9
+        ],
+        "player": {
+          "id": 5485,
+          "name": "Rapha\u00ebl Varane"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

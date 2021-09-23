@@ -1,0 +1,175 @@
+{
+  "id": "8d21602b-4677-4f2e-9129-fec9c630298c",
+  "index": 674,
+  "period": 1,
+  "timestamp": "00:12:45.271",
+  "minute": 12,
+  "second": 45,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 23,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 4320,
+    "name": "Neymar da Silva Santos Junior"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    111.4,
+    26.9
+  ],
+  "duration": 0.1387,
+  "under_pressure": true,
+  "related_events": [
+    "4816ca7e-e324-4e86-8f46-aa5658f93d4b",
+    "5c75161e-0765-43a5-aca8-f8839aee942a",
+    "77af8124-7ce3-4292-9aef-868021f939ad"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.12779465,
+    "end_location": [
+      112.4,
+      28.3
+    ],
+    "key_pass_id": "4487c702-5519-4f31-aa54-a0c3cf2a9952",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.8,
+          36.3
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.5,
+          47.8
+        ],
+        "player": {
+          "id": 3385,
+          "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.4,
+          38.8
+        ],
+        "player": {
+          "id": 25824,
+          "name": "\u00c1ngel Trujillo Canorea"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.7,
+          46.3
+        ],
+        "player": {
+          "id": 27246,
+          "name": "Sebasti\u00e1n Dubarbier"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.9,
+          41.7
+        ],
+        "player": {
+          "id": 24149,
+          "name": "Jos\u00e9 Antonio Garc\u00eda Rabasco"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.7,
+          33.8
+        ],
+        "player": {
+          "id": 25971,
+          "name": "Esteban Andr\u00e9s Su\u00e1rez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.5,
+          28.4
+        ],
+        "player": {
+          "id": 27516,
+          "name": "Rafael Ramos Lozano"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

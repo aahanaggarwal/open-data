@@ -1,0 +1,174 @@
+{
+  "id": "c9d01f4a-de87-43c7-a7de-28b83dc7561b",
+  "index": 3188,
+  "period": 2,
+  "timestamp": "00:46:18.504",
+  "minute": 91,
+  "second": 18,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 199,
+  "possession_team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "player": {
+    "id": 4646,
+    "name": "Claire Emslie"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    116.0,
+    27.0
+  ],
+  "duration": 0.2481,
+  "related_events": [
+    "6a6a63ba-4218-41ae-8c9c-5815e04d24e0",
+    "f7bcc0d7-e86b-4ea9-8df8-cd86a4bcb29f"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.033408213,
+    "end_location": [
+      117.0,
+      33.0
+    ],
+    "key_pass_id": "5be31753-cfe0-4502-9102-20f9bd467cf1",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "first_time": true,
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          116.0,
+          43.0
+        ],
+        "player": {
+          "id": 19498,
+          "name": "Jessica Park"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.0,
+          39.0
+        ],
+        "player": {
+          "id": 10188,
+          "name": "Caroline Weir"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.0,
+          39.0
+        ],
+        "player": {
+          "id": 16376,
+          "name": "Sophie Baggaley"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          32.0
+        ],
+        "player": {
+          "id": 16391,
+          "name": "Loren Dykes"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.0,
+          39.0
+        ],
+        "player": {
+          "id": 16383,
+          "name": "Danique Kerkdijk"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          44.0
+        ],
+        "player": {
+          "id": 10171,
+          "name": "Frankie Brown"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          40.0
+        ],
+        "player": {
+          "id": 16386,
+          "name": "Lucy Graham"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

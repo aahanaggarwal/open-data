@@ -1,0 +1,159 @@
+{
+  "id": "af6562c6-d49f-4eb1-8e57-1614d518ad02",
+  "index": 3211,
+  "period": 2,
+  "timestamp": "00:21:47.846",
+  "minute": 66,
+  "second": 47,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 146,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 4324,
+    "name": "Daniel Alves da Silva"
+  },
+  "position": {
+    "id": 7,
+    "name": "Right Wing Back"
+  },
+  "location": [
+    109.3,
+    40.8
+  ],
+  "duration": 0.0343,
+  "related_events": [
+    "9a93761e-0200-492f-8bde-6e60bf5a8339"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.29686698,
+    "end_location": [
+      110.3,
+      40.7,
+      1.6
+    ],
+    "key_pass_id": "42e2441c-7faa-4973-bc40-140e9b857364",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.6,
+          40.6
+        ],
+        "player": {
+          "id": 23815,
+          "name": "Casto Espinosa Barriga"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.8,
+          39.2
+        ],
+        "player": {
+          "id": 11543,
+          "name": "Jos\u00e9 Antonio Dorado Ram\u00edrez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.4,
+          47.2
+        ],
+        "player": {
+          "id": 6832,
+          "name": "Rub\u00e9n Castro Mart\u00edn"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          32.1
+        ],
+        "player": {
+          "id": 26081,
+          "name": "Pedro Mario \u00c1lvarez Abrante"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.2,
+          35.8
+        ],
+        "player": {
+          "id": 3385,
+          "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+        },
+        "position": {
+          "id": 8,
+          "name": "Left Wing Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.7,
+          45.3
+        ],
+        "player": {
+          "id": 25892,
+          "name": "Ignacio P\u00e9rez Santamar\u00eda"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

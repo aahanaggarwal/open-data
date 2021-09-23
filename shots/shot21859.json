@@ -1,0 +1,128 @@
+{
+  "id": "0133ed45-5eba-4e70-95b2-ebeb41d6a56f",
+  "index": 1131,
+  "period": 1,
+  "timestamp": "00:23:05.596",
+  "minute": 23,
+  "second": 5,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 54,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3478,
+    "name": "Francesc F\u00e0bregas i Soler"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    107.3,
+    39.9
+  ],
+  "duration": 0.878767,
+  "related_events": [
+    "ac3d52fe-9ada-413a-9693-6912d6bbb9e5"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.08005852,
+    "end_location": [
+      120.0,
+      42.6,
+      1.8
+    ],
+    "key_pass_id": "76cba9df-b554-4fcb-853b-30890a341123",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.7,
+          39.5
+        ],
+        "player": {
+          "id": 6576,
+          "name": "Gorka Iraizoz Moreno"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.1,
+          38.8
+        ],
+        "player": {
+          "id": 26028,
+          "name": "Fernando Amorebieta Mardaras"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.5,
+          29.7
+        ],
+        "player": {
+          "id": 9399,
+          "name": "Javier Mart\u00ednez Aginaga"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.3,
+          28.2
+        ],
+        "player": {
+          "id": 6388,
+          "name": "Ander Iturraspe Derteano"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

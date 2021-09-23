@@ -1,0 +1,263 @@
+{
+  "id": "1aeb8d4c-cedd-415e-94a6-10705272f867",
+  "index": 90,
+  "period": 1,
+  "timestamp": "00:01:23.900",
+  "minute": 1,
+  "second": 23,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 4,
+  "possession_team": {
+    "id": 218,
+    "name": "Real Betis"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 218,
+    "name": "Real Betis"
+  },
+  "player": {
+    "id": 6697,
+    "name": "Daniel Ceballos Fern\u00e1ndez"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    92.2,
+    18.3
+  ],
+  "duration": 1.0728,
+  "related_events": [
+    "05336148-f426-4ef1-8d8d-605ca985d54f"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.015767444,
+    "end_location": [
+      119.3,
+      36.7,
+      0.6
+    ],
+    "key_pass_id": "686888a3-6221-43e4-bcd3-07e5da3f4983",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.1,
+          12.0
+        ],
+        "player": {
+          "id": 6832,
+          "name": "Rub\u00e9n Castro Mart\u00edn"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          96.4,
+          59.2
+        ],
+        "player": {
+          "id": 11634,
+          "name": "Cristiano Piccini"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.5,
+          34.3
+        ],
+        "player": {
+          "id": 6883,
+          "name": "Alexander Alegr\u00eda Moreno"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          92.8,
+          1.8
+        ],
+        "player": {
+          "id": 6646,
+          "name": "Riza Durmisi"
+        },
+        "position": {
+          "id": 8,
+          "name": "Left Wing Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.4,
+          48.8
+        ],
+        "player": {
+          "id": 6849,
+          "name": "Lucas Digne"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.2,
+          33.9
+        ],
+        "player": {
+          "id": 10609,
+          "name": "J\u00e9r\u00e9my Mathieu"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.2,
+          37.5
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.8,
+          21.9
+        ],
+        "player": {
+          "id": 5470,
+          "name": "Ivan Rakiti\u0107"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.5,
+          22.7
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.5,
+          17.8
+        ],
+        "player": {
+          "id": 6400,
+          "name": "Aleix Vidal Parreu"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.7,
+          9.9
+        ],
+        "player": {
+          "id": 6609,
+          "name": "Denis Su\u00e1rez Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.6,
+          34.6
+        ],
+        "player": {
+          "id": 11094,
+          "name": "Arda Turan"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.2,
+          48.4
+        ],
+        "player": {
+          "id": 4320,
+          "name": "Neymar da Silva Santos Junior"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": "6db20407-6ec8-43fb-92c8-0e9938fc445b",
+  "index": 1114,
+  "period": 1,
+  "timestamp": "00:34:00.264",
+  "minute": 34,
+  "second": 0,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 81,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 25878,
+    "name": "Ludovic Giuly"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    107.4,
+    54.0
+  ],
+  "duration": 0.1951,
+  "related_events": [
+    "016cddda-290e-4f66-ba8e-5dad7aef55d7",
+    "0321fbd9-8f21-422b-8dca-7567e2f6db48"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.077039786,
+    "end_location": [
+      108.0,
+      50.4
+    ],
+    "key_pass_id": "7623be72-d8a0-4101-9855-ac4ebf28bac3",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.0,
+          50.4
+        ],
+        "player": {
+          "id": 25867,
+          "name": "C\u00e9sar Cruchaga Lasa"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.4,
+          42.0
+        ],
+        "player": {
+          "id": 25858,
+          "name": "Ricardo Sanzol Go\u00f1i"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.8,
+          49.3
+        ],
+        "player": {
+          "id": 25860,
+          "name": "Enrique Corrales Mart\u00edn"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.5,
+          50.2
+        ],
+        "player": {
+          "id": 25865,
+          "name": "Jos\u00e9 Romero Urtasun"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "id": "a20595f5-cfcf-45c5-96c5-cd478bea77a0",
+  "index": 821,
+  "period": 1,
+  "timestamp": "00:17:36.035",
+  "minute": 17,
+  "second": 36,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 43,
+  "possession_team": {
+    "id": 218,
+    "name": "Real Betis"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 218,
+    "name": "Real Betis"
+  },
+  "player": {
+    "id": 6559,
+    "name": "Juan Carlos P\u00e9rez L\u00f3pez"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    113.1,
+    35.6
+  ],
+  "duration": 0.356258,
+  "related_events": [
+    "e3051474-2f35-4bd3-a17a-6eb861ccbe72"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.14778395,
+    "end_location": [
+      119.4,
+      36.5,
+      0.5
+    ],
+    "key_pass_id": "aa16efdc-609f-40d6-b275-ee8a5b7a08d6",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.9,
+          38.0
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.2,
+          36.5
+        ],
+        "player": {
+          "id": 7068,
+          "name": "Marc Bartra Aregall"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.9,
+          39.5
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.1,
+          41.7
+        ],
+        "player": {
+          "id": 6630,
+          "name": "Jorge Molina Vidal"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.6,
+          42.5
+        ],
+        "player": {
+          "id": 27053,
+          "name": "Alexandre Dimitri Song-Billong"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "id": "cdc1d6cb-6be8-49e0-8b89-e87374fc6c69",
+  "index": 1047,
+  "period": 1,
+  "timestamp": "00:32:47.650",
+  "minute": 32,
+  "second": 47,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 92,
+  "possession_team": {
+    "id": 969,
+    "name": "Birmingham City WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 969,
+    "name": "Birmingham City WFC"
+  },
+  "player": {
+    "id": 15562,
+    "name": "Lucy Staniforth"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    103.0,
+    38.7
+  ],
+  "duration": 0.596671,
+  "under_pressure": true,
+  "related_events": [
+    "01809dd0-074d-4590-ac9e-af660234cfa2",
+    "a89ae0d3-1b3d-484c-bd26-f460e54784ec"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.08949166,
+    "end_location": [
+      108.1,
+      42.8
+    ],
+    "key_pass_id": "cb302937-a354-425d-a8c4-21780e57fc83",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "first_time": true,
+    "outcome": {
+      "id": 101,
+      "name": "Wayward"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.1,
+          39.8
+        ],
+        "player": {
+          "id": 16376,
+          "name": "Sophie Baggaley"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.1,
+          19.1
+        ],
+        "player": {
+          "id": 19502,
+          "name": "Meaghan Sargeant"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.9,
+          19.0
+        ],
+        "player": {
+          "id": 10171,
+          "name": "Frankie Brown"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.2,
+          39.8
+        ],
+        "player": {
+          "id": 24925,
+          "name": "Olivia Chance"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.6,
+          40.1
+        ],
+        "player": {
+          "id": 16381,
+          "name": "Gemma Evans"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.8,
+          37.3
+        ],
+        "player": {
+          "id": 15618,
+          "name": "Jasmine Matthews"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          43.0
+        ],
+        "player": {
+          "id": 17274,
+          "name": "Poppy Pattinson"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.8,
+          38.7
+        ],
+        "player": {
+          "id": 15580,
+          "name": "Claudia Walker"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.5,
+          16.6
+        ],
+        "player": {
+          "id": 31565,
+          "name": "Abbi Grant"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.0,
+          43.4
+        ],
+        "player": {
+          "id": 31563,
+          "name": "Rachel Williams"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.5,
+          43.6
+        ],
+        "player": {
+          "id": 10093,
+          "name": "Yana Daniels"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

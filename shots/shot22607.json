@@ -1,0 +1,83 @@
+{
+  "id": "f4050c2e-8f17-4e3d-925f-8019c4fefb76",
+  "index": 2754,
+  "period": 2,
+  "timestamp": "00:24:39.687",
+  "minute": 69,
+  "second": 39,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 153,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 5,
+    "name": "Other"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19298,
+    "name": "Samuel Eto\"o Fils"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    108.3,
+    40.1
+  ],
+  "duration": 0.3422,
+  "related_events": [
+    "cd5664aa-e416-4085-906a-26307b93b182"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.76,
+    "end_location": [
+      119.8,
+      43.4,
+      0.5
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 88,
+      "name": "Penalty"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.8,
+          40.3
+        ],
+        "player": {
+          "id": 11179,
+          "name": "Iker Casillas Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "id": "9542f924-60d4-48d5-87a2-21f905edb2f4",
+  "index": 1188,
+  "period": 1,
+  "timestamp": "00:25:03.960",
+  "minute": 25,
+  "second": 3,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 54,
+  "possession_team": {
+    "id": 222,
+    "name": "Villarreal"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 222,
+    "name": "Villarreal"
+  },
+  "player": {
+    "id": 6759,
+    "name": "Roberto Soriano"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    114.1,
+    45.1
+  ],
+  "duration": 1.095,
+  "related_events": [
+    "591fa4b4-88b1-4d30-95b7-0d689cb810bc"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.28040057,
+    "end_location": [
+      119.1,
+      42.1,
+      1.4
+    ],
+    "key_pass_id": "87b19106-2e9c-4689-9cc8-532375b01900",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          88.1,
+          42.4
+        ],
+        "player": {
+          "id": 6765,
+          "name": "Rodrigo Hern\u00e1ndez Cascante"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.1,
+          32.2
+        ],
+        "player": {
+          "id": 5470,
+          "name": "Ivan Rakiti\u0107"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.7,
+          47.2
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.2,
+          57.3
+        ],
+        "player": {
+          "id": 6609,
+          "name": "Denis Su\u00e1rez Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.5,
+          55.2
+        ],
+        "player": {
+          "id": 6772,
+          "name": "Mario Gaspar P\u00e9rez Mart\u00ednez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.0,
+          41.4
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.8,
+          35.0
+        ],
+        "player": {
+          "id": 6379,
+          "name": "Sergi Roberto Carnicer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.5,
+          36.7
+        ],
+        "player": {
+          "id": 6862,
+          "name": "C\u00e9dric Bakambu"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.7,
+          38.5
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.7,
+          46.0
+        ],
+        "player": {
+          "id": 6332,
+          "name": "Thomas Vermaelen"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

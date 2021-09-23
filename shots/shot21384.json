@@ -1,0 +1,160 @@
+{
+  "id": "1e0116a6-ce2b-46ac-bf12-c6109bd6869d",
+  "index": 1790,
+  "period": 2,
+  "timestamp": "00:06:39.470",
+  "minute": 51,
+  "second": 39,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 126,
+  "possession_team": {
+    "id": 1208,
+    "name": "Cameroon Women's"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 1208,
+    "name": "Cameroon Women's"
+  },
+  "player": {
+    "id": 25616,
+    "name": "Gabrielle Onguene"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    112.8,
+    43.2
+  ],
+  "duration": 1.194574,
+  "under_pressure": true,
+  "related_events": [
+    "6212aabd-b86d-425c-ad23-de1e5ad815e4",
+    "a53a6c48-849e-4935-9de2-4996d183c446"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.31014836,
+    "end_location": [
+      120.0,
+      50.5,
+      0.2
+    ],
+    "key_pass_id": "00a31cd3-dbaf-4d7e-a3bb-9d807f9b1898",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.1,
+          41.9
+        ],
+        "player": {
+          "id": 5037,
+          "name": "Abby Erceg"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.1,
+          37.3
+        ],
+        "player": {
+          "id": 5028,
+          "name": "Katie Bowen"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.4,
+          43.3
+        ],
+        "player": {
+          "id": 4989,
+          "name": "Rebekah Stott"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.9,
+          37.7
+        ],
+        "player": {
+          "id": 25605,
+          "name": "Gaelle Enganamouit"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.5,
+          55.8
+        ],
+        "player": {
+          "id": 10714,
+          "name": "Michaela Abam"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.0,
+          41.8
+        ],
+        "player": {
+          "id": 25661,
+          "name": "Erin Nayler"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "id": "5951d50e-5851-4e60-8947-45a7e059652c",
+  "index": 2046,
+  "period": 2,
+  "timestamp": "00:05:06.790",
+  "minute": 50,
+  "second": 6,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 99,
+  "possession_team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "player": {
+    "id": 20725,
+    "name": "Pauline Bremer"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    115.3,
+    30.2
+  ],
+  "duration": 0.1886,
+  "under_pressure": true,
+  "related_events": [
+    "3ca5092a-a05d-47fd-b827-f60280541d73",
+    "9bd52957-fc68-4a8d-b200-9620e485432e"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.28998637,
+    "end_location": [
+      116.8,
+      32.8,
+      0.2
+    ],
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          98.7,
+          34.5
+        ],
+        "player": {
+          "id": 15707,
+          "name": "Georgia Evans"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.0,
+          43.1
+        ],
+        "player": {
+          "id": 15705,
+          "name": "Emily Donovan"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.9,
+          48.6
+        ],
+        "player": {
+          "id": 15710,
+          "name": "Megan Alexander"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.3,
+          40.2
+        ],
+        "player": {
+          "id": 15715,
+          "name": "Ellie Mason"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          30.2
+        ],
+        "player": {
+          "id": 19774,
+          "name": "Charlotte Buxton"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.4,
+          28.2
+        ],
+        "player": {
+          "id": 15717,
+          "name": "Hannah Short"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          90.7,
+          43.0
+        ],
+        "player": {
+          "id": 4643,
+          "name": "Georgia Stanway"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.1,
+          44.8
+        ],
+        "player": {
+          "id": 4654,
+          "name": "Nikita Parris"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.1,
+          36.1
+        ],
+        "player": {
+          "id": 15709,
+          "name": "Megan Walsh"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

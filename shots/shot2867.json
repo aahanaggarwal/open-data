@@ -1,0 +1,159 @@
+{
+  "id": "859f4a4e-76db-4b00-a5df-1feb48dd4e73",
+  "index": 2349,
+  "period": 2,
+  "timestamp": "00:13:27.748",
+  "minute": 58,
+  "second": 27,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 149,
+  "possession_team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "play_pattern": {
+    "id": 2,
+    "name": "From Corner"
+  },
+  "team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "player": {
+    "id": 10188,
+    "name": "Caroline Weir"
+  },
+  "position": {
+    "id": 11,
+    "name": "Left Defensive Midfield"
+  },
+  "location": [
+    110.5,
+    49.8
+  ],
+  "duration": 0.95184,
+  "related_events": [
+    "0deaaa65-8442-4482-8f95-48887ae48b15"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.12078894,
+    "end_location": [
+      120.0,
+      37.8,
+      0.4
+    ],
+    "key_pass_id": "38babf60-1ad9-4c0b-a4ad-eb3d26b948a0",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          106.5,
+          29.2
+        ],
+        "player": {
+          "id": 4642,
+          "name": "Millie Bright"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.6,
+          36.5
+        ],
+        "player": {
+          "id": 10180,
+          "name": "Ellen White"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.3,
+          38.9
+        ],
+        "player": {
+          "id": 15549,
+          "name": "Sophie Ingle"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.5,
+          42.9
+        ],
+        "player": {
+          "id": 15560,
+          "name": "Ann-Katrin Berger"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.7,
+          46.2
+        ],
+        "player": {
+          "id": 4633,
+          "name": "Magdalena Ericsson"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.7,
+          49.2
+        ],
+        "player": {
+          "id": 10222,
+          "name": "Jonna Andersson"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

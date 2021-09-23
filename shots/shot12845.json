@@ -1,0 +1,83 @@
+{
+  "id": "4901ee34-80bf-4439-b841-747ad342e960",
+  "index": 3109,
+  "period": 2,
+  "timestamp": "00:30:00.623",
+  "minute": 75,
+  "second": 0,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 163,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 5,
+    "name": "Other"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    108.3,
+    40.1
+  ],
+  "duration": 0.4734,
+  "related_events": [
+    "1b96b7bd-be63-420f-b04b-ff7d80ba9441"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.76,
+    "end_location": [
+      120.0,
+      41.1,
+      3.6
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 88,
+      "name": "Penalty"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.8,
+          40.0
+        ],
+        "player": {
+          "id": 6730,
+          "name": "Rub\u00e9n Iv\u00e1n Mart\u00ednez Andrade"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

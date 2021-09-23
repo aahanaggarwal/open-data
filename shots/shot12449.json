@@ -1,0 +1,143 @@
+{
+  "id": "70cd27fe-962c-41dc-b8bd-096729a095d3",
+  "index": 3090,
+  "period": 2,
+  "timestamp": "00:45:55.530",
+  "minute": 90,
+  "second": 55,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 202,
+  "possession_team": {
+    "id": 970,
+    "name": "Yeovil Town LFC"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 970,
+    "name": "Yeovil Town LFC"
+  },
+  "player": {
+    "id": 15718,
+    "name": "Olivia Fergusson"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    100.0,
+    33.0
+  ],
+  "duration": 2.4478,
+  "related_events": [
+    "f2bbd07f-2d50-49c5-8d44-b56fa55d21ff"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.30975744,
+    "end_location": [
+      120.0,
+      45.6,
+      0.9
+    ],
+    "key_pass_id": "77e1b90c-ae59-4bc3-b8d7-4f3ff9eff2bb",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          107.0,
+          36.0
+        ],
+        "player": {
+          "id": 15719,
+          "name": "Grace Moloney"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          31.0
+        ],
+        "player": {
+          "id": 10198,
+          "name": "Josanne Potter"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.0,
+          40.0
+        ],
+        "player": {
+          "id": 15724,
+          "name": "Mayumi Pacheco"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          78.0,
+          23.0
+        ],
+        "player": {
+          "id": 15716,
+          "name": "Emily Syme"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          92.0,
+          24.0
+        ],
+        "player": {
+          "id": 18152,
+          "name": "Kirstyn Pearce"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

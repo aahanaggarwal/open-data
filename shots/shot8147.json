@@ -1,0 +1,233 @@
+{
+  "id": "81e04d9f-d4c8-4ea8-bcfe-2f213bc3c6fb",
+  "index": 612,
+  "period": 1,
+  "timestamp": "00:13:22.883",
+  "minute": 13,
+  "second": 22,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 38,
+  "possession_team": {
+    "id": 760,
+    "name": "Seattle Reign"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 760,
+    "name": "Seattle Reign"
+  },
+  "player": {
+    "id": 5002,
+    "name": "Jodie Taylor"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    108.0,
+    36.0
+  ],
+  "duration": 1.667,
+  "related_events": [
+    "08921c42-2105-4315-9168-c2cb013515f5"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.060735498,
+    "end_location": [
+      119.0,
+      38.5,
+      1.8
+    ],
+    "key_pass_id": "c4250f20-cdd6-49b1-bcdb-b95a15b93efc",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.0,
+          27.0
+        ],
+        "player": {
+          "id": 5060,
+          "name": "Poliana Barbosa Medeiros"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          34.0
+        ],
+        "player": {
+          "id": 5078,
+          "name": "Alanna Kennedy"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          36.0
+        ],
+        "player": {
+          "id": 5071,
+          "name": "Monica Hickmann Alves"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          42.0
+        ],
+        "player": {
+          "id": 5074,
+          "name": "Shelina Zadorsky"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.0,
+          41.0
+        ],
+        "player": {
+          "id": 5006,
+          "name": "Beverly Yanez"
+        },
+        "position": {
+          "id": 14,
+          "name": "Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.0,
+          54.0
+        ],
+        "player": {
+          "id": 5063,
+          "name": "Chioma Ubogagu"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.0,
+          45.0
+        ],
+        "player": {
+          "id": 5062,
+          "name": "Dani Weatherholt"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.0,
+          55.0
+        ],
+        "player": {
+          "id": 4994,
+          "name": "Nahomi Kawasumi"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.0,
+          59.0
+        ],
+        "player": {
+          "id": 5069,
+          "name": "Theresa Nielsen"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.0,
+          54.0
+        ],
+        "player": {
+          "id": 5064,
+          "name": "Carson Pickett"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          40.0
+        ],
+        "player": {
+          "id": 5061,
+          "name": "Haley Judith Kopmeyer"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

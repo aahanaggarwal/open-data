@@ -1,0 +1,173 @@
+{
+  "id": "2e3e46c7-04d8-4b47-b51a-3452bf12effb",
+  "index": 3126,
+  "period": 2,
+  "timestamp": "00:37:11.092",
+  "minute": 82,
+  "second": 11,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 162,
+  "possession_team": {
+    "id": 973,
+    "name": "Bristol City WFC"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 973,
+    "name": "Bristol City WFC"
+  },
+  "player": {
+    "id": 23412,
+    "name": "Abigail Harrison"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    109.0,
+    55.0
+  ],
+  "duration": 0.729517,
+  "related_events": [
+    "4cf0bdec-d3a2-44f2-a804-8b2531fcaabd",
+    "c89df33a-2973-4e1c-af21-57c5a7e697ca"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.045527175,
+    "end_location": [
+      112.0,
+      46.0
+    ],
+    "key_pass_id": "994cd628-ae4b-4556-a417-0953ae1de1aa",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.0,
+          41.0
+        ],
+        "player": {
+          "id": 15615,
+          "name": "Pauline Peyraud Magnin"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          55.0
+        ],
+        "player": {
+          "id": 15621,
+          "name": "Louise Quinn"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          50.0
+        ],
+        "player": {
+          "id": 10088,
+          "name": "Katrine Veje"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          44.0
+        ],
+        "player": {
+          "id": 15616,
+          "name": "Kim Little"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          44.0
+        ],
+        "player": {
+          "id": 10666,
+          "name": "Dominique Johanna Anna Bloodworth"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          47.0
+        ],
+        "player": {
+          "id": 15619,
+          "name": "Bethany Mead"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          44.0
+        ],
+        "player": {
+          "id": 16384,
+          "name": "Carla Humphrey"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

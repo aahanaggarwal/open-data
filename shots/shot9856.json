@@ -1,0 +1,206 @@
+{
+  "id": "d0a6ca17-2311-4d0b-b49b-aac1b812b0f0",
+  "index": 2816,
+  "period": 2,
+  "timestamp": "00:19:37.171",
+  "minute": 64,
+  "second": 37,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 131,
+  "possession_team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "player": {
+    "id": 4992,
+    "name": "Janine Beckie"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    111.9,
+    51.5
+  ],
+  "duration": 1.3351,
+  "under_pressure": true,
+  "related_events": [
+    "38d5f3b5-144d-4795-ab98-0a08e0f01c0f",
+    "9bfa45da-30e2-43dd-9c47-634f7c113e6f"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.24071987,
+    "end_location": [
+      120.0,
+      34.6,
+      0.2
+    ],
+    "key_pass_id": "5350b011-5db8-4ce9-8615-b4a635f30b8d",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.8,
+          50.2
+        ],
+        "player": {
+          "id": 15720,
+          "name": "Sophie Howard"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.3,
+          44.2
+        ],
+        "player": {
+          "id": 15577,
+          "name": "Angharad James"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.5,
+          41.4
+        ],
+        "player": {
+          "id": 19780,
+          "name": "Rachel Rowe"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.3,
+          61.2
+        ],
+        "player": {
+          "id": 31628,
+          "name": "Kristine Leine"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          86.8,
+          58.8
+        ],
+        "player": {
+          "id": 10190,
+          "name": "Jade Moore"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.9,
+          46.7
+        ],
+        "player": {
+          "id": 15719,
+          "name": "Grace Moloney"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          73.1,
+          67.8
+        ],
+        "player": {
+          "id": 15724,
+          "name": "Mayumi Pacheco"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          77.6,
+          61.3
+        ],
+        "player": {
+          "id": 20725,
+          "name": "Pauline Bremer"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          91.2,
+          41.8
+        ],
+        "player": {
+          "id": 10188,
+          "name": "Caroline Weir"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

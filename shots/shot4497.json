@@ -1,0 +1,188 @@
+{
+  "id": "4e63c75f-e835-427a-ad1f-979874a5fd13",
+  "index": 3427,
+  "period": 2,
+  "timestamp": "00:24:24.100",
+  "minute": 69,
+  "second": 24,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 146,
+  "possession_team": {
+    "id": 209,
+    "name": "Celta Vigo"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 209,
+    "name": "Celta Vigo"
+  },
+  "player": {
+    "id": 6297,
+    "name": "Maximiliano G\u00f3mez Gonz\u00e1lez"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    112.2,
+    45.4
+  ],
+  "duration": 0.595,
+  "related_events": [
+    "75281725-cea4-497e-9da1-7969f2bf2ebb"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.28463903,
+    "end_location": [
+      120.0,
+      37.9,
+      1.0
+    ],
+    "key_pass_id": "d83dde89-9b50-4c0e-8aee-71192ffbfb04",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          116.0,
+          39.6
+        ],
+        "player": {
+          "id": 6379,
+          "name": "Sergi Roberto Carnicer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.2,
+          45.0
+        ],
+        "player": {
+          "id": 5217,
+          "name": "Iago Aspas Juncal"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          94.4,
+          55.9
+        ],
+        "player": {
+          "id": 6797,
+          "name": "Daniel Wass"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          98.4,
+          27.1
+        ],
+        "player": {
+          "id": 5516,
+          "name": "Pione Sisto Ifolo Emirmija"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.6,
+          47.3
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.8,
+          40.3
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.4,
+          43.4
+        ],
+        "player": {
+          "id": 5211,
+          "name": "Jordi Alba Ramos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.7,
+          41.8
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

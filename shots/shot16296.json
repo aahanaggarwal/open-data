@@ -1,0 +1,131 @@
+{
+  "id": "1b3a45fc-e83e-4c85-9722-cdc81b899dbb",
+  "index": 1133,
+  "period": 1,
+  "timestamp": "00:27:57.323",
+  "minute": 27,
+  "second": 57,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 57,
+  "possession_team": {
+    "id": 207,
+    "name": "Valencia"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 207,
+    "name": "Valencia"
+  },
+  "player": {
+    "id": 6616,
+    "name": "Munir El Haddadi Mohamed"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    110.7,
+    43.8
+  ],
+  "duration": 0.1158,
+  "under_pressure": true,
+  "related_events": [
+    "034fe34e-bec8-40de-97c8-b312ab6a1f45",
+    "fd785e03-2018-477f-9d01-02d7fe2d3f7a"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.2877411,
+    "end_location": [
+      111.4,
+      43.7,
+      0.1
+    ],
+    "key_pass_id": "0e125968-97e3-482c-b234-5088c7005f05",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          111.7,
+          43.6
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.6,
+          42.4
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.1,
+          38.4
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.6,
+          42.5
+        ],
+        "player": {
+          "id": 6583,
+          "name": "Carlos Soler Barrag\u00e1n"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

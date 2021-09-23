@@ -1,0 +1,97 @@
+{
+  "id": "423ded77-48c3-45c5-b170-78277f295597",
+  "index": 3561,
+  "period": 2,
+  "timestamp": "00:46:02.001",
+  "minute": 91,
+  "second": 2,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 178,
+  "possession_team": {
+    "id": 767,
+    "name": "Utah Royals"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 767,
+    "name": "Utah Royals"
+  },
+  "player": {
+    "id": 4972,
+    "name": "Katie Stengel"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    105.0,
+    39.0
+  ],
+  "duration": 0.388,
+  "related_events": [
+    "131568e3-e1ab-4ae2-9ff7-6aff44dd601d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.32340273,
+    "end_location": [
+      114.0,
+      40.1,
+      0.5
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          115.0,
+          39.0
+        ],
+        "player": {
+          "id": 5056,
+          "name": "Jane Campbell"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          42.0
+        ],
+        "player": {
+          "id": 4959,
+          "name": "Taylor Comeau"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

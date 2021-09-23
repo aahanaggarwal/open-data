@@ -1,0 +1,203 @@
+{
+  "id": "d6940a30-0364-4fc7-8953-f7f1a937546d",
+  "index": 996,
+  "period": 1,
+  "timestamp": "00:27:49.483",
+  "minute": 27,
+  "second": 49,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 55,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5216,
+    "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    105.3,
+    46.6
+  ],
+  "duration": 0.937804,
+  "related_events": [
+    "aba21fb9-bc52-42d0-b21d-8842c7f3bcff"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.18854435,
+    "end_location": [
+      120.0,
+      44.1,
+      0.2
+    ],
+    "key_pass_id": "0d04eeaf-6207-4992-85c3-f5835ea1163f",
+    "outcome": {
+      "id": 99,
+      "name": "Post"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.0,
+          59.2
+        ],
+        "player": {
+          "id": 26118,
+          "name": "Antonio L\u00f3pez Guerrero"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.7,
+          45.0
+        ],
+        "player": {
+          "id": 19728,
+          "name": "Johnny Heitinga"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.6,
+          46.9
+        ],
+        "player": {
+          "id": 19731,
+          "name": "Tom\u00e1\u0161 Ujfalu\u0161i"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.2,
+          48.0
+        ],
+        "player": {
+          "id": 23991,
+          "name": "Miguel \u00c1ngel De las Cuevas Barber\u00e1"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.8,
+          44.5
+        ],
+        "player": {
+          "id": 26502,
+          "name": "Paulo Assun\u00e7\u00e3o da Silva"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          39.1
+        ],
+        "player": {
+          "id": 26120,
+          "name": "Luis Amaranto Perea Mosquera"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.8,
+          43.1
+        ],
+        "player": {
+          "id": 20256,
+          "name": "Gr\u00e9gory Coupet"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.3,
+          38.9
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.3,
+          40.1
+        ],
+        "player": {
+          "id": 11270,
+          "name": "Ei\u00f0ur Sm\u00e1ri Gu\u00f0johnsen"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

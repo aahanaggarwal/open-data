@@ -1,0 +1,159 @@
+{
+  "id": "1bbe79f2-237c-4ea7-829a-7f979a64899e",
+  "index": 3710,
+  "period": 2,
+  "timestamp": "00:47:31.455",
+  "minute": 92,
+  "second": 31,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 176,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5246,
+    "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    105.7,
+    34.2
+  ],
+  "duration": 1.595812,
+  "related_events": [
+    "b0720b36-2b02-4052-8f3f-661f0ed7135f"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.35053524,
+    "end_location": [
+      120.0,
+      43.2,
+      0.9
+    ],
+    "key_pass_id": "12e9e1a7-3dc3-46d2-9968-1a9b68c36acb",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          90.9,
+          20.8
+        ],
+        "player": {
+          "id": 5477,
+          "name": "Ousmane Demb\u00e9l\u00e9"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.8,
+          34.7
+        ],
+        "player": {
+          "id": 11332,
+          "name": "Ibrahim Amadou"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.7,
+          37.4
+        ],
+        "player": {
+          "id": 5534,
+          "name": "Simon Thorup Kj\u00e6r"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.3,
+          36.6
+        ],
+        "player": {
+          "id": 11541,
+          "name": "Tom\u00e1\u0161 Vacl\u00edk"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.3,
+          44.8
+        ],
+        "player": {
+          "id": 6804,
+          "name": "Sergi G\u00f3mez Sol\u00e0"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          88.5,
+          43.4
+        ],
+        "player": {
+          "id": 5504,
+          "name": "\u00c9ver Maximiliano David Banega"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

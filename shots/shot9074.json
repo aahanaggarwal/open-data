@@ -1,0 +1,129 @@
+{
+  "id": "9bdeb4e5-2cb3-4725-8b7a-2a3e92f10721",
+  "index": 3093,
+  "period": 2,
+  "timestamp": "00:29:42.293",
+  "minute": 74,
+  "second": 42,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 145,
+  "possession_team": {
+    "id": 769,
+    "name": "Colombia"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 769,
+    "name": "Colombia"
+  },
+  "player": {
+    "id": 5689,
+    "name": "Juan Guillermo Cuadrado Bello"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    105.0,
+    38.0
+  ],
+  "duration": 0.827,
+  "related_events": [
+    "4484e4b5-aeeb-47aa-bc1f-2c91fb704eaf"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.22527124,
+    "end_location": [
+      120.0,
+      44.0,
+      1.6
+    ],
+    "key_pass_id": "92c3fad5-88de-46bf-93a0-d609cd7d2fbc",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.0,
+          40.0
+        ],
+        "player": {
+          "id": 5672,
+          "name": "Maciej Rybus"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.0,
+          32.0
+        ],
+        "player": {
+          "id": 4626,
+          "name": "Jan Bednarek"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          37.0
+        ],
+        "player": {
+          "id": 5670,
+          "name": "Micha\u0142 Pazdan"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.0,
+          40.0
+        ],
+        "player": {
+          "id": 5669,
+          "name": "Wojciech Szcz\u0119sny"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

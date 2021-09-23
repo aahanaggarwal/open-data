@@ -1,0 +1,188 @@
+{
+  "id": "59db7f2f-36e9-4308-bd80-9512a5fad59a",
+  "index": 2259,
+  "period": 2,
+  "timestamp": "00:14:09.425",
+  "minute": 59,
+  "second": 9,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 129,
+  "possession_team": {
+    "id": 760,
+    "name": "Seattle Reign"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 760,
+    "name": "Seattle Reign"
+  },
+  "player": {
+    "id": 8298,
+    "name": "Megan Rapinoe"
+  },
+  "position": {
+    "id": 20,
+    "name": "Left Attacking Midfield"
+  },
+  "location": [
+    100.0,
+    22.0
+  ],
+  "duration": 1.73,
+  "related_events": [
+    "cceeb98f-9d2a-42a2-b662-58c41d2abfa0"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.018455962,
+    "end_location": [
+      119.0,
+      46.3,
+      1.7
+    ],
+    "key_pass_id": "b6a98007-8eaa-4482-9b56-491cf6847817",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.0,
+          10.0
+        ],
+        "player": {
+          "id": 5016,
+          "name": "Jessica Fishlock"
+        },
+        "position": {
+          "id": 14,
+          "name": "Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.0,
+          35.0
+        ],
+        "player": {
+          "id": 5001,
+          "name": "Allie Long"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          96.0,
+          24.0
+        ],
+        "player": {
+          "id": 4945,
+          "name": "Havana Solaun"
+        },
+        "position": {
+          "id": 25,
+          "name": "Secondary Striker"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          21.0
+        ],
+        "player": {
+          "id": 4941,
+          "name": "Taylor Smith"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          18.0
+        ],
+        "player": {
+          "id": 4951,
+          "name": "Rebecca Quinn"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          37.0
+        ],
+        "player": {
+          "id": 5026,
+          "name": "Meggie Dougherty Howard"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          28.0
+        ],
+        "player": {
+          "id": 4950,
+          "name": "Whitney Church"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          40.0
+        ],
+        "player": {
+          "id": 21057,
+          "name": "DiDi Haracic"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

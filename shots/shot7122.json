@@ -1,0 +1,173 @@
+{
+  "id": "3bec5c0a-563d-44ae-bcfd-be5daa91467c",
+  "index": 365,
+  "period": 1,
+  "timestamp": "00:11:04.304",
+  "minute": 11,
+  "second": 4,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 24,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    109.9,
+    26.1
+  ],
+  "duration": 0.449732,
+  "related_events": [
+    "4be8076b-1882-46e2-aae4-a281dda74926"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.062478572,
+    "end_location": [
+      118.7,
+      39.0,
+      0.9
+    ],
+    "key_pass_id": "0307b176-57d7-41b8-92f3-7b824af5be44",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.1,
+          38.1
+        ],
+        "player": {
+          "id": 40274,
+          "name": "Kasey Keller"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.8,
+          25.1
+        ],
+        "player": {
+          "id": 40318,
+          "name": "Stephen Carr"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.4,
+          38.4
+        ],
+        "player": {
+          "id": 40279,
+          "name": "Anthony Gardner"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.1,
+          41.8
+        ],
+        "player": {
+          "id": 24971,
+          "name": "Nwankwo Christian Kanu"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.2,
+          33.3
+        ],
+        "player": {
+          "id": 20488,
+          "name": "Ledley King"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.3,
+          30.3
+        ],
+        "player": {
+          "id": 15411,
+          "name": "Darren Anderton"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.1,
+          30.1
+        ],
+        "player": {
+          "id": 40317,
+          "name": "Dean Richards"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

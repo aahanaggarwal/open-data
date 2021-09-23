@@ -1,0 +1,188 @@
+{
+  "id": "9a3680cd-2809-41aa-a93a-a20812c60a9f",
+  "index": 3238,
+  "period": 2,
+  "timestamp": "00:19:14.992",
+  "minute": 64,
+  "second": 14,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 131,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5246,
+    "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    105.5,
+    40.5
+  ],
+  "duration": 0.109929,
+  "related_events": [
+    "48812e6d-7277-49c5-8f96-498d3889f1fb"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.4282726,
+    "end_location": [
+      108.9,
+      40.8,
+      0.2
+    ],
+    "key_pass_id": "2b7b9c85-78f2-4d1b-bbf8-11b3201108d1",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          109.5,
+          41.0
+        ],
+        "player": {
+          "id": 11302,
+          "name": "Jordi Masip L\u00f3pez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.8,
+          43.3
+        ],
+        "player": {
+          "id": 11304,
+          "name": "Francisco Jos\u00e9 Olivas Alba"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.6,
+          54.2
+        ],
+        "player": {
+          "id": 11293,
+          "name": "Fernando Calero Villa"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.4,
+          27.4
+        ],
+        "player": {
+          "id": 22020,
+          "name": "Joaqu\u00edn Fern\u00e1ndez Moreno"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          83.6,
+          28.7
+        ],
+        "player": {
+          "id": 5477,
+          "name": "Ousmane Demb\u00e9l\u00e9"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          92.4,
+          65.7
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          88.9,
+          58.8
+        ],
+        "player": {
+          "id": 13599,
+          "name": "Carles Ale\u00f1a Castillo"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          90.2,
+          66.6
+        ],
+        "player": {
+          "id": 7699,
+          "name": "Daniele Verde"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

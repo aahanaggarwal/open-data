@@ -1,0 +1,263 @@
+{
+  "id": "d465343e-0d7a-4631-9166-a40b8c48cea4",
+  "index": 219,
+  "period": 1,
+  "timestamp": "00:04:11.487",
+  "minute": 4,
+  "second": 11,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 9,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 25879,
+    "name": "Ronaldo de Assis Moreira"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    98.4,
+    22.0
+  ],
+  "duration": 1.0479,
+  "related_events": [
+    "0cd4bb92-b9c9-4d42-9bde-fce5154e7bf4"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.0169805,
+    "end_location": [
+      117.1,
+      38.4,
+      0.3
+    ],
+    "key_pass_id": "e867c7e8-e166-4664-93b8-eeba3bc4799a",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.7,
+          38.8
+        ],
+        "player": {
+          "id": 26029,
+          "name": "Daniel Aranzubia Aguado"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.7,
+          21.3
+        ],
+        "player": {
+          "id": 26032,
+          "name": "Unai Exp\u00f3sito Medina"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.5,
+          21.2
+        ],
+        "player": {
+          "id": 25983,
+          "name": "Josu Sarriegi Zum\u00e1rraga"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.2,
+          38.6
+        ],
+        "player": {
+          "id": 26028,
+          "name": "Fernando Amorebieta Mardaras"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.2,
+          49.8
+        ],
+        "player": {
+          "id": 26033,
+          "name": "Javier Casas Cuevas"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          88.1,
+          55.2
+        ],
+        "player": {
+          "id": 26034,
+          "name": "Igor Gabilondo del Campo"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.9,
+          22.8
+        ],
+        "player": {
+          "id": 26031,
+          "name": "Andoni Iraola Sagarna"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.2,
+          31.5
+        ],
+        "player": {
+          "id": 9399,
+          "name": "Javier Mart\u00ednez Aginaga"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          37.7
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.4,
+          51.5
+        ],
+        "player": {
+          "id": 25878,
+          "name": "Ludovic Giuly"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.2,
+          17.9
+        ],
+        "player": {
+          "id": 17797,
+          "name": "Giovanni van Bronckhorst"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.7,
+          31.2
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          93.5,
+          27.5
+        ],
+        "player": {
+          "id": 5216,
+          "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

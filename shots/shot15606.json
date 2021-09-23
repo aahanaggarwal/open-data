@@ -1,0 +1,143 @@
+{
+  "id": "123cdfdf-49ed-4409-aadc-7b49f048028c",
+  "index": 3053,
+  "period": 2,
+  "timestamp": "00:31:11.529",
+  "minute": 76,
+  "second": 11,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 146,
+  "possession_team": {
+    "id": 762,
+    "name": "Houston Dash"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 767,
+    "name": "Utah Royals"
+  },
+  "player": {
+    "id": 6817,
+    "name": "Christen Press"
+  },
+  "position": {
+    "id": 20,
+    "name": "Left Attacking Midfield"
+  },
+  "location": [
+    109.0,
+    50.0
+  ],
+  "duration": 0.676,
+  "related_events": [
+    "57199bb6-a23e-4559-b528-1b98f756118a"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.49249834,
+    "end_location": [
+      120.0,
+      41.9,
+      1.0
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          116.0,
+          47.0
+        ],
+        "player": {
+          "id": 5056,
+          "name": "Jane Campbell"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          33.0
+        ],
+        "player": {
+          "id": 8382,
+          "name": "Clare Polkinghorne"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.0,
+          47.0
+        ],
+        "player": {
+          "id": 5053,
+          "name": "Linda Maserame Motlhalo"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          47.0
+        ],
+        "player": {
+          "id": 5045,
+          "name": "Amber Brooks"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.0,
+          30.0
+        ],
+        "player": {
+          "id": 5027,
+          "name": "Erika Tymrak"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

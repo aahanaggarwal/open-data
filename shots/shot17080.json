@@ -1,0 +1,204 @@
+{
+  "id": "fc050080-db06-4e8f-a7e0-1c7316401394",
+  "index": 332,
+  "period": 1,
+  "timestamp": "00:10:13.935",
+  "minute": 10,
+  "second": 13,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 36,
+  "possession_team": {
+    "id": 967,
+    "name": "Everton LFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 967,
+    "name": "Everton LFC"
+  },
+  "player": {
+    "id": 15556,
+    "name": "Chantelle Boye-Hlorkah"
+  },
+  "position": {
+    "id": 18,
+    "name": "Right Attacking Midfield"
+  },
+  "location": [
+    118.0,
+    34.0
+  ],
+  "duration": 0.3967,
+  "related_events": [
+    "5c61093a-404e-4637-83c4-0f3355c84519"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.2371258,
+    "end_location": [
+      119.0,
+      36.4,
+      0.6
+    ],
+    "key_pass_id": "b0d4be18-459b-48f3-994d-81dd3aab6392",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          115.0,
+          43.0
+        ],
+        "player": {
+          "id": 15570,
+          "name": "Chloe Kelly"
+        },
+        "position": {
+          "id": 20,
+          "name": "Left Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.0,
+          30.0
+        ],
+        "player": {
+          "id": 15579,
+          "name": "Inessa Kaagman"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.0,
+          37.0
+        ],
+        "player": {
+          "id": 15709,
+          "name": "Megan Walsh"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.0,
+          33.0
+        ],
+        "player": {
+          "id": 15708,
+          "name": "Amy Goddard"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.0,
+          38.0
+        ],
+        "player": {
+          "id": 15717,
+          "name": "Hannah Short"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.0,
+          41.0
+        ],
+        "player": {
+          "id": 15712,
+          "name": "Nicola Cousins"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          46.0
+        ],
+        "player": {
+          "id": 15710,
+          "name": "Megan Alexander"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          29.0
+        ],
+        "player": {
+          "id": 15707,
+          "name": "Georgia Evans"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          49.0
+        ],
+        "player": {
+          "id": 15715,
+          "name": "Ellie Mason"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "id": "7ffa624e-d4a7-465b-b2ae-ad2d3c5aafb6",
+  "index": 2931,
+  "period": 2,
+  "timestamp": "00:26:35.105",
+  "minute": 71,
+  "second": 35,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 131,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 6402,
+    "name": "Francisco Alc\u00e1cer Garc\u00eda"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    114.1,
+    38.5
+  ],
+  "duration": 0.18,
+  "related_events": [
+    "e2d380c4-3d4f-45a0-86f7-92ef482702fc"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.5782504,
+    "end_location": [
+      118.3,
+      40.1,
+      0.9
+    ],
+    "key_pass_id": "fb759709-63a8-491b-83aa-bf24e6c25a48",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.8,
+          45.6
+        ],
+        "player": {
+          "id": 4320,
+          "name": "Neymar da Silva Santos Junior"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.3,
+          52.5
+        ],
+        "player": {
+          "id": 11094,
+          "name": "Arda Turan"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.7,
+          41.2
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.3,
+          48.2
+        ],
+        "player": {
+          "id": 6734,
+          "name": "Luis Carlos Correia Pinto"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.2,
+          43.5
+        ],
+        "player": {
+          "id": 6869,
+          "name": "Alejandro Arribas Garrido"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.9,
+          39.0
+        ],
+        "player": {
+          "id": 6727,
+          "name": "Ra\u00fal Albentosa Redal"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.9,
+          40.2
+        ],
+        "player": {
+          "id": 27305,
+          "name": "Germ\u00e1n Dar\u00edo Lux"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

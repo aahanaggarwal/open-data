@@ -1,0 +1,175 @@
+{
+  "id": "4c2da9f1-9a7d-4b06-bae7-f5e139bd771b",
+  "index": 2464,
+  "period": 2,
+  "timestamp": "00:05:38.462",
+  "minute": 50,
+  "second": 38,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 123,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 12737,
+    "name": "David Villa S\u00e1nchez"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    100.1,
+    28.7
+  ],
+  "duration": 1.2928,
+  "under_pressure": true,
+  "related_events": [
+    "9f628633-37ed-4744-a85b-851e7ded2303",
+    "da02fec7-e42a-4efb-8511-87ce63bec6a1"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.03675989,
+    "end_location": [
+      120.0,
+      33.8,
+      0.2
+    ],
+    "key_pass_id": "f7f2fde2-91f2-4de3-9adf-5ad265174dec",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.9,
+          38.9
+        ],
+        "player": {
+          "id": 4691,
+          "name": "Claudio Andr\u00e9s Bravo Mu\u00f1oz"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.1,
+          28.8
+        ],
+        "player": {
+          "id": 26441,
+          "name": "Daniel Estrada Agirrezablaga"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.8,
+          41.0
+        ],
+        "player": {
+          "id": 6665,
+          "name": "\u00cd\u00f1igo Mart\u00ednez Berridi"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          31.0
+        ],
+        "player": {
+          "id": 26701,
+          "name": "Vadim Demidov"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.6,
+          52.1
+        ],
+        "player": {
+          "id": 6674,
+          "name": "Alberto De La Bella Madure\u00f1o"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.2,
+          36.3
+        ],
+        "player": {
+          "id": 6671,
+          "name": "Asier Illarramendi Andonegi"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.2,
+          37.7
+        ],
+        "player": {
+          "id": 3478,
+          "name": "Francesc F\u00e0bregas i Soler"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

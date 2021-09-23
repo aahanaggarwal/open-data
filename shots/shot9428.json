@@ -1,0 +1,129 @@
+{
+  "id": "fed3f331-8c61-4600-8492-204f28fb51c6",
+  "index": 1040,
+  "period": 1,
+  "timestamp": "00:22:05.068",
+  "minute": 22,
+  "second": 5,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 48,
+  "possession_team": {
+    "id": 206,
+    "name": "Deportivo Alav\u00e9s"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 206,
+    "name": "Deportivo Alav\u00e9s"
+  },
+  "player": {
+    "id": 6038,
+    "name": "John Guidetti"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    107.8,
+    52.8
+  ],
+  "duration": 0.662629,
+  "related_events": [
+    "21c2cdee-242f-4b08-ab06-164d3bbfe9d5"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.17372215,
+    "end_location": [
+      120.0,
+      42.9,
+      1.3
+    ],
+    "key_pass_id": "4207d4d5-ee76-43ba-ae31-2b0946e1f934",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          106.3,
+          50.6
+        ],
+        "player": {
+          "id": 5492,
+          "name": "Samuel Yves Umtiti"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.5,
+          40.2
+        ],
+        "player": {
+          "id": 6374,
+          "name": "N\u00e9lson Cabral Semedo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.7,
+          39.9
+        ],
+        "player": {
+          "id": 6613,
+          "name": "Rub\u00e9n Sobrino Pozuelo"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.8,
+          43.8
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

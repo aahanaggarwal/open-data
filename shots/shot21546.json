@@ -1,0 +1,173 @@
+{
+  "id": "58640053-0593-44e0-bd35-a854ffe6ae18",
+  "index": 3619,
+  "period": 2,
+  "timestamp": "00:30:25.751",
+  "minute": 75,
+  "second": 25,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 121,
+  "possession_team": {
+    "id": 782,
+    "name": "Belgium"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 782,
+    "name": "Belgium"
+  },
+  "player": {
+    "id": 5630,
+    "name": "Dries Mertens"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    104.0,
+    30.0
+  ],
+  "duration": 1.72,
+  "related_events": [
+    "fbc9d2c4-a945-4ce2-9f02-6fc2dcfba101"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.064848706,
+    "end_location": [
+      120.0,
+      46.9,
+      0.3
+    ],
+    "key_pass_id": "59b85292-0f49-4b6e-b889-79bf07c027e1",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          97.0,
+          37.0
+        ],
+        "player": {
+          "id": 3089,
+          "name": "Kevin De Bruyne"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.0,
+          28.0
+        ],
+        "player": {
+          "id": 3621,
+          "name": "Eden Hazard"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.0,
+          40.0
+        ],
+        "player": {
+          "id": 3468,
+          "name": "Jordan Pickford"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          30.0
+        ],
+        "player": {
+          "id": 3314,
+          "name": "Phil Jones"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          30.0
+        ],
+        "player": {
+          "id": 3244,
+          "name": "John Stones"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          43.0
+        ],
+        "player": {
+          "id": 4597,
+          "name": "Fabian Delph"
+        },
+        "position": {
+          "id": 8,
+          "name": "Left Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          38.0
+        ],
+        "player": {
+          "id": 10956,
+          "name": "Eric Dier"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

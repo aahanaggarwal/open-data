@@ -1,0 +1,236 @@
+{
+  "id": "3681dbba-aa3a-402a-aa29-baebad73adc8",
+  "index": 2537,
+  "period": 2,
+  "timestamp": "00:20:55.741",
+  "minute": 65,
+  "second": 55,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 133,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    105.6,
+    27.3
+  ],
+  "duration": 0.6522,
+  "under_pressure": true,
+  "related_events": [
+    "bc045450-f0d7-40f1-9a6f-1683632bfa9d",
+    "c7520767-f48d-41d6-80a5-c95daa362bae"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.039550923,
+    "end_location": [
+      118.6,
+      37.1,
+      2.4
+    ],
+    "key_pass_id": "d422ac4c-015c-453c-b162-dfcf426add29",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.2,
+          20.3
+        ],
+        "player": {
+          "id": 3672,
+          "name": "Zlatan Ibrahimovi\u0107"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.0,
+          37.2
+        ],
+        "player": {
+          "id": 26146,
+          "name": "Dud\u00fa Aouate"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.8,
+          43.2
+        ],
+        "player": {
+          "id": 23488,
+          "name": "Mario Su\u00e1rez Mata"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.2,
+          38.8
+        ],
+        "player": {
+          "id": 6778,
+          "name": "Iv\u00e1n Ramis Barrios"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.6,
+          51.7
+        ],
+        "player": {
+          "id": 6740,
+          "name": "Gonzalo Castro Iriz\u00e1bal"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.7,
+          56.0
+        ],
+        "player": {
+          "id": 26147,
+          "name": "Ayoze D\u00edaz D\u00edaz"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.5,
+          34.3
+        ],
+        "player": {
+          "id": 26758,
+          "name": "Felipe Mattioni Rohde"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.1,
+          27.3
+        ],
+        "player": {
+          "id": 25992,
+          "name": "Jos\u00e9 Carlos de Ara\u00fajo Nunes"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.1,
+          29.5
+        ],
+        "player": {
+          "id": 25948,
+          "name": "Jose Luis Mart\u00ed Soler"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.1,
+          39.9
+        ],
+        "player": {
+          "id": 26624,
+          "name": "Jeffren Isaac Su\u00e1rez Berm\u00fadez"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          93.3,
+          55.3
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

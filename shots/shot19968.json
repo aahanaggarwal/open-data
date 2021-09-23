@@ -1,0 +1,203 @@
+{
+  "id": "37ecae41-bd89-40dc-8b34-a09f0914dd29",
+  "index": 2751,
+  "period": 2,
+  "timestamp": "00:15:30.563",
+  "minute": 60,
+  "second": 30,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 117,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    103.0,
+    33.0
+  ],
+  "duration": 0.0471,
+  "related_events": [
+    "669b47d1-e7f1-42ec-a738-5feff484b57a",
+    "901d7b07-6111-4c0c-be7d-a07273fc2907"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.03668935,
+    "end_location": [
+      104.4,
+      33.4
+    ],
+    "key_pass_id": "dec095a8-fe03-41f2-b4b8-54359e7e669b",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          101.2,
+          30.1
+        ],
+        "player": {
+          "id": 6400,
+          "name": "Aleix Vidal Parreu"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.5,
+          33.6
+        ],
+        "player": {
+          "id": 6825,
+          "name": "Daniel Filipe Martins Carri\u00e7o"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.4,
+          32.4
+        ],
+        "player": {
+          "id": 7909,
+          "name": "Nicol\u00e1s Mart\u00edn Pareja"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          28.5
+        ],
+        "player": {
+          "id": 4320,
+          "name": "Neymar da Silva Santos Junior"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.9,
+          26.2
+        ],
+        "player": {
+          "id": 5211,
+          "name": "Jordi Alba Ramos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.2,
+          42.2
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.5,
+          39.1
+        ],
+        "player": {
+          "id": 6823,
+          "name": "Sergio Rico Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.3,
+          30.9
+        ],
+        "player": {
+          "id": 6672,
+          "name": "Jorge And\u00fajar Moreno"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.5,
+          40.1
+        ],
+        "player": {
+          "id": 3637,
+          "name": "Grzegorz Krychowiak"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

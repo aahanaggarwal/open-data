@@ -1,0 +1,325 @@
+{
+  "id": "71ad4efc-b1fb-4c3f-b155-71ce27a1d9f8",
+  "index": 559,
+  "period": 1,
+  "timestamp": "00:13:13.933",
+  "minute": 13,
+  "second": 13,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 38,
+  "possession_team": {
+    "id": 974,
+    "name": "Reading WFC"
+  },
+  "play_pattern": {
+    "id": 8,
+    "name": "From Keeper"
+  },
+  "team": {
+    "id": 974,
+    "name": "Reading WFC"
+  },
+  "player": {
+    "id": 10190,
+    "name": "Jade Moore"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    95.9,
+    47.2
+  ],
+  "duration": 0.433701,
+  "under_pressure": true,
+  "related_events": [
+    "34b8758a-be69-44cd-9d58-40951c249984",
+    "57c3091b-f58f-4b7d-bf7e-d5d85fcf955d",
+    "b0ee1348-1ebc-49a5-9d53-95cd1a35c63f"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.027299238,
+    "end_location": [
+      98.6,
+      46.7
+    ],
+    "key_pass_id": "c58355a1-210e-4c93-8a3a-0481ea6fe56b",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          92.8,
+          25.5
+        ],
+        "player": {
+          "id": 16374,
+          "name": "Aileen Whelan"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.8,
+          20.9
+        ],
+        "player": {
+          "id": 16400,
+          "name": "Kayleigh Green"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.9,
+          29.5
+        ],
+        "player": {
+          "id": 19414,
+          "name": "Kirsty Barton"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.4,
+          35.2
+        ],
+        "player": {
+          "id": 16383,
+          "name": "Danique Kerkdijk"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.3,
+          58.0
+        ],
+        "player": {
+          "id": 16399,
+          "name": "Kate Natkiel"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.4,
+          43.0
+        ],
+        "player": {
+          "id": 16395,
+          "name": "Victoria Williams"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.3,
+          44.5
+        ],
+        "player": {
+          "id": 31529,
+          "name": "L\u00e9a Le Garrec"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.8,
+          45.9
+        ],
+        "player": {
+          "id": 20034,
+          "name": "Danielle Buet"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.1,
+          47.0
+        ],
+        "player": {
+          "id": 16392,
+          "name": "Felicity Gibbons"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.2,
+          41.6
+        ],
+        "player": {
+          "id": 15709,
+          "name": "Megan Walsh"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          50.2
+        ],
+        "player": {
+          "id": 24747,
+          "name": "Millie Farrow"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.9,
+          24.6
+        ],
+        "player": {
+          "id": 15724,
+          "name": "Mayumi Pacheco"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          93.6,
+          28.1
+        ],
+        "player": {
+          "id": 10251,
+          "name": "Fara Williams"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.4,
+          33.7
+        ],
+        "player": {
+          "id": 15723,
+          "name": "Brooke Chaplen"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          82.9,
+          26.4
+        ],
+        "player": {
+          "id": 18149,
+          "name": "Remi Allen"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.0,
+          60.6
+        ],
+        "player": {
+          "id": 26570,
+          "name": "Amalie Vevle Eikeland"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          71.7,
+          52.1
+        ],
+        "player": {
+          "id": 15577,
+          "name": "Angharad James"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "id": "df82bf4e-128b-4712-a280-23d3654849d8",
+  "index": 1837,
+  "period": 1,
+  "timestamp": "00:39:13.650",
+  "minute": 39,
+  "second": 13,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 90,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 12737,
+    "name": "David Villa S\u00e1nchez"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    107.7,
+    37.9
+  ],
+  "duration": 0.3621,
+  "under_pressure": true,
+  "related_events": [
+    "38f4c539-0b3d-45b0-9e0a-2d22f4f7d3de",
+    "eedbaf70-bece-4a55-bc66-4405ca8cf36e"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.20463763,
+    "end_location": [
+      116.3,
+      39.1,
+      0.6
+    ],
+    "key_pass_id": "7f6f004e-efc2-465e-a421-8d3e7be44ed8",
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          100.4,
+          52.2
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.7,
+          38.9
+        ],
+        "player": {
+          "id": 6913,
+          "name": "Fernando Navarro i Corbacho"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.9,
+          37.2
+        ],
+        "player": {
+          "id": 26753,
+          "name": "Javier Varas Herrera"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.5,
+          30.6
+        ],
+        "player": {
+          "id": 26018,
+          "name": "Julien Escud\u00e9"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.1,
+          27.5
+        ],
+        "player": {
+          "id": 6349,
+          "name": "Federico Juli\u00e1n Fazio"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.7,
+          32.2
+        ],
+        "player": {
+          "id": 16453,
+          "name": "Gary Alexis Medel Soto"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.5,
+          35.3
+        ],
+        "player": {
+          "id": 5248,
+          "name": "Jos\u00e9 Mart\u00edn C\u00e1ceres Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.8,
+          30.3
+        ],
+        "player": {
+          "id": 22102,
+          "name": "Adriano Correia Claro"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

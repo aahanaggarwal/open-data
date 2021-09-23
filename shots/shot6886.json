@@ -1,0 +1,190 @@
+{
+  "id": "1a68c2d4-8346-4a9a-a6d7-bb6ff85b998b",
+  "index": 1652,
+  "period": 2,
+  "timestamp": "00:03:41.638",
+  "minute": 48,
+  "second": 41,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 111,
+  "possession_team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "play_pattern": {
+    "id": 8,
+    "name": "From Keeper"
+  },
+  "off_camera": false,
+  "team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "player": {
+    "id": 4654,
+    "name": "Nikita Parris"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    115.0,
+    41.0
+  ],
+  "duration": 0.4,
+  "related_events": [
+    "cba9cd2d-9992-407a-aaf3-0311eb351c87"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.56930166,
+    "end_location": [
+      120.0,
+      40.5,
+      2.0
+    ],
+    "key_pass_id": "d48d70cf-3464-40c9-80c0-f81d7ce46b25",
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.0,
+          40.0
+        ],
+        "player": {
+          "id": 4640,
+          "name": "Rut Hedvig Lindahl"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          40.0
+        ],
+        "player": {
+          "id": 4633,
+          "name": "Magdalena Ericsson"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          46.0
+        ],
+        "player": {
+          "id": 4639,
+          "name": "Maren Mjelde"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          29.0
+        ],
+        "player": {
+          "id": 4657,
+          "name": "Anita Amma Ankyewah Asante"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          21.0
+        ],
+        "player": {
+          "id": 4656,
+          "name": "Hannah Jayne Blundell"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.0,
+          44.0
+        ],
+        "player": {
+          "id": 4634,
+          "name": "Crystal Dunn"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          17.0
+        ],
+        "player": {
+          "id": 4642,
+          "name": "Millie Bright"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          25.0
+        ],
+        "player": {
+          "id": 4650,
+          "name": "Nadia Nadim"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

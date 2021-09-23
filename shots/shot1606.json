@@ -1,0 +1,189 @@
+{
+  "id": "48c98f52-3f5e-4e2d-b0e4-a70644e82c69",
+  "index": 1946,
+  "period": 2,
+  "timestamp": "00:01:52.996",
+  "minute": 46,
+  "second": 52,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 97,
+  "possession_team": {
+    "id": 2647,
+    "name": "Aston Villa"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 2647,
+    "name": "Aston Villa"
+  },
+  "player": {
+    "id": 10159,
+    "name": "Diana Micaela Abreu de Sousa e Silva"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    103.8,
+    27.2
+  ],
+  "duration": 1.178251,
+  "related_events": [
+    "115afc63-0334-4fe6-956f-dfc1456b7c93"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.26018205,
+    "end_location": [
+      120.0,
+      34.8,
+      0.0
+    ],
+    "key_pass_id": "9c8f095d-7519-4b60-94de-773ad0469874",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "first_time": true,
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          106.4,
+          29.9
+        ],
+        "player": {
+          "id": 4637,
+          "name": "Ellie Roebuck"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.8,
+          38.9
+        ],
+        "player": {
+          "id": 4658,
+          "name": "Keira Walsh"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.4,
+          32.2
+        ],
+        "player": {
+          "id": 15554,
+          "name": "Gemma Bonner"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.1,
+          46.5
+        ],
+        "player": {
+          "id": 4651,
+          "name": "Demi Stokes"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.4,
+          39.4
+        ],
+        "player": {
+          "id": 10185,
+          "name": "Stephanie Houghton"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.3,
+          41.7
+        ],
+        "player": {
+          "id": 10102,
+          "name": "Stine Larsen"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.5,
+          44.4
+        ],
+        "player": {
+          "id": 15557,
+          "name": "Emma Follis"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          81.7,
+          49.4
+        ],
+        "player": {
+          "id": 10188,
+          "name": "Caroline Weir"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

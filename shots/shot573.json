@@ -1,0 +1,159 @@
+{
+  "id": "8b9f21c4-94bf-4917-8f1c-4e3961b01ced",
+  "index": 3462,
+  "period": 2,
+  "timestamp": "00:31:20.289",
+  "minute": 76,
+  "second": 20,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 171,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 12737,
+    "name": "David Villa S\u00e1nchez"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    109.0,
+    34.3
+  ],
+  "duration": 1.441,
+  "related_events": [
+    "6d07ac7a-369b-4508-bede-8f630c376e50"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.2689121,
+    "end_location": [
+      120.0,
+      45.5,
+      0.5
+    ],
+    "key_pass_id": "9c3f6e4d-32d8-4bfc-87f2-f603aa929400",
+    "first_time": true,
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          115.2,
+          37.5
+        ],
+        "player": {
+          "id": 6625,
+          "name": "Vicente Guaita Panadero"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.3,
+          42.2
+        ],
+        "player": {
+          "id": 3253,
+          "name": "Adil Rami"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.7,
+          36.0
+        ],
+        "player": {
+          "id": 20138,
+          "name": "Jo\u00e3o Pedro da Silva Pereira"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.9,
+          42.8
+        ],
+        "player": {
+          "id": 19454,
+          "name": "Ricardo Miguel Moreira da Costa"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.1,
+          60.1
+        ],
+        "player": {
+          "id": 5563,
+          "name": "Jos\u00e9 Andr\u00e9s Guardado Hern\u00e1ndez"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          82.8,
+          56.6
+        ],
+        "player": {
+          "id": 27146,
+          "name": "Aly Cissokho"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

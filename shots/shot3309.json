@@ -1,0 +1,190 @@
+{
+  "id": "b6cefdeb-0380-46d6-b33e-555af88ea42e",
+  "index": 3073,
+  "period": 2,
+  "timestamp": "00:42:41.664",
+  "minute": 87,
+  "second": 41,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 209,
+  "possession_team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "player": {
+    "id": 4635,
+    "name": "Julia Spetsmark"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    101.6,
+    38.3
+  ],
+  "duration": 0.139932,
+  "related_events": [
+    "7dfdce84-c0d2-42fc-a984-789e6884f6bd",
+    "baf56507-c57b-4e22-a06e-b1cd8498b4fc"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.10018355,
+    "end_location": [
+      120.0,
+      42.5,
+      2.4
+    ],
+    "key_pass_id": "35c45885-1ed9-4532-848d-797134bc10dd",
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "deflected": true,
+    "freeze_frame": [
+      {
+        "location": [
+          117.3,
+          40.0
+        ],
+        "player": {
+          "id": 5090,
+          "name": "Ashlyn Harris"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.9,
+          50.1
+        ],
+        "player": {
+          "id": 5064,
+          "name": "Carson Pickett"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.9,
+          38.8
+        ],
+        "player": {
+          "id": 5074,
+          "name": "Shelina Zadorsky"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.2,
+          37.4
+        ],
+        "player": {
+          "id": 5078,
+          "name": "Alanna Kennedy"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.8,
+          33.2
+        ],
+        "player": {
+          "id": 5089,
+          "name": "Ali Krieger"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.6,
+          38.3
+        ],
+        "player": {
+          "id": 5062,
+          "name": "Dani Weatherholt"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          48.7
+        ],
+        "player": {
+          "id": 33350,
+          "name": "Leah Pruitt"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          89.3,
+          44.4
+        ],
+        "player": {
+          "id": 5080,
+          "name": "Kristen Hamilton"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

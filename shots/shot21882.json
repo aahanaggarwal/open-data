@@ -1,0 +1,233 @@
+{
+  "id": "6a9f8021-d42f-4a46-a32c-34fca85c4254",
+  "index": 1428,
+  "period": 1,
+  "timestamp": "00:37:11.051",
+  "minute": 37,
+  "second": 11,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 91,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    106.5,
+    40.9
+  ],
+  "duration": 0.1042,
+  "related_events": [
+    "02dcb6b8-567d-48c1-bdaa-0a4fb8e46828",
+    "ec320c3e-70ef-4f02-a98e-4683312ba0ed"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.22240074,
+    "end_location": [
+      107.8,
+      41.0
+    ],
+    "key_pass_id": "8fa160e2-a5b9-429b-a30f-54d311c4263a",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          111.1,
+          60.2
+        ],
+        "player": {
+          "id": 3385,
+          "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.0,
+          51.8
+        ],
+        "player": {
+          "id": 5208,
+          "name": "Thiago Alc\u00e2ntara do Nascimento"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.8,
+          34.2
+        ],
+        "player": {
+          "id": 3958,
+          "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          116.8,
+          49.8
+        ],
+        "player": {
+          "id": 6379,
+          "name": "Sergi Roberto Carnicer"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.9,
+          73.1
+        ],
+        "player": {
+          "id": 24166,
+          "name": "Juan Francisco Mart\u00ednez Modesto"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.9,
+          48.9
+        ],
+        "player": {
+          "id": 24313,
+          "name": "Miguel Fla\u00f1o Bezunartea"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.7,
+          46.0
+        ],
+        "player": {
+          "id": 15416,
+          "name": "Jukka Raitala"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.8,
+          36.1
+        ],
+        "player": {
+          "id": 26807,
+          "name": "Marc Bertr\u00e1n Vilanova"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.3,
+          39.8
+        ],
+        "player": {
+          "id": 8697,
+          "name": "Andr\u00e9s Eduardo Fern\u00e1ndez Moreno"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.2,
+          41.4
+        ],
+        "player": {
+          "id": 25969,
+          "name": "Sergio Fern\u00e1ndez Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.3,
+          47.5
+        ],
+        "player": {
+          "id": 25874,
+          "name": "Francisco Pu\u00f1al Mart\u00ednez"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

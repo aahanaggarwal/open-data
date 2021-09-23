@@ -1,0 +1,188 @@
+{
+  "id": "6f637a15-ab0f-42e1-98dc-87d0cd33ef47",
+  "index": 2407,
+  "period": 2,
+  "timestamp": "00:07:31.412",
+  "minute": 52,
+  "second": 31,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 103,
+  "possession_team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "player": {
+    "id": 20725,
+    "name": "Pauline Bremer"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    103.2,
+    36.4
+  ],
+  "duration": 0.746902,
+  "related_events": [
+    "e1f080c8-5b02-441f-a531-33d657584b62"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.105378896,
+    "end_location": [
+      120.0,
+      41.9,
+      2.0
+    ],
+    "key_pass_id": "0aa71d7b-dfce-4056-b7b7-a19c8c8afe21",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          92.4,
+          20.9
+        ],
+        "player": {
+          "id": 4643,
+          "name": "Georgia Stanway"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          98.3,
+          35.8
+        ],
+        "player": {
+          "id": 15573,
+          "name": "Abbey-Leigh Stringer"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.2,
+          49.9
+        ],
+        "player": {
+          "id": 15571,
+          "name": "Danielle Turner"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.7,
+          19.7
+        ],
+        "player": {
+          "id": 19687,
+          "name": "Taylor Hinds"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.2,
+          34.4
+        ],
+        "player": {
+          "id": 10651,
+          "name": "Kika van Es"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.4,
+          38.3
+        ],
+        "player": {
+          "id": 15575,
+          "name": "Gabrielle George"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.0,
+          23.4
+        ],
+        "player": {
+          "id": 31713,
+          "name": "Ma\u00e9va Clemaron"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.3,
+          39.8
+        ],
+        "player": {
+          "id": 13857,
+          "name": "Tinja-Riikka Korpela"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "id": "e19443a7-0560-4862-9a20-8cc80bc6bd40",
+  "index": 1705,
+  "period": 1,
+  "timestamp": "00:42:42.398",
+  "minute": 42,
+  "second": 42,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 78,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    114.5,
+    40.3
+  ],
+  "duration": 0.013308,
+  "related_events": [
+    "2dfccd07-96bd-4542-9004-8b4b8d8e9633"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.42695585,
+    "end_location": [
+      115.4,
+      39.9,
+      0.3
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          115.7,
+          39.5
+        ],
+        "player": {
+          "id": 23344,
+          "name": "Aitor Fern\u00e1ndez Abarisketa"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.4,
+          39.6
+        ],
+        "player": {
+          "id": 11676,
+          "name": "Jorge Miram\u00f3n Santagertrudis"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          37.1
+        ],
+        "player": {
+          "id": 11669,
+          "name": "Gonzalo Juli\u00e1n Melero Manzanares"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.2,
+          34.6
+        ],
+        "player": {
+          "id": 25006,
+          "name": "Carles P\u00e9rez Sayol"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.1,
+          57.3
+        ],
+        "player": {
+          "id": 8206,
+          "name": "Arturo Erasmo Vidal Pardo"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.9,
+          52.0
+        ],
+        "player": {
+          "id": 23948,
+          "name": "Carlos Clerc Mart\u00ednez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.1,
+          46.1
+        ],
+        "player": {
+          "id": 6592,
+          "name": "R\u00faben Miguel Nunes Vezo"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          43.7
+        ],
+        "player": {
+          "id": 6379,
+          "name": "Sergi Roberto Carnicer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.5,
+          45.5
+        ],
+        "player": {
+          "id": 6682,
+          "name": "Sergio Postigo Redondo"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

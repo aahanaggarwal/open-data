@@ -1,0 +1,174 @@
+{
+  "id": "3f8a700d-4043-4235-a8b1-38138cd095bf",
+  "index": 1625,
+  "period": 2,
+  "timestamp": "00:02:37.629",
+  "minute": 47,
+  "second": 37,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 108,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    114.2,
+    54.7
+  ],
+  "duration": 1.1366,
+  "related_events": [
+    "4b2219e2-fca3-48ed-9fb4-6976b5f34b81",
+    "68d1ec8c-1fa7-42eb-8be3-bc23d56f48c4"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.0956511,
+    "end_location": [
+      119.6,
+      37.9
+    ],
+    "key_pass_id": "8d0dfdbc-b7b5-4123-848a-5571faf9b4c2",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          113.5,
+          47.6
+        ],
+        "player": {
+          "id": 6610,
+          "name": "Iv\u00e1n Cu\u00e9llar Sacrist\u00e1n"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.7,
+          47.7
+        ],
+        "player": {
+          "id": 26123,
+          "name": "Peter Luccin"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.7,
+          47.7
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.7,
+          36.6
+        ],
+        "player": {
+          "id": 19767,
+          "name": "Giorgios Seitaridis"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.9,
+          42.2
+        ],
+        "player": {
+          "id": 26222,
+          "name": "Jos\u00e9 Eduardo Rosa Vale e Castro"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.8,
+          38.7
+        ],
+        "player": {
+          "id": 26392,
+          "name": "Fabiano Eler dos Santos"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.1,
+          50.1
+        ],
+        "player": {
+          "id": 26118,
+          "name": "Antonio L\u00f3pez Guerrero"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

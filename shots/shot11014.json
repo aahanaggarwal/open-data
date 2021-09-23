@@ -1,0 +1,188 @@
+{
+  "id": "3ae2ec53-4fb2-404c-9400-4a6ba4895e30",
+  "index": 3627,
+  "period": 2,
+  "timestamp": "00:45:29.039",
+  "minute": 90,
+  "second": 29,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 191,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    107.0,
+    27.4
+  ],
+  "duration": 0.556916,
+  "related_events": [
+    "81d743b9-88a6-4c1d-8d1a-e34517b5724f"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.08436492,
+    "end_location": [
+      120.0,
+      43.0,
+      0.1
+    ],
+    "key_pass_id": "8c1d250e-8ce2-4dbb-be2d-686391c3e6f2",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.1,
+          37.4
+        ],
+        "player": {
+          "id": 11179,
+          "name": "Iker Casillas Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.2,
+          17.0
+        ],
+        "player": {
+          "id": 25854,
+          "name": "Sylvio Mendes Campos Junior"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.4,
+          40.6
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.5,
+          44.8
+        ],
+        "player": {
+          "id": 11270,
+          "name": "Ei\u00f0ur Sm\u00e1ri Gu\u00f0johnsen"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          93.8,
+          27.9
+        ],
+        "player": {
+          "id": 26021,
+          "name": "Mahamadou Diarra"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.4,
+          31.6
+        ],
+        "player": {
+          "id": 15584,
+          "name": "Iv\u00e1n Helguera Buj\u00eda"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.1,
+          38.3
+        ],
+        "player": {
+          "id": 6878,
+          "name": "Miguel Torres G\u00f3mez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          29.7
+        ],
+        "player": {
+          "id": 5201,
+          "name": "Sergio Ramos Garc\u00eda"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

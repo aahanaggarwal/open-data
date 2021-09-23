@@ -1,0 +1,308 @@
+{
+  "id": "753b41d5-1aa9-4e68-82d5-1df6c52bbbf1",
+  "index": 854,
+  "period": 1,
+  "timestamp": "00:21:52.000",
+  "minute": 21,
+  "second": 52,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 48,
+  "possession_team": {
+    "id": 770,
+    "name": "Germany"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 770,
+    "name": "Germany"
+  },
+  "player": {
+    "id": 5574,
+    "name": "Toni Kroos"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    97.0,
+    27.0
+  ],
+  "duration": 1.053,
+  "related_events": [
+    "9f347d56-586d-4b0e-91e5-450d69765595"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.031637885,
+    "end_location": [
+      118.0,
+      39.3,
+      0.9
+    ],
+    "key_pass_id": "d6c335d8-3ec5-4520-8523-d3a5209c323c",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          92.0,
+          36.0
+        ],
+        "player": {
+          "id": 3186,
+          "name": "Julian Draxler"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          90.0,
+          40.0
+        ],
+        "player": {
+          "id": 5566,
+          "name": "Sami Khedira"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          86.0,
+          60.0
+        ],
+        "player": {
+          "id": 5579,
+          "name": "Joshua Kimmich"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.0,
+          53.0
+        ],
+        "player": {
+          "id": 5562,
+          "name": "Thomas M\u00fcller"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.0,
+          44.0
+        ],
+        "player": {
+          "id": 3496,
+          "name": "Mesut \u00d6zil"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.0,
+          37.0
+        ],
+        "player": {
+          "id": 5557,
+          "name": "Timo Werner"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.0,
+          15.0
+        ],
+        "player": {
+          "id": 5569,
+          "name": "Marvin Plattenhardt"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.0,
+          38.0
+        ],
+        "player": {
+          "id": 5577,
+          "name": "Francisco Guillermo Ochoa Maga\u00f1a"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          88.0,
+          61.0
+        ],
+        "player": {
+          "id": 5571,
+          "name": "Hirving Rodrigo Lozano Bahena"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          47.0
+        ],
+        "player": {
+          "id": 5576,
+          "name": "Jes\u00fas Daniel Gallardo Vasconcelos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          40.0
+        ],
+        "player": {
+          "id": 5573,
+          "name": "H\u00e9ctor Alfredo Moreno Herrera"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.0,
+          40.0
+        ],
+        "player": {
+          "id": 5563,
+          "name": "Jos\u00e9 Andr\u00e9s Guardado Hern\u00e1ndez"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.0,
+          35.0
+        ],
+        "player": {
+          "id": 5575,
+          "name": "H\u00e9ctor Miguel Herrera L\u00f3pez"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          34.0
+        ],
+        "player": {
+          "id": 5561,
+          "name": "Hugo Ayala Castro"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          29.0
+        ],
+        "player": {
+          "id": 5564,
+          "name": "Carlos Joel Salcedo Hern\u00e1ndez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          26.0
+        ],
+        "player": {
+          "id": 5556,
+          "name": "Miguel Arturo Lay\u00fan Prado"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "id": "0bb948e8-5328-4534-8972-09ee8569f3e9",
+  "index": 1081,
+  "period": 1,
+  "timestamp": "00:34:19.720",
+  "minute": 34,
+  "second": 19,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 74,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 5,
+    "name": "Other"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    107.9,
+    39.7
+  ],
+  "duration": 0.716951,
+  "related_events": [
+    "3dd453d2-91ec-4b8b-be42-c9cbd8a74a1b"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.76,
+    "end_location": [
+      120.0,
+      38.1,
+      0.2
+    ],
+    "follows_dribble": true,
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 88,
+      "name": "Penalty"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.9,
+          40.3
+        ],
+        "player": {
+          "id": 40280,
+          "name": "Richard Wright"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.2,
+          47.1
+        ],
+        "player": {
+          "id": 40285,
+          "name": "Alan Stubbs"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.1,
+          49.5
+        ],
+        "player": {
+          "id": 38558,
+          "name": "Steve Watson"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          51.1
+        ],
+        "player": {
+          "id": 40281,
+          "name": "David Unsworth"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          54.2
+        ],
+        "player": {
+          "id": 40289,
+          "name": "Mark Pembridge"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.7,
+          56.7
+        ],
+        "player": {
+          "id": 15754,
+          "name": "Fredrik Ljungberg"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

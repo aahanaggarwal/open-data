@@ -1,0 +1,188 @@
+{
+  "id": "26b5756c-da02-457f-9b35-ae7c802f1598",
+  "index": 326,
+  "period": 1,
+  "timestamp": "00:07:38.181",
+  "minute": 7,
+  "second": 38,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 29,
+  "possession_team": {
+    "id": 761,
+    "name": "Chicago Red Stars"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 761,
+    "name": "Chicago Red Stars"
+  },
+  "player": {
+    "id": 6812,
+    "name": "Vanessa DiBernardo"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    85.0,
+    44.0
+  ],
+  "duration": 1.407,
+  "related_events": [
+    "b2d88181-31b0-4951-93c2-eb3637b1189c"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.013750026,
+    "end_location": [
+      117.0,
+      37.8,
+      1.9
+    ],
+    "key_pass_id": "4db25503-605b-4a5c-bc84-e8a4c98fd439",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          89.0,
+          41.0
+        ],
+        "player": {
+          "id": 5091,
+          "name": "McCall Zerboni"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.0,
+          45.0
+        ],
+        "player": {
+          "id": 5037,
+          "name": "Abby Erceg"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.0,
+          51.0
+        ],
+        "player": {
+          "id": 5047,
+          "name": "Jaelene Hinkle"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.0,
+          48.0
+        ],
+        "player": {
+          "id": 4961,
+          "name": "Samantha Kerr"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          98.0,
+          30.0
+        ],
+        "player": {
+          "id": 5081,
+          "name": "Abby Dahlkemper"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.0,
+          20.0
+        ],
+        "player": {
+          "id": 5083,
+          "name": "Merritt Mathias"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.0,
+          25.0
+        ],
+        "player": {
+          "id": 4948,
+          "name": "Rosie White"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.0,
+          40.0
+        ],
+        "player": {
+          "id": 5048,
+          "name": "Katelyn Rowland"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

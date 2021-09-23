@@ -1,0 +1,206 @@
+{
+  "id": "b59cf9d7-d67b-4ea0-9daa-1f323544d56b",
+  "index": 2826,
+  "period": 2,
+  "timestamp": "00:22:15.949",
+  "minute": 67,
+  "second": 15,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 123,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5246,
+    "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    112.9,
+    50.3
+  ],
+  "duration": 0.49627,
+  "under_pressure": true,
+  "related_events": [
+    "2cedcc7f-974b-4a4f-a286-37007538ef82",
+    "f117355e-f6dd-4572-b117-24379c056d3d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.18956538,
+    "end_location": [
+      115.5,
+      47.9,
+      0.8
+    ],
+    "key_pass_id": "36dd3f9e-c2c7-4a00-89fe-f0ca295058bc",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          115.8,
+          48.4
+        ],
+        "player": {
+          "id": 6629,
+          "name": "Fernando Pacheco Flores"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.1,
+          47.0
+        ],
+        "player": {
+          "id": 6402,
+          "name": "Francisco Alc\u00e1cer Garc\u00eda"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.4,
+          44.9
+        ],
+        "player": {
+          "id": 6614,
+          "name": "Alexis Ruano Delgado"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.3,
+          49.0
+        ],
+        "player": {
+          "id": 6615,
+          "name": "V\u00edctor Laguardia Cisneros"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.8,
+          50.8
+        ],
+        "player": {
+          "id": 6855,
+          "name": "Guillermo Alfonso Marip\u00e1n Loaysa"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.8,
+          47.4
+        ],
+        "player": {
+          "id": 6626,
+          "name": "Mubarak Wakaso"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.9,
+          53.9
+        ],
+        "player": {
+          "id": 6736,
+          "name": "\u00c1lvaro Medr\u00e1n Just"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.6,
+          26.5
+        ],
+        "player": {
+          "id": 6617,
+          "name": "Ibai G\u00f3mez P\u00e9rez"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.4,
+          61.1
+        ],
+        "player": {
+          "id": 6612,
+          "name": "Rub\u00e9n Duarte S\u00e1nchez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

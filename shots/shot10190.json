@@ -1,0 +1,129 @@
+{
+  "id": "13d308ab-9b5f-49f4-b7a7-d5a51737d89f",
+  "index": 503,
+  "period": 1,
+  "timestamp": "00:14:01.505",
+  "minute": 14,
+  "second": 1,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 31,
+  "possession_team": {
+    "id": 971,
+    "name": "Chelsea FCW"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 971,
+    "name": "Chelsea FCW"
+  },
+  "player": {
+    "id": 4641,
+    "name": "Francesca Kirby"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    107.0,
+    44.0
+  ],
+  "duration": 0.322,
+  "related_events": [
+    "5d202802-0350-4910-956e-51e352f8cb67"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.48450616,
+    "end_location": [
+      114.0,
+      39.5,
+      0.5
+    ],
+    "key_pass_id": "0dc37eaa-0c37-404e-88fb-5ce787c317cc",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.0,
+          43.0
+        ],
+        "player": {
+          "id": 18158,
+          "name": "Rebecca Leigh Spencer"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          43.0
+        ],
+        "player": {
+          "id": 18151,
+          "name": "Gilly Louise Scarlett Flaherty"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          45.0
+        ],
+        "player": {
+          "id": 21014,
+          "name": "Vyan Sampson"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          41.0
+        ],
+        "player": {
+          "id": 18145,
+          "name": "Ria Percival"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

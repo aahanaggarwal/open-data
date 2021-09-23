@@ -1,0 +1,173 @@
+{
+  "id": "c11fe895-ff1f-425e-bf90-1a41dcae14e1",
+  "index": 2125,
+  "period": 2,
+  "timestamp": "00:10:37.880",
+  "minute": 55,
+  "second": 37,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 93,
+  "possession_team": {
+    "id": 771,
+    "name": "France"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 771,
+    "name": "France"
+  },
+  "player": {
+    "id": 4375,
+    "name": "Blaise Matuidi"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    99.0,
+    30.0
+  ],
+  "duration": 0.613,
+  "related_events": [
+    "0dd7002e-e772-4732-997b-4c4573c31401",
+    "c63a4081-36b6-4d26-8865-6ab4f57021bf"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.032036,
+    "end_location": [
+      102.0,
+      31.0
+    ],
+    "key_pass_id": "4f7c24a1-7088-4190-bb5d-1d93ea05f8c5",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          96.0,
+          30.0
+        ],
+        "player": {
+          "id": 4831,
+          "name": "Nacer Chadli"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.0,
+          40.0
+        ],
+        "player": {
+          "id": 5642,
+          "name": "Axel Witsel"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          53.0
+        ],
+        "player": {
+          "id": 3037,
+          "name": "Moussa Sidi Yaya Demb\u00e9l\u00e9"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          55.0
+        ],
+        "player": {
+          "id": 3101,
+          "name": "Vincent Kompany"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          56.0
+        ],
+        "player": {
+          "id": 3009,
+          "name": "Kylian Mbapp\u00e9 Lottin"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.0,
+          41.0
+        ],
+        "player": {
+          "id": 3509,
+          "name": "Thibaut Courtois"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          32.0
+        ],
+        "player": {
+          "id": 20005,
+          "name": "Toby Alderweireld"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "id": "63b75c61-004a-4165-bc2c-2581aeb8ef3a",
+  "index": 2490,
+  "period": 2,
+  "timestamp": "00:31:17.287",
+  "minute": 76,
+  "second": 17,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 173,
+  "possession_team": {
+    "id": 760,
+    "name": "Seattle Reign"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 760,
+    "name": "Seattle Reign"
+  },
+  "player": {
+    "id": 8298,
+    "name": "Megan Rapinoe"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    108.0,
+    24.0
+  ],
+  "duration": 1.511,
+  "under_pressure": true,
+  "related_events": [
+    "a7b6ec5a-bf5d-4809-81a5-a6bb4f112250",
+    "c2fab9c0-5565-4611-a61f-36f497af6782"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.05679694,
+    "end_location": [
+      120.0,
+      41.9,
+      3.9
+    ],
+    "key_pass_id": "d5296bfd-d5a2-4085-9ada-1185ecf56874",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          111.0,
+          45.0
+        ],
+        "player": {
+          "id": 5012,
+          "name": "Katherine Reynolds"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          35.0
+        ],
+        "player": {
+          "id": 4999,
+          "name": "Lindsey Horan"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          44.0
+        ],
+        "player": {
+          "id": 5002,
+          "name": "Jodie Taylor"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.0,
+          27.0
+        ],
+        "player": {
+          "id": 5095,
+          "name": "Ellie Carpenter"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          34.0
+        ],
+        "player": {
+          "id": 5003,
+          "name": "Emily Sonnett"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          41.0
+        ],
+        "player": {
+          "id": 5006,
+          "name": "Beverly Yanez"
+        },
+        "position": {
+          "id": 14,
+          "name": "Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.0,
+          32.0
+        ],
+        "player": {
+          "id": 4998,
+          "name": "Rumi Utsugi"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          120.0,
+          39.0
+        ],
+        "player": {
+          "id": 6819,
+          "name": "Adrianna Franch"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          26.0
+        ],
+        "player": {
+          "id": 10408,
+          "name": "Ana-Maria Crnogorcevic"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

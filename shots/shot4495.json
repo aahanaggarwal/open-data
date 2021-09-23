@@ -1,0 +1,190 @@
+{
+  "id": "21ce5d34-b293-4f80-8c12-335e55a51d0d",
+  "index": 3266,
+  "period": 2,
+  "timestamp": "00:20:24.419",
+  "minute": 65,
+  "second": 24,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 137,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    107.1,
+    27.1
+  ],
+  "duration": 0.169,
+  "under_pressure": true,
+  "related_events": [
+    "77bb5ae7-1211-464a-a631-3199d13bb005",
+    "87e3afc8-aa93-49a1-8473-fe42670768fc",
+    "bd60fc29-2195-4ff5-99c9-d89e3fbe2c7f"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.07904234,
+    "end_location": [
+      111.1,
+      30.1
+    ],
+    "key_pass_id": "b06f4369-106a-4226-8fe6-7a0fc2c061e7",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          99.6,
+          47.3
+        ],
+        "player": {
+          "id": 6830,
+          "name": "Facundo Sebasti\u00e1n Roncaglia"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.1,
+          30.1
+        ],
+        "player": {
+          "id": 6794,
+          "name": "Gustavo Daniel Cabral C\u00e1ceres"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.3,
+          37.1
+        ],
+        "player": {
+          "id": 6795,
+          "name": "Rub\u00e9n Blanco Veiga"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          42.1
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.2,
+          38.7
+        ],
+        "player": {
+          "id": 6609,
+          "name": "Denis Su\u00e1rez Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.7,
+          31.9
+        ],
+        "player": {
+          "id": 6805,
+          "name": "Hugo Mallo Novegil"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.2,
+          38.9
+        ],
+        "player": {
+          "id": 6798,
+          "name": "Stanislav Lobotka"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.7,
+          39.3
+        ],
+        "player": {
+          "id": 6890,
+          "name": "Andreu Font\u00e0s Prat"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

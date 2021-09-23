@@ -1,0 +1,189 @@
+{
+  "id": "22c690cd-2919-4bf7-9474-f84b2ea1ffa9",
+  "index": 209,
+  "period": 1,
+  "timestamp": "00:04:12.334",
+  "minute": 4,
+  "second": 12,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 7,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5246,
+    "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    105.0,
+    48.0
+  ],
+  "duration": 0.8133,
+  "related_events": [
+    "210ff439-8d79-4457-9c4b-2b87bc2d8a93"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.32447764,
+    "end_location": [
+      113.0,
+      43.0,
+      0.6
+    ],
+    "key_pass_id": "07ea47b4-de80-4daf-bff7-b84bbdbc5ffd",
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          83.5,
+          35.5
+        ],
+        "player": {
+          "id": 6716,
+          "name": "S\u00e9bastien Corchia"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          77.1,
+          53.1
+        ],
+        "player": {
+          "id": 6402,
+          "name": "Francisco Alc\u00e1cer Garc\u00eda"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          84.7,
+          47.3
+        ],
+        "player": {
+          "id": 5737,
+          "name": "Steven N\"Kemboanza Mike Christopher Nzonzi"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          88.3,
+          46.8
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          96.2,
+          42.0
+        ],
+        "player": {
+          "id": 5534,
+          "name": "Simon Thorup Kj\u00e6r"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.8,
+          45.3
+        ],
+        "player": {
+          "id": 6826,
+          "name": "Cl\u00e9ment Lenglet"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.9,
+          48.1
+        ],
+        "player": {
+          "id": 6718,
+          "name": "Sergio Escudero Palomo"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          43.9
+        ],
+        "player": {
+          "id": 6722,
+          "name": "David Soria Sol\u00eds"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

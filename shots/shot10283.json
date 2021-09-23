@@ -1,0 +1,188 @@
+{
+  "id": "166a30dc-be35-4005-9d2c-13685dfbb87f",
+  "index": 188,
+  "period": 1,
+  "timestamp": "00:04:20.047",
+  "minute": 4,
+  "second": 20,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 8,
+  "possession_team": {
+    "id": 974,
+    "name": "Reading WFC"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 974,
+    "name": "Reading WFC"
+  },
+  "player": {
+    "id": 21854,
+    "name": "Jade Bailey"
+  },
+  "position": {
+    "id": 9,
+    "name": "Right Defensive Midfield"
+  },
+  "location": [
+    109.4,
+    32.1
+  ],
+  "duration": 0.017,
+  "related_events": [
+    "08264bbb-edaf-4fd5-b524-29b46d4eb56f",
+    "dd9fc1e4-764b-449c-9bff-26181b14c818"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.14078666,
+    "end_location": [
+      110.5,
+      33.2
+    ],
+    "key_pass_id": "1b5c75e6-65fc-4dc1-a101-52a8e0918b43",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          98.3,
+          44.8
+        ],
+        "player": {
+          "id": 10251,
+          "name": "Fara Williams"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.8,
+          33.5
+        ],
+        "player": {
+          "id": 15715,
+          "name": "Ellie Mason"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.8,
+          32.2
+        ],
+        "player": {
+          "id": 15707,
+          "name": "Georgia Evans"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.9,
+          46.1
+        ],
+        "player": {
+          "id": 15710,
+          "name": "Megan Alexander"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.3,
+          34.4
+        ],
+        "player": {
+          "id": 15709,
+          "name": "Megan Walsh"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.7,
+          25.3
+        ],
+        "player": {
+          "id": 15716,
+          "name": "Emily Syme"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.8,
+          34.2
+        ],
+        "player": {
+          "id": 15713,
+          "name": "Bonnie Horwood"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          81.0,
+          39.8
+        ],
+        "player": {
+          "id": 15705,
+          "name": "Emily Donovan"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

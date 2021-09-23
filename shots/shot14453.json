@@ -1,0 +1,177 @@
+{
+  "id": "401f9885-b6a9-41c8-96d9-f71ca309346a",
+  "index": 434,
+  "period": 1,
+  "timestamp": "00:08:23.001",
+  "minute": 8,
+  "second": 23,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 14,
+  "possession_team": {
+    "id": 971,
+    "name": "Chelsea FCW"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "out": true,
+  "team": {
+    "id": 971,
+    "name": "Chelsea FCW"
+  },
+  "player": {
+    "id": 4961,
+    "name": "Samantha Kerr"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    112.8,
+    34.1
+  ],
+  "duration": 0.988323,
+  "under_pressure": true,
+  "related_events": [
+    "3f428008-2cb6-413c-883d-24b1986d18b9",
+    "c1222012-8560-4e6e-8e0c-757838f68169"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.122589394,
+    "end_location": [
+      120.0,
+      76.7
+    ],
+    "key_pass_id": "0051d9a7-1bde-4c87-99b3-0d05a45cd3f1",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "aerial_won": true,
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 101,
+      "name": "Wayward"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.6,
+          34.7
+        ],
+        "player": {
+          "id": 15554,
+          "name": "Gemma Bonner"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          31.3
+        ],
+        "player": {
+          "id": 10185,
+          "name": "Stephanie Houghton"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.8,
+          38.2
+        ],
+        "player": {
+          "id": 4637,
+          "name": "Ellie Roebuck"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.6,
+          39.6
+        ],
+        "player": {
+          "id": 15550,
+          "name": "Bethany England"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.4,
+          40.7
+        ],
+        "player": {
+          "id": 4651,
+          "name": "Demi Stokes"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.8,
+          4.6
+        ],
+        "player": {
+          "id": 10514,
+          "name": "Guro Reiten"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.6,
+          6.7
+        ],
+        "player": {
+          "id": 4992,
+          "name": "Janine Beckie"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

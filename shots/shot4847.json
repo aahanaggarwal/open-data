@@ -1,0 +1,173 @@
+{
+  "id": "378f6365-9d4f-43ce-a4d1-6a5e022750bb",
+  "index": 184,
+  "period": 1,
+  "timestamp": "00:03:47.757",
+  "minute": 3,
+  "second": 47,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 10,
+  "possession_team": {
+    "id": 222,
+    "name": "Villarreal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 222,
+    "name": "Villarreal"
+  },
+  "player": {
+    "id": 26698,
+    "name": "Nilmar Honorato da Silva"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    98.7,
+    26.3
+  ],
+  "duration": 0.9918,
+  "related_events": [
+    "09c56e92-d474-4760-83fd-8a86a122b2ba"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.23535639,
+    "end_location": [
+      120.0,
+      36.6,
+      3.5
+    ],
+    "key_pass_id": "4c364232-9fe7-45da-8ce3-9796ab7277e7",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          81.2,
+          17.3
+        ],
+        "player": {
+          "id": 25921,
+          "name": "Rub\u00e9n Gracia Calmache"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          89.7,
+          37.9
+        ],
+        "player": {
+          "id": 11386,
+          "name": "Santiago Cazorla Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          87.9,
+          31.1
+        ],
+        "player": {
+          "id": 7141,
+          "name": "Giuseppe Rossi"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          92.5,
+          25.4
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.1,
+          32.4
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.7,
+          38.3
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.8,
+          29.9
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

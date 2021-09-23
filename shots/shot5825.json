@@ -1,0 +1,159 @@
+{
+  "id": "eb0e5d8d-9ad1-4537-8863-efa77a611459",
+  "index": 969,
+  "period": 1,
+  "timestamp": "00:21:29.645",
+  "minute": 21,
+  "second": 29,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 49,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15512,
+    "name": "Sylvain Wiltord"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    112.0,
+    37.5
+  ],
+  "duration": 0.746836,
+  "related_events": [
+    "64d98136-1244-4f18-bb4a-58ff98b7b9cc"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.33687192,
+    "end_location": [
+      120.0,
+      43.6,
+      0.6
+    ],
+    "key_pass_id": "ada3e39f-e656-46a5-b841-6155c2a3e3ed",
+    "first_time": true,
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.8,
+          40.5
+        ],
+        "player": {
+          "id": 40405,
+          "name": "Colin Cooper"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.8,
+          33.2
+        ],
+        "player": {
+          "id": 40402,
+          "name": "Stuart Parnaby"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.3,
+          38.4
+        ],
+        "player": {
+          "id": 40322,
+          "name": "Mark Schwarzer"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          28.9
+        ],
+        "player": {
+          "id": 40330,
+          "name": "Chris Riggott"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.7,
+          26.2
+        ],
+        "player": {
+          "id": 15403,
+          "name": "Gareth Southgate"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.3,
+          23.5
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

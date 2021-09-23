@@ -1,0 +1,173 @@
+{
+  "id": "321ff206-a647-4ee7-b69b-8b2f9798f33d",
+  "index": 2801,
+  "period": 2,
+  "timestamp": "00:14:21.976",
+  "minute": 59,
+  "second": 21,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 122,
+  "possession_team": {
+    "id": 222,
+    "name": "Villarreal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 222,
+    "name": "Villarreal"
+  },
+  "player": {
+    "id": 5688,
+    "name": "Carlos Arturo Bacca Ahumada"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    95.7,
+    46.4
+  ],
+  "duration": 0.266,
+  "related_events": [
+    "638d7d45-cb07-4d1e-a15d-0299e6085c7c",
+    "6a12147c-b9da-4a99-b6b5-4cabc11f2c72"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.0355059,
+    "end_location": [
+      98.7,
+      45.9
+    ],
+    "key_pass_id": "3b07ced8-8ad9-41a2-bea5-e697652fe48d",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          98.9,
+          45.2
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.6,
+          53.6
+        ],
+        "player": {
+          "id": 6829,
+          "name": "Samuel Castillejo Azuaga"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.9,
+          49.5
+        ],
+        "player": {
+          "id": 6849,
+          "name": "Lucas Digne"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.7,
+          31.9
+        ],
+        "player": {
+          "id": 6374,
+          "name": "N\u00e9lson Cabral Semedo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.7,
+          35.5
+        ],
+        "player": {
+          "id": 6332,
+          "name": "Thomas Vermaelen"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.6,
+          40.6
+        ],
+        "player": {
+          "id": 5542,
+          "name": "Jos\u00e9 Paulo Bezzera Maciel J\u00fanior"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          40.5
+        ],
+        "player": {
+          "id": 8652,
+          "name": "Jasper Cillessen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "id": "3d5cc7fc-54d7-40a8-8c1b-002e05d10d78",
+  "index": 1696,
+  "period": 1,
+  "timestamp": "00:38:32.135",
+  "minute": 38,
+  "second": 32,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 79,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 4320,
+    "name": "Neymar da Silva Santos Junior"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    112.3,
+    28.0
+  ],
+  "duration": 1.958029,
+  "related_events": [
+    "168789fb-5968-47ac-b1f5-6659725d4c76"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.182374,
+    "end_location": [
+      120.0,
+      48.8,
+      0.6
+    ],
+    "key_pass_id": "968b0119-811f-43fb-a203-5d9ac3139a89",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          99.2,
+          32.9
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          96.7,
+          21.9
+        ],
+        "player": {
+          "id": 6351,
+          "name": "Cristhian Ricardo Stuani Curbelo"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.2,
+          25.4
+        ],
+        "player": {
+          "id": 6791,
+          "name": "Javier L\u00f3pez Rodr\u00edguez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.9,
+          32.6
+        ],
+        "player": {
+          "id": 6758,
+          "name": "V\u00edctor S\u00e1nchez Mata"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.6,
+          47.3
+        ],
+        "player": {
+          "id": 4741,
+          "name": "Juan Rafael Fuentes Hern\u00e1ndez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.1,
+          40.2
+        ],
+        "player": {
+          "id": 5573,
+          "name": "H\u00e9ctor Alfredo Moreno Herrera"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.8,
+          32.8
+        ],
+        "player": {
+          "id": 6706,
+          "name": "Francisco Casilla Cort\u00e9s"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.8,
+          28.9
+        ],
+        "player": {
+          "id": 26623,
+          "name": "Diego Daniel Colotto"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

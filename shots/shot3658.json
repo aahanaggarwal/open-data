@@ -1,0 +1,220 @@
+{
+  "id": "e623e059-4b58-4df4-b89f-bde96acb3db1",
+  "index": 938,
+  "period": 1,
+  "timestamp": "00:21:13.452",
+  "minute": 21,
+  "second": 13,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 70,
+  "possession_team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "player": {
+    "id": 16400,
+    "name": "Kayleigh Green"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    89.0,
+    41.0
+  ],
+  "duration": 0.7431,
+  "under_pressure": true,
+  "related_events": [
+    "5070cc9a-73cb-4847-ac6a-3164358708a3",
+    "8863a396-6c80-44eb-bd1d-8bee43762ec4",
+    "8bab8c82-bc1f-43e6-8c6d-1da360d5aec4"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.017138556,
+    "end_location": [
+      103.0,
+      42.0
+    ],
+    "key_pass_id": "7a66aa8e-e0d1-4129-95c0-68be2446acc4",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          86.0,
+          48.0
+        ],
+        "player": {
+          "id": 15577,
+          "name": "Angharad James"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          90.0,
+          43.0
+        ],
+        "player": {
+          "id": 15571,
+          "name": "Danielle Turner"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          44.0
+        ],
+        "player": {
+          "id": 15575,
+          "name": "Gabrielle George"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          39.0
+        ],
+        "player": {
+          "id": 15574,
+          "name": "Georgia Brougham"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.0,
+          30.0
+        ],
+        "player": {
+          "id": 19687,
+          "name": "Taylor Hinds"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.0,
+          35.0
+        ],
+        "player": {
+          "id": 18254,
+          "name": "Megan Finnigan"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          88.0,
+          60.0
+        ],
+        "player": {
+          "id": 16374,
+          "name": "Aileen Whelan"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.0,
+          42.0
+        ],
+        "player": {
+          "id": 16378,
+          "name": "Iniabasi Anefiok Umotong"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          95.0,
+          35.0
+        ],
+        "player": {
+          "id": 16393,
+          "name": "Ellie Brazil"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.0,
+          42.0
+        ],
+        "player": {
+          "id": 15576,
+          "name": "Kirstie Levell"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

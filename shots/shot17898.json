@@ -1,0 +1,204 @@
+{
+  "id": "7b4ae4dc-5c8a-4f49-9876-d0df54b29166",
+  "index": 965,
+  "period": 1,
+  "timestamp": "00:32:52.360",
+  "minute": 32,
+  "second": 52,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 60,
+  "possession_team": {
+    "id": 790,
+    "name": "Sweden"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 790,
+    "name": "Sweden"
+  },
+  "player": {
+    "id": 5625,
+    "name": "Emil Forsberg"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    105.0,
+    30.0
+  ],
+  "duration": 1.173,
+  "related_events": [
+    "a90cc881-5f12-4eaf-bec4-db21764122e4"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.062747136,
+    "end_location": [
+      120.0,
+      43.4,
+      6.9
+    ],
+    "key_pass_id": "a4234892-2cbe-4c33-af92-59598756943d",
+    "first_time": true,
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          87.0,
+          47.0
+        ],
+        "player": {
+          "id": 5575,
+          "name": "H\u00e9ctor Miguel Herrera L\u00f3pez"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          61.0
+        ],
+        "player": {
+          "id": 5573,
+          "name": "H\u00e9ctor Alfredo Moreno Herrera"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          55.0
+        ],
+        "player": {
+          "id": 5576,
+          "name": "Jes\u00fas Daniel Gallardo Vasconcelos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          38.0
+        ],
+        "player": {
+          "id": 5577,
+          "name": "Francisco Guillermo Ochoa Maga\u00f1a"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          39.0
+        ],
+        "player": {
+          "id": 5563,
+          "name": "Jos\u00e9 Andr\u00e9s Guardado Hern\u00e1ndez"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          33.0
+        ],
+        "player": {
+          "id": 5567,
+          "name": "Edson Omar \u00c1lvarez Vel\u00e1zquez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          39.0
+        ],
+        "player": {
+          "id": 5564,
+          "name": "Carlos Joel Salcedo Hern\u00e1ndez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          42.0
+        ],
+        "player": {
+          "id": 4417,
+          "name": "Ola Toivonen"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.0,
+          40.0
+        ],
+        "player": {
+          "id": 11098,
+          "name": "Marcus Berg"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "id": "3af743f0-723f-410a-afa5-a611322043be",
+  "index": 1608,
+  "period": 1,
+  "timestamp": "00:36:11.592",
+  "minute": 36,
+  "second": 11,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 80,
+  "possession_team": {
+    "id": 220,
+    "name": "Real Madrid"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 220,
+    "name": "Real Madrid"
+  },
+  "player": {
+    "id": 5207,
+    "name": "Cristiano Ronaldo dos Santos Aveiro"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    110.7,
+    21.3
+  ],
+  "duration": 0.5246,
+  "related_events": [
+    "7b0e1699-56ef-411d-baa1-77b4f671a3c8"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.019516196,
+    "end_location": [
+      118.8,
+      36.1,
+      1.0
+    ],
+    "key_pass_id": "d4d84496-d618-4b2e-a003-d137db3e0ca6",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.9,
+          37.1
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.4,
+          23.1
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.9,
+          39.0
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.8,
+          39.7
+        ],
+        "player": {
+          "id": 19677,
+          "name": "Karim Benzema"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.8,
+          22.1
+        ],
+        "player": {
+          "id": 5470,
+          "name": "Ivan Rakiti\u0107"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.3,
+          34.3
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.3,
+          32.2
+        ],
+        "player": {
+          "id": 5463,
+          "name": "Luka Modri\u0107"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

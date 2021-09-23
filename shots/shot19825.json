@@ -1,0 +1,188 @@
+{
+  "id": "a220b674-dce4-4e41-a1f7-b827d9a6cee1",
+  "index": 1424,
+  "period": 1,
+  "timestamp": "00:33:36.430",
+  "minute": 33,
+  "second": 36,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 77,
+  "possession_team": {
+    "id": 771,
+    "name": "France"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 771,
+    "name": "France"
+  },
+  "player": {
+    "id": 3604,
+    "name": "Olivier Giroud"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    109.0,
+    29.0
+  ],
+  "duration": 0.24,
+  "related_events": [
+    "bc0c2af2-6ae5-4c92-a567-c5dfade1400f",
+    "f209d0c2-ad83-4c60-9c1f-d525ed11cf81"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.13063751,
+    "end_location": [
+      110.0,
+      30.0
+    ],
+    "key_pass_id": "8f381633-2c1f-475e-be3e-7042b5907a4b",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.0,
+          46.0
+        ],
+        "player": {
+          "id": 3009,
+          "name": "Kylian Mbapp\u00e9 Lottin"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.0,
+          46.0
+        ],
+        "player": {
+          "id": 5518,
+          "name": "Miguel \u00c1ngel Trauco Saavedra"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          30.0
+        ],
+        "player": {
+          "id": 5532,
+          "name": "Alberto Junior Rodr\u00edguez Valdelomar"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          35.0
+        ],
+        "player": {
+          "id": 5528,
+          "name": "Pedro David Gallese Quir\u00f3z"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          22.0
+        ],
+        "player": {
+          "id": 5521,
+          "name": "Luis Jan Piers Adv\u00edncula Castrill\u00f3n"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          31.0
+        ],
+        "player": {
+          "id": 5530,
+          "name": "Christian Guillermo Mart\u00edn Ramos Garagay"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.0,
+          28.0
+        ],
+        "player": {
+          "id": 5526,
+          "name": "Pedro Jes\u00fas Aquino S\u00e1nchez"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.0,
+          32.0
+        ],
+        "player": {
+          "id": 20004,
+          "name": "Paul Pogba"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

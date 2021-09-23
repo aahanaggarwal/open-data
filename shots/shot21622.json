@@ -1,0 +1,173 @@
+{
+  "id": "acb99649-1728-4aed-83f4-a1473c702e6e",
+  "index": 2681,
+  "period": 2,
+  "timestamp": "00:27:02.782",
+  "minute": 72,
+  "second": 2,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 152,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 25910,
+    "name": "Jos\u00e9 Edm\u00edlson Gomes de Moraes"
+  },
+  "position": {
+    "id": 10,
+    "name": "Center Defensive Midfield"
+  },
+  "location": [
+    110.7,
+    49.8
+  ],
+  "duration": 0.406309,
+  "related_events": [
+    "501623e0-9d27-446d-a3ec-856e73e84bbb"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.15973707,
+    "end_location": [
+      118.2,
+      43.8,
+      1.0
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          113.2,
+          38.8
+        ],
+        "player": {
+          "id": 25889,
+          "name": "Pablo Pinillos Caro"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.6,
+          44.7
+        ],
+        "player": {
+          "id": 26068,
+          "name": "Rub\u00e9n Gonz\u00e1lez Rocha"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.6,
+          50.7
+        ],
+        "player": {
+          "id": 26067,
+          "name": "Oriol Lozano Farr\u00e1n"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.8,
+          53.0
+        ],
+        "player": {
+          "id": 26069,
+          "name": "Luis Fern\u00e1ndez Guti\u00e9rrez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.3,
+          37.3
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.8,
+          43.4
+        ],
+        "player": {
+          "id": 26070,
+          "name": "Antonio Rodr\u00edguez Mart\u00ednez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.5,
+          50.7
+        ],
+        "player": {
+          "id": 25878,
+          "name": "Ludovic Giuly"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

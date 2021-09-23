@@ -1,0 +1,159 @@
+{
+  "id": "d464971a-46b2-4658-a99d-1f696ef0a879",
+  "index": 4072,
+  "period": 2,
+  "timestamp": "00:35:57.679",
+  "minute": 80,
+  "second": 57,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 156,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    113.2,
+    30.6
+  ],
+  "duration": 1.046692,
+  "related_events": [
+    "d398648e-077f-4273-8680-5da0730304ab"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.3240862,
+    "end_location": [
+      120.0,
+      41.8,
+      0.2
+    ],
+    "key_pass_id": "c2b5e53d-e5cb-4f66-9fba-4c3d288e8e5a",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          106.8,
+          29.6
+        ],
+        "player": {
+          "id": 3958,
+          "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          116.5,
+          35.2
+        ],
+        "player": {
+          "id": 3659,
+          "name": "Wilfredo Daniel Caballero"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.9,
+          30.1
+        ],
+        "player": {
+          "id": 4926,
+          "name": "Francisco Rom\u00e1n Alarc\u00f3n Su\u00e1rez"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.9,
+          30.5
+        ],
+        "player": {
+          "id": 20269,
+          "name": "Joris Mathijsen"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.9,
+          33.6
+        ],
+        "player": {
+          "id": 8234,
+          "name": "Ignacio Camacho Barnola"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.9,
+          41.4
+        ],
+        "player": {
+          "id": 3498,
+          "name": "Ignacio Monreal Eraso"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

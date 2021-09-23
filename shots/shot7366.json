@@ -1,0 +1,160 @@
+{
+  "id": "3da3bbc6-c9e5-4850-8fcb-d68229138170",
+  "index": 1509,
+  "period": 1,
+  "timestamp": "00:37:06.293",
+  "minute": 37,
+  "second": 6,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 66,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    110.0,
+    39.4
+  ],
+  "duration": 1.294631,
+  "under_pressure": true,
+  "related_events": [
+    "17327cd4-3154-4e51-a9bf-b0b760a27ce2",
+    "fbb56a16-0b41-46ff-997e-280fba95c69c"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.21370329,
+    "end_location": [
+      120.0,
+      44.8,
+      0.5
+    ],
+    "key_pass_id": "e2f8017e-a2a8-4c84-99ae-090d4672791b",
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.9,
+          26.8
+        ],
+        "player": {
+          "id": 27516,
+          "name": "Rafael Ramos Lozano"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.2,
+          37.2
+        ],
+        "player": {
+          "id": 27246,
+          "name": "Sebasti\u00e1n Dubarbier"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.7,
+          31.0
+        ],
+        "player": {
+          "id": 3385,
+          "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.7,
+          33.8
+        ],
+        "player": {
+          "id": 25824,
+          "name": "\u00c1ngel Trujillo Canorea"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.5,
+          39.7
+        ],
+        "player": {
+          "id": 27515,
+          "name": "Marco Natanel Torsiglieri"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.3,
+          39.4
+        ],
+        "player": {
+          "id": 25971,
+          "name": "Esteban Andr\u00e9s Su\u00e1rez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

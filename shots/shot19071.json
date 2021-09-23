@@ -1,0 +1,266 @@
+{
+  "id": "cdb60a27-6ee0-40a3-ab3c-db9ce5198c0c",
+  "index": 72,
+  "period": 1,
+  "timestamp": "00:01:26.166",
+  "minute": 1,
+  "second": 26,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 5,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5246,
+    "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    114.9,
+    50.6
+  ],
+  "duration": 0.424702,
+  "under_pressure": true,
+  "related_events": [
+    "81c9e0e5-8cc2-4cb4-9d01-8c345c88a826",
+    "fbb7ad4b-66d9-4850-8d6b-e01beeb173ac"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.24742779,
+    "end_location": [
+      118.9,
+      44.0,
+      0.2
+    ],
+    "key_pass_id": "ef481dbf-7c17-4c89-b757-16ff366e5fda",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "first_time": true,
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.3,
+          38.1
+        ],
+        "player": {
+          "id": 6672,
+          "name": "Jorge And\u00fajar Moreno"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.6,
+          46.2
+        ],
+        "player": {
+          "id": 6592,
+          "name": "R\u00faben Miguel Nunes Vezo"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.7,
+          33.1
+        ],
+        "player": {
+          "id": 6691,
+          "name": "David Remeseiro Salgueiro"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          46.2
+        ],
+        "player": {
+          "id": 6688,
+          "name": "Jos\u00e9 \u00c1ngel G\u00f3mez Campa\u00f1a"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          90.9,
+          55.9
+        ],
+        "player": {
+          "id": 18163,
+          "name": "Moses Daddy Simon"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.2,
+          47.0
+        ],
+        "player": {
+          "id": 17303,
+          "name": "Nikola Vuk\u010devi\u0107"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.2,
+          51.7
+        ],
+        "player": {
+          "id": 6680,
+          "name": "Rub\u00e9n Rochina Naixes"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.3,
+          43.7
+        ],
+        "player": {
+          "id": 23344,
+          "name": "Aitor Fern\u00e1ndez Abarisketa"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.2,
+          32.2
+        ],
+        "player": {
+          "id": 3501,
+          "name": "Philippe Coutinho Correia"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.6,
+          48.2
+        ],
+        "player": {
+          "id": 5477,
+          "name": "Ousmane Demb\u00e9l\u00e9"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.0,
+          55.1
+        ],
+        "player": {
+          "id": 8206,
+          "name": "Arturo Erasmo Vidal Pardo"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.6,
+          57.8
+        ],
+        "player": {
+          "id": 6675,
+          "name": "Antonio Manuel Luna Rodr\u00edguez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.4,
+          49.8
+        ],
+        "player": {
+          "id": 6807,
+          "name": "Roberto Su\u00e1rez Pier"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

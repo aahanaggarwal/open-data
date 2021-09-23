@@ -1,0 +1,173 @@
+{
+  "id": "5139c4f4-b5b8-4fef-b581-d38784040619",
+  "index": 1367,
+  "period": 1,
+  "timestamp": "00:31:29.986",
+  "minute": 31,
+  "second": 29,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 75,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    113.6,
+    47.7
+  ],
+  "duration": 0.2601,
+  "related_events": [
+    "143fdf7b-2d21-4d82-a1a5-004d205d89f8"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.14964816,
+    "end_location": [
+      115.0,
+      46.2,
+      0.5
+    ],
+    "key_pass_id": "bef61f87-b3fe-49e1-9e9b-b710a82ac5f6",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          115.3,
+          46.0
+        ],
+        "player": {
+          "id": 26219,
+          "name": "Timo Hildebrand"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.9,
+          41.0
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          96.7,
+          52.2
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.4,
+          47.7
+        ],
+        "player": {
+          "id": 26223,
+          "name": "Marco Antonio Simoes Caneira"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.2,
+          50.3
+        ],
+        "player": {
+          "id": 6614,
+          "name": "Alexis Ruano Delgado"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.1,
+          38.2
+        ],
+        "player": {
+          "id": 20070,
+          "name": "Lu\u00eds Miguel Brito Garcia Monteiro"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.7,
+          40.1
+        ],
+        "player": {
+          "id": 7030,
+          "name": "Ra\u00fal Albiol Tortajada"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

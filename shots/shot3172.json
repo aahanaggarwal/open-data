@@ -1,0 +1,173 @@
+{
+  "id": "1433c47f-a4a9-48fa-9ef6-34a9d0cbb8ed",
+  "index": 2672,
+  "period": 2,
+  "timestamp": "00:22:20.999",
+  "minute": 67,
+  "second": 20,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 133,
+  "possession_team": {
+    "id": 223,
+    "name": "M\u00e1laga"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 223,
+    "name": "M\u00e1laga"
+  },
+  "player": {
+    "id": 26246,
+    "name": "Salvador Ballesta Vialcho"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    102.7,
+    29.7
+  ],
+  "duration": 0.1697,
+  "related_events": [
+    "4e7c8bcd-b64e-4427-bfe4-83c7d2659385",
+    "570bb52d-71fa-4dcf-a5b0-ab5976910043"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.095055245,
+    "end_location": [
+      103.5,
+      30.3
+    ],
+    "key_pass_id": "626d7cae-6265-4e9e-a56c-84feff9234aa",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.4,
+          36.1
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.6,
+          30.3
+        ],
+        "player": {
+          "id": 5248,
+          "name": "Jos\u00e9 Mart\u00edn C\u00e1ceres Silva"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.7,
+          29.7
+        ],
+        "player": {
+          "id": 5558,
+          "name": "Rafael M\u00e1rquez \u00c1lvarez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.3,
+          48.1
+        ],
+        "player": {
+          "id": 25854,
+          "name": "Sylvio Mendes Campos Junior"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.8,
+          18.4
+        ],
+        "player": {
+          "id": 10798,
+          "name": "Eliseu Pereira dos Santos"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.6,
+          24.1
+        ],
+        "player": {
+          "id": 26249,
+          "name": "Fernando Miguel Fern\u00e1ndez Escribano"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          95.5,
+          19.3
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

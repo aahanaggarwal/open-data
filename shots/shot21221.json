@@ -1,0 +1,145 @@
+{
+  "id": "74ec0c33-b31e-4daf-82b5-a2096166d1b2",
+  "index": 1922,
+  "period": 2,
+  "timestamp": "00:03:15.798",
+  "minute": 48,
+  "second": 15,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 113,
+  "possession_team": {
+    "id": 966,
+    "name": "Liverpool WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 966,
+    "name": "Liverpool WFC"
+  },
+  "player": {
+    "id": 15611,
+    "name": "Courtney Sweetman-Kirk"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    117.0,
+    39.0
+  ],
+  "duration": 0.337274,
+  "related_events": [
+    "4efc2797-f636-4b64-8f86-918a7afe2313"
+  ],
+  "shot": {
+    "open_goal": true,
+    "statsbomb_xg": 0.6502246,
+    "end_location": [
+      120.0,
+      38.5,
+      1.7
+    ],
+    "key_pass_id": "e2ef4dd6-6b67-4187-bbda-e1f6cbd43401",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.0,
+          41.0
+        ],
+        "player": {
+          "id": 22027,
+          "name": "Anne Moorhouse"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.0,
+          41.0
+        ],
+        "player": {
+          "id": 18145,
+          "name": "Ria Percival"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          44.0
+        ],
+        "player": {
+          "id": 18151,
+          "name": "Gilly Louise Scarlett Flaherty"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.0,
+          59.0
+        ],
+        "player": {
+          "id": 18147,
+          "name": "Kate Longhurst"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          61.0
+        ],
+        "player": {
+          "id": 19416,
+          "name": "Laura Coombs"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "id": "66c83037-2341-44c5-8537-18739d1222a0",
+  "index": 2877,
+  "period": 2,
+  "timestamp": "00:34:45.467",
+  "minute": 79,
+  "second": 45,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 164,
+  "possession_team": {
+    "id": 970,
+    "name": "Yeovil Town LFC"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 970,
+    "name": "Yeovil Town LFC"
+  },
+  "player": {
+    "id": 15718,
+    "name": "Olivia Fergusson"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    104.0,
+    51.6
+  ],
+  "duration": 1.614835,
+  "under_pressure": true,
+  "related_events": [
+    "6f92c147-7abb-4d90-a2df-a57cfc078f4b",
+    "bb6f98a6-366b-4ac3-9ac1-a6d93373fadd"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.028516332,
+    "end_location": [
+      117.9,
+      42.8,
+      0.9
+    ],
+    "key_pass_id": "2378fa75-6c97-46c1-a62b-0eb874946a3b",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "first_time": true,
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          93.1,
+          43.2
+        ],
+        "player": {
+          "id": 15716,
+          "name": "Emily Syme"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          78.1,
+          45.3
+        ],
+        "player": {
+          "id": 15705,
+          "name": "Emily Donovan"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          91.0,
+          31.4
+        ],
+        "player": {
+          "id": 19500,
+          "name": "Sarah Emma Mayling"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.9,
+          42.2
+        ],
+        "player": {
+          "id": 19502,
+          "name": "Meaghan Sargeant"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.1,
+          50.8
+        ],
+        "player": {
+          "id": 19503,
+          "name": "Aoife Mannion"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.8,
+          65.5
+        ],
+        "player": {
+          "id": 15569,
+          "name": "Kerys Harrop"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.1,
+          42.3
+        ],
+        "player": {
+          "id": 22032,
+          "name": "Hannah Hampton"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

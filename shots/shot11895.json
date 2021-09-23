@@ -1,0 +1,250 @@
+{
+  "id": "156bd912-115d-45fe-8786-5cdf4feda639",
+  "index": 2605,
+  "period": 2,
+  "timestamp": "00:33:28.375",
+  "minute": 78,
+  "second": 28,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 182,
+  "possession_team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "player": {
+    "id": 16399,
+    "name": "Kate Natkiel"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    100.5,
+    19.9
+  ],
+  "duration": 1.250626,
+  "under_pressure": true,
+  "related_events": [
+    "22cb2a0f-6fbb-471f-85e7-9b4e561dbac3",
+    "c6313f3c-22c6-44dc-8d84-357b79713eff"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.015447532,
+    "end_location": [
+      118.3,
+      37.3,
+      2.3
+    ],
+    "key_pass_id": "28b76a34-4949-409e-8a03-c451a6403427",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          89.7,
+          39.5
+        ],
+        "player": {
+          "id": 18149,
+          "name": "Remi Allen"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.2,
+          20.4
+        ],
+        "player": {
+          "id": 15577,
+          "name": "Angharad James"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.6,
+          21.2
+        ],
+        "player": {
+          "id": 10387,
+          "name": "Lisa-Marie Utland"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.6,
+          32.8
+        ],
+        "player": {
+          "id": 31628,
+          "name": "Kristine Leine"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.5,
+          48.3
+        ],
+        "player": {
+          "id": 10198,
+          "name": "Josanne Potter"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.6,
+          52.2
+        ],
+        "player": {
+          "id": 15724,
+          "name": "Mayumi Pacheco"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          38.3
+        ],
+        "player": {
+          "id": 15719,
+          "name": "Grace Moloney"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.5,
+          49.6
+        ],
+        "player": {
+          "id": 16378,
+          "name": "Iniabasi Anefiok Umotong"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          90.3,
+          59.9
+        ],
+        "player": {
+          "id": 16400,
+          "name": "Kayleigh Green"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          92.9,
+          42.7
+        ],
+        "player": {
+          "id": 31529,
+          "name": "L\u00e9a Le Garrec"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          81.8,
+          32.9
+        ],
+        "player": {
+          "id": 22337,
+          "name": "Maya Le Tissier"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          93.9,
+          28.8
+        ],
+        "player": {
+          "id": 16374,
+          "name": "Aileen Whelan"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

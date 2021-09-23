@@ -1,0 +1,266 @@
+{
+  "id": "c4dcf89a-9394-4064-add5-2e7202e7edf6",
+  "index": 169,
+  "period": 1,
+  "timestamp": "00:03:20.753",
+  "minute": 3,
+  "second": 20,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 7,
+  "possession_team": {
+    "id": 221,
+    "name": "Levante"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 221,
+    "name": "Levante"
+  },
+  "player": {
+    "id": 6678,
+    "name": "Emmanuel Okyere Boateng"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    108.1,
+    45.1
+  ],
+  "duration": 0.099044,
+  "under_pressure": true,
+  "related_events": [
+    "0b828087-e05e-467e-a8eb-2733881e69a4",
+    "73b13044-eba3-4052-95b2-ebf14a9ea1b6",
+    "b13794b0-ca8f-45ed-a692-8021fec301a9"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.027896488,
+    "end_location": [
+      108.8,
+      44.9
+    ],
+    "key_pass_id": "dd63ca26-839a-47a0-87be-092ef359f319",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "aerial_won": true,
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          93.7,
+          59.8
+        ],
+        "player": {
+          "id": 6683,
+          "name": "Cheick Doukour\u00e9"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          93.7,
+          35.0
+        ],
+        "player": {
+          "id": 5678,
+          "name": "Jefferson Andr\u00e9s Lerma Sol\u00eds"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.3,
+          68.7
+        ],
+        "player": {
+          "id": 6806,
+          "name": "Shaquell Moore"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.4,
+          24.4
+        ],
+        "player": {
+          "id": 6780,
+          "name": "Iv\u00e1n L\u00f3pez \u00c1lvarez"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.0,
+          50.1
+        ],
+        "player": {
+          "id": 6332,
+          "name": "Thomas Vermaelen"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.4,
+          39.4
+        ],
+        "player": {
+          "id": 5477,
+          "name": "Ousmane Demb\u00e9l\u00e9"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.2,
+          47.5
+        ],
+        "player": {
+          "id": 5542,
+          "name": "Jos\u00e9 Paulo Bezzera Maciel J\u00fanior"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.5,
+          57.0
+        ],
+        "player": {
+          "id": 5470,
+          "name": "Ivan Rakiti\u0107"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          63.7
+        ],
+        "player": {
+          "id": 5211,
+          "name": "Jordi Alba Ramos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.6,
+          61.9
+        ],
+        "player": {
+          "id": 5216,
+          "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.1,
+          43.0
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          38.2
+        ],
+        "player": {
+          "id": 6379,
+          "name": "Sergi Roberto Carnicer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.7,
+          44.6
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "9912e4a6-b5d1-40ec-a1c7-d7f0d9c39c43",
+  "index": 2913,
+  "period": 2,
+  "timestamp": "00:14:58.104",
+  "minute": 59,
+  "second": 58,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 145,
+  "possession_team": {
+    "id": 210,
+    "name": "Real Sociedad"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 210,
+    "name": "Real Sociedad"
+  },
+  "player": {
+    "id": 6677,
+    "name": "Imanol Agirretxe Arruti"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    105.8,
+    49.7
+  ],
+  "duration": 0.6522,
+  "related_events": [
+    "86839461-f77f-4fed-b1de-34ec5e22eca2",
+    "f9ee4c89-57f3-4452-a339-e340f6f24e68"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.3506356,
+    "end_location": [
+      117.9,
+      43.1
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.6,
+          48.3
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.7,
+          47.3
+        ],
+        "player": {
+          "id": 6890,
+          "name": "Andreu Font\u00e0s Prat"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.91351,
+          42.81557
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

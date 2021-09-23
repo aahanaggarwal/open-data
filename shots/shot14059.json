@@ -1,0 +1,131 @@
+{
+  "id": "31056e44-fa6c-4b78-8e6b-052648884823",
+  "index": 2686,
+  "period": 2,
+  "timestamp": "00:34:05.379",
+  "minute": 79,
+  "second": 5,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 194,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15754,
+    "name": "Fredrik Ljungberg"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    100.5,
+    45.1
+  ],
+  "duration": 0.652237,
+  "under_pressure": true,
+  "related_events": [
+    "4c5b917c-19ae-44f7-b2de-2abb007e5746",
+    "67cbf7e9-8b81-4d55-83f7-c2d360ca60d3"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.1231656,
+    "end_location": [
+      114.0,
+      41.0,
+      0.2
+    ],
+    "key_pass_id": "bbf53987-58db-4ceb-955f-5114595719da",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          100.1,
+          44.4
+        ],
+        "player": {
+          "id": 20341,
+          "name": "Mika\u00ebl Silvestre"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.8,
+          46.0
+        ],
+        "player": {
+          "id": 16890,
+          "name": "John O\"Shea"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.1,
+          40.7
+        ],
+        "player": {
+          "id": 40364,
+          "name": "Roy Carroll"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.0,
+          25.4
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

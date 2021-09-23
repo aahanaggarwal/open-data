@@ -1,0 +1,160 @@
+{
+  "id": "e6598573-b8ec-4014-9369-6376b1a02947",
+  "index": 692,
+  "period": 1,
+  "timestamp": "00:14:45.110",
+  "minute": 14,
+  "second": 45,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 40,
+  "possession_team": {
+    "id": 764,
+    "name": "Orlando Pride"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 764,
+    "name": "Orlando Pride"
+  },
+  "player": {
+    "id": 5067,
+    "name": "Sydney Leroux"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    99.0,
+    44.0
+  ],
+  "duration": 0.333,
+  "under_pressure": true,
+  "related_events": [
+    "0e8e03d6-9403-44f0-8c3d-5c603b10fbb6",
+    "d84016ad-11c4-492a-b9dc-5576a698dea1",
+    "f4494004-efac-4e9f-9ae0-9906abc860c3"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.093794115,
+    "end_location": [
+      102.0,
+      44.0
+    ],
+    "key_pass_id": "ed80b329-045c-41f1-8a60-5764da45c442",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.0,
+          41.0
+        ],
+        "player": {
+          "id": 5066,
+          "name": "Lydia Williams"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.0,
+          52.0
+        ],
+        "player": {
+          "id": 5017,
+          "name": "Christen Westphal"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.0,
+          24.0
+        ],
+        "player": {
+          "id": 5063,
+          "name": "Chioma Ubogagu"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          96.0,
+          31.0
+        ],
+        "player": {
+          "id": 5008,
+          "name": "Kristen McNabb"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          36.0
+        ],
+        "player": {
+          "id": 5069,
+          "name": "Theresa Nielsen"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          42.0
+        ],
+        "player": {
+          "id": 5065,
+          "name": "Lauren Barnes"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

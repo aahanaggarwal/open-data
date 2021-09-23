@@ -1,0 +1,206 @@
+{
+  "id": "b18716cc-5e03-4195-8ed6-6214ab6eee09",
+  "index": 1203,
+  "period": 1,
+  "timestamp": "00:28:41.253",
+  "minute": 28,
+  "second": 41,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 72,
+  "possession_team": {
+    "id": 969,
+    "name": "Birmingham City WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 969,
+    "name": "Birmingham City WFC"
+  },
+  "player": {
+    "id": 10180,
+    "name": "Ellen White"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    109.5,
+    38.4
+  ],
+  "duration": 1.276273,
+  "under_pressure": true,
+  "related_events": [
+    "732dc9b2-47c4-4337-988d-8d7ce534eead",
+    "f4c5c981-8982-4c77-8d54-418350f70b79"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.22471464,
+    "end_location": [
+      120.0,
+      37.7,
+      0.5
+    ],
+    "key_pass_id": "c10d966f-2b03-4296-8cd3-bb8401c10f16",
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "aerial_won": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          107.8,
+          32.1
+        ],
+        "player": {
+          "id": 15630,
+          "name": "Leigh-Anne Robe"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.3,
+          47.3
+        ],
+        "player": {
+          "id": 19777,
+          "name": "Niamh Fahey"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.4,
+          37.9
+        ],
+        "player": {
+          "id": 15614,
+          "name": "Sophie Elizabeth Bradley-Auckland"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.7,
+          26.6
+        ],
+        "player": {
+          "id": 10093,
+          "name": "Yana Daniels"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.3,
+          33.5
+        ],
+        "player": {
+          "id": 19417,
+          "name": "Amy Rodgers"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.4,
+          38.5
+        ],
+        "player": {
+          "id": 19778,
+          "name": "Frances Kitching"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.9,
+          28.1
+        ],
+        "player": {
+          "id": 15563,
+          "name": "Charlie Wellings"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.4,
+          34.1
+        ],
+        "player": {
+          "id": 15562,
+          "name": "Lucy Staniforth"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.1,
+          51.7
+        ],
+        "player": {
+          "id": 15580,
+          "name": "Claudia Walker"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

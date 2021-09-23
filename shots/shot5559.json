@@ -1,0 +1,190 @@
+{
+  "id": "53b3c6fe-6a3c-4913-b3bf-ef189797cc70",
+  "index": 3472,
+  "period": 2,
+  "timestamp": "00:50:29.080",
+  "minute": 95,
+  "second": 29,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 213,
+  "possession_team": {
+    "id": 773,
+    "name": "Switzerland"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 773,
+    "name": "Switzerland"
+  },
+  "player": {
+    "id": 3533,
+    "name": "Xherdan Shaqiri"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    99.0,
+    33.0
+  ],
+  "duration": 1.133,
+  "under_pressure": true,
+  "related_events": [
+    "91f0d3e7-c65f-4b48-b241-1256b9290361",
+    "d6138ed6-0f48-4301-b8e7-754e0824e3c1"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.044802416,
+    "end_location": [
+      120.0,
+      35.2,
+      2.6
+    ],
+    "key_pass_id": "3bb2c728-b53e-4cfd-aef1-d520b63b805f",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          93.0,
+          31.0
+        ],
+        "player": {
+          "id": 5834,
+          "name": "Mario Gavranovi\u0107"
+        },
+        "position": {
+          "id": 25,
+          "name": "Secondary Striker"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          79.0,
+          53.0
+        ],
+        "player": {
+          "id": 5545,
+          "name": "Breel-Donald Embolo"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.0,
+          46.0
+        ],
+        "player": {
+          "id": 5596,
+          "name": "Aleksandar Kolarov"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          34.0
+        ],
+        "player": {
+          "id": 5580,
+          "name": "Du\u0161ko To\u0161i\u0107"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          37.0
+        ],
+        "player": {
+          "id": 5601,
+          "name": "Vladimir Stojkovi\u0107"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          30.0
+        ],
+        "player": {
+          "id": 5594,
+          "name": "Branislav Ivanovi\u0107"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.0,
+          29.0
+        ],
+        "player": {
+          "id": 5589,
+          "name": "Sergej Milinkovi\u0107-Savi\u0107"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          19.0
+        ],
+        "player": {
+          "id": 5835,
+          "name": "Josip Drmic"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "id": "293875cf-98f5-4220-90a2-bb201deb4127",
+  "index": 2817,
+  "period": 2,
+  "timestamp": "00:29:40.508",
+  "minute": 74,
+  "second": 40,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 174,
+  "possession_team": {
+    "id": 180,
+    "name": "Borussia Dortmund"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 180,
+    "name": "Borussia Dortmund"
+  },
+  "player": {
+    "id": 5663,
+    "name": "Jakub B\u0142aszczykowski"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    101.0,
+    48.0
+  ],
+  "duration": 0.4981,
+  "related_events": [
+    "36e929bc-6404-4e78-8c61-bd53ab77e628",
+    "a1d5772e-ab08-40e7-b6ae-d039e2b626fc"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.06828235,
+    "end_location": [
+      103.0,
+      47.0
+    ],
+    "key_pass_id": "a191d468-6916-4733-8a73-942758e78f9d",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.0,
+          39.0
+        ],
+        "player": {
+          "id": 9399,
+          "name": "Javier Mart\u00ednez Aginaga"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.0,
+          41.0
+        ],
+        "player": {
+          "id": 18414,
+          "name": "Bastian Schweinsteiger"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          24.0
+        ],
+        "player": {
+          "id": 19295,
+          "name": "Philipp Lahm"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          36.0
+        ],
+        "player": {
+          "id": 5578,
+          "name": "J\u00e9r\u00f4me Boateng"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          40.0
+        ],
+        "player": {
+          "id": 3197,
+          "name": "Dante Bonfim da Costa Santos"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          47.0
+        ],
+        "player": {
+          "id": 8220,
+          "name": "David Olatukunbo Alaba"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          41.0
+        ],
+        "player": {
+          "id": 5570,
+          "name": "Manuel Neuer"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          26.0
+        ],
+        "player": {
+          "id": 5559,
+          "name": "Marco Reus"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.0,
+          39.0
+        ],
+        "player": {
+          "id": 5668,
+          "name": "Robert Lewandowski"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

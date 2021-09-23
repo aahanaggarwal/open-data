@@ -1,0 +1,203 @@
+{
+  "id": "ff34b473-085e-4472-8fb2-5cb1f3f946e8",
+  "index": 2848,
+  "period": 2,
+  "timestamp": "00:21:30.625",
+  "minute": 66,
+  "second": 30,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 115,
+  "possession_team": {
+    "id": 422,
+    "name": "Osasuna"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 422,
+    "name": "Osasuna"
+  },
+  "player": {
+    "id": 24166,
+    "name": "Juan Francisco Mart\u00ednez Modesto"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    101.0,
+    23.6
+  ],
+  "duration": 0.4334,
+  "related_events": [
+    "35b55327-120a-4fee-ae87-1edadfb54387",
+    "a54e645c-7256-4b13-a774-256da011fde7"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.04139802,
+    "end_location": [
+      107.3,
+      29.8
+    ],
+    "key_pass_id": "3d7776e2-b653-4b9d-8973-27dc7f6151c2",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          100.3,
+          51.4
+        ],
+        "player": {
+          "id": 26723,
+          "name": "\u00c1lvaro Cejudo Carmona"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.9,
+          18.3
+        ],
+        "player": {
+          "id": 16718,
+          "name": "Roland Conde Lamah"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.4,
+          39.6
+        ],
+        "player": {
+          "id": 26613,
+          "name": "Maxwell Scherrer Cabelino Andrade"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.4,
+          26.6
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.6,
+          23.2
+        ],
+        "player": {
+          "id": 4891,
+          "name": "Ibrahim Afellay"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.1,
+          26.6
+        ],
+        "player": {
+          "id": 3478,
+          "name": "Francesc F\u00e0bregas i Soler"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.7,
+          38.1
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.1,
+          23.1
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.2,
+          30.5
+        ],
+        "player": {
+          "id": 24069,
+          "name": "Ibrahima Bald\u00e9"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

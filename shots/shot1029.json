@@ -1,0 +1,158 @@
+{
+  "id": "98c65469-6ade-4e04-96a1-2733d7b6bb52",
+  "index": 3020,
+  "period": 2,
+  "timestamp": "00:30:24.898",
+  "minute": 75,
+  "second": 24,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 174,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15754,
+    "name": "Fredrik Ljungberg"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    115.8,
+    51.1
+  ],
+  "duration": 0.090373,
+  "related_events": [
+    "6e732e82-f29e-454f-bf12-7708a117d9fc",
+    "9e2bbe36-e898-43e5-8797-6cca1ed8b620"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.063105404,
+    "end_location": [
+      116.0,
+      50.4
+    ],
+    "key_pass_id": "6fb060d1-b2b5-4387-b86c-fe17078db1b1",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          116.1,
+          50.1
+        ],
+        "player": {
+          "id": 40300,
+          "name": "Matthew Upson"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.1,
+          47.3
+        ],
+        "player": {
+          "id": 40292,
+          "name": "Maik Taylor"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.7,
+          49.9
+        ],
+        "player": {
+          "id": 40296,
+          "name": "Kenny Cunningham"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          58.7
+        ],
+        "player": {
+          "id": 40295,
+          "name": "Stan Lazaridis"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.5,
+          57.5
+        ],
+        "player": {
+          "id": 40298,
+          "name": "Jamie Clapham"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.8,
+          40.1
+        ],
+        "player": {
+          "id": 40293,
+          "name": "Damien Johnson"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

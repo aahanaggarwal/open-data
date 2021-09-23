@@ -1,0 +1,130 @@
+{
+  "id": "750972f8-037b-4443-a1ff-b346bcabbedb",
+  "index": 3344,
+  "period": 2,
+  "timestamp": "00:44:48.754",
+  "minute": 89,
+  "second": 48,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 205,
+  "possession_team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "play_pattern": {
+    "id": 2,
+    "name": "From Corner"
+  },
+  "team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "player": {
+    "id": 4654,
+    "name": "Nikita Parris"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    103.0,
+    46.0
+  ],
+  "duration": 1.144899,
+  "under_pressure": true,
+  "related_events": [
+    "2813ccc7-bdc3-4688-b61f-65b23f44080c",
+    "e8a0eeee-ff82-445e-beb1-066c975def67"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.2798198,
+    "end_location": [
+      120.0,
+      36.6,
+      0.9
+    ],
+    "key_pass_id": "df6f003b-15c6-48c3-bbc3-2436658abb16",
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          93.0,
+          34.0
+        ],
+        "player": {
+          "id": 15555,
+          "name": "Lauren Hemp"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          95.0,
+          46.0
+        ],
+        "player": {
+          "id": 15574,
+          "name": "Georgia Brougham"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          45.0
+        ],
+        "player": {
+          "id": 15556,
+          "name": "Chantelle Boye-Hlorkah"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          45.0
+        ],
+        "player": {
+          "id": 15576,
+          "name": "Kirstie Levell"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

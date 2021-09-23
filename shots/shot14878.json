@@ -1,0 +1,188 @@
+{
+  "id": "aabc9516-2d18-4d1a-837e-3ee57544a0bc",
+  "index": 800,
+  "period": 1,
+  "timestamp": "00:22:50.942",
+  "minute": 22,
+  "second": 50,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 60,
+  "possession_team": {
+    "id": 972,
+    "name": "West Ham United LFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 970,
+    "name": "Yeovil Town LFC"
+  },
+  "player": {
+    "id": 15714,
+    "name": "Anne-Marie Heatherson"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    106.0,
+    61.0
+  ],
+  "duration": 1.671781,
+  "under_pressure": true,
+  "related_events": [
+    "a5f6920b-df59-4dd7-a765-c93fe13227d3",
+    "b5026dd3-5679-4607-9314-45b811100583"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.020781606,
+    "end_location": [
+      107.0,
+      60.0
+    ],
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.0,
+          54.0
+        ],
+        "player": {
+          "id": 15711,
+          "name": "Amber Gaylor"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.0,
+          48.0
+        ],
+        "player": {
+          "id": 18145,
+          "name": "Ria Percival"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          52.0
+        ],
+        "player": {
+          "id": 18151,
+          "name": "Gilly Louise Scarlett Flaherty"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          61.0
+        ],
+        "player": {
+          "id": 18159,
+          "name": "Brooke Hendrix"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          63.0
+        ],
+        "player": {
+          "id": 18156,
+          "name": "Claire Lauren Rafferty"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          59.0
+        ],
+        "player": {
+          "id": 18147,
+          "name": "Kate Longhurst"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          120.0,
+          44.0
+        ],
+        "player": {
+          "id": 22027,
+          "name": "Anne Moorhouse"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          55.0
+        ],
+        "player": {
+          "id": 15705,
+          "name": "Emily Donovan"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

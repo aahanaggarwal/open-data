@@ -1,0 +1,144 @@
+{
+  "id": "ae5a472f-6230-4e98-873d-d6f2aecb5f4d",
+  "index": 1334,
+  "period": 1,
+  "timestamp": "00:32:45.726",
+  "minute": 32,
+  "second": 45,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 71,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19298,
+    "name": "Samuel Eto\"o Fils"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    96.2,
+    26.3
+  ],
+  "duration": 0.5288,
+  "related_events": [
+    "6a793739-c9e7-4875-bbac-99f8b0a9513e"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.030714987,
+    "end_location": [
+      112.9,
+      38.5,
+      1.4
+    ],
+    "key_pass_id": "a56d95fe-8d82-435a-9ffd-d6b0c68a7a26",
+    "first_time": true,
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          93.3,
+          26.9
+        ],
+        "player": {
+          "id": 26044,
+          "name": "C\u00e9sar Gonz\u00e1lez Navas"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.2,
+          29.5
+        ],
+        "player": {
+          "id": 26040,
+          "name": "An\u00edbal Samuel Matell\u00e1n"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.7,
+          46.0
+        ],
+        "player": {
+          "id": 26046,
+          "name": "Marco Antonio Ortega Cotano"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.3,
+          37.9
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.2,
+          37.8
+        ],
+        "player": {
+          "id": 26041,
+          "name": "Rub\u00e9n P\u00e9rez Chueca"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

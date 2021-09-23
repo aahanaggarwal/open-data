@@ -1,0 +1,218 @@
+{
+  "id": "c9997edc-321b-4ab5-8926-27af271bb66d",
+  "index": 514,
+  "period": 1,
+  "timestamp": "00:14:57.503",
+  "minute": 14,
+  "second": 57,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 46,
+  "possession_team": {
+    "id": 969,
+    "name": "Birmingham City WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 969,
+    "name": "Birmingham City WFC"
+  },
+  "player": {
+    "id": 15563,
+    "name": "Charlie Wellings"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    111.0,
+    34.0
+  ],
+  "duration": 0.491173,
+  "related_events": [
+    "0c397a90-db98-4256-b235-231e916c2083",
+    "deea634f-82cb-4ae6-b8e3-a7e7a6030cfc"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.11724459,
+    "end_location": [
+      114.0,
+      35.0
+    ],
+    "key_pass_id": "57877f80-20ac-4452-bcf3-55be4c158640",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.0,
+          28.0
+        ],
+        "player": {
+          "id": 15557,
+          "name": "Emma Follis"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.0,
+          28.0
+        ],
+        "player": {
+          "id": 16391,
+          "name": "Loren Dykes"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.0,
+          25.0
+        ],
+        "player": {
+          "id": 16383,
+          "name": "Danique Kerkdijk"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          34.0
+        ],
+        "player": {
+          "id": 10095,
+          "name": "Julie Biesmans"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          34.0
+        ],
+        "player": {
+          "id": 19501,
+          "name": "Hayley Ladd"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.0,
+          51.0
+        ],
+        "player": {
+          "id": 19592,
+          "name": "Harriet Scott"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.0,
+          48.0
+        ],
+        "player": {
+          "id": 17274,
+          "name": "Poppy Pattinson"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          38.0
+        ],
+        "player": {
+          "id": 16381,
+          "name": "Gemma Evans"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          34.0
+        ],
+        "player": {
+          "id": 10171,
+          "name": "Frankie Brown"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          37.0
+        ],
+        "player": {
+          "id": 16376,
+          "name": "Sophie Baggaley"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "id": "50f7cadf-eea1-44f9-8062-7dbc954f3b39",
+  "index": 2376,
+  "period": 2,
+  "timestamp": "00:20:54.214",
+  "minute": 65,
+  "second": 54,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 137,
+  "possession_team": {
+    "id": 966,
+    "name": "Liverpool WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 966,
+    "name": "Liverpool WFC"
+  },
+  "player": {
+    "id": 15547,
+    "name": "Melissa Lawley"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    114.5,
+    45.8
+  ],
+  "duration": 0.367818,
+  "related_events": [
+    "ffcad344-7424-4f32-babc-7bcb9d826d57"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.32046396,
+    "end_location": [
+      120.0,
+      47.3,
+      2.5
+    ],
+    "key_pass_id": "edce27a4-1a0b-4040-9073-f72be3f5c95d",
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          104.1,
+          49.4
+        ],
+        "player": {
+          "id": 31557,
+          "name": "Katharina Baunach"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.6,
+          41.6
+        ],
+        "player": {
+          "id": 18151,
+          "name": "Gilly Louise Scarlett Flaherty"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.9,
+          42.7
+        ],
+        "player": {
+          "id": 22027,
+          "name": "Anne Moorhouse"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.2,
+          48.3
+        ],
+        "player": {
+          "id": 15631,
+          "name": "Niamh Charles"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.5,
+          42.7
+        ],
+        "player": {
+          "id": 31556,
+          "name": "Laura Vetterlein"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

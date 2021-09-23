@@ -1,0 +1,189 @@
+{
+  "id": "ad648866-892e-4bb7-94da-23ea3b0077e7",
+  "index": 3162,
+  "period": 2,
+  "timestamp": "00:38:45.243",
+  "minute": 83,
+  "second": 45,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 191,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 40221,
+    "name": "Gilberto Aparecido da Silva"
+  },
+  "position": {
+    "id": 9,
+    "name": "Right Defensive Midfield"
+  },
+  "location": [
+    101.1,
+    47.5
+  ],
+  "duration": 0.207203,
+  "related_events": [
+    "3ec4aacd-e8d8-4c1c-bdb0-b5a76ceefd72",
+    "4f8afc44-d7ac-44e9-a61e-0eac1e256a85"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.05293875,
+    "end_location": [
+      103.5,
+      46.1
+    ],
+    "key_pass_id": "b23690ef-7dc5-433c-aa71-7309877ec45c",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          106.5,
+          29.9
+        ],
+        "player": {
+          "id": 19312,
+          "name": "Robert Pir\u00e8s "
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.3,
+          36.5
+        ],
+        "player": {
+          "id": 40270,
+          "name": "Gary Oliver Kelly"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.9,
+          43.5
+        ],
+        "player": {
+          "id": 40255,
+          "name": "J\u00e9r\u00e9mie Aliadi\u00e8re"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          116.3,
+          59.6
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.9,
+          45.9
+        ],
+        "player": {
+          "id": 40263,
+          "name": "Zoumana Camara"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.5,
+          39.5
+        ],
+        "player": {
+          "id": 38557,
+          "name": "David Batty"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.1,
+          54.0
+        ],
+        "player": {
+          "id": 40265,
+          "name": "Jos\u00e9 Vitor Roque J\u00fanior"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.5,
+          42.7
+        ],
+        "player": {
+          "id": 40132,
+          "name": "Paul Robinson"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

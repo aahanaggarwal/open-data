@@ -1,0 +1,188 @@
+{
+  "id": "77f647e2-626c-4b01-8131-7223763192dc",
+  "index": 2577,
+  "period": 2,
+  "timestamp": "00:16:38.843",
+  "minute": 61,
+  "second": 38,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 143,
+  "possession_team": {
+    "id": 968,
+    "name": "Arsenal WFC"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 968,
+    "name": "Arsenal WFC"
+  },
+  "player": {
+    "id": 15619,
+    "name": "Bethany Mead"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    107.8,
+    30.5
+  ],
+  "duration": 0.39796,
+  "related_events": [
+    "c82770ec-9bae-4962-8a19-f311fc32367f"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.14213379,
+    "end_location": [
+      115.9,
+      36.3,
+      1.7
+    ],
+    "key_pass_id": "49bdf72e-244a-400b-a226-b3ddecf4a89d",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          116.3,
+          36.1
+        ],
+        "player": {
+          "id": 15626,
+          "name": "Anke Preu\u00df"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.2,
+          31.2
+        ],
+        "player": {
+          "id": 18144,
+          "name": "Rebecca Jane"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.8,
+          31.8
+        ],
+        "player": {
+          "id": 15614,
+          "name": "Sophie Elizabeth Bradley-Auckland"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.4,
+          40.5
+        ],
+        "player": {
+          "id": 19777,
+          "name": "Niamh Fahey"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.7,
+          42.7
+        ],
+        "player": {
+          "id": 15630,
+          "name": "Leigh-Anne Robe"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.8,
+          38.0
+        ],
+        "player": {
+          "id": 19779,
+          "name": "Rhiannon Roberts"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.9,
+          43.1
+        ],
+        "player": {
+          "id": 15623,
+          "name": "Vivianne Miedema"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.9,
+          39.5
+        ],
+        "player": {
+          "id": 10650,
+          "name": "Jill Roord"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

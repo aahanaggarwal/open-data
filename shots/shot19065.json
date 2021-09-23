@@ -1,0 +1,144 @@
+{
+  "id": "296a86f3-595c-4432-8376-6caf1a017848",
+  "index": 2844,
+  "period": 2,
+  "timestamp": "00:21:35.542",
+  "minute": 66,
+  "second": 35,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 168,
+  "possession_team": {
+    "id": 967,
+    "name": "Everton LFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 967,
+    "name": "Everton LFC"
+  },
+  "player": {
+    "id": 18253,
+    "name": "Hannah Cain"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    108.8,
+    48.8
+  ],
+  "duration": 0.297,
+  "related_events": [
+    "8d6f77be-482a-4fd1-80b9-78cee1aebfaa"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.39683983,
+    "end_location": [
+      115.0,
+      44.0,
+      0.2
+    ],
+    "key_pass_id": "c22e109d-a646-4338-9bd9-8c9c3475e0be",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.8,
+          40.1
+        ],
+        "player": {
+          "id": 18152,
+          "name": "Kirstyn Pearce"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.3,
+          35.9
+        ],
+        "player": {
+          "id": 15725,
+          "name": "Natasha Harding"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.1,
+          43.9
+        ],
+        "player": {
+          "id": 15719,
+          "name": "Grace Moloney"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.5,
+          48.1
+        ],
+        "player": {
+          "id": 21021,
+          "name": "Molly Bartrip"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          32.9
+        ],
+        "player": {
+          "id": 15556,
+          "name": "Chantelle Boye-Hlorkah"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "id": "8fea4d05-756c-4500-a40a-675bb49e8bd0",
+  "index": 660,
+  "period": 1,
+  "timestamp": "00:17:54.386",
+  "minute": 17,
+  "second": 54,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 44,
+  "possession_team": {
+    "id": 215,
+    "name": "Athletic Bilbao"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 215,
+    "name": "Athletic Bilbao"
+  },
+  "player": {
+    "id": 3486,
+    "name": "Fernando Llorente Torres"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    112.1,
+    32.9
+  ],
+  "duration": 0.079216,
+  "related_events": [
+    "3a9e8d0e-29e9-4917-8e5a-0cc32db57600",
+    "dac31e91-220c-4f74-8bab-fd7808e1a633"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.0652876,
+    "end_location": [
+      112.9,
+      33.3
+    ],
+    "key_pass_id": "7081a31a-1e2d-4801-85c1-7527a2541bdc",
+    "technique": {
+      "id": 89,
+      "name": "Backheel"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          112.9,
+          32.7
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.5,
+          46.8
+        ],
+        "player": {
+          "id": 17797,
+          "name": "Giovanni van Bronckhorst"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.4,
+          37.9
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.2,
+          47.1
+        ],
+        "player": {
+          "id": 15606,
+          "name": "Joseba Andoni Etxeberria Lizardi"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

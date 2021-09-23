@@ -1,0 +1,160 @@
+{
+  "id": "465840e6-ad1e-4eba-898c-8efbf9de1a01",
+  "index": 2724,
+  "period": 2,
+  "timestamp": "00:28:48.257",
+  "minute": 73,
+  "second": 48,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 166,
+  "possession_team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "player": {
+    "id": 5044,
+    "name": "D\u00e9bora Cristiane de Oliveira"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    95.0,
+    32.0
+  ],
+  "duration": 1.268,
+  "under_pressure": true,
+  "related_events": [
+    "6cf08967-c645-4691-92c6-8697924584a7",
+    "fce4cac0-a9d2-4704-aa1d-33117498a761"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.048834585,
+    "end_location": [
+      119.0,
+      38.3,
+      1.2
+    ],
+    "key_pass_id": "8dd23e2b-e5b5-4362-b962-cefe3ec2b39d",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          86.0,
+          53.0
+        ],
+        "player": {
+          "id": 5070,
+          "name": "Christine Nairn"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          48.0
+        ],
+        "player": {
+          "id": 5074,
+          "name": "Shelina Zadorsky"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.0,
+          45.0
+        ],
+        "player": {
+          "id": 5088,
+          "name": "Crystal Alyssia Dunn"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          96.0,
+          44.0
+        ],
+        "player": {
+          "id": 5060,
+          "name": "Poliana Barbosa Medeiros"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          33.0
+        ],
+        "player": {
+          "id": 5071,
+          "name": "Monica Hickmann Alves"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          39.0
+        ],
+        "player": {
+          "id": 5090,
+          "name": "Ashlyn Harris"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

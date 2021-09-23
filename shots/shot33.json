@@ -1,0 +1,144 @@
+{
+  "id": "69c3925a-6151-43de-a097-6e44bcad6db1",
+  "index": 1202,
+  "period": 1,
+  "timestamp": "00:28:10.302",
+  "minute": 28,
+  "second": 10,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 66,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 12737,
+    "name": "David Villa S\u00e1nchez"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    113.8,
+    22.5
+  ],
+  "duration": 0.6466,
+  "related_events": [
+    "ce95e2a9-1700-4763-811b-f5691002cef2"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.026965838,
+    "end_location": [
+      118.8,
+      35.9,
+      0.0
+    ],
+    "key_pass_id": "bc6a3550-b72f-4c9a-bab9-9a27f4ad23b7",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.3,
+          23.6
+        ],
+        "player": {
+          "id": 26170,
+          "name": "Francisco Javier Chica Torres"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.9,
+          27.9
+        ],
+        "player": {
+          "id": 27144,
+          "name": "Antonio Amaya Carazo"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.1,
+          34.8
+        ],
+        "player": {
+          "id": 26081,
+          "name": "Pedro Mario \u00c1lvarez Abrante"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.1,
+          36.3
+        ],
+        "player": {
+          "id": 3623,
+          "name": "Adri\u00e1n San Miguel del Castillo"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.4,
+          52.9
+        ],
+        "player": {
+          "id": 25022,
+          "name": "Alejandro Mart\u00ednez S\u00e1nchez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

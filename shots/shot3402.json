@@ -1,0 +1,129 @@
+{
+  "id": "f48e26e8-8b75-4684-829b-85473d819eaa",
+  "index": 709,
+  "period": 1,
+  "timestamp": "00:18:20.150",
+  "minute": 18,
+  "second": 20,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 45,
+  "possession_team": {
+    "id": 1043,
+    "name": "Mallorca"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 1043,
+    "name": "Mallorca"
+  },
+  "player": {
+    "id": 25876,
+    "name": "Pierre Achille Web\u00f3 Kouamo"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    103.2,
+    38.1
+  ],
+  "duration": 0.34,
+  "related_events": [
+    "d0eb4188-7e8e-4104-add7-7bc61c6b444c"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.50788677,
+    "end_location": [
+      108.3,
+      39.0,
+      0.3
+    ],
+    "key_pass_id": "577dce84-6582-4a45-90d0-50e0824b29f9",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          109.5,
+          39.4
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.8,
+          27.4
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.3,
+          40.8
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.7,
+          43.3
+        ],
+        "player": {
+          "id": 18608,
+          "name": "Dmytro Chygrynskiy"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

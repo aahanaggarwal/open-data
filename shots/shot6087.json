@@ -1,0 +1,189 @@
+{
+  "id": "1cc42983-b68a-4fcb-a655-e87127608550",
+  "index": 1701,
+  "period": 1,
+  "timestamp": "00:41:24.886",
+  "minute": 41,
+  "second": 24,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 83,
+  "possession_team": {
+    "id": 1043,
+    "name": "Mallorca"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 1043,
+    "name": "Mallorca"
+  },
+  "player": {
+    "id": 6740,
+    "name": "Gonzalo Castro Iriz\u00e1bal"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    108.7,
+    26.6
+  ],
+  "duration": 0.5836,
+  "related_events": [
+    "75a86e6f-6fc5-4dff-8d6d-33c2213375df"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.029924018,
+    "end_location": [
+      117.7,
+      38.5,
+      0.2
+    ],
+    "key_pass_id": "1ffa6ebd-7df0-4ccf-b773-cc5fc6660fb6",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.2,
+          20.7
+        ],
+        "player": {
+          "id": 26676,
+          "name": "Fernando Ezequiel Cavenaghi"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.0,
+          36.5
+        ],
+        "player": {
+          "id": 13581,
+          "name": "Emilio Nsue L\u00f3pez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          116.1,
+          22.2
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.2,
+          37.6
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.3,
+          22.2
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.2,
+          34.0
+        ],
+        "player": {
+          "id": 25919,
+          "name": "Gabriel Alejandro Milito"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.8,
+          27.2
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.3,
+          38.7
+        ],
+        "player": {
+          "id": 20177,
+          "name": "Eric-Sylvain Bilal Abidal"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

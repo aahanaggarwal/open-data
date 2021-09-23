@@ -1,0 +1,235 @@
+{
+  "id": "c2880ca3-e61a-4a89-8714-4c1fc8dc6620",
+  "index": 2171,
+  "period": 2,
+  "timestamp": "00:07:22.091",
+  "minute": 52,
+  "second": 22,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 101,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    105.2,
+    36.8
+  ],
+  "duration": 0.152626,
+  "under_pressure": true,
+  "related_events": [
+    "34de4dda-541c-4681-b778-1434bc704839",
+    "76191e28-d459-4acf-a62c-5c45328ff4ca",
+    "fbc96333-cf75-4b71-aa44-90f661049f9f"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.08470476,
+    "end_location": [
+      106.6,
+      37.1
+    ],
+    "key_pass_id": "5c1e91a3-5c0c-4507-a966-32387eece9f5",
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          111.6,
+          47.4
+        ],
+        "player": {
+          "id": 6374,
+          "name": "N\u00e9lson Cabral Semedo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.3,
+          36.7
+        ],
+        "player": {
+          "id": 6758,
+          "name": "V\u00edctor S\u00e1nchez Mata"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          39.0
+        ],
+        "player": {
+          "id": 6754,
+          "name": "David L\u00f3pez Silva"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.8,
+          40.8
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.7,
+          40.0
+        ],
+        "player": {
+          "id": 6792,
+          "name": "Pau L\u00f3pez Sabata"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.9,
+          43.0
+        ],
+        "player": {
+          "id": 6790,
+          "name": "Mario Hermoso Canseco"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.1,
+          51.8
+        ],
+        "player": {
+          "id": 3236,
+          "name": "Sergi Darder Moll"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.3,
+          55.1
+        ],
+        "player": {
+          "id": 6757,
+          "name": "Aar\u00f3n Mart\u00edn Caricol"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          45.2
+        ],
+        "player": {
+          "id": 6867,
+          "name": "Papa Kouly Diop"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.4,
+          33.7
+        ],
+        "player": {
+          "id": 6763,
+          "name": "Pablo Daniel Piatti"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.2,
+          38.7
+        ],
+        "player": {
+          "id": 6751,
+          "name": "Javier Fuego Mart\u00ednez"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

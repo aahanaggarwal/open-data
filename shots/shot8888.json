@@ -1,0 +1,129 @@
+{
+  "id": "d3511d52-3e06-434f-ab55-d029e3101fbb",
+  "index": 2076,
+  "period": 2,
+  "timestamp": "00:06:27.055",
+  "minute": 51,
+  "second": 27,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 97,
+  "possession_team": {
+    "id": 205,
+    "name": "Legan\u00e9s"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 205,
+    "name": "Legan\u00e9s"
+  },
+  "player": {
+    "id": 6600,
+    "name": "Claudio Beauvue"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    105.7,
+    52.6
+  ],
+  "duration": 0.741,
+  "related_events": [
+    "9fb319bf-51fd-44f8-8813-256a71886d8d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.112457305,
+    "end_location": [
+      116.8,
+      43.9,
+      0.3
+    ],
+    "key_pass_id": "5cc814d4-6806-42ca-9dac-b834d08050c5",
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.4,
+          42.8
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.4,
+          49.7
+        ],
+        "player": {
+          "id": 5492,
+          "name": "Samuel Yves Umtiti"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          85.7,
+          49.9
+        ],
+        "player": {
+          "id": 5211,
+          "name": "Jordi Alba Ramos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.6,
+          32.5
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

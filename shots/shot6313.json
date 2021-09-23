@@ -1,0 +1,174 @@
+{
+  "id": "31635bd4-b4be-4f01-ba83-a14763e5d4aa",
+  "index": 2134,
+  "period": 1,
+  "timestamp": "00:45:06.171",
+  "minute": 45,
+  "second": 6,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 117,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3478,
+    "name": "Francesc F\u00e0bregas i Soler"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    119.3,
+    28.4
+  ],
+  "duration": 1.2462,
+  "related_events": [
+    "9ac4f830-8b9a-4d02-9907-669a5ea0e232"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.059239052,
+    "end_location": [
+      120.0,
+      55.5,
+      0.2
+    ],
+    "key_pass_id": "056fd6c2-f17d-43c6-99d2-a2b7823b0ac3",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.0,
+          27.9
+        ],
+        "player": {
+          "id": 26736,
+          "name": "Borja Ekiza Imaz"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.1,
+          31.4
+        ],
+        "player": {
+          "id": 6576,
+          "name": "Gorka Iraizoz Moreno"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          39.4
+        ],
+        "player": {
+          "id": 6389,
+          "name": "Mikel San Jos\u00e9 Dom\u00ednguez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.9,
+          46.8
+        ],
+        "player": {
+          "id": 26788,
+          "name": "Jon Aurtenetxe Borde"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.6,
+          42.5
+        ],
+        "player": {
+          "id": 3385,
+          "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.5,
+          35.9
+        ],
+        "player": {
+          "id": 26087,
+          "name": "Carlos Gurpegi Nausia"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.5,
+          35.7
+        ],
+        "player": {
+          "id": 3606,
+          "name": "Ander Herrera Ag\u00fcera"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

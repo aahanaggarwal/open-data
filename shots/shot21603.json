@@ -1,0 +1,160 @@
+{
+  "id": "e1c2fc2a-26dd-463a-9e43-b8e8f33a0c50",
+  "index": 3788,
+  "period": 2,
+  "timestamp": "00:46:10.404",
+  "minute": 91,
+  "second": 10,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 181,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    105.0,
+    36.5
+  ],
+  "duration": 1.684961,
+  "under_pressure": true,
+  "related_events": [
+    "1ab0c398-21f3-48f6-a970-49b5976855fc",
+    "d9addeb0-839e-457d-9373-6e9298d06eeb"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.4793871,
+    "end_location": [
+      120.0,
+      41.2,
+      0.5
+    ],
+    "key_pass_id": "3d8301bc-b99b-4ddb-b1a7-1cdbbb0351ea",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          96.2,
+          19.3
+        ],
+        "player": {
+          "id": 4913,
+          "name": "Bojan Krk\u00edc P\u00e9rez"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.7,
+          36.8
+        ],
+        "player": {
+          "id": 25946,
+          "name": "Andr\u00e9s Palop Cervera"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.1,
+          35.5
+        ],
+        "player": {
+          "id": 25952,
+          "name": "Ivica Dragutinovic"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.6,
+          42.2
+        ],
+        "player": {
+          "id": 6913,
+          "name": "Fernando Navarro i Corbacho"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.2,
+          27.5
+        ],
+        "player": {
+          "id": 26681,
+          "name": "Marius Stankevi\u010dius"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.3,
+          38.6
+        ],
+        "player": {
+          "id": 26018,
+          "name": "Julien Escud\u00e9"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

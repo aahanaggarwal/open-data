@@ -1,0 +1,83 @@
+{
+  "id": "3ee98e5d-1f03-4030-a40d-d3f0c0dddd37",
+  "index": 2301,
+  "period": 2,
+  "timestamp": "00:34:30.414",
+  "minute": 79,
+  "second": 30,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 187,
+  "possession_team": {
+    "id": 974,
+    "name": "Reading WFC"
+  },
+  "play_pattern": {
+    "id": 5,
+    "name": "Other"
+  },
+  "team": {
+    "id": 974,
+    "name": "Reading WFC"
+  },
+  "player": {
+    "id": 10251,
+    "name": "Fara Williams"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    108.2,
+    40.0
+  ],
+  "duration": 0.516188,
+  "related_events": [
+    "ba8cda09-d120-40a5-b5bf-d74d8c965308"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.76,
+    "end_location": [
+      120.0,
+      37.2,
+      2.2
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 88,
+      "name": "Penalty"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.0,
+          41.1
+        ],
+        "player": {
+          "id": 31538,
+          "name": "Mary Alexandra Earps"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

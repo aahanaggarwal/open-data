@@ -1,0 +1,145 @@
+{
+  "id": "6384ec9c-cfc7-4b80-b662-be95e48da229",
+  "index": 2105,
+  "period": 2,
+  "timestamp": "00:00:52.609",
+  "minute": 45,
+  "second": 52,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 94,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 9,
+    "name": "From Kick Off"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 6616,
+    "name": "Munir El Haddadi Mohamed"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    104.0,
+    48.1
+  ],
+  "duration": 1.1364,
+  "under_pressure": true,
+  "related_events": [
+    "06684ee6-4571-46ca-b100-8b9dab75c42c",
+    "45907341-9214-44f7-82ec-838fa17dc776"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.31584463,
+    "end_location": [
+      120.0,
+      36.4,
+      0.8
+    ],
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          100.5,
+          50.7
+        ],
+        "player": {
+          "id": 27245,
+          "name": "Jos\u00e9 Eduardo Alb\u00e1car Gallego"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.3,
+          43.6
+        ],
+        "player": {
+          "id": 9082,
+          "name": "Przemys\u0142aw Tyto\u0144"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.2,
+          46.2
+        ],
+        "player": {
+          "id": 27206,
+          "name": "Sergio Pelegr\u00edn L\u00f3pez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.9,
+          44.9
+        ],
+        "player": {
+          "id": 6702,
+          "name": "David Rodr\u00edguez Lomb\u00e1n"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.4,
+          27.9
+        ],
+        "player": {
+          "id": 6627,
+          "name": "Dami\u00e1n Nicol\u00e1s Su\u00e1rez Su\u00e1rez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

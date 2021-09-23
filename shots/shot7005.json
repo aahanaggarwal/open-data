@@ -1,0 +1,203 @@
+{
+  "id": "1b863b26-4d2e-4ace-b9c1-5b02551634ae",
+  "index": 1107,
+  "period": 1,
+  "timestamp": "00:26:05.600",
+  "minute": 26,
+  "second": 5,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 44,
+  "possession_team": {
+    "id": 782,
+    "name": "Belgium"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 782,
+    "name": "Belgium"
+  },
+  "player": {
+    "id": 3089,
+    "name": "Kevin De Bruyne"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    102.0,
+    46.0
+  ],
+  "duration": 0.88,
+  "related_events": [
+    "b18cd61e-dccd-419a-9810-3a23c4740a35",
+    "e590cb7d-fbc2-4735-a13a-63a9cf3d677d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.106753215,
+    "end_location": [
+      110.0,
+      40.0
+    ],
+    "key_pass_id": "16618704-ce77-4d79-9638-ed122a17d883",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          107.0,
+          53.0
+        ],
+        "player": {
+          "id": 5630,
+          "name": "Dries Mertens"
+        },
+        "position": {
+          "id": 18,
+          "name": "Right Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.0,
+          38.0
+        ],
+        "player": {
+          "id": 3289,
+          "name": "Romelu Lukaku Menama"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.0,
+          30.0
+        ],
+        "player": {
+          "id": 3621,
+          "name": "Eden Hazard"
+        },
+        "position": {
+          "id": 20,
+          "name": "Left Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.0,
+          44.0
+        ],
+        "player": {
+          "id": 5693,
+          "name": "Gaku Shibasaki"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          39.0
+        ],
+        "player": {
+          "id": 3300,
+          "name": "Maya Yoshida"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          46.0
+        ],
+        "player": {
+          "id": 5682,
+          "name": "Gen Sh\u014dji"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          51.0
+        ],
+        "player": {
+          "id": 5690,
+          "name": "Yuto Nagatomo"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          36.0
+        ],
+        "player": {
+          "id": 5681,
+          "name": "Makoto Hasebe"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          41.0
+        ],
+        "player": {
+          "id": 3175,
+          "name": "Eiji Kawashima"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

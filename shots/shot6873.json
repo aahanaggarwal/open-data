@@ -1,0 +1,205 @@
+{
+  "id": "e28d443a-3067-4c8e-8abe-5062975c6e9e",
+  "index": 584,
+  "period": 1,
+  "timestamp": "00:17:44.300",
+  "minute": 17,
+  "second": 44,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 43,
+  "possession_team": {
+    "id": 971,
+    "name": "Chelsea LFC"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "off_camera": false,
+  "team": {
+    "id": 971,
+    "name": "Chelsea LFC"
+  },
+  "player": {
+    "id": 4641,
+    "name": "Francesca Kirby"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    108.0,
+    32.0
+  ],
+  "duration": 0.16,
+  "related_events": [
+    "4bb71682-7502-4f3d-a1e6-e8623b9e4495",
+    "52c7ca79-c452-4741-bbf6-d0f15959b8d3"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.07665175,
+    "end_location": [
+      110.0,
+      34.0
+    ],
+    "key_pass_id": "086103fc-9715-46ba-a1a2-f6331916ad0a",
+    "follows_dribble": true,
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.0,
+          44.0
+        ],
+        "player": {
+          "id": 4655,
+          "name": "Jennifer Beattie"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          37.0
+        ],
+        "player": {
+          "id": 4650,
+          "name": "Nadia Nadim"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          34.0
+        ],
+        "player": {
+          "id": 4649,
+          "name": "Esme Beth Morgan"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          29.0
+        ],
+        "player": {
+          "id": 4648,
+          "name": "Abbie McManus"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          43.0
+        ],
+        "player": {
+          "id": 4645,
+          "name": "Isobel Christiansen"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          37.0
+        ],
+        "player": {
+          "id": 4658,
+          "name": "Keira Walsh"
+        },
+        "position": {
+          "id": 14,
+          "name": "Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          39.0
+        ],
+        "player": {
+          "id": 4637,
+          "name": "Ellie Roebuck"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.0,
+          54.0
+        ],
+        "player": {
+          "id": 4656,
+          "name": "Hannah Jayne Blundell"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.0,
+          43.0
+        ],
+        "player": {
+          "id": 4659,
+          "name": "Ramona Bachmann"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "id": "330013a2-6424-4994-87c7-8886ac1ac6f0",
+  "index": 727,
+  "period": 1,
+  "timestamp": "00:22:04.501",
+  "minute": 22,
+  "second": 4,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 54,
+  "possession_team": {
+    "id": 221,
+    "name": "Levante"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 221,
+    "name": "Levante"
+  },
+  "player": {
+    "id": 26181,
+    "name": "Rahamat Riga Mustapha"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    100.2,
+    54.8
+  ],
+  "duration": 0.549759,
+  "related_events": [
+    "d74c8527-9a2b-4a63-891d-71a25c1df440"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.015879946,
+    "end_location": [
+      120.0,
+      45.2,
+      0.1
+    ],
+    "key_pass_id": "2b12d798-55e0-448f-b384-72975f11eb10",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.7,
+          40.6
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          26.0
+        ],
+        "player": {
+          "id": 25873,
+          "name": "Oleguer Presas Renom"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.5,
+          34.2
+        ],
+        "player": {
+          "id": 15071,
+          "name": "Lilian Thuram"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.4,
+          56.1
+        ],
+        "player": {
+          "id": 20177,
+          "name": "Eric-Sylvain Bilal Abidal"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.5,
+          53.4
+        ],
+        "player": {
+          "id": 25919,
+          "name": "Gabriel Alejandro Milito"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.7,
+          66.2
+        ],
+        "player": {
+          "id": 25885,
+          "name": "Juan Manuel G\u00f3mez S\u00e1nchez"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.5,
+          33.7
+        ],
+        "player": {
+          "id": 26210,
+          "name": "Christian Rigan\u00f2"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

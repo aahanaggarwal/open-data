@@ -1,0 +1,174 @@
+{
+  "id": "3fa4dc71-d7f4-4ce9-a795-41107ff15d3b",
+  "index": 754,
+  "period": 1,
+  "timestamp": "00:18:24.396",
+  "minute": 18,
+  "second": 24,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 40,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3501,
+    "name": "Philippe Coutinho Correia"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    110.5,
+    44.5
+  ],
+  "duration": 0.979562,
+  "related_events": [
+    "e78f96c1-f03a-4e44-816b-5aeae60419f3"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.29909226,
+    "end_location": [
+      120.0,
+      35.7,
+      0.3
+    ],
+    "key_pass_id": "dafb9936-1d97-4310-a19b-8f68bdbe436d",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 99,
+      "name": "Post"
+    },
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          109.2,
+          53.3
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.1,
+          51.5
+        ],
+        "player": {
+          "id": 4629,
+          "name": "Jos\u00e9 Ramiro Funes Mori"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.1,
+          48.9
+        ],
+        "player": {
+          "id": 11386,
+          "name": "Santiago Cazorla Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          46.0
+        ],
+        "player": {
+          "id": 6752,
+          "name": "V\u00edctor Ru\u00edz Torre"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.8,
+          43.7
+        ],
+        "player": {
+          "id": 6762,
+          "name": "\u00c1lvaro Gonz\u00e1lez Sober\u00f3n"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.1,
+          44.4
+        ],
+        "player": {
+          "id": 6755,
+          "name": "Sergio Asenjo Andr\u00e9s"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.0,
+          40.2
+        ],
+        "player": {
+          "id": 11384,
+          "name": "Manuel Morlanes Ari\u00f1o"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

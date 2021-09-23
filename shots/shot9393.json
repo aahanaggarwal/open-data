@@ -1,0 +1,173 @@
+{
+  "id": "29d5d5bf-4031-466f-8ac9-7530dc7abe3b",
+  "index": 2187,
+  "period": 2,
+  "timestamp": "00:13:48.896",
+  "minute": 58,
+  "second": 48,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 143,
+  "possession_team": {
+    "id": 75,
+    "name": "Charlton Athletic"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 75,
+    "name": "Charlton Athletic"
+  },
+  "player": {
+    "id": 40374,
+    "name": "Jason Joseph Euell"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    94.2,
+    34.3
+  ],
+  "duration": 0.926714,
+  "related_events": [
+    "146f2c0d-0f37-443d-8343-45dab655d2e1"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.04163542,
+    "end_location": [
+      116.4,
+      40.6,
+      0.0
+    ],
+    "key_pass_id": "3e07234a-6ec7-49d8-8814-ed719f2401a8",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          116.5,
+          38.7
+        ],
+        "player": {
+          "id": 20015,
+          "name": "Jens Lehmann"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.5,
+          48.9
+        ],
+        "player": {
+          "id": 12529,
+          "name": "Ashley Cole"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.1,
+          42.4
+        ],
+        "player": {
+          "id": 15637,
+          "name": "Sulzeer Jeremiah \"Sol\" Campbell"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.7,
+          36.9
+        ],
+        "player": {
+          "id": 38412,
+          "name": "Kolo Habib Tour\u00e9"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.6,
+          33.8
+        ],
+        "player": {
+          "id": 40222,
+          "name": "Laureano Bisan-Etame Mayer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.9,
+          47.7
+        ],
+        "player": {
+          "id": 40382,
+          "name": "Jonatan Lillebror Johansson"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.4,
+          28.1
+        ],
+        "player": {
+          "id": 40376,
+          "name": "Graham Stuart"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

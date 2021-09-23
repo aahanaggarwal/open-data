@@ -1,0 +1,189 @@
+{
+  "id": "20d3ce7a-0f70-4a66-a1c2-63ad210368d7",
+  "index": 2195,
+  "period": 2,
+  "timestamp": "00:08:19.133",
+  "minute": 53,
+  "second": 19,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 103,
+  "possession_team": {
+    "id": 778,
+    "name": "Japan"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 778,
+    "name": "Japan"
+  },
+  "player": {
+    "id": 5679,
+    "name": "Y\u016bya \u014csako"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    117.0,
+    30.0
+  ],
+  "duration": 0.427,
+  "related_events": [
+    "37019b5e-c92f-42f6-be12-9ca31307e43f"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.11830249,
+    "end_location": [
+      120.0,
+      36.8,
+      0.2
+    ],
+    "key_pass_id": "660a0bd8-8fbf-4e48-bba7-1d27f33c1869",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.0,
+          15.0
+        ],
+        "player": {
+          "id": 5687,
+          "name": "Takashi Inui"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.0,
+          27.0
+        ],
+        "player": {
+          "id": 5684,
+          "name": "Shinji Kagawa"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.0,
+          28.0
+        ],
+        "player": {
+          "id": 5686,
+          "name": "W\u00edlmar Enrique Barrios Ter\u00e1n"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          23.0
+        ],
+        "player": {
+          "id": 5696,
+          "name": "Santiago Arias Naranjo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          36.0
+        ],
+        "player": {
+          "id": 5678,
+          "name": "Jefferson Andr\u00e9s Lerma Sol\u00eds"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          38.0
+        ],
+        "player": {
+          "id": 5680,
+          "name": "Oscar Fabi\u00e1n Murillo Murillo"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          38.0
+        ],
+        "player": {
+          "id": 4276,
+          "name": "David Ospina Ram\u00edrez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          31.0
+        ],
+        "player": {
+          "id": 3494,
+          "name": "Davinson S\u00e1nchez Mina"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "id": "33f4838f-c92d-4280-bdd8-4b0bee4b5e6d",
+  "index": 625,
+  "period": 1,
+  "timestamp": "00:13:11.648",
+  "minute": 13,
+  "second": 11,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 33,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 9,
+    "name": "From Kick Off"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3958,
+    "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+  },
+  "position": {
+    "id": 20,
+    "name": "Left Attacking Midfield"
+  },
+  "location": [
+    114.3,
+    28.5
+  ],
+  "duration": 0.4625,
+  "related_events": [
+    "a9ca9395-04bb-4e61-82cf-41d8b96b87ce"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.22337703,
+    "end_location": [
+      120.0,
+      37.7,
+      0.0
+    ],
+    "key_pass_id": "bd25d968-2656-40a7-b828-d8dab4da9800",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          112.2,
+          30.4
+        ],
+        "player": {
+          "id": 20070,
+          "name": "Lu\u00eds Miguel Brito Garcia Monteiro"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.1,
+          33.9
+        ],
+        "player": {
+          "id": 3253,
+          "name": "Adil Rami"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.4,
+          41.0
+        ],
+        "player": {
+          "id": 6752,
+          "name": "V\u00edctor Ru\u00edz Torre"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          28.5
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.2,
+          24.4
+        ],
+        "player": {
+          "id": 4711,
+          "name": "Pablo Hern\u00e1ndez Dom\u00ednguez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.7,
+          35.2
+        ],
+        "player": {
+          "id": 6625,
+          "name": "Vicente Guaita Panadero"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

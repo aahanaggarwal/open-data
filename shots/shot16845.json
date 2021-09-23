@@ -1,0 +1,114 @@
+{
+  "id": "a8a8caaa-5a8c-4d30-9df2-28e9266d27a1",
+  "index": 337,
+  "period": 1,
+  "timestamp": "00:05:36.058",
+  "minute": 5,
+  "second": 36,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 13,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3958,
+    "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+  },
+  "position": {
+    "id": 20,
+    "name": "Left Attacking Midfield"
+  },
+  "location": [
+    110.9,
+    23.1
+  ],
+  "duration": 0.558109,
+  "related_events": [
+    "212e36a4-e2ca-43eb-b4cd-a97e3b471eb1"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.032668613,
+    "end_location": [
+      118.3,
+      37.1,
+      0.1
+    ],
+    "key_pass_id": "9b4b9e12-33aa-4d8d-bccd-4472dc2db1f9",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.5,
+          37.1
+        ],
+        "player": {
+          "id": 6625,
+          "name": "Vicente Guaita Panadero"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.7,
+          33.7
+        ],
+        "player": {
+          "id": 3253,
+          "name": "Adil Rami"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.3,
+          27.0
+        ],
+        "player": {
+          "id": 20070,
+          "name": "Lu\u00eds Miguel Brito Garcia Monteiro"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

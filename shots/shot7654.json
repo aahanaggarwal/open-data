@@ -1,0 +1,218 @@
+{
+  "id": "28a156f6-f9fb-4663-bf0f-5b5964744aa2",
+  "index": 843,
+  "period": 1,
+  "timestamp": "00:16:41.278",
+  "minute": 16,
+  "second": 41,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 39,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    102.7,
+    36.7
+  ],
+  "duration": 0.1882,
+  "related_events": [
+    "2ef20ae2-39be-42ce-a7ad-12f748a7d7c9",
+    "7f2d437c-988d-44ab-ac75-eb5553444250"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.16752045,
+    "end_location": [
+      105.2,
+      36.8
+    ],
+    "key_pass_id": "d326cdfa-984d-4486-aeef-be90b8799446",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          107.1,
+          42.7
+        ],
+        "player": {
+          "id": 26444,
+          "name": "Sergio Mart\u00ednez Ballesteros"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.6,
+          35.3
+        ],
+        "player": {
+          "id": 25937,
+          "name": "Javier Rodr\u00edguez Venta"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.5,
+          42.2
+        ],
+        "player": {
+          "id": 26398,
+          "name": "Asier del Horno Cosgaya"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.5,
+          40.5
+        ],
+        "player": {
+          "id": 3497,
+          "name": "Vicente Iborra De La Fuente"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          47.9
+        ],
+        "player": {
+          "id": 25998,
+          "name": "Francisco Javier Farin\u00f3s Zapata"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.8,
+          37.7
+        ],
+        "player": {
+          "id": 26023,
+          "name": "Juan Francisco Garc\u00eda Garc\u00eda"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.3,
+          37.3
+        ],
+        "player": {
+          "id": 26221,
+          "name": "Gustavo Adolfo Mun\u00faa Vera"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.4,
+          29.3
+        ],
+        "player": {
+          "id": 3478,
+          "name": "Francesc F\u00e0bregas i Soler"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.8,
+          52.4
+        ],
+        "player": {
+          "id": 26776,
+          "name": "Juan Isaac Cuenca L\u00f3pez"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.3,
+          48.1
+        ],
+        "player": {
+          "id": 3385,
+          "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+        },
+        "position": {
+          "id": 8,
+          "name": "Left Wing Back"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

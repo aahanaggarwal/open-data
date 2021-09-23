@@ -1,0 +1,280 @@
+{
+  "id": "e43b463e-c0a5-4d07-b8ba-055d6666b5f4",
+  "index": 908,
+  "period": 1,
+  "timestamp": "00:25:34.518",
+  "minute": 25,
+  "second": 34,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 62,
+  "possession_team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "player": {
+    "id": 16378,
+    "name": "Iniabasi Anefiok Umotong"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    87.0,
+    43.0
+  ],
+  "duration": 1.670691,
+  "under_pressure": true,
+  "related_events": [
+    "8d3c3433-fe16-4b51-9959-bd3234da328c",
+    "cd4309f4-83ef-4ed9-897f-cdf378729c9a"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.015072486,
+    "end_location": [
+      120.0,
+      48.9,
+      5.0
+    ],
+    "key_pass_id": "9f62e4d3-b68e-4a5c-bad6-8666102108fc",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          120.0,
+          41.0
+        ],
+        "player": {
+          "id": 19421,
+          "name": "Carly Mitchell Telford"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.0,
+          21.0
+        ],
+        "player": {
+          "id": 4659,
+          "name": "Ramona Bachmann"
+        },
+        "position": {
+          "id": 18,
+          "name": "Right Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          90.0,
+          42.0
+        ],
+        "player": {
+          "id": 4636,
+          "name": "Maria Thorisdottir"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.0,
+          41.0
+        ],
+        "player": {
+          "id": 4647,
+          "name": "So-yun Ji"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          56.0
+        ],
+        "player": {
+          "id": 10222,
+          "name": "Jonna Andersson"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          37.0
+        ],
+        "player": {
+          "id": 4642,
+          "name": "Millie Bright"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          27.0
+        ],
+        "player": {
+          "id": 10395,
+          "name": "Maren N\u00e6vdal Mjelde"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          46.0
+        ],
+        "player": {
+          "id": 4633,
+          "name": "Magdalena Ericsson"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          87.0,
+          49.0
+        ],
+        "player": {
+          "id": 4660,
+          "name": "Erin Cuthbert"
+        },
+        "position": {
+          "id": 20,
+          "name": "Left Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.0,
+          63.0
+        ],
+        "player": {
+          "id": 16374,
+          "name": "Aileen Whelan"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          76.0,
+          41.0
+        ],
+        "player": {
+          "id": 19420,
+          "name": "Fern Whelan"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          98.0,
+          42.0
+        ],
+        "player": {
+          "id": 16393,
+          "name": "Ellie Brazil"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.0,
+          52.0
+        ],
+        "player": {
+          "id": 16400,
+          "name": "Kayleigh Green"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.0,
+          30.0
+        ],
+        "player": {
+          "id": 20034,
+          "name": "Danielle Buet"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "id": "deac7103-abe9-4eee-8a88-82e1c7891163",
+  "index": 2909,
+  "period": 2,
+  "timestamp": "00:33:58.719",
+  "minute": 78,
+  "second": 58,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 170,
+  "possession_team": {
+    "id": 1042,
+    "name": "Elche"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 1042,
+    "name": "Elche"
+  },
+  "player": {
+    "id": 16001,
+    "name": "Garry Mendes Rodrigues"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    107.7,
+    31.3
+  ],
+  "duration": 0.5908,
+  "under_pressure": true,
+  "related_events": [
+    "156b6a74-398c-49e2-b6b1-f50d5921ccaa",
+    "8f0eda87-67e8-4e43-8ca1-e438a3d00d4d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.27623913,
+    "end_location": [
+      120.0,
+      40.9,
+      3.8
+    ],
+    "key_pass_id": "d638242a-5266-4024-b816-623c9357549a",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.3,
+          37.4
+        ],
+        "player": {
+          "id": 26005,
+          "name": "Jos\u00e9 Manuel Pinto Colorado"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.7,
+          33.0
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.5,
+          40.1
+        ],
+        "player": {
+          "id": 7068,
+          "name": "Marc Bartra Aregall"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.2,
+          40.5
+        ],
+        "player": {
+          "id": 22102,
+          "name": "Adriano Correia Claro"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.5,
+          42.9
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.7,
+          37.4
+        ],
+        "player": {
+          "id": 3478,
+          "name": "Francesc F\u00e0bregas i Soler"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.8,
+          35.5
+        ],
+        "player": {
+          "id": 25893,
+          "name": "Alberto Rivera Pizarro"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          94.9,
+          43.3
+        ],
+        "player": {
+          "id": 15960,
+          "name": "Richmond Yiadom Boakye"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

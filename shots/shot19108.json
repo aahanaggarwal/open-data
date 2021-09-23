@@ -1,0 +1,128 @@
+{
+  "id": "5e6a4198-b59c-4fbf-a722-b6925333ffc2",
+  "index": 1573,
+  "period": 1,
+  "timestamp": "00:34:20.902",
+  "minute": 34,
+  "second": 20,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 94,
+  "possession_team": {
+    "id": 222,
+    "name": "Villarreal"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 222,
+    "name": "Villarreal"
+  },
+  "player": {
+    "id": 25426,
+    "name": "Marco Gast\u00f3n Ruben Rodr\u00edguez"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    96.5,
+    39.9
+  ],
+  "duration": 0.72453,
+  "related_events": [
+    "a59391e8-0c90-4abe-9eae-89fd329b2a16"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.070658244,
+    "end_location": [
+      120.0,
+      42.9,
+      6.7
+    ],
+    "key_pass_id": "2d776ae9-4d82-4d38-be56-6ea824131311",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          87.3,
+          31.7
+        ],
+        "player": {
+          "id": 24068,
+          "name": "Jos\u00e9 Luis Moreno Barroso"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.2,
+          40.2
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.8,
+          34.6
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.3,
+          40.1
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

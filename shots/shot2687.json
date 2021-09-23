@@ -1,0 +1,158 @@
+{
+  "id": "416ed14c-64b6-4262-96f9-f9ec0d56b20c",
+  "index": 1744,
+  "period": 2,
+  "timestamp": "00:00:27.082",
+  "minute": 45,
+  "second": 27,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 95,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 9,
+    "name": "From Kick Off"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    102.8,
+    28.8
+  ],
+  "duration": 0.9086,
+  "related_events": [
+    "78bb4f42-9e6e-40b9-b91e-e4df3f6590df"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.092005886,
+    "end_location": [
+      120.0,
+      48.8,
+      4.6
+    ],
+    "key_pass_id": "57f6d8bf-5d55-455a-bb99-9cce29ef5a55",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.4,
+          20.3
+        ],
+        "player": {
+          "id": 19767,
+          "name": "Giorgios Seitaridis"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.7,
+          15.5
+        ],
+        "player": {
+          "id": 25879,
+          "name": "Ronaldo de Assis Moreira"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.3,
+          39.8
+        ],
+        "player": {
+          "id": 26197,
+          "name": "Christian Abbiati"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.6,
+          27.3
+        ],
+        "player": {
+          "id": 26117,
+          "name": "Pablo Ib\u00e1\u00f1ez T\u00e9bar"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.7,
+          34.7
+        ],
+        "player": {
+          "id": 26392,
+          "name": "Fabiano Eler dos Santos"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.5,
+          30.7
+        ],
+        "player": {
+          "id": 19760,
+          "name": "Nuno Ricardo de Oliveira Ribeiro"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

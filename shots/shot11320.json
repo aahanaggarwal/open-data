@@ -1,0 +1,203 @@
+{
+  "id": "80817ec6-7fa8-4ff1-ac77-baf4f8caeb8c",
+  "index": 326,
+  "period": 1,
+  "timestamp": "00:07:58.592",
+  "minute": 7,
+  "second": 58,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 18,
+  "possession_team": {
+    "id": 790,
+    "name": "Sweden"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 790,
+    "name": "Sweden"
+  },
+  "player": {
+    "id": 11098,
+    "name": "Marcus Berg"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    104.0,
+    41.0
+  ],
+  "duration": 0.333,
+  "related_events": [
+    "068c1392-6ee2-4b4b-89b7-ea89a34f6961",
+    "bf92d52f-d17c-4d41-88a7-ac30b743fa22"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.18442297,
+    "end_location": [
+      108.0,
+      42.0
+    ],
+    "key_pass_id": "8d052659-27ab-49fb-add3-5eb720a33480",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.0,
+          42.0
+        ],
+        "player": {
+          "id": 3500,
+          "name": "Granit Xhaka"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          23.0
+        ],
+        "player": {
+          "id": 6359,
+          "name": "Johan Danon Djourou-Gbadjere"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.0,
+          40.0
+        ],
+        "player": {
+          "id": 5550,
+          "name": "Yann Sommer"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          53.0
+        ],
+        "player": {
+          "id": 5613,
+          "name": "Viktor Claesson"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.0,
+          45.0
+        ],
+        "player": {
+          "id": 5549,
+          "name": "Manuel Obafemi Akanji"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.0,
+          27.0
+        ],
+        "player": {
+          "id": 5540,
+          "name": "Valon Behrami"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.0,
+          57.0
+        ],
+        "player": {
+          "id": 5544,
+          "name": "Ricardo Iv\u00e1n Rodr\u00edguez Araya"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.0,
+          24.0
+        ],
+        "player": {
+          "id": 5625,
+          "name": "Emil Forsberg"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.0,
+          33.0
+        ],
+        "player": {
+          "id": 4417,
+          "name": "Ola Toivonen"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "a63f551b-32ec-4e5a-8148-2a11eb278884",
+  "index": 2817,
+  "period": 2,
+  "timestamp": "00:49:16.467",
+  "minute": 94,
+  "second": 16,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 182,
+  "possession_team": {
+    "id": 970,
+    "name": "Yeovil Town LFC"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 970,
+    "name": "Yeovil Town LFC"
+  },
+  "player": {
+    "id": 15718,
+    "name": "Olivia Fergusson"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    106.0,
+    54.0
+  ],
+  "duration": 1.31959,
+  "under_pressure": true,
+  "related_events": [
+    "12892b0a-e467-437f-b120-11a0dfba3966",
+    "3f28e834-0e65-4120-85cd-9c62b1358fdf"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.052595735,
+    "end_location": [
+      118.0,
+      35.2,
+      1.0
+    ],
+    "key_pass_id": "caf50137-e4bb-4e1b-9078-41cc5bec4ba9",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          105.0,
+          50.0
+        ],
+        "player": {
+          "id": 18151,
+          "name": "Gilly Louise Scarlett Flaherty"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          42.0
+        ],
+        "player": {
+          "id": 18158,
+          "name": "Rebecca Leigh Spencer"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

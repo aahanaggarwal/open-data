@@ -1,0 +1,173 @@
+{
+  "id": "890812b5-acf3-4274-8735-cecee64bf06c",
+  "index": 1127,
+  "period": 1,
+  "timestamp": "00:26:28.878",
+  "minute": 26,
+  "second": 28,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 68,
+  "possession_team": {
+    "id": 215,
+    "name": "Athletic Bilbao"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 215,
+    "name": "Athletic Bilbao"
+  },
+  "player": {
+    "id": 6394,
+    "name": "Aritz Aduriz Zubeldia"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    98.3,
+    34.8
+  ],
+  "duration": 0.118,
+  "related_events": [
+    "3968a919-4d28-492b-afba-b4a34f3289e9",
+    "d88889af-c6ad-46e9-b818-5622d92f1ba6"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.029954871,
+    "end_location": [
+      99.8,
+      34.9
+    ],
+    "key_pass_id": "e299900a-465e-4ee5-97d8-a41bbc8dca18",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.4,
+          39.9
+        ],
+        "player": {
+          "id": 26005,
+          "name": "Jos\u00e9 Manuel Pinto Colorado"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.1,
+          24.7
+        ],
+        "player": {
+          "id": 6842,
+          "name": "Iker Muniain Go\u00f1i"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          94.5,
+          36.3
+        ],
+        "player": {
+          "id": 27053,
+          "name": "Alexandre Dimitri Song-Billong"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.7,
+          31.2
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          35.1
+        ],
+        "player": {
+          "id": 7068,
+          "name": "Marc Bartra Aregall"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.2,
+          49.0
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.5,
+          56.9
+        ],
+        "player": {
+          "id": 6649,
+          "name": "\u00d3scar de Marcos Arana"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

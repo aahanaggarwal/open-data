@@ -1,0 +1,203 @@
+{
+  "id": "e3ae6f89-376a-40c1-ad9d-9392fa80cd58",
+  "index": 642,
+  "period": 1,
+  "timestamp": "00:15:08.848",
+  "minute": 15,
+  "second": 8,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 30,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 2,
+    "name": "From Corner"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5213,
+    "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+  },
+  "position": {
+    "id": 5,
+    "name": "Left Center Back"
+  },
+  "location": [
+    109.2,
+    46.0
+  ],
+  "duration": 0.861752,
+  "related_events": [
+    "d95baca4-714b-404f-a47e-bbbb34ae19a8"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.058321647,
+    "end_location": [
+      120.0,
+      42.0,
+      5.6
+    ],
+    "key_pass_id": "2ba448c1-aa78-4fc2-a384-73bf2494e17b",
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          106.0,
+          35.7
+        ],
+        "player": {
+          "id": 26242,
+          "name": "Rom\u00e1n Fernando Mart\u00ednez"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.5,
+          23.3
+        ],
+        "player": {
+          "id": 5216,
+          "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.8,
+          41.8
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.0,
+          37.5
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.0,
+          45.4
+        ],
+        "player": {
+          "id": 26162,
+          "name": "Mois\u00e9s Hurtado P\u00e9rez"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.3,
+          49.3
+        ],
+        "player": {
+          "id": 7909,
+          "name": "Nicol\u00e1s Mart\u00edn Pareja"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.5,
+          40.1
+        ],
+        "player": {
+          "id": 26110,
+          "name": "Daniel Jarque Gonzalez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.2,
+          34.8
+        ],
+        "player": {
+          "id": 6904,
+          "name": "Sergio S\u00e1nchez Ortega"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          41.7
+        ],
+        "player": {
+          "id": 26103,
+          "name": "Idriss Carlos Kameni"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

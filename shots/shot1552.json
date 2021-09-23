@@ -1,0 +1,221 @@
+{
+  "id": "45031170-5976-4c44-a7a5-db6bce6b9989",
+  "index": 268,
+  "period": 1,
+  "timestamp": "00:05:16.800",
+  "minute": 5,
+  "second": 16,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 12,
+  "possession_team": {
+    "id": 770,
+    "name": "Germany"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 770,
+    "name": "Germany"
+  },
+  "player": {
+    "id": 5559,
+    "name": "Marco Reus"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    113.0,
+    22.0
+  ],
+  "duration": 1.8,
+  "under_pressure": true,
+  "related_events": [
+    "07e8154d-d4fb-481a-bab3-596b5a1eb10a",
+    "ebdc34c8-beb9-45af-b04f-5155682d647e"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.020881904,
+    "end_location": [
+      120.0,
+      48.7,
+      0.4
+    ],
+    "key_pass_id": "4a37d4af-153f-49b0-ad17-aa58c3f55061",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.0,
+          26.0
+        ],
+        "player": {
+          "id": 5608,
+          "name": "Yong Lee"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          29.0
+        ],
+        "player": {
+          "id": 5623,
+          "name": "Jae-Sung Lee"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          38.0
+        ],
+        "player": {
+          "id": 5619,
+          "name": "Hyun-Woo Cho"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          38.0
+        ],
+        "player": {
+          "id": 6323,
+          "name": "Young-Sun Yun"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          45.0
+        ],
+        "player": {
+          "id": 5604,
+          "name": "Young-Gwon Kim"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          57.0
+        ],
+        "player": {
+          "id": 5986,
+          "name": "Chul Hong"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          36.0
+        ],
+        "player": {
+          "id": 5606,
+          "name": "Hyun-Soo Jang"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          32.0
+        ],
+        "player": {
+          "id": 6040,
+          "name": "Jonas Hector"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.0,
+          39.0
+        ],
+        "player": {
+          "id": 5557,
+          "name": "Timo Werner"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.0,
+          46.0
+        ],
+        "player": {
+          "id": 6324,
+          "name": "Leon Goretzka"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "id": "256bdef2-f79e-44c6-ad42-af114938dd87",
+  "index": 842,
+  "period": 1,
+  "timestamp": "00:23:02.610",
+  "minute": 23,
+  "second": 2,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 45,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    114.1,
+    38.7
+  ],
+  "duration": 0.389352,
+  "related_events": [
+    "a0bc0319-bdd0-4c73-9456-04139f246d7c"
+  ],
+  "shot": {
+    "open_goal": true,
+    "statsbomb_xg": 0.90178746,
+    "end_location": [
+      120.0,
+      39.0,
+      0.1
+    ],
+    "key_pass_id": "ad2b0311-4530-4f02-8170-333cf6d7ae38",
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          114.6,
+          50.8
+        ],
+        "player": {
+          "id": 3672,
+          "name": "Zlatan Ibrahimovi\u0107"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.0,
+          49.1
+        ],
+        "player": {
+          "id": 26397,
+          "name": "Renan Brito Soares"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.8,
+          30.9
+        ],
+        "player": {
+          "id": 26615,
+          "name": "Francisco Jes\u00fas P\u00e9rez Malia"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.6,
+          43.9
+        ],
+        "player": {
+          "id": 26610,
+          "name": "Leandro Andr\u00e9s Gioda"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.9,
+          39.8
+        ],
+        "player": {
+          "id": 26614,
+          "name": "David Prieto G\u00e1lvez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.5,
+          48.4
+        ],
+        "player": {
+          "id": 26612,
+          "name": "Jos\u00e9 Manuel Casado Bizcocho"
+        },
+        "position": {
+          "id": 8,
+          "name": "Left Wing Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

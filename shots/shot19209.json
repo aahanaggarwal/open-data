@@ -1,0 +1,173 @@
+{
+  "id": "89fb50f4-df2b-4f6b-88a5-731f88c0651a",
+  "index": 260,
+  "period": 1,
+  "timestamp": "00:06:32.514",
+  "minute": 6,
+  "second": 32,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 21,
+  "possession_team": {
+    "id": 759,
+    "name": "Washington Spirit"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 759,
+    "name": "Washington Spirit"
+  },
+  "player": {
+    "id": 5023,
+    "name": "Mallory Pugh"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    108.0,
+    30.0
+  ],
+  "duration": 0.529,
+  "related_events": [
+    "68fc42d5-dfd6-44c1-a133-5ae87463e511",
+    "73a89916-6c4e-42f3-98df-9a69ffd704d9"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.064448394,
+    "end_location": [
+      111.0,
+      34.0
+    ],
+    "key_pass_id": "1a511594-b23b-474a-9eb7-88476b36c23f",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          116.0,
+          28.0
+        ],
+        "player": {
+          "id": 4949,
+          "name": "Rose Lavelle"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.0,
+          31.0
+        ],
+        "player": {
+          "id": 4976,
+          "name": "Lo\u2019eau LaBonta"
+        },
+        "position": {
+          "id": 25,
+          "name": "Secondary Striker"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          46.0
+        ],
+        "player": {
+          "id": 4964,
+          "name": "Ashley Hatch"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.0,
+          44.0
+        ],
+        "player": {
+          "id": 5101,
+          "name": "Samantha Johnson"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          41.0
+        ],
+        "player": {
+          "id": 4969,
+          "name": "Nicole Barnhart"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          41.0
+        ],
+        "player": {
+          "id": 4975,
+          "name": "Gunnhildur Yrsa J\u00f3nsd\u00f3ttir"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          33.0
+        ],
+        "player": {
+          "id": 4984,
+          "name": "Rachel Corsie"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "304aef6f-8d89-40e5-a251-2d2d05cbcde0",
+  "index": 2929,
+  "period": 2,
+  "timestamp": "00:54:19.062",
+  "minute": 99,
+  "second": 19,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 214,
+  "possession_team": {
+    "id": 974,
+    "name": "Reading WFC"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 974,
+    "name": "Reading WFC"
+  },
+  "player": {
+    "id": 26570,
+    "name": "Amalie Vevle Eikeland"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    112.8,
+    41.3
+  ],
+  "duration": 0.35618,
+  "related_events": [
+    "a059420a-ae51-4cb1-82e7-28b06dcede3f"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.5015176,
+    "end_location": [
+      120.0,
+      38.2,
+      0.2
+    ],
+    "key_pass_id": "7cbe79e7-66ba-4fb1-ad24-2109a30b0f2e",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          111.6,
+          40.9
+        ],
+        "player": {
+          "id": 15564,
+          "name": "Lucy Quinn"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.4,
+          40.3
+        ],
+        "player": {
+          "id": 33349,
+          "name": "Chloe Morgan"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

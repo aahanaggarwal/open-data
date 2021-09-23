@@ -1,0 +1,161 @@
+{
+  "id": "a33c0341-1efc-4f16-a001-2f22374e5090",
+  "index": 1861,
+  "period": 2,
+  "timestamp": "00:14:59.680",
+  "minute": 59,
+  "second": 59,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 129,
+  "possession_team": {
+    "id": 214,
+    "name": "Espanyol"
+  },
+  "play_pattern": {
+    "id": 2,
+    "name": "From Corner"
+  },
+  "team": {
+    "id": 214,
+    "name": "Espanyol"
+  },
+  "player": {
+    "id": 26109,
+    "name": "Ra\u00fal Tamudo Montero"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    108.2,
+    43.6
+  ],
+  "duration": 1.476458,
+  "under_pressure": true,
+  "related_events": [
+    "afe7cf3b-39fb-49a6-82cc-f746d2eab559",
+    "e6190e62-2f02-498c-beb5-23ef3ce545ee"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.31753477,
+    "end_location": [
+      120.0,
+      41.0,
+      0.8
+    ],
+    "key_pass_id": "8117ea2e-7f19-41bf-a738-ba0f16f10e34",
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.4,
+          36.0
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.6,
+          40.7
+        ],
+        "player": {
+          "id": 25873,
+          "name": "Oleguer Presas Renom"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.3,
+          26.5
+        ],
+        "player": {
+          "id": 26105,
+          "name": "Iv\u00e1n De la Pe\u00f1a L\u00f3pez"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          91.4,
+          28.1
+        ],
+        "player": {
+          "id": 25910,
+          "name": "Jos\u00e9 Edm\u00edlson Gomes de Moraes"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.2,
+          42.7
+        ],
+        "player": {
+          "id": 17797,
+          "name": "Giovanni van Bronckhorst"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.9,
+          43.1
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

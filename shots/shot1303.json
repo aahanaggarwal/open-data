@@ -1,0 +1,188 @@
+{
+  "id": "921630d9-a91b-4a9e-b2f7-57d6e377d709",
+  "index": 167,
+  "period": 1,
+  "timestamp": "00:03:34.103",
+  "minute": 3,
+  "second": 34,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 8,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 6609,
+    "name": "Denis Su\u00e1rez Fern\u00e1ndez"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    102.1,
+    36.2
+  ],
+  "duration": 1.0179,
+  "related_events": [
+    "dd18cf4f-a41d-458d-8cfd-789147c3ac6d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.07051933,
+    "end_location": [
+      120.0,
+      45.3,
+      5.1
+    ],
+    "key_pass_id": "391de2cb-eb27-459a-9e9a-f9febf8b1ca7",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.1,
+          46.0
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.3,
+          29.2
+        ],
+        "player": {
+          "id": 11094,
+          "name": "Arda Turan"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.0,
+          40.3
+        ],
+        "player": {
+          "id": 6576,
+          "name": "Gorka Iraizoz Moreno"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.3,
+          36.6
+        ],
+        "player": {
+          "id": 6649,
+          "name": "\u00d3scar de Marcos Arana"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.1,
+          38.7
+        ],
+        "player": {
+          "id": 6396,
+          "name": "Be\u00f1at Etxebarria Urkiaga"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.1,
+          42.1
+        ],
+        "player": {
+          "id": 6388,
+          "name": "Ander Iturraspe Derteano"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.5,
+          43.6
+        ],
+        "player": {
+          "id": 6386,
+          "name": "Eneko B\u00f3veda Altube"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.1,
+          51.1
+        ],
+        "player": {
+          "id": 6789,
+          "name": "Mikel Balenziaga Oruesagasti"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

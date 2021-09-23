@@ -1,0 +1,188 @@
+{
+  "id": "0594f369-27c8-44dd-8560-80d08690fe47",
+  "index": 2713,
+  "period": 2,
+  "timestamp": "00:25:58.147",
+  "minute": 70,
+  "second": 58,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 135,
+  "possession_team": {
+    "id": 790,
+    "name": "Sweden"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 790,
+    "name": "Sweden"
+  },
+  "player": {
+    "id": 11098,
+    "name": "Marcus Berg"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    110.0,
+    42.0
+  ],
+  "duration": 0.64,
+  "related_events": [
+    "3d8652f4-0b68-4349-b983-f39403b6cb22"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.13775387,
+    "end_location": [
+      120.0,
+      40.9,
+      2.4
+    ],
+    "key_pass_id": "4322a741-3d26-420c-b67e-c6cbf9b24d75",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.0,
+          42.0
+        ],
+        "player": {
+          "id": 3336,
+          "name": "Harry Maguire"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          120.0,
+          42.0
+        ],
+        "player": {
+          "id": 3468,
+          "name": "Jordan Pickford"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          31.0
+        ],
+        "player": {
+          "id": 3205,
+          "name": "Kyle Walker"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          53.0
+        ],
+        "player": {
+          "id": 3612,
+          "name": "Ashley Young"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          33.0
+        ],
+        "player": {
+          "id": 3308,
+          "name": "Kieran Trippier"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          40.0
+        ],
+        "player": {
+          "id": 3532,
+          "name": "Jordan Brian Henderson"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.0,
+          32.0
+        ],
+        "player": {
+          "id": 3244,
+          "name": "John Stones"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          40.0
+        ],
+        "player": {
+          "id": 6038,
+          "name": "John Guidetti"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

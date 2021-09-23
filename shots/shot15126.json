@@ -1,0 +1,174 @@
+{
+  "id": "7aa07619-39b4-4119-9317-273dd0bbf918",
+  "index": 813,
+  "period": 1,
+  "timestamp": "00:17:25.137",
+  "minute": 17,
+  "second": 25,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 40,
+  "possession_team": {
+    "id": 762,
+    "name": "Houston Dash"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 762,
+    "name": "Houston Dash"
+  },
+  "player": {
+    "id": 5058,
+    "name": "Rachel Daly"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    109.0,
+    34.0
+  ],
+  "duration": 1.175,
+  "related_events": [
+    "0cfde397-13e9-44a1-a0dc-43fb4d862c63"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.32940736,
+    "end_location": [
+      120.0,
+      42.2,
+      0.7
+    ],
+    "key_pass_id": "4be158c7-8caf-4aed-8acc-d600754281d1",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.0,
+          36.0
+        ],
+        "player": {
+          "id": 5090,
+          "name": "Ashlyn Harris"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          34.0
+        ],
+        "player": {
+          "id": 5071,
+          "name": "Monica Hickmann Alves"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          40.0
+        ],
+        "player": {
+          "id": 5078,
+          "name": "Alanna Kennedy"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.0,
+          34.0
+        ],
+        "player": {
+          "id": 5060,
+          "name": "Poliana Barbosa Medeiros"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          49.0
+        ],
+        "player": {
+          "id": 5074,
+          "name": "Shelina Zadorsky"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.0,
+          44.0
+        ],
+        "player": {
+          "id": 5059,
+          "name": "Kyah Simon"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          94.0,
+          37.0
+        ],
+        "player": {
+          "id": 5051,
+          "name": "Kealia Ohai"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

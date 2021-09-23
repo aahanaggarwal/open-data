@@ -1,0 +1,234 @@
+{
+  "id": "16797a0a-4465-4b30-9966-1603542cb281",
+  "index": 101,
+  "period": 1,
+  "timestamp": "00:02:06.455",
+  "minute": 2,
+  "second": 6,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 5,
+  "possession_team": {
+    "id": 865,
+    "name": "England Women's"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 865,
+    "name": "England Women's"
+  },
+  "player": {
+    "id": 10172,
+    "name": "Jill Scott"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    109.1,
+    42.8
+  ],
+  "duration": 1.2323,
+  "related_events": [
+    "dc767b46-2810-44e7-baf5-6b1aeebebb95"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.34574434,
+    "end_location": [
+      120.0,
+      36.4,
+      0.2
+    ],
+    "key_pass_id": "30346eef-6d01-4c76-8ef9-6ca93df59210",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          120.0,
+          54.2
+        ],
+        "player": {
+          "id": 10178,
+          "name": "Lucy Bronze"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.5,
+          49.4
+        ],
+        "player": {
+          "id": 10180,
+          "name": "Ellen White"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.2,
+          31.6
+        ],
+        "player": {
+          "id": 10183,
+          "name": "Toni Duggan"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.8,
+          37.4
+        ],
+        "player": {
+          "id": 4641,
+          "name": "Francesca Kirby"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.6,
+          38.1
+        ],
+        "player": {
+          "id": 25466,
+          "name": "Vilde B\u00f8e Risa"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.4,
+          31.3
+        ],
+        "player": {
+          "id": 25728,
+          "name": "Karina S\u00e6vik"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.4,
+          56.1
+        ],
+        "player": {
+          "id": 10393,
+          "name": "Kristine Minde"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          43.5
+        ],
+        "player": {
+          "id": 10395,
+          "name": "Maren N\u00e6vdal Mjelde"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.7,
+          49.0
+        ],
+        "player": {
+          "id": 4636,
+          "name": "Maria Thorisdottir"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.6,
+          32.6
+        ],
+        "player": {
+          "id": 10382,
+          "name": "Ingrid Moe Wold"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.9,
+          42.9
+        ],
+        "player": {
+          "id": 10394,
+          "name": "Ingrid Hjelmseth"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "id": "9a7fc8b6-152c-4804-9363-30430c93ddb2",
+  "index": 1907,
+  "period": 1,
+  "timestamp": "00:42:39.770",
+  "minute": 42,
+  "second": 39,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 98,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    105.3,
+    43.8
+  ],
+  "duration": 1.264333,
+  "related_events": [
+    "e93c2b8d-3ff9-4c50-a5dc-a436c8d1059e"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.03591606,
+    "end_location": [
+      120.0,
+      35.4,
+      3.1
+    ],
+    "key_pass_id": "95a9d097-1864-443f-ac40-67146c6694e4",
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.1,
+          50.7
+        ],
+        "player": {
+          "id": 15403,
+          "name": "Gareth Southgate"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.4,
+          40.3
+        ],
+        "player": {
+          "id": 40322,
+          "name": "Mark Schwarzer"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.3,
+          32.2
+        ],
+        "player": {
+          "id": 40402,
+          "name": "Stuart Parnaby"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.9,
+          41.5
+        ],
+        "player": {
+          "id": 40330,
+          "name": "Chris Riggott"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.8,
+          49.1
+        ],
+        "player": {
+          "id": 40221,
+          "name": "Gilberto Aparecido da Silva"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

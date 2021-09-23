@@ -1,0 +1,219 @@
+{
+  "id": "e86945bd-9d8e-4d03-a6fa-a720a3babfd9",
+  "index": 487,
+  "period": 1,
+  "timestamp": "00:09:44.828",
+  "minute": 9,
+  "second": 44,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 21,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    107.0,
+    39.1
+  ],
+  "duration": 0.0271,
+  "related_events": [
+    "30d64764-5b4a-4a4e-9b4e-4e2f32c7f8cf",
+    "b35acf1a-6014-4351-a39d-9c28f5575942"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.1331771,
+    "end_location": [
+      108.1,
+      39.1
+    ],
+    "key_pass_id": "34d57ecb-1f6d-4eb4-a4c8-3b6ab0f44b3d",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.7,
+          40.3
+        ],
+        "player": {
+          "id": 6898,
+          "name": "Jaume Dom\u00e9nech S\u00e1nchez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.6,
+          27.1
+        ],
+        "player": {
+          "id": 6592,
+          "name": "R\u00faben Miguel Nunes Vezo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.9,
+          25.6
+        ],
+        "player": {
+          "id": 4320,
+          "name": "Neymar da Silva Santos Junior"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.1,
+          26.4
+        ],
+        "player": {
+          "id": 10037,
+          "name": "Danilo Barbosa da Silva"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.4,
+          33.7
+        ],
+        "player": {
+          "id": 6595,
+          "name": "Daniel Parejo Mu\u00f1oz"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          39.0
+        ],
+        "player": {
+          "id": 6596,
+          "name": "Jos\u00e9 Luis Gay\u00e1 Pe\u00f1a"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          86.8,
+          23.3
+        ],
+        "player": {
+          "id": 5216,
+          "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.9,
+          34.8
+        ],
+        "player": {
+          "id": 27482,
+          "name": "Aderllan Leandro de Jesus Santos"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          36.2
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.5,
+          37.8
+        ],
+        "player": {
+          "id": 4406,
+          "name": "Aymen Abdennour"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

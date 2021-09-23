@@ -1,0 +1,158 @@
+{
+  "id": "233024a4-913d-440a-8446-034efccd925d",
+  "index": 2609,
+  "period": 2,
+  "timestamp": "00:19:22.985",
+  "minute": 64,
+  "second": 22,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 139,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 2,
+    "name": "From Corner"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    117.3,
+    45.7
+  ],
+  "duration": 0.743775,
+  "related_events": [
+    "a3c2ecb9-504c-471a-874c-f11165c09e37"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.26406315,
+    "end_location": [
+      120.0,
+      42.7,
+      0.2
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          113.5,
+          45.7
+        ],
+        "player": {
+          "id": 26597,
+          "name": "L\u00e1szl\u00f3 Sepsi"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.8,
+          43.7
+        ],
+        "player": {
+          "id": 13157,
+          "name": "Ivan Marcano Sierra"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.1,
+          43.0
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.6,
+          39.5
+        ],
+        "player": {
+          "id": 26070,
+          "name": "Antonio Rodr\u00edguez Mart\u00ednez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.7,
+          32.3
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          116.2,
+          33.6
+        ],
+        "player": {
+          "id": 26067,
+          "name": "Oriol Lozano Farr\u00e1n"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

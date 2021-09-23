@@ -1,0 +1,189 @@
+{
+  "id": "b7049de7-8118-4e58-a728-c266f3ffe97f",
+  "index": 1974,
+  "period": 2,
+  "timestamp": "00:03:47.123",
+  "minute": 48,
+  "second": 47,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 121,
+  "possession_team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "player": {
+    "id": 16374,
+    "name": "Aileen Whelan"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    106.0,
+    53.9
+  ],
+  "duration": 0.752812,
+  "related_events": [
+    "0a32c747-a0c0-40cf-939d-e8f9eee7542c"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.067895174,
+    "end_location": [
+      117.8,
+      42.9,
+      0.2
+    ],
+    "key_pass_id": "5be4de4c-734f-48a1-b644-88ba36ecf84a",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          105.0,
+          52.1
+        ],
+        "player": {
+          "id": 31536,
+          "name": "Millie Turner"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.9,
+          42.9
+        ],
+        "player": {
+          "id": 31538,
+          "name": "Mary Alexandra Earps"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          88.5,
+          59.0
+        ],
+        "player": {
+          "id": 10196,
+          "name": "Kirsty Smith"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.5,
+          50.0
+        ],
+        "player": {
+          "id": 19501,
+          "name": "Hayley Ladd"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.8,
+          47.1
+        ],
+        "player": {
+          "id": 31533,
+          "name": "Amy Turner"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.3,
+          41.6
+        ],
+        "player": {
+          "id": 32618,
+          "name": "Martha Harris"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.6,
+          57.8
+        ],
+        "player": {
+          "id": 16400,
+          "name": "Kayleigh Green"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          88.5,
+          51.6
+        ],
+        "player": {
+          "id": 31540,
+          "name": "Katie Zelem"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

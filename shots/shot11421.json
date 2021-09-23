@@ -1,0 +1,160 @@
+{
+  "id": "b49dcb08-0ac5-45a4-adcf-2267a60f521f",
+  "index": 3287,
+  "period": 2,
+  "timestamp": "00:26:48.357",
+  "minute": 71,
+  "second": 48,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 150,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    117.3,
+    43.0
+  ],
+  "duration": 0.2736,
+  "related_events": [
+    "ffdc8847-ac10-427f-84bb-d0cd48dc541d"
+  ],
+  "shot": {
+    "open_goal": true,
+    "statsbomb_xg": 0.884745,
+    "end_location": [
+      120.0,
+      43.3,
+      0.9
+    ],
+    "key_pass_id": "5c41f4d7-c8ca-4b4d-b904-08998d05ff94",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          117.8,
+          39.0
+        ],
+        "player": {
+          "id": 27111,
+          "name": "Ant\u00f3nio Alberto Bastos Pimparel"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.5,
+          45.5
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.5,
+          30.7
+        ],
+        "player": {
+          "id": 4320,
+          "name": "Neymar da Silva Santos Junior"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          116.8,
+          31.7
+        ],
+        "player": {
+          "id": 7909,
+          "name": "Nicol\u00e1s Mart\u00edn Pareja"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.7,
+          39.0
+        ],
+        "player": {
+          "id": 6825,
+          "name": "Daniel Filipe Martins Carri\u00e7o"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          43.8
+        ],
+        "player": {
+          "id": 10881,
+          "name": "Diogo Jos\u00e9 Ros\u00e1rio Gomes Figueiras"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

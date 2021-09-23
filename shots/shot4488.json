@@ -1,0 +1,220 @@
+{
+  "id": "62f4df7d-a65c-41ee-a228-53f16c91b5cc",
+  "index": 2135,
+  "period": 1,
+  "timestamp": "00:44:40.821",
+  "minute": 44,
+  "second": 40,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 90,
+  "possession_team": {
+    "id": 209,
+    "name": "Celta Vigo"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 209,
+    "name": "Celta Vigo"
+  },
+  "player": {
+    "id": 6797,
+    "name": "Daniel Wass"
+  },
+  "position": {
+    "id": 2,
+    "name": "Right Back"
+  },
+  "location": [
+    115.1,
+    51.1
+  ],
+  "duration": 0.701,
+  "under_pressure": true,
+  "related_events": [
+    "a2ea4a2d-83b3-4ff7-ab1d-b13cc3c2dcf5",
+    "fba48619-87f5-494a-be8c-7b7705280d4e"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.08374948,
+    "end_location": [
+      120.0,
+      42.5,
+      5.5
+    ],
+    "key_pass_id": "ec1cdd40-6c54-4e69-bf29-d4e769cc3c7b",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          95.0,
+          19.2
+        ],
+        "player": {
+          "id": 5516,
+          "name": "Pione Sisto Ifolo Emirmija"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          95.5,
+          34.2
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.9,
+          30.2
+        ],
+        "player": {
+          "id": 6379,
+          "name": "Sergi Roberto Carnicer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.1,
+          48.6
+        ],
+        "player": {
+          "id": 5211,
+          "name": "Jordi Alba Ramos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.2,
+          40.6
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.3,
+          44.0
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.5,
+          39.2
+        ],
+        "player": {
+          "id": 5492,
+          "name": "Samuel Yves Umtiti"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.2,
+          45.8
+        ],
+        "player": {
+          "id": 6799,
+          "name": "Brais M\u00e9ndez Portela"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.4,
+          32.8
+        ],
+        "player": {
+          "id": 5217,
+          "name": "Iago Aspas Juncal"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.4,
+          46.5
+        ],
+        "player": {
+          "id": 6297,
+          "name": "Maximiliano G\u00f3mez Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "id": "b522c1b1-9d28-432c-8b2f-8cce25a6b5b0",
+  "index": 175,
+  "period": 1,
+  "timestamp": "00:03:14.029",
+  "minute": 3,
+  "second": 14,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 10,
+  "possession_team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "player": {
+    "id": 4643,
+    "name": "Georgia Stanway"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    110.8,
+    35.5
+  ],
+  "duration": 0.2097,
+  "related_events": [
+    "cb47d88a-6ff0-42fa-a5ff-a4b1b75f2a28",
+    "dedccc60-64f8-481b-b33f-89c1bf0f094d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.3374492,
+    "end_location": [
+      114.2,
+      36.4
+    ],
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "first_time": true,
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          115.3,
+          42.8
+        ],
+        "player": {
+          "id": 4992,
+          "name": "Janine Beckie"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.5,
+          38.6
+        ],
+        "player": {
+          "id": 46540,
+          "name": "Sian Rogers"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.9,
+          38.4
+        ],
+        "player": {
+          "id": 5087,
+          "name": "Samantha Mewis"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.5,
+          25.7
+        ],
+        "player": {
+          "id": 15570,
+          "name": "Chloe Kelly"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          93.8,
+          51.3
+        ],
+        "player": {
+          "id": 10159,
+          "name": "Diana Micaela Abreu de Sousa e Silva"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.6,
+          24.8
+        ],
+        "player": {
+          "id": 46534,
+          "name": "Elisha N\"Dow"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          38.5
+        ],
+        "player": {
+          "id": 15565,
+          "name": "Marisa Ewers"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.7,
+          28.7
+        ],
+        "player": {
+          "id": 46538,
+          "name": "Ella Franklin-Fraiture"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.2,
+          35.6
+        ],
+        "player": {
+          "id": 46535,
+          "name": "Natalie Haigh"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.4,
+          40.2
+        ],
+        "player": {
+          "id": 46536,
+          "name": "Caroline Siems"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

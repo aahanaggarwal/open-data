@@ -1,0 +1,174 @@
+{
+  "id": "31cb25ed-ddb8-453b-9a87-f7631b7c788a",
+  "index": 1180,
+  "period": 1,
+  "timestamp": "00:43:00.954",
+  "minute": 43,
+  "second": 0,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 88,
+  "possession_team": {
+    "id": 38,
+    "name": "Tottenham Hotspur"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 38,
+    "name": "Tottenham Hotspur"
+  },
+  "player": {
+    "id": 20011,
+    "name": "H\u00e9lder Manuel Marques Postiga"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    106.0,
+    30.8
+  ],
+  "duration": 0.121742,
+  "related_events": [
+    "a2f84e96-80eb-403c-b1c6-2cf61fbe9696",
+    "bdc000dd-1d55-4d7f-b2a2-47e8da9f4afc"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.09090503,
+    "end_location": [
+      107.9,
+      31.7
+    ],
+    "key_pass_id": "032d6b01-4ddd-4d09-9765-5e38dd51fbc0",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          105.0,
+          47.5
+        ],
+        "player": {
+          "id": 40221,
+          "name": "Gilberto Aparecido da Silva"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          85.6,
+          60.8
+        ],
+        "player": {
+          "id": 12529,
+          "name": "Ashley Cole"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.6,
+          53.7
+        ],
+        "player": {
+          "id": 19312,
+          "name": "Robert Pir\u00e8s "
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.2,
+          37.4
+        ],
+        "player": {
+          "id": 20015,
+          "name": "Jens Lehmann"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.7,
+          50.4
+        ],
+        "player": {
+          "id": 11348,
+          "name": "Robbie Keane"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.3,
+          54.5
+        ],
+        "player": {
+          "id": 15637,
+          "name": "Sulzeer Jeremiah \"Sol\" Campbell"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.3,
+          31.8
+        ],
+        "player": {
+          "id": 38412,
+          "name": "Kolo Habib Tour\u00e9"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "id": "a4af02ad-2e89-4f16-80a1-055a4a65f2b1",
+  "index": 3654,
+  "period": 2,
+  "timestamp": "00:34:31.610",
+  "minute": 79,
+  "second": 31,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 199,
+  "possession_team": {
+    "id": 215,
+    "name": "Athletic Bilbao"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 215,
+    "name": "Athletic Bilbao"
+  },
+  "player": {
+    "id": 6842,
+    "name": "Iker Muniain Go\u00f1i"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    114.9,
+    51.5
+  ],
+  "duration": 1.013301,
+  "related_events": [
+    "08f084ee-01d6-481a-a316-0aa3e2358828",
+    "786b62b9-45fd-4699-8cc6-098fe6077ac1"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.20736763,
+    "end_location": [
+      118.7,
+      43.9
+    ],
+    "key_pass_id": "a0ed7362-4015-4a91-8719-02b298077624",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          106.4,
+          53.6
+        ],
+        "player": {
+          "id": 6649,
+          "name": "\u00d3scar de Marcos Arana"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.4,
+          35.1
+        ],
+        "player": {
+          "id": 3486,
+          "name": "Fernando Llorente Torres"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.8,
+          34.0
+        ],
+        "player": {
+          "id": 6390,
+          "name": "Markel Susaeta Laskurain"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.8,
+          52.3
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.2,
+          54.9
+        ],
+        "player": {
+          "id": 22102,
+          "name": "Adriano Correia Claro"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.8,
+          49.1
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.79324,
+          43.15785
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.5,
+          39.1
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.1,
+          48.8
+        ],
+        "player": {
+          "id": 5208,
+          "name": "Thiago Alc\u00e2ntara do Nascimento"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

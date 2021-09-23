@@ -1,0 +1,292 @@
+{
+  "id": "fa7c1d8b-f836-481e-89fb-1658357116b6",
+  "index": 113,
+  "period": 1,
+  "timestamp": "00:04:59.240",
+  "minute": 4,
+  "second": 59,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 9,
+  "possession_team": {
+    "id": 790,
+    "name": "Sweden"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 790,
+    "name": "Sweden"
+  },
+  "player": {
+    "id": 5625,
+    "name": "Emil Forsberg"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    114.0,
+    17.0
+  ],
+  "duration": 0.8,
+  "related_events": [
+    "55b498ac-09f1-4690-98eb-946e6e9f33ba"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.04733487,
+    "end_location": [
+      119.0,
+      39.9,
+      2.2
+    ],
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 62,
+      "name": "Free Kick"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          99.0,
+          35.0
+        ],
+        "player": {
+          "id": 5624,
+          "name": "Albin Ekdal"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.0,
+          40.0
+        ],
+        "player": {
+          "id": 5563,
+          "name": "Jos\u00e9 Andr\u00e9s Guardado Hern\u00e1ndez"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          39.0
+        ],
+        "player": {
+          "id": 5577,
+          "name": "Francisco Guillermo Ochoa Maga\u00f1a"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.0,
+          28.0
+        ],
+        "player": {
+          "id": 3058,
+          "name": "Javier Hern\u00e1ndez Balc\u00e1zar"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          28.0
+        ],
+        "player": {
+          "id": 5617,
+          "name": "Sebastian Larsson"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.0,
+          28.0
+        ],
+        "player": {
+          "id": 5556,
+          "name": "Miguel Arturo Lay\u00fan Prado"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.0,
+          42.0
+        ],
+        "player": {
+          "id": 5573,
+          "name": "H\u00e9ctor Alfredo Moreno Herrera"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          39.0
+        ],
+        "player": {
+          "id": 4417,
+          "name": "Ola Toivonen"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          116.0,
+          40.0
+        ],
+        "player": {
+          "id": 5567,
+          "name": "Edson Omar \u00c1lvarez Vel\u00e1zquez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          39.0
+        ],
+        "player": {
+          "id": 5607,
+          "name": "Andreas Granqvist"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.0,
+          37.0
+        ],
+        "player": {
+          "id": 5564,
+          "name": "Carlos Joel Salcedo Hern\u00e1ndez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.0,
+          33.0
+        ],
+        "player": {
+          "id": 5575,
+          "name": "H\u00e9ctor Miguel Herrera L\u00f3pez"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.0,
+          37.0
+        ],
+        "player": {
+          "id": 5576,
+          "name": "Jes\u00fas Daniel Gallardo Vasconcelos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          37.0
+        ],
+        "player": {
+          "id": 5612,
+          "name": "Mikael Lustig"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.0,
+          42.0
+        ],
+        "player": {
+          "id": 11098,
+          "name": "Marcus Berg"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

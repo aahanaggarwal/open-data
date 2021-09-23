@@ -1,0 +1,173 @@
+{
+  "id": "1280ebfa-f94d-4542-b67f-6ea503c8eaae",
+  "index": 1287,
+  "period": 1,
+  "timestamp": "00:33:59.846",
+  "minute": 33,
+  "second": 59,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 68,
+  "possession_team": {
+    "id": 238,
+    "name": "Inter Milan"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 238,
+    "name": "Inter Milan"
+  },
+  "player": {
+    "id": 19294,
+    "name": "Diego Alberto Milito"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    107.0,
+    46.0
+  ],
+  "duration": 0.746901,
+  "related_events": [
+    "bc4ebea6-e413-45c3-b7c2-da25508a9b68"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.37121952,
+    "end_location": [
+      120.0,
+      40.7,
+      2.0
+    ],
+    "key_pass_id": "0ff14bb3-21ca-4a52-92ba-1eaa63ff3a27",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.0,
+          37.0
+        ],
+        "player": {
+          "id": 19295,
+          "name": "Philipp Lahm"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          41.0
+        ],
+        "player": {
+          "id": 19297,
+          "name": "Daniel Van Buyten"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          46.0
+        ],
+        "player": {
+          "id": 19288,
+          "name": "Mart\u00edn Gast\u00f3n Demichelis"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          47.0
+        ],
+        "player": {
+          "id": 9406,
+          "name": "Holger Badstuber"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          44.0
+        ],
+        "player": {
+          "id": 19291,
+          "name": "Hans-J\u00f6rg Butt"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          30.0
+        ],
+        "player": {
+          "id": 7146,
+          "name": "Goran Pandev"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.0,
+          36.0
+        ],
+        "player": {
+          "id": 4409,
+          "name": "Wesley Sneijder"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

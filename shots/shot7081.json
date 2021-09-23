@@ -1,0 +1,158 @@
+{
+  "id": "c39cd10e-694a-40eb-9050-03ca008363b8",
+  "index": 2748,
+  "period": 2,
+  "timestamp": "00:13:09.179",
+  "minute": 58,
+  "second": 9,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 120,
+  "possession_team": {
+    "id": 213,
+    "name": "Sevilla"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 213,
+    "name": "Sevilla"
+  },
+  "player": {
+    "id": 6720,
+    "name": "Pablo Sarabia Garc\u00eda"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    107.0,
+    31.0
+  ],
+  "duration": 0.2592,
+  "related_events": [
+    "198bdaa1-ed59-4e8d-86c0-e036610bbdab",
+    "bb99b240-832f-439d-bd84-779dd67d71c1"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.10411168,
+    "end_location": [
+      108.1,
+      31.5
+    ],
+    "key_pass_id": "576f1565-fcff-4d05-b2ea-1d4b4cd43115",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          94.4,
+          51.4
+        ],
+        "player": {
+          "id": 6334,
+          "name": "Luis Fernando Muriel Fruto"
+        },
+        "position": {
+          "id": 25,
+          "name": "Secondary Striker"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          91.2,
+          50.4
+        ],
+        "player": {
+          "id": 5492,
+          "name": "Samuel Yves Umtiti"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.5,
+          45.4
+        ],
+        "player": {
+          "id": 5211,
+          "name": "Jordi Alba Ramos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.9,
+          37.4
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.8,
+          42.6
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.5,
+          32.2
+        ],
+        "player": {
+          "id": 6374,
+          "name": "N\u00e9lson Cabral Semedo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

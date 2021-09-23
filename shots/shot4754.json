@@ -1,0 +1,159 @@
+{
+  "id": "983637c3-0d48-45d6-aad3-579efc628cdd",
+  "index": 1168,
+  "period": 1,
+  "timestamp": "00:36:39.787",
+  "minute": 36,
+  "second": 39,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 84,
+  "possession_team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "player": {
+    "id": 5034,
+    "name": "Jessica McDonald"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    117.0,
+    39.0
+  ],
+  "duration": 0.573,
+  "related_events": [
+    "e579852b-1bf8-4fb8-8fa3-8b3d6620cc7b"
+  ],
+  "shot": {
+    "open_goal": true,
+    "statsbomb_xg": 0.6066502,
+    "end_location": [
+      120.0,
+      39.9,
+      4.3
+    ],
+    "key_pass_id": "0d46bd76-faab-4792-be50-7c4ce5c44f6c",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.0,
+          61.0
+        ],
+        "player": {
+          "id": 5015,
+          "name": "Kelli Hubly"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          54.0
+        ],
+        "player": {
+          "id": 5092,
+          "name": "Emily Menges"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          43.0
+        ],
+        "player": {
+          "id": 5044,
+          "name": "D\u00e9bora Cristiane de Oliveira"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.0,
+          46.0
+        ],
+        "player": {
+          "id": 5012,
+          "name": "Katherine Reynolds"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          38.0
+        ],
+        "player": {
+          "id": 5009,
+          "name": "Margaret Purce"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          42.0
+        ],
+        "player": {
+          "id": 5005,
+          "name": "Britt Eckerstrom"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

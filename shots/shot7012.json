@@ -1,0 +1,144 @@
+{
+  "id": "e09357ed-cfb5-4e13-ade0-ec4303bfd5ef",
+  "index": 2074,
+  "period": 2,
+  "timestamp": "00:02:19.260",
+  "minute": 47,
+  "second": 19,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 88,
+  "possession_team": {
+    "id": 778,
+    "name": "Japan"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 778,
+    "name": "Japan"
+  },
+  "player": {
+    "id": 5697,
+    "name": "Genki Haraguchi"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    109.0,
+    54.0
+  ],
+  "duration": 0.973,
+  "related_events": [
+    "2231a10e-47a5-4776-965e-fa547f3f861b"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.16858953,
+    "end_location": [
+      120.0,
+      36.4,
+      0.6
+    ],
+    "key_pass_id": "1e2a4e3e-97f9-48e1-b4bb-9ebfcde1b6a2",
+    "first_time": true,
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          99.0,
+          47.0
+        ],
+        "player": {
+          "id": 5679,
+          "name": "Y\u016bya \u014csako"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.0,
+          52.0
+        ],
+        "player": {
+          "id": 3077,
+          "name": "Jan Vertonghen"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          48.0
+        ],
+        "player": {
+          "id": 3101,
+          "name": "Vincent Kompany"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.0,
+          43.0
+        ],
+        "player": {
+          "id": 3509,
+          "name": "Thibaut Courtois"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          39.0
+        ],
+        "player": {
+          "id": 20005,
+          "name": "Toby Alderweireld"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

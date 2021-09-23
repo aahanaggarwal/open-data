@@ -1,0 +1,188 @@
+{
+  "id": "03159f09-ecd7-4faf-a6b4-a9f13a5fe23f",
+  "index": 311,
+  "period": 1,
+  "timestamp": "00:09:41.761",
+  "minute": 9,
+  "second": 41,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 23,
+  "possession_team": {
+    "id": 1475,
+    "name": "Manchester United"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1475,
+    "name": "Manchester United"
+  },
+  "player": {
+    "id": 31539,
+    "name": "Leah Galton"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    106.2,
+    27.5
+  ],
+  "duration": 0.491808,
+  "related_events": [
+    "1698949b-0b42-4a54-96d2-14b4fe6f39af"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.060584,
+    "end_location": [
+      118.9,
+      36.4,
+      2.0
+    ],
+    "key_pass_id": "2132a4aa-062b-484c-be3e-79b9d90721f0",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          105.2,
+          40.1
+        ],
+        "player": {
+          "id": 10654,
+          "name": "Jackie Groenen"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.8,
+          37.1
+        ],
+        "player": {
+          "id": 31555,
+          "name": "Courtney Brosnan"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          86.7,
+          19.4
+        ],
+        "player": {
+          "id": 31553,
+          "name": "Cecilie Redisch Kvamme"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          27.9
+        ],
+        "player": {
+          "id": 15421,
+          "name": "Kenza Dali"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.4,
+          31.5
+        ],
+        "player": {
+          "id": 18159,
+          "name": "Brooke Hendrix"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          32.0
+        ],
+        "player": {
+          "id": 18151,
+          "name": "Gilly Louise Scarlett Flaherty"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.4,
+          41.7
+        ],
+        "player": {
+          "id": 31556,
+          "name": "Laura Vetterlein"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.7,
+          47.3
+        ],
+        "player": {
+          "id": 31557,
+          "name": "Katharina Baunach"
+        },
+        "position": {
+          "id": 8,
+          "name": "Left Wing Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

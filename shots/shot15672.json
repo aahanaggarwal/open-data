@@ -1,0 +1,203 @@
+{
+  "id": "83fbe45a-410c-4cd1-9ffb-e92d002d26cc",
+  "index": 174,
+  "period": 1,
+  "timestamp": "00:03:49.452",
+  "minute": 3,
+  "second": 49,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 8,
+  "possession_team": {
+    "id": 901,
+    "name": "Real Valladolid"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 901,
+    "name": "Real Valladolid"
+  },
+  "player": {
+    "id": 26690,
+    "name": "Alberto Mateus Contreiras Gon\u00e7alves"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    103.5,
+    44.8
+  ],
+  "duration": 0.4075,
+  "related_events": [
+    "0855a7de-d283-4859-b4bb-ab91ce869a9c",
+    "abaf91f9-1596-470b-be41-e0d5d9927eb6"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.460623,
+    "end_location": [
+      109.1,
+      42.0
+    ],
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          109.8,
+          40.0
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.7,
+          30.8
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.8,
+          15.0
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.4,
+          47.4
+        ],
+        "player": {
+          "id": 20177,
+          "name": "Eric-Sylvain Bilal Abidal"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.5,
+          16.8
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.6,
+          30.3
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.4,
+          18.3
+        ],
+        "player": {
+          "id": 5198,
+          "name": "Diego da Silva Costa"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.9,
+          30.3
+        ],
+        "player": {
+          "id": 25955,
+          "name": "Jonathan Sesma Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.4,
+          34.1
+        ],
+        "player": {
+          "id": 6663,
+          "name": "Antonio Barrag\u00e1n Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 8,
+          "name": "Left Wing Back"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

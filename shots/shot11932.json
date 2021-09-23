@@ -1,0 +1,204 @@
+{
+  "id": "ac660c63-ce2c-4161-a2b9-8a1759c4acb7",
+  "index": 117,
+  "period": 1,
+  "timestamp": "00:02:05.780",
+  "minute": 2,
+  "second": 5,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 15,
+  "possession_team": {
+    "id": 207,
+    "name": "Valencia"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 207,
+    "name": "Valencia"
+  },
+  "player": {
+    "id": 6595,
+    "name": "Daniel Parejo Mu\u00f1oz"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    105.5,
+    39.4
+  ],
+  "duration": 0.388572,
+  "related_events": [
+    "6cb73693-5b0b-463a-8ea9-9b15a73c7b71"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.19961035,
+    "end_location": [
+      117.8,
+      38.8,
+      0.9
+    ],
+    "key_pass_id": "21be88d2-611f-4fbc-b1fa-dea3e3f03b7a",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          105.2,
+          22.3
+        ],
+        "player": {
+          "id": 5186,
+          "name": "Denis Cheryshev"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.3,
+          36.3
+        ],
+        "player": {
+          "id": 6401,
+          "name": "Kevin Gameiro"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.2,
+          50.8
+        ],
+        "player": {
+          "id": 6797,
+          "name": "Daniel Wass"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.7,
+          37.6
+        ],
+        "player": {
+          "id": 6374,
+          "name": "N\u00e9lson Cabral Semedo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.5,
+          45.6
+        ],
+        "player": {
+          "id": 8206,
+          "name": "Arturo Erasmo Vidal Pardo"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.4,
+          41.2
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.8,
+          44.2
+        ],
+        "player": {
+          "id": 5470,
+          "name": "Ivan Rakiti\u0107"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.3,
+          47.9
+        ],
+        "player": {
+          "id": 6332,
+          "name": "Thomas Vermaelen"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.6,
+          41.2
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

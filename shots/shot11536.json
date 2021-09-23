@@ -1,0 +1,175 @@
+{
+  "id": "8004a83a-ef2e-4651-b302-ddedc70b1dc5",
+  "index": 1844,
+  "period": 2,
+  "timestamp": "00:03:57.629",
+  "minute": 48,
+  "second": 57,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 112,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    100.7,
+    29.7
+  ],
+  "duration": 0.651322,
+  "under_pressure": true,
+  "related_events": [
+    "ad5819b4-8680-4170-8ad5-6741125e2035",
+    "d5c9351e-a56a-495d-bb12-8ef971b9d084"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.03707128,
+    "end_location": [
+      116.7,
+      39.7,
+      0.0
+    ],
+    "key_pass_id": "5930863a-0d0a-4107-a613-ab5f8c69aebe",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.4,
+          35.0
+        ],
+        "player": {
+          "id": 15754,
+          "name": "Fredrik Ljungberg"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.6,
+          36.6
+        ],
+        "player": {
+          "id": 24763,
+          "name": "Ronny Johnsen"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          38.8
+        ],
+        "player": {
+          "id": 20145,
+          "name": "Thomas L\u00f8vendahl S\u00f8rensen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.7,
+          42.6
+        ],
+        "player": {
+          "id": 40359,
+          "name": "Jlloyd Tafari Samuel"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.9,
+          29.1
+        ],
+        "player": {
+          "id": 15761,
+          "name": "Olof Mellberg"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.7,
+          29.5
+        ],
+        "player": {
+          "id": 40361,
+          "name": "Mark Anthony Delaney"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.9,
+          43.1
+        ],
+        "player": {
+          "id": 24971,
+          "name": "Nwankwo Christian Kanu"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

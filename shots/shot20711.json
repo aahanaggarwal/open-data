@@ -1,0 +1,159 @@
+{
+  "id": "a183a964-c8f4-4195-be6d-456c605f0dbd",
+  "index": 1245,
+  "period": 1,
+  "timestamp": "00:28:03.530",
+  "minute": 28,
+  "second": 3,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 76,
+  "possession_team": {
+    "id": 219,
+    "name": "Deportivo La Coruna"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 219,
+    "name": "Deportivo La Coruna"
+  },
+  "player": {
+    "id": 26211,
+    "name": "Joan Verd\u00fa Fern\u00e1ndez"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    105.0,
+    26.5
+  ],
+  "duration": 0.61167,
+  "related_events": [
+    "60d63d81-dd84-4dea-8235-618dd73db4c8"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.059719745,
+    "end_location": [
+      118.4,
+      36.9,
+      1.8
+    ],
+    "key_pass_id": "ec185420-1de6-46cc-914d-5a97787fef05",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          84.0,
+          16.0
+        ],
+        "player": {
+          "id": 20134,
+          "name": "Joan Capdevila M\u00e9ndez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.5,
+          26.9
+        ],
+        "player": {
+          "id": 5558,
+          "name": "Rafael M\u00e1rquez \u00c1lvarez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.4,
+          44.2
+        ],
+        "player": {
+          "id": 17797,
+          "name": "Giovanni van Bronckhorst"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.6,
+          34.0
+        ],
+        "player": {
+          "id": 25910,
+          "name": "Jos\u00e9 Edm\u00edlson Gomes de Moraes"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.7,
+          28.2
+        ],
+        "player": {
+          "id": 15071,
+          "name": "Lilian Thuram"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.4,
+          37.8
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

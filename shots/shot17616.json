@@ -1,0 +1,311 @@
+{
+  "id": "c674e9af-37fd-4c23-9fdb-2080c4fef13e",
+  "index": 1072,
+  "period": 1,
+  "timestamp": "00:21:23.859",
+  "minute": 21,
+  "second": 23,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 53,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 2,
+    "name": "From Corner"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 25919,
+    "name": "Gabriel Alejandro Milito"
+  },
+  "position": {
+    "id": 5,
+    "name": "Left Center Back"
+  },
+  "location": [
+    108.3,
+    46.2
+  ],
+  "duration": 0.604,
+  "under_pressure": true,
+  "related_events": [
+    "24b3cfde-ff02-402f-90ba-8c466c0610da",
+    "c147c423-8680-4f00-91ac-f31725263d90",
+    "d86bf64c-6c49-447d-8c87-4517e16a78ff"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.019656409,
+    "end_location": [
+      114.5,
+      44.8
+    ],
+    "key_pass_id": "af991dbb-3cad-4912-9279-eea938f3c099",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "aerial_won": true,
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.4,
+          79.6
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.1,
+          35.1
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.0,
+          36.8
+        ],
+        "player": {
+          "id": 4913,
+          "name": "Bojan Krk\u00edc P\u00e9rez"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.1,
+          49.6
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.0,
+          48.6
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.8,
+          42.6
+        ],
+        "player": {
+          "id": 25917,
+          "name": "C\u00e9sar S\u00e1nchez Dom\u00ednguez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.5,
+          45.5
+        ],
+        "player": {
+          "id": 26396,
+          "name": "Hedwiges Maduro"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.9,
+          47.8
+        ],
+        "player": {
+          "id": 3095,
+          "name": "Bruno Saltor Grau"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.3,
+          49.6
+        ],
+        "player": {
+          "id": 3064,
+          "name": "David Josu\u00e9 Jim\u00e9nez Silva"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.6,
+          45.7
+        ],
+        "player": {
+          "id": 20070,
+          "name": "Lu\u00eds Miguel Brito Garcia Monteiro"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.3,
+          38.2
+        ],
+        "player": {
+          "id": 4711,
+          "name": "Pablo Hern\u00e1ndez Dom\u00ednguez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.6,
+          38.9
+        ],
+        "player": {
+          "id": 26645,
+          "name": "\u00c1ngel Dealbert Ib\u00e1\u00f1ez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.3,
+          38.7
+        ],
+        "player": {
+          "id": 26646,
+          "name": "Alejandro Dami\u00e1n Dom\u00ednguez"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.9,
+          56.2
+        ],
+        "player": {
+          "id": 5504,
+          "name": "\u00c9ver Maximiliano David Banega"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.6,
+          64.2
+        ],
+        "player": {
+          "id": 5211,
+          "name": "Jordi Alba Ramos"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.9,
+          41.9
+        ],
+        "player": {
+          "id": 20128,
+          "name": "David Albelda Aliqu\u00e9s"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "id": "99391fb9-d270-4318-8e76-e4c43722f51c",
+  "index": 407,
+  "period": 1,
+  "timestamp": "00:09:23.076",
+  "minute": 9,
+  "second": 23,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 22,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    114.0,
+    47.1
+  ],
+  "duration": 0.1841,
+  "related_events": [
+    "ee074daf-2c76-43c8-a817-84b8c950f10f"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.18738912,
+    "end_location": [
+      115.8,
+      45.5,
+      0.8
+    ],
+    "key_pass_id": "9c7dd13d-8d09-42bb-b9d0-6408932e594a",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.0,
+          51.8
+        ],
+        "player": {
+          "id": 3478,
+          "name": "Francesc F\u00e0bregas i Soler"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.4,
+          36.8
+        ],
+        "player": {
+          "id": 4320,
+          "name": "Neymar da Silva Santos Junior"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.3,
+          52.3
+        ],
+        "player": {
+          "id": 5573,
+          "name": "H\u00e9ctor Alfredo Moreno Herrera"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.1,
+          31.1
+        ],
+        "player": {
+          "id": 6351,
+          "name": "Cristhian Ricardo Stuani Curbelo"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.7,
+          38.4
+        ],
+        "player": {
+          "id": 6791,
+          "name": "Javier L\u00f3pez Rodr\u00edguez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.4,
+          45.2
+        ],
+        "player": {
+          "id": 6754,
+          "name": "David L\u00f3pez Silva"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.2,
+          46.2
+        ],
+        "player": {
+          "id": 26623,
+          "name": "Diego Daniel Colotto"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          44.9
+        ],
+        "player": {
+          "id": 6706,
+          "name": "Francisco Casilla Cort\u00e9s"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

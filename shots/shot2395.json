@@ -1,0 +1,220 @@
+{
+  "id": "d77af37c-91b4-4c9c-843e-7889f84bd380",
+  "index": 1491,
+  "period": 1,
+  "timestamp": "00:45:16.521",
+  "minute": 45,
+  "second": 16,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 101,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15042,
+    "name": "Dennis Bergkamp"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    109.6,
+    50.3
+  ],
+  "duration": 0.524967,
+  "under_pressure": true,
+  "related_events": [
+    "42d807b2-0a2f-469a-a834-c8acf1975656",
+    "920ab8bc-f3eb-428a-a27e-7a6a5f13f059"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.23466155,
+    "end_location": [
+      116.2,
+      44.8,
+      1.8
+    ],
+    "key_pass_id": "06657aa6-0569-4db7-b745-c060b20a3527",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.4,
+          43.9
+        ],
+        "player": {
+          "id": 40304,
+          "name": "Lee Naylor"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.3,
+          48.1
+        ],
+        "player": {
+          "id": 40312,
+          "name": "Paul Butler"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.6,
+          35.3
+        ],
+        "player": {
+          "id": 40313,
+          "name": "Colin Cameron"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.3,
+          43.2
+        ],
+        "player": {
+          "id": 40311,
+          "name": "Alex Rae"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.7,
+          44.2
+        ],
+        "player": {
+          "id": 40319,
+          "name": "Paul Jones"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.8,
+          37.4
+        ],
+        "player": {
+          "id": 40314,
+          "name": "Jody Craddock"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.5,
+          31.1
+        ],
+        "player": {
+          "id": 24765,
+          "name": "Denis Irwin"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.4,
+          28.6
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.5,
+          41.9
+        ],
+        "player": {
+          "id": 40221,
+          "name": "Gilberto Aparecido da Silva"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.3,
+          27.1
+        ],
+        "player": {
+          "id": 19312,
+          "name": "Robert Pir\u00e8s "
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

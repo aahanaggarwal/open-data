@@ -1,0 +1,233 @@
+{
+  "id": "8b7557ed-e6e9-40ba-801e-727e03f73fd5",
+  "index": 392,
+  "period": 1,
+  "timestamp": "00:10:13.520",
+  "minute": 10,
+  "second": 13,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 24,
+  "possession_team": {
+    "id": 767,
+    "name": "Utah Royals"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 767,
+    "name": "Utah Royals"
+  },
+  "player": {
+    "id": 4983,
+    "name": "Brooke Elby"
+  },
+  "position": {
+    "id": 2,
+    "name": "Right Back"
+  },
+  "location": [
+    114.0,
+    56.0
+  ],
+  "duration": 0.48,
+  "related_events": [
+    "3ac8410b-ba6b-4d8c-a1d5-fbb0ad1f3eae",
+    "8df88b69-a3a3-4c5f-85f2-704f5e0e60ad"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.023855783,
+    "end_location": [
+      117.0,
+      48.0
+    ],
+    "key_pass_id": "32fed991-55d7-47c0-8a62-62aba0c3538a",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.0,
+          42.0
+        ],
+        "player": {
+          "id": 4979,
+          "name": "Katrina Gorry"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.0,
+          41.0
+        ],
+        "player": {
+          "id": 4985,
+          "name": "Christina Gibbons"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.0,
+          48.0
+        ],
+        "player": {
+          "id": 4972,
+          "name": "Katie Stengel"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.0,
+          53.0
+        ],
+        "player": {
+          "id": 4989,
+          "name": "Rebekah Stott"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.0,
+          47.0
+        ],
+        "player": {
+          "id": 4974,
+          "name": "Mandy Freeman"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          46.0
+        ],
+        "player": {
+          "id": 4980,
+          "name": "Thaysa de Moraes Rosa Moreno"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          61.0
+        ],
+        "player": {
+          "id": 4973,
+          "name": "Diana Matheson"
+        },
+        "position": {
+          "id": 18,
+          "name": "Right Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.0,
+          61.0
+        ],
+        "player": {
+          "id": 4970,
+          "name": "Amanda Frisbie"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          60.0
+        ],
+        "player": {
+          "id": 4988,
+          "name": "Sarah Killion"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          58.0
+        ],
+        "player": {
+          "id": 4986,
+          "name": "Shea Groom"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          43.0
+        ],
+        "player": {
+          "id": 4981,
+          "name": "Kailen Sheridan"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

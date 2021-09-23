@@ -1,0 +1,158 @@
+{
+  "id": "c735f655-0bc0-4c22-9799-bf176e675a72",
+  "index": 2361,
+  "period": 2,
+  "timestamp": "00:14:00.370",
+  "minute": 59,
+  "second": 0,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 130,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 25879,
+    "name": "Ronaldo de Assis Moreira"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    108.2,
+    35.4
+  ],
+  "duration": 0.6625,
+  "related_events": [
+    "685285e8-1820-4525-b745-d40c5d7c97ff"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.31652197,
+    "end_location": [
+      119.9,
+      37.3,
+      0.9
+    ],
+    "key_pass_id": "316a18fd-5632-4f06-b2f8-f96de78c648a",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          99.8,
+          40.3
+        ],
+        "player": {
+          "id": 25932,
+          "name": "Pablo Gabriel Garc\u00eda P\u00e9rez"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.7,
+          30.1
+        ],
+        "player": {
+          "id": 15584,
+          "name": "Iv\u00e1n Helguera Buj\u00eda"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.5,
+          44.9
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.4,
+          43.9
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.8,
+          38.2
+        ],
+        "player": {
+          "id": 11179,
+          "name": "Iker Casillas Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          38.7
+        ],
+        "player": {
+          "id": 25926,
+          "name": "Roberto Carlos da Silva"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

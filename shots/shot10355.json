@@ -1,0 +1,83 @@
+{
+  "id": "021ab8b1-9cf7-4549-b5c0-66de85741c6e",
+  "index": 2634,
+  "period": 2,
+  "timestamp": "00:23:36.173",
+  "minute": 68,
+  "second": 36,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 173,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 5,
+    "name": "Other"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 25879,
+    "name": "Ronaldo de Assis Moreira"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    108.1,
+    40.1
+  ],
+  "duration": 0.5536,
+  "related_events": [
+    "3a53faa5-7fbe-4bc7-8c25-7a3c7241c406"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.76,
+    "end_location": [
+      120.0,
+      35.5,
+      1.7
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 88,
+      "name": "Penalty"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.7,
+          40.0
+        ],
+        "player": {
+          "id": 25974,
+          "name": "Franco Costanzo"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

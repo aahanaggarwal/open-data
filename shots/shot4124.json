@@ -1,0 +1,158 @@
+{
+  "id": "e9abe394-3b69-4afc-ac61-4f0bc9a238dd",
+  "index": 3173,
+  "period": 2,
+  "timestamp": "00:38:08.492",
+  "minute": 83,
+  "second": 8,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 176,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    95.1,
+    40.9
+  ],
+  "duration": 0.9812,
+  "related_events": [
+    "15eb31bc-d1b8-42d7-b05e-6c897e9f503d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.021673545,
+    "end_location": [
+      120.0,
+      38.8,
+      3.8
+    ],
+    "key_pass_id": "df42335e-8c85-4762-937d-61f12bf6d42b",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          97.8,
+          44.3
+        ],
+        "player": {
+          "id": 6913,
+          "name": "Fernando Navarro i Corbacho"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.6,
+          42.7
+        ],
+        "player": {
+          "id": 26018,
+          "name": "Julien Escud\u00e9"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.9,
+          40.7
+        ],
+        "player": {
+          "id": 6349,
+          "name": "Federico Juli\u00e1n Fazio"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.2,
+          34.5
+        ],
+        "player": {
+          "id": 26482,
+          "name": "Aquivaldo Mosquera Roma\u00f1a"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.7,
+          39.8
+        ],
+        "player": {
+          "id": 25946,
+          "name": "Andr\u00e9s Palop Cervera"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          86.2,
+          20.4
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

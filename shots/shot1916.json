@@ -1,0 +1,235 @@
+{
+  "id": "c2f7b5dc-5700-4335-81ed-6da143a3f4a0",
+  "index": 1330,
+  "period": 1,
+  "timestamp": "00:30:14.327",
+  "minute": 30,
+  "second": 14,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 59,
+  "possession_team": {
+    "id": 209,
+    "name": "Celta Vigo"
+  },
+  "play_pattern": {
+    "id": 2,
+    "name": "From Corner"
+  },
+  "team": {
+    "id": 209,
+    "name": "Celta Vigo"
+  },
+  "player": {
+    "id": 6799,
+    "name": "Brais M\u00e9ndez Portela"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    92.3,
+    39.8
+  ],
+  "duration": 1.549082,
+  "under_pressure": true,
+  "related_events": [
+    "70eb05e9-dac1-463d-9890-b9a4eeed8583",
+    "a29548cd-453d-47d4-aebe-7b13fc6a89fc"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.02710917,
+    "end_location": [
+      118.1,
+      40.9,
+      0.2
+    ],
+    "key_pass_id": "98bce8e2-93b0-4d0b-afc1-ddc20b729fc5",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          93.4,
+          41.2
+        ],
+        "player": {
+          "id": 5542,
+          "name": "Jos\u00e9 Paulo Bezzera Maciel J\u00fanior"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          88.4,
+          41.9
+        ],
+        "player": {
+          "id": 10802,
+          "name": "Andr\u00e9 Filipe Tavares Gomes"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.2,
+          39.5
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.9,
+          40.6
+        ],
+        "player": {
+          "id": 6332,
+          "name": "Thomas Vermaelen"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.1,
+          51.8
+        ],
+        "player": {
+          "id": 6849,
+          "name": "Lucas Digne"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.8,
+          53.6
+        ],
+        "player": {
+          "id": 5217,
+          "name": "Iago Aspas Juncal"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          90.1,
+          29.3
+        ],
+        "player": {
+          "id": 5516,
+          "name": "Pione Sisto Ifolo Emirmija"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.2,
+          29.5
+        ],
+        "player": {
+          "id": 6297,
+          "name": "Maximiliano G\u00f3mez Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.3,
+          27.8
+        ],
+        "player": {
+          "id": 6374,
+          "name": "N\u00e9lson Cabral Semedo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.3,
+          35.0
+        ],
+        "player": {
+          "id": 6196,
+          "name": "Yerry Fernando Mina Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          80.5,
+          65.4
+        ],
+        "player": {
+          "id": 6797,
+          "name": "Daniel Wass"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

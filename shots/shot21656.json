@@ -1,0 +1,159 @@
+{
+  "id": "7a76e694-47ea-41a1-8e39-6d2a24619d21",
+  "index": 2995,
+  "period": 2,
+  "timestamp": "00:08:04.253",
+  "minute": 53,
+  "second": 4,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 108,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    111.9,
+    32.8
+  ],
+  "duration": 0.1232,
+  "related_events": [
+    "2dd50535-3a1f-468d-bba1-b7c1563a4835"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.19118172,
+    "end_location": [
+      112.9,
+      33.4,
+      0.5
+    ],
+    "key_pass_id": "64250ef2-4b6c-482c-8594-cb7d60a97ef7",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.3,
+          33.7
+        ],
+        "player": {
+          "id": 3509,
+          "name": "Thibaut Courtois"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.0,
+          28.3
+        ],
+        "player": {
+          "id": 12737,
+          "name": "David Villa S\u00e1nchez"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.8,
+          32.0
+        ],
+        "player": {
+          "id": 26120,
+          "name": "Luis Amaranto Perea Mosquera"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.7,
+          39.3
+        ],
+        "player": {
+          "id": 5249,
+          "name": "Diego Roberto God\u00edn Leal"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.7,
+          39.3
+        ],
+        "player": {
+          "id": 5551,
+          "name": "Jo\u00e3o Miranda de Souza Filho"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.7,
+          52.9
+        ],
+        "player": {
+          "id": 26118,
+          "name": "Antonio L\u00f3pez Guerrero"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

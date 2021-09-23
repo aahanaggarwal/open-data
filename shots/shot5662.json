@@ -1,0 +1,161 @@
+{
+  "id": "d8f2a2ec-36ce-4d06-8c6d-8b6ab89fe7f8",
+  "index": 3191,
+  "period": 2,
+  "timestamp": "00:38:30.591",
+  "minute": 83,
+  "second": 30,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 168,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15754,
+    "name": "Fredrik Ljungberg"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    102.5,
+    36.1
+  ],
+  "duration": 0.482357,
+  "under_pressure": true,
+  "related_events": [
+    "7c220e57-af40-4409-873b-add113daf4dd",
+    "c1d64d33-d079-43c2-858e-d379511c99d2"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.16899672,
+    "end_location": [
+      115.9,
+      39.4,
+      2.2
+    ],
+    "key_pass_id": "085d2401-f304-40d2-81b4-d844908c4ea5",
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          116.5,
+          39.7
+        ],
+        "player": {
+          "id": 40235,
+          "name": "Danny Coyne"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.7,
+          33.7
+        ],
+        "player": {
+          "id": 40221,
+          "name": "Gilberto Aparecido da Silva"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.5,
+          31.5
+        ],
+        "player": {
+          "id": 40243,
+          "name": "Frank Mohammed Sinclair"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.7,
+          38.5
+        ],
+        "player": {
+          "id": 40239,
+          "name": "Jordan Stewart"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          87.1,
+          15.7
+        ],
+        "player": {
+          "id": 40237,
+          "name": "James Scowcroft"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.7,
+          35.3
+        ],
+        "player": {
+          "id": 24798,
+          "name": "Nikos Dabizas"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

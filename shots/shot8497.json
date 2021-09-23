@@ -1,0 +1,205 @@
+{
+  "id": "86c1429c-2462-4c32-81f1-ca76a10d603d",
+  "index": 845,
+  "period": 1,
+  "timestamp": "00:20:06.070",
+  "minute": 20,
+  "second": 6,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 49,
+  "possession_team": {
+    "id": 55,
+    "name": "Fulham"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 55,
+    "name": "Fulham"
+  },
+  "player": {
+    "id": 40407,
+    "name": "Steed Malbranque"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    99.5,
+    47.3
+  ],
+  "duration": 0.889595,
+  "under_pressure": true,
+  "related_events": [
+    "5e6a8b55-8c21-4a0f-a151-0138ae1b3dc2",
+    "88142687-3300-4d36-b7e8-22f928659289"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.037739884,
+    "end_location": [
+      120.0,
+      44.5,
+      2.4
+    ],
+    "key_pass_id": "7e015262-ced5-42ed-8596-8adbd2d8ad2a",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.0,
+          41.2
+        ],
+        "player": {
+          "id": 20015,
+          "name": "Jens Lehmann"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.1,
+          54.5
+        ],
+        "player": {
+          "id": 12529,
+          "name": "Ashley Cole"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.7,
+          48.3
+        ],
+        "player": {
+          "id": 24972,
+          "name": "Ray Parlour"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.5,
+          41.7
+        ],
+        "player": {
+          "id": 40222,
+          "name": "Laureano Bisan-Etame Mayer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.2,
+          51.0
+        ],
+        "player": {
+          "id": 15637,
+          "name": "Sulzeer Jeremiah \"Sol\" Campbell"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.5,
+          36.1
+        ],
+        "player": {
+          "id": 15754,
+          "name": "Fredrik Ljungberg"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.3,
+          46.7
+        ],
+        "player": {
+          "id": 38412,
+          "name": "Kolo Habib Tour\u00e9"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.6,
+          38.8
+        ],
+        "player": {
+          "id": 40411,
+          "name": "Sylvain Legwinski"
+        },
+        "position": {
+          "id": 14,
+          "name": "Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.1,
+          62.9
+        ],
+        "player": {
+          "id": 40424,
+          "name": "Lu\u00eds Boa Morte Pereira"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

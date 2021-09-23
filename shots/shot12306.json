@@ -1,0 +1,144 @@
+{
+  "id": "742f10b0-159d-4774-8d24-37227f4eedf2",
+  "index": 655,
+  "period": 1,
+  "timestamp": "00:14:47.808",
+  "minute": 14,
+  "second": 47,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 37,
+  "possession_team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "player": {
+    "id": 10188,
+    "name": "Caroline Weir"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    106.0,
+    38.0
+  ],
+  "duration": 1.234281,
+  "related_events": [
+    "e8132b9c-e2b4-40df-808c-f0745efbd94e"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.41504717,
+    "end_location": [
+      118.0,
+      43.4,
+      0.6
+    ],
+    "key_pass_id": "b14aa3e0-f51a-44c1-a10b-3ad184cafc6e",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.0,
+          39.0
+        ],
+        "player": {
+          "id": 22027,
+          "name": "Anne Moorhouse"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          37.0
+        ],
+        "player": {
+          "id": 18145,
+          "name": "Ria Percival"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          47.0
+        ],
+        "player": {
+          "id": 21014,
+          "name": "Vyan Sampson"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.0,
+          55.0
+        ],
+        "player": {
+          "id": 18156,
+          "name": "Claire Lauren Rafferty"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          53.0
+        ],
+        "player": {
+          "id": 15555,
+          "name": "Lauren Hemp"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

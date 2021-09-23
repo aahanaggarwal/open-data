@@ -1,0 +1,145 @@
+{
+  "id": "9c8a398d-e8e3-4a14-9bd1-2905bc5732d5",
+  "index": 3260,
+  "period": 2,
+  "timestamp": "00:43:18.439",
+  "minute": 88,
+  "second": 18,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 207,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 38412,
+    "name": "Kolo Habib Tour\u00e9"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    90.4,
+    50.1
+  ],
+  "duration": 0.786333,
+  "under_pressure": true,
+  "related_events": [
+    "68b39db4-9eb2-41d4-9857-1739cb98f78b",
+    "9366a189-2615-4db0-9342-8248a8160473"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.026164522,
+    "end_location": [
+      114.6,
+      39.7,
+      0.9
+    ],
+    "key_pass_id": "a78d2f1e-0cdf-43c3-8f70-516acc81673e",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          115.2,
+          39.7
+        ],
+        "player": {
+          "id": 20145,
+          "name": "Thomas L\u00f8vendahl S\u00f8rensen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          85.0,
+          46.9
+        ],
+        "player": {
+          "id": 24763,
+          "name": "Ronny Johnsen"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          80.7,
+          27.7
+        ],
+        "player": {
+          "id": 15761,
+          "name": "Olof Mellberg"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          79.3,
+          26.4
+        ],
+        "player": {
+          "id": 26014,
+          "name": "Eduardo C\u00e9sar Daude Gaspar"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          91.5,
+          48.7
+        ],
+        "player": {
+          "id": 40361,
+          "name": "Mark Anthony Delaney"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

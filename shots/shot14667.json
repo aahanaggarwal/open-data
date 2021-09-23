@@ -1,0 +1,188 @@
+{
+  "id": "d5cfd1a8-5a13-4257-a90b-8c707c22de18",
+  "index": 23,
+  "period": 1,
+  "timestamp": "00:00:17.065",
+  "minute": 0,
+  "second": 17,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 3,
+  "possession_team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "player": {
+    "id": 5080,
+    "name": "Kristen Hamilton"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    107.4,
+    39.4
+  ],
+  "duration": 0.154058,
+  "related_events": [
+    "cabf7472-327d-47be-9bae-ae7b9e8be325"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.36761943,
+    "end_location": [
+      110.9,
+      39.4,
+      0.5
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          91.4,
+          46.3
+        ],
+        "player": {
+          "id": 5044,
+          "name": "D\u00e9bora Cristiane de Oliveira"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.4,
+          26.1
+        ],
+        "player": {
+          "id": 5055,
+          "name": "Lynn Williams"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.0,
+          44.3
+        ],
+        "player": {
+          "id": 5038,
+          "name": "Allysha Chapman"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.2,
+          39.4
+        ],
+        "player": {
+          "id": 5056,
+          "name": "Jane Campbell"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.7,
+          38.4
+        ],
+        "player": {
+          "id": 5045,
+          "name": "Amber Brooks"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.2,
+          36.2
+        ],
+        "player": {
+          "id": 8382,
+          "name": "Clare Polkinghorne"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.3,
+          29.4
+        ],
+        "player": {
+          "id": 15629,
+          "name": "Satara Murray"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.3,
+          42.3
+        ],
+        "player": {
+          "id": 15180,
+          "name": "Sophie Schmidt"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "id": "25cda138-34bf-4024-b5db-7eeba5795bee",
+  "index": 520,
+  "period": 1,
+  "timestamp": "00:11:12.068",
+  "minute": 11,
+  "second": 12,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 25,
+  "possession_team": {
+    "id": 749,
+    "name": "Tottenham Hotspur Women"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 749,
+    "name": "Tottenham Hotspur Women"
+  },
+  "player": {
+    "id": 15706,
+    "name": "Rachel Furness"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    113.4,
+    31.5
+  ],
+  "duration": 0.038016,
+  "related_events": [
+    "3edc24a2-8671-4861-a638-0535ba22fb46",
+    "60cb3e1b-2c95-4e86-8acb-80b12d5e3214"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.08285856,
+    "end_location": [
+      114.3,
+      32.5
+    ],
+    "key_pass_id": "0a579a62-6dcf-4c8a-a552-46cfff3c8d81",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          116.0,
+          41.9
+        ],
+        "player": {
+          "id": 31702,
+          "name": "Rianna Dean"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.4,
+          38.7
+        ],
+        "player": {
+          "id": 31551,
+          "name": "Kit Graham"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.1,
+          29.7
+        ],
+        "player": {
+          "id": 15572,
+          "name": "Siri Worm"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.5,
+          32.7
+        ],
+        "player": {
+          "id": 10171,
+          "name": "Frankie Brown"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.2,
+          36.5
+        ],
+        "player": {
+          "id": 16376,
+          "name": "Sophie Baggaley"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.6,
+          38.6
+        ],
+        "player": {
+          "id": 15618,
+          "name": "Jasmine Matthews"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.6,
+          40.7
+        ],
+        "player": {
+          "id": 24925,
+          "name": "Olivia Chance"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.8,
+          36.4
+        ],
+        "player": {
+          "id": 19502,
+          "name": "Meaghan Sargeant"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.9,
+          33.7
+        ],
+        "player": {
+          "id": 16391,
+          "name": "Loren Dykes"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.1,
+          33.8
+        ],
+        "player": {
+          "id": 15563,
+          "name": "Charlie Wellings"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

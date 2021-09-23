@@ -1,0 +1,206 @@
+{
+  "id": "2615ee15-14b2-4abc-864d-82df880f0a29",
+  "index": 546,
+  "period": 1,
+  "timestamp": "00:10:06.146",
+  "minute": 10,
+  "second": 6,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 20,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5246,
+    "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    106.1,
+    46.6
+  ],
+  "duration": 0.9368,
+  "under_pressure": true,
+  "related_events": [
+    "336afab4-5c40-4ca5-958b-5f895e269c22",
+    "ff3e0ea5-6216-4522-bb6c-0bfb98e6017d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.44577396,
+    "end_location": [
+      120.0,
+      36.5,
+      0.3
+    ],
+    "key_pass_id": "6aa6f053-e213-4938-b1c4-8499a37b00b9",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          114.1,
+          43.4
+        ],
+        "player": {
+          "id": 5597,
+          "name": "Keylor Navas Gamboa"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.6,
+          45.2
+        ],
+        "player": {
+          "id": 5201,
+          "name": "Sergio Ramos Garc\u00eda"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.5,
+          57.4
+        ],
+        "player": {
+          "id": 5552,
+          "name": "Marcelo Vieira da Silva J\u00fanior"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.2,
+          46.6
+        ],
+        "player": {
+          "id": 5463,
+          "name": "Luka Modri\u0107"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.3,
+          40.2
+        ],
+        "player": {
+          "id": 5485,
+          "name": "Rapha\u00ebl Varane"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.4,
+          29.5
+        ],
+        "player": {
+          "id": 3063,
+          "name": "Danilo Luiz da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.2,
+          34.8
+        ],
+        "player": {
+          "id": 5695,
+          "name": "James David Rodr\u00edguez Rubio"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.1,
+          33.1
+        ],
+        "player": {
+          "id": 6379,
+          "name": "Sergi Roberto Carnicer"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.9,
+          22.0
+        ],
+        "player": {
+          "id": 4320,
+          "name": "Neymar da Silva Santos Junior"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

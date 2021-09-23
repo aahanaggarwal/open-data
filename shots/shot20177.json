@@ -1,0 +1,235 @@
+{
+  "id": "06b70cfa-9bd4-4e1f-967b-4a77eeed33e0",
+  "index": 162,
+  "period": 1,
+  "timestamp": "00:02:05.194",
+  "minute": 2,
+  "second": 5,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 5,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 20131,
+    "name": "Xavier Hern\u00e1ndez Creus"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    87.5,
+    52.8
+  ],
+  "duration": 0.229356,
+  "related_events": [
+    "095c45d6-7bdd-4286-bad3-2d7dc1291e90",
+    "547a7b2a-930c-4e94-99f0-412017934910"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.015081883,
+    "end_location": [
+      118.2,
+      37.4,
+      0.2
+    ],
+    "key_pass_id": "fdb3060d-c474-4802-bbb7-a27b8cebe3b2",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "deflected": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          95.4,
+          48.8
+        ],
+        "player": {
+          "id": 26107,
+          "name": "Alberto Lopo Garc\u00eda"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.4,
+          38.5
+        ],
+        "player": {
+          "id": 3672,
+          "name": "Zlatan Ibrahimovi\u0107"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.1,
+          26.5
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          89.5,
+          59.6
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.2,
+          39.6
+        ],
+        "player": {
+          "id": 26029,
+          "name": "Daniel Aranzubia Aguado"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.9,
+          31.6
+        ],
+        "player": {
+          "id": 26209,
+          "name": "Manuel Pablo Garc\u00eda D\u00edaz"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.5,
+          39.2
+        ],
+        "player": {
+          "id": 26623,
+          "name": "Diego Daniel Colotto"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.1,
+          57.0
+        ],
+        "player": {
+          "id": 6320,
+          "name": "Filipe Luis Kasmirski"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.5,
+          38.1
+        ],
+        "player": {
+          "id": 26206,
+          "name": "Sergio Gonz\u00e1lez Soriano"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.8,
+          49.5
+        ],
+        "player": {
+          "id": 26064,
+          "name": "Antonio Tom\u00e1s Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          82.4,
+          45.9
+        ],
+        "player": {
+          "id": 25881,
+          "name": "Juan Antonio Rodr\u00edguez Villamuela"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

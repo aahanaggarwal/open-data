@@ -1,0 +1,145 @@
+{
+  "id": "3cc2eccd-6f3a-4fba-a939-9b92da73d47f",
+  "index": 2184,
+  "period": 2,
+  "timestamp": "00:30:48.966",
+  "minute": 75,
+  "second": 48,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 160,
+  "possession_team": {
+    "id": 974,
+    "name": "Reading WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 974,
+    "name": "Reading WFC"
+  },
+  "player": {
+    "id": 15723,
+    "name": "Brooke Chaplen"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    105.8,
+    29.1
+  ],
+  "duration": 1.349173,
+  "under_pressure": true,
+  "related_events": [
+    "8fdb43ea-ae77-45ab-8a33-e1df1c3be8a7",
+    "c5758a61-75c1-4a23-b26e-1c471cbe6ce3"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.09402302,
+    "end_location": [
+      120.0,
+      43.6,
+      0.1
+    ],
+    "key_pass_id": "ab027410-d2cd-432c-aff1-6df6ac0234ea",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          92.0,
+          46.8
+        ],
+        "player": {
+          "id": 26570,
+          "name": "Amalie Vevle Eikeland"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          116.4,
+          36.2
+        ],
+        "player": {
+          "id": 22027,
+          "name": "Anne Moorhouse"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.2,
+          30.4
+        ],
+        "player": {
+          "id": 18159,
+          "name": "Brooke Hendrix"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.6,
+          47.2
+        ],
+        "player": {
+          "id": 31556,
+          "name": "Laura Vetterlein"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          28.7
+        ],
+        "player": {
+          "id": 18151,
+          "name": "Gilly Louise Scarlett Flaherty"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

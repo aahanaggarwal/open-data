@@ -1,0 +1,220 @@
+{
+  "id": "005bb11c-a1b8-4ebe-be5d-9f1151fa809c",
+  "index": 165,
+  "period": 1,
+  "timestamp": "00:04:57.803",
+  "minute": 4,
+  "second": 57,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 10,
+  "possession_team": {
+    "id": 793,
+    "name": "Iceland"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 793,
+    "name": "Iceland"
+  },
+  "player": {
+    "id": 3944,
+    "name": "Gylfi \u00de\u00f3r Sigur\u00f0sson"
+  },
+  "position": {
+    "id": 11,
+    "name": "Left Defensive Midfield"
+  },
+  "location": [
+    99.0,
+    39.0
+  ],
+  "duration": 0.84,
+  "under_pressure": true,
+  "related_events": [
+    "98ee6283-6541-4e8e-97fd-cd5f5f51f79f",
+    "dff23c2d-50d7-4efb-8fed-2670ebf7449a"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.0927936,
+    "end_location": [
+      118.0,
+      42.8,
+      1.0
+    ],
+    "key_pass_id": "ac89014f-9a68-40b2-81d7-96430028b02e",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.0,
+          42.0
+        ],
+        "player": {
+          "id": 5454,
+          "name": "Francis Odinaka Uzoho"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          26.0
+        ],
+        "player": {
+          "id": 5509,
+          "name": "Birkir Bjarnason"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.0,
+          36.0
+        ],
+        "player": {
+          "id": 3963,
+          "name": "Victor Moses"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          56.0
+        ],
+        "player": {
+          "id": 5829,
+          "name": "J\u00f3n Da\u00f0i B\u00f6\u00f0varsson"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.0,
+          52.0
+        ],
+        "player": {
+          "id": 5514,
+          "name": "Alfre\u00f0 Finnbogason"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.0,
+          42.0
+        ],
+        "player": {
+          "id": 5455,
+          "name": "William Troost-Ekong"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.0,
+          45.0
+        ],
+        "player": {
+          "id": 5467,
+          "name": "Leon-Aderemi Balogun"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          52.0
+        ],
+        "player": {
+          "id": 5830,
+          "name": "Kenneth Josiah Omeruo"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.0,
+          41.0
+        ],
+        "player": {
+          "id": 5475,
+          "name": "John Michael Nchekwube Obinna"
+        },
+        "position": {
+          "id": 14,
+          "name": "Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          59.0
+        ],
+        "player": {
+          "id": 5462,
+          "name": "Brian Oladapo Idowu"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

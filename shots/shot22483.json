@@ -1,0 +1,114 @@
+{
+  "id": "e36be019-b95a-4724-9043-8b55d536a804",
+  "index": 1930,
+  "period": 1,
+  "timestamp": "00:43:38.764",
+  "minute": 43,
+  "second": 38,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 83,
+  "possession_team": {
+    "id": 322,
+    "name": "Eibar"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 322,
+    "name": "Eibar"
+  },
+  "player": {
+    "id": 24070,
+    "name": "Sa\u00fal Berj\u00f3n P\u00e9rez"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    108.3,
+    49.7
+  ],
+  "duration": 0.3128,
+  "related_events": [
+    "4f3269cd-bb56-45d7-aa80-afb73a0c9933"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.24918717,
+    "end_location": [
+      112.1,
+      46.4,
+      0.6
+    ],
+    "key_pass_id": "20654970-131b-4be6-ac9b-3e0c4d5fff81",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.9,
+          45.9
+        ],
+        "player": {
+          "id": 4691,
+          "name": "Claudio Andr\u00e9s Bravo Mu\u00f1oz"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.9,
+          44.6
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.5,
+          42.0
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

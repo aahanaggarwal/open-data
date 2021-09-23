@@ -1,0 +1,176 @@
+{
+  "id": "5a59f099-c161-47cb-9010-b7400eeee191",
+  "index": 421,
+  "period": 1,
+  "timestamp": "00:10:19.651",
+  "minute": 10,
+  "second": 19,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 32,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19298,
+    "name": "Samuel Eto\"o Fils"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    104.9,
+    35.9
+  ],
+  "duration": 0.9375,
+  "under_pressure": true,
+  "related_events": [
+    "a7615665-3b81-463b-90b0-9ab6e81a4ef1",
+    "c625530c-bb93-4237-9b71-603e3be567bd"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.14317988,
+    "end_location": [
+      120.0,
+      38.5,
+      5.6
+    ],
+    "key_pass_id": "d5faa885-0e97-4a47-a110-847a8cebc144",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          103.9,
+          47.6
+        ],
+        "player": {
+          "id": 25863,
+          "name": "Juliano Haus Belletti"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.6,
+          23.7
+        ],
+        "player": {
+          "id": 25879,
+          "name": "Ronaldo de Assis Moreira"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          116.8,
+          38.0
+        ],
+        "player": {
+          "id": 25891,
+          "name": "Juan Luis Mora Palacios"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.2,
+          27.7
+        ],
+        "player": {
+          "id": 20321,
+          "name": "Fabio Celestini"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.2,
+          46.4
+        ],
+        "player": {
+          "id": 25894,
+          "name": "I\u00f1aki Descarga Retegi"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          30.2
+        ],
+        "player": {
+          "id": 25888,
+          "name": "Jose Antonio Culebras Arenas"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.2,
+          36.7
+        ],
+        "player": {
+          "id": 25887,
+          "name": "Jos\u00e9 Alejandro Su\u00e1rez Mart\u00edn"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

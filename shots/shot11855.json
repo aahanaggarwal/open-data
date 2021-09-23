@@ -1,0 +1,191 @@
+{
+  "id": "5a6a6b03-4722-4491-aa60-6dd883898d03",
+  "index": 1119,
+  "period": 1,
+  "timestamp": "00:25:44.580",
+  "minute": 25,
+  "second": 44,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 44,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3958,
+    "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    105.4,
+    26.8
+  ],
+  "duration": 0.9739,
+  "under_pressure": true,
+  "related_events": [
+    "79dd9c13-d476-450f-bac1-fc5eb6685535",
+    "ce03773c-8ec1-4504-a5af-4bf978a203bc"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.22732005,
+    "end_location": [
+      119.9,
+      43.4,
+      0.8
+    ],
+    "key_pass_id": "73dc1a11-d7c8-457a-ad30-9155a2df758e",
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          91.0,
+          60.1
+        ],
+        "player": {
+          "id": 23943,
+          "name": "Rub\u00e9n Garc\u00eda Santos"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.2,
+          53.2
+        ],
+        "player": {
+          "id": 26023,
+          "name": "Juan Francisco Garc\u00eda Garc\u00eda"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.5,
+          45.9
+        ],
+        "player": {
+          "id": 26012,
+          "name": "David Navarro Pedr\u00f3s"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          32.5
+        ],
+        "player": {
+          "id": 24860,
+          "name": "H\u00e9ctor Rodas Ram\u00edrez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          26.7
+        ],
+        "player": {
+          "id": 6787,
+          "name": "Pedro L\u00f3pez Mu\u00f1oz"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.8,
+          34.5
+        ],
+        "player": {
+          "id": 5597,
+          "name": "Keylor Navas Gamboa"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          84.1,
+          52.4
+        ],
+        "player": {
+          "id": 3478,
+          "name": "Francesc F\u00e0bregas i Soler"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.9,
+          45.7
+        ],
+        "player": {
+          "id": 3385,
+          "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

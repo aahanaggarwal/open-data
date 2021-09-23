@@ -1,0 +1,188 @@
+{
+  "id": "0b44b342-8382-4437-ac57-b4c980701183",
+  "index": 3280,
+  "period": 2,
+  "timestamp": "00:34:30.958",
+  "minute": 79,
+  "second": 30,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 174,
+  "possession_team": {
+    "id": 220,
+    "name": "Real Madrid"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 220,
+    "name": "Real Madrid"
+  },
+  "player": {
+    "id": 19729,
+    "name": "Ruud van Nistelrooy"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    107.7,
+    48.6
+  ],
+  "duration": 0.0804,
+  "related_events": [
+    "6f34af9c-3b3b-4f78-b34e-d1876aa77a55",
+    "736e5744-bc97-45cd-bbb8-25185a69ac5b"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.13818385,
+    "end_location": [
+      108.7,
+      47.7
+    ],
+    "key_pass_id": "f80397bd-04e4-422c-ab16-7deb71f15570",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          109.2,
+          47.3
+        ],
+        "player": {
+          "id": 25854,
+          "name": "Sylvio Mendes Campos Junior"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          43.3
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          45.4
+        ],
+        "player": {
+          "id": 15071,
+          "name": "Lilian Thuram"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.1,
+          42.4
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.8,
+          40.0
+        ],
+        "player": {
+          "id": 25930,
+          "name": "R\u00f3bson de Souza"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.0,
+          22.4
+        ],
+        "player": {
+          "id": 5497,
+          "name": "Gonzalo Gerardo Higua\u00edn"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          98.5,
+          44.1
+        ],
+        "player": {
+          "id": 5216,
+          "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.7,
+          38.7
+        ],
+        "player": {
+          "id": 25863,
+          "name": "Juliano Haus Belletti"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

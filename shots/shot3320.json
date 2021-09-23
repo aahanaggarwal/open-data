@@ -1,0 +1,142 @@
+{
+  "id": "fc5ff804-21b1-47e8-9e0e-052120d53ab7",
+  "index": 1862,
+  "period": 2,
+  "timestamp": "00:09:01.055",
+  "minute": 54,
+  "second": 1,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 119,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 214,
+    "name": "Espanyol"
+  },
+  "player": {
+    "id": 26105,
+    "name": "Iv\u00e1n De la Pe\u00f1a L\u00f3pez"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    100.6,
+    30.0
+  ],
+  "duration": 1.5233,
+  "related_events": [
+    "e4a955f5-e6c4-4990-aaa4-1627c88c0cfa"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.24872321,
+    "end_location": [
+      120.0,
+      43.5,
+      1.7
+    ],
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          101.0,
+          28.9
+        ],
+        "player": {
+          "id": 5558,
+          "name": "Rafael M\u00e1rquez \u00c1lvarez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          39.5
+        ],
+        "player": {
+          "id": 26243,
+          "name": "Iv\u00e1n Daniel Alonso Vallejo"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.0,
+          55.6
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.6,
+          37.3
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.2,
+          55.3
+        ],
+        "player": {
+          "id": 23916,
+          "name": "Luis Garc\u00eda Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

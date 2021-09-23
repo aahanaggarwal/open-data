@@ -1,0 +1,174 @@
+{
+  "id": "5048c4a8-5bb6-4b18-b9d6-406f09580cef",
+  "index": 933,
+  "period": 1,
+  "timestamp": "00:21:34.178",
+  "minute": 21,
+  "second": 34,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 48,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    118.1,
+    34.6
+  ],
+  "duration": 0.426,
+  "related_events": [
+    "b3404b31-dfda-4b54-bb05-3e84832aa1b7"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.2303248,
+    "end_location": [
+      119.9,
+      37.9,
+      3.6
+    ],
+    "key_pass_id": "6bf7e597-3e0d-4481-979c-bfb6c9edb3a3",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          109.0,
+          50.2
+        ],
+        "player": {
+          "id": 26489,
+          "name": "Aldo Pedro Duscher"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.7,
+          38.8
+        ],
+        "player": {
+          "id": 26067,
+          "name": "Oriol Lozano Farr\u00e1n"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.2,
+          48.5
+        ],
+        "player": {
+          "id": 26044,
+          "name": "C\u00e9sar Gonz\u00e1lez Navas"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.4,
+          38.0
+        ],
+        "player": {
+          "id": 26488,
+          "name": "Fabio Coltorti"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          35.1
+        ],
+        "player": {
+          "id": 6904,
+          "name": "Sergio S\u00e1nchez Ortega"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.3,
+          36.9
+        ],
+        "player": {
+          "id": 4913,
+          "name": "Bojan Krk\u00edc P\u00e9rez"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.9,
+          43.7
+        ],
+        "player": {
+          "id": 19757,
+          "name": "Anderson Lu\u00eds de Souza"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

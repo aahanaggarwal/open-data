@@ -1,0 +1,174 @@
+{
+  "id": "985e4dd1-266c-46be-af4d-3a7d899c98c7",
+  "index": 367,
+  "period": 1,
+  "timestamp": "00:12:25.158",
+  "minute": 12,
+  "second": 25,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 31,
+  "possession_team": {
+    "id": 223,
+    "name": "M\u00e1laga"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 223,
+    "name": "M\u00e1laga"
+  },
+  "player": {
+    "id": 6735,
+    "name": "Adri\u00e1n L\u00f3pez \u00c1lvarez"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    108.4,
+    37.0
+  ],
+  "duration": 0.3252,
+  "related_events": [
+    "5eb4ba9e-921d-4bab-bc1c-949eb476c1c6"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.2757561,
+    "end_location": [
+      110.8,
+      37.8,
+      0.8
+    ],
+    "key_pass_id": "1b218a73-2f21-4c44-bf4f-46e4d950e386",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.0,
+          43.8
+        ],
+        "player": {
+          "id": 25859,
+          "name": "S\u00e9rgio Paulo Barbosa Valente"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.6,
+          20.7
+        ],
+        "player": {
+          "id": 10798,
+          "name": "Eliseu Pereira dos Santos"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.1,
+          37.9
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.6,
+          35.6
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.2,
+          22.8
+        ],
+        "player": {
+          "id": 3087,
+          "name": "Gn\u00e9gn\u00e9ri Yaya Tour\u00e9"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.8,
+          18.0
+        ],
+        "player": {
+          "id": 5558,
+          "name": "Rafael M\u00e1rquez \u00c1lvarez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.1,
+          41.2
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

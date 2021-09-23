@@ -1,0 +1,144 @@
+{
+  "id": "0f75fb70-d4b1-49e1-8f8e-bfda79455a40",
+  "index": 2257,
+  "period": 2,
+  "timestamp": "00:20:00.531",
+  "minute": 65,
+  "second": 0,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 187,
+  "possession_team": {
+    "id": 966,
+    "name": "Liverpool WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 966,
+    "name": "Liverpool WFC"
+  },
+  "player": {
+    "id": 15613,
+    "name": "Rinsola Babajide"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    102.1,
+    46.8
+  ],
+  "duration": 1.1076,
+  "related_events": [
+    "17952a97-28ab-46c5-9dbe-a029343d83f5"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.42663264,
+    "end_location": [
+      120.0,
+      36.4,
+      0.6
+    ],
+    "key_pass_id": "a562e3e9-e966-48ec-b458-e9aa6cafb3d3",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.6,
+          42.7
+        ],
+        "player": {
+          "id": 16376,
+          "name": "Sophie Baggaley"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.9,
+          33.9
+        ],
+        "player": {
+          "id": 16391,
+          "name": "Loren Dykes"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.4,
+          33.1
+        ],
+        "player": {
+          "id": 15631,
+          "name": "Niamh Charles"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.4,
+          58.9
+        ],
+        "player": {
+          "id": 16381,
+          "name": "Gemma Evans"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.8,
+          47.8
+        ],
+        "player": {
+          "id": 16383,
+          "name": "Danique Kerkdijk"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

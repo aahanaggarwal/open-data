@@ -1,0 +1,190 @@
+{
+  "id": "aca08a61-fe73-4e34-b226-435e669fd5a2",
+  "index": 1774,
+  "period": 2,
+  "timestamp": "00:07:30.674",
+  "minute": 52,
+  "second": 30,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 117,
+  "possession_team": {
+    "id": 974,
+    "name": "Reading WFC"
+  },
+  "play_pattern": {
+    "id": 8,
+    "name": "From Keeper"
+  },
+  "team": {
+    "id": 974,
+    "name": "Reading WFC"
+  },
+  "player": {
+    "id": 15723,
+    "name": "Brooke Chaplen"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    105.1,
+    52.4
+  ],
+  "duration": 0.075745,
+  "under_pressure": true,
+  "related_events": [
+    "cd3576fb-f13b-4d15-8e9b-247c8ddd050c",
+    "d0687d2b-4199-479d-913c-0bd44dcacec3",
+    "e3c36d82-8fcb-4fb3-8838-cae18a09e619"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.06698899,
+    "end_location": [
+      105.5,
+      52.0
+    ],
+    "key_pass_id": "1a3b13d8-aad4-4358-a160-cb6a18c4c7ae",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          105.3,
+          51.7
+        ],
+        "player": {
+          "id": 34232,
+          "name": "Grace Fisk"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.5,
+          49.7
+        ],
+        "player": {
+          "id": 18151,
+          "name": "Gilly Louise Scarlett Flaherty"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.2,
+          44.2
+        ],
+        "player": {
+          "id": 22027,
+          "name": "Anne Moorhouse"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.5,
+          47.0
+        ],
+        "player": {
+          "id": 23217,
+          "name": "Tessel Middag"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.4,
+          59.1
+        ],
+        "player": {
+          "id": 31556,
+          "name": "Laura Vetterlein"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.3,
+          39.3
+        ],
+        "player": {
+          "id": 31553,
+          "name": "Cecilie Redisch Kvamme"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.5,
+          54.9
+        ],
+        "player": {
+          "id": 26570,
+          "name": "Amalie Vevle Eikeland"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.9,
+          48.9
+        ],
+        "player": {
+          "id": 10190,
+          "name": "Jade Moore"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

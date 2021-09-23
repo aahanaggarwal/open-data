@@ -1,0 +1,341 @@
+{
+  "id": "a346e60f-7004-421e-9dfd-5f65e901b118",
+  "index": 917,
+  "period": 1,
+  "timestamp": "00:25:17.913",
+  "minute": 25,
+  "second": 17,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 58,
+  "possession_team": {
+    "id": 966,
+    "name": "Liverpool WFC"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 966,
+    "name": "Liverpool WFC"
+  },
+  "player": {
+    "id": 15622,
+    "name": "Leandra Little"
+  },
+  "position": {
+    "id": 5,
+    "name": "Left Center Back"
+  },
+  "location": [
+    111.0,
+    35.0
+  ],
+  "duration": 0.7576,
+  "under_pressure": true,
+  "related_events": [
+    "760f895e-701b-4a98-958f-a22b89dc3188",
+    "eb4618f6-3263-44be-bd2d-403392ad6ff8"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.0576753,
+    "end_location": [
+      119.0,
+      40.7,
+      3.6
+    ],
+    "key_pass_id": "e4e065da-d6af-4b6c-b010-1421a54c8d4c",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "aerial_won": true,
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          90.0,
+          53.0
+        ],
+        "player": {
+          "id": 19416,
+          "name": "Laura Coombs"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.0,
+          42.0
+        ],
+        "player": {
+          "id": 15611,
+          "name": "Courtney Sweetman-Kirk"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.0,
+          48.0
+        ],
+        "player": {
+          "id": 19418,
+          "name": "Kirsty Linnett"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          92.0,
+          32.0
+        ],
+        "player": {
+          "id": 15628,
+          "name": "Christie Murray"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.0,
+          25.0
+        ],
+        "player": {
+          "id": 10093,
+          "name": "Yana Daniels"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.0,
+          31.0
+        ],
+        "player": {
+          "id": 19777,
+          "name": "Niamh Fahey"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.0,
+          30.0
+        ],
+        "player": {
+          "id": 15614,
+          "name": "Sophie Elizabeth Bradley-Auckland"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.0,
+          38.0
+        ],
+        "player": {
+          "id": 22027,
+          "name": "Anne Moorhouse"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          48.0
+        ],
+        "player": {
+          "id": 22798,
+          "name": "So-Hyun Cho"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          49.0
+        ],
+        "player": {
+          "id": 8297,
+          "name": "Adriana Leon"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          53.0
+        ],
+        "player": {
+          "id": 18153,
+          "name": "Alisha Lehmann"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          48.0
+        ],
+        "player": {
+          "id": 18147,
+          "name": "Kate Longhurst"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          42.0
+        ],
+        "player": {
+          "id": 4653,
+          "name": "Jane Ross"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          45.0
+        ],
+        "player": {
+          "id": 18155,
+          "name": "Erin Simon"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          36.0
+        ],
+        "player": {
+          "id": 18145,
+          "name": "Ria Percival"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          26.0
+        ],
+        "player": {
+          "id": 18148,
+          "name": "Lucienne Reichardt"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          29.0
+        ],
+        "player": {
+          "id": 18157,
+          "name": "Brianna Visalli"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          31.0
+        ],
+        "player": {
+          "id": 18151,
+          "name": "Gilly Louise Scarlett Flaherty"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

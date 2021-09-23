@@ -1,0 +1,174 @@
+{
+  "id": "99c9b86e-bec7-429e-bc0f-8537bc8ec5b4",
+  "index": 2620,
+  "period": 2,
+  "timestamp": "00:06:00.125",
+  "minute": 51,
+  "second": 0,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 118,
+  "possession_team": {
+    "id": 210,
+    "name": "Real Sociedad"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 210,
+    "name": "Real Sociedad"
+  },
+  "player": {
+    "id": 5487,
+    "name": "Antoine Griezmann"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    101.4,
+    40.6
+  ],
+  "duration": 0.3173,
+  "related_events": [
+    "29d3ef18-0ec7-45b6-9656-d43208a0aa1f"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.3129867,
+    "end_location": [
+      108.8,
+      40.7,
+      0.5
+    ],
+    "key_pass_id": "ff4bce03-5c8d-43f7-9087-7a066f253ccf",
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          87.1,
+          52.7
+        ],
+        "player": {
+          "id": 22102,
+          "name": "Adriano Correia Claro"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          76.3,
+          32.5
+        ],
+        "player": {
+          "id": 6357,
+          "name": "Jonathan dos Santos Ram\u00edrez"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          81.3,
+          29.7
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.2,
+          25.1
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.7,
+          21.0
+        ],
+        "player": {
+          "id": 26700,
+          "name": "Diego Ifr\u00e1n Sala"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.6,
+          39.9
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.9,
+          41.8
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

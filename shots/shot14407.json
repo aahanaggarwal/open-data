@@ -1,0 +1,158 @@
+{
+  "id": "ecd079a9-53d6-49df-be0e-c216532853f7",
+  "index": 974,
+  "period": 1,
+  "timestamp": "00:24:12.929",
+  "minute": 24,
+  "second": 12,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 45,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 2,
+    "name": "From Corner"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    118.2,
+    33.2
+  ],
+  "duration": 0.67783,
+  "related_events": [
+    "3aea3b52-89a0-4836-a877-6e9a1466ad2f"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.06948236,
+    "end_location": [
+      120.0,
+      35.3,
+      0.9
+    ],
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 94,
+      "name": "Overhead Kick"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.2,
+          37.3
+        ],
+        "player": {
+          "id": 26245,
+          "name": "Sergio S\u00e1nchez S\u00e1nchez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.8,
+          35.5
+        ],
+        "player": {
+          "id": 26250,
+          "name": "Gerard Autet Serrabasa"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.6,
+          35.0
+        ],
+        "player": {
+          "id": 25706,
+          "name": "Ra\u00fal Miguel C\u00e1mara"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.5,
+          41.7
+        ],
+        "player": {
+          "id": 26229,
+          "name": "Carmelo Jos\u00e9 Gonz\u00e1lez Jim\u00e9nez"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.8,
+          41.7
+        ],
+        "player": {
+          "id": 26255,
+          "name": "Sergio Matabuena Delgado"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.2,
+          39.2
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

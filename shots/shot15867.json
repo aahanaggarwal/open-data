@@ -1,0 +1,144 @@
+{
+  "id": "c5ac15fa-c330-4e5d-85ba-76e3e6310d65",
+  "index": 181,
+  "period": 1,
+  "timestamp": "00:03:36.283",
+  "minute": 3,
+  "second": 36,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 11,
+  "possession_team": {
+    "id": 37,
+    "name": "Newcastle United"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 37,
+    "name": "Newcastle United"
+  },
+  "player": {
+    "id": 40226,
+    "name": "Craig Bellamy"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    105.3,
+    54.4
+  ],
+  "duration": 0.55334,
+  "related_events": [
+    "560a9527-4d3f-4d59-817b-1516b22c4a40"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.13610308,
+    "end_location": [
+      114.7,
+      45.0,
+      0.2
+    ],
+    "key_pass_id": "2cf06206-a169-44ec-b32f-1fb25bee7652",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          99.3,
+          56.2
+        ],
+        "player": {
+          "id": 40231,
+          "name": "Alan Shearer"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.5,
+          44.7
+        ],
+        "player": {
+          "id": 20015,
+          "name": "Jens Lehmann"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.2,
+          46.1
+        ],
+        "player": {
+          "id": 38412,
+          "name": "Kolo Habib Tour\u00e9"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.1,
+          51.1
+        ],
+        "player": {
+          "id": 15637,
+          "name": "Sulzeer Jeremiah \"Sol\" Campbell"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.6,
+          55.3
+        ],
+        "player": {
+          "id": 12529,
+          "name": "Ashley Cole"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

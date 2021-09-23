@@ -1,0 +1,116 @@
+{
+  "id": "3a22f5d3-21ed-47ab-b617-7799a025e15a",
+  "index": 1114,
+  "period": 1,
+  "timestamp": "00:26:47.304",
+  "minute": 26,
+  "second": 47,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 60,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    109.0,
+    45.5
+  ],
+  "duration": 0.903499,
+  "under_pressure": true,
+  "related_events": [
+    "5c7001d6-cf4a-461b-80ea-d282424a2341",
+    "e882a71c-76c9-4e27-afcc-f61457747f36"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.4597988,
+    "end_location": [
+      120.0,
+      42.4,
+      0.3
+    ],
+    "key_pass_id": "1d004732-7584-47dd-9b4d-a5f0c8cdc4a8",
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          90.0,
+          54.1
+        ],
+        "player": {
+          "id": 40368,
+          "name": "Ian Harte"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.9,
+          45.8
+        ],
+        "player": {
+          "id": 40371,
+          "name": "Michael Duberry"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          44.1
+        ],
+        "player": {
+          "id": 40132,
+          "name": "Paul Robinson"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

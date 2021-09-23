@@ -1,0 +1,190 @@
+{
+  "id": "b5ba8e10-801c-409b-921d-25a6d33a3f5a",
+  "index": 1992,
+  "period": 2,
+  "timestamp": "00:03:43.884",
+  "minute": 48,
+  "second": 43,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 107,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 6379,
+    "name": "Sergi Roberto Carnicer"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    104.0,
+    41.7
+  ],
+  "duration": 0.4153,
+  "under_pressure": true,
+  "related_events": [
+    "22b6145f-0cda-4c03-9757-9c3850a5256f",
+    "fd6344cc-cf06-48b2-90da-5577cfbac81c"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.36377424,
+    "end_location": [
+      109.0,
+      40.1,
+      0.2
+    ],
+    "key_pass_id": "122adeab-133c-4052-86f0-0c4d690ee661",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          109.4,
+          40.6
+        ],
+        "player": {
+          "id": 6884,
+          "name": "Sergio \u00c1lvarez Conde"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.2,
+          53.9
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.5,
+          52.8
+        ],
+        "player": {
+          "id": 6794,
+          "name": "Gustavo Daniel Cabral C\u00e1ceres"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.3,
+          21.8
+        ],
+        "player": {
+          "id": 4320,
+          "name": "Neymar da Silva Santos Junior"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          92.4,
+          33.2
+        ],
+        "player": {
+          "id": 6796,
+          "name": "Nemanja Radoja"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.4,
+          44.5
+        ],
+        "player": {
+          "id": 6830,
+          "name": "Facundo Sebasti\u00e1n Roncaglia"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.8,
+          45.9
+        ],
+        "player": {
+          "id": 6804,
+          "name": "Sergi G\u00f3mez Sol\u00e0"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.1,
+          41.0
+        ],
+        "player": {
+          "id": 6805,
+          "name": "Hugo Mallo Novegil"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

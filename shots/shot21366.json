@@ -1,0 +1,143 @@
+{
+  "id": "e83148c3-9780-4f5f-b95b-5403392f2439",
+  "index": 2434,
+  "period": 2,
+  "timestamp": "00:25:43.086",
+  "minute": 70,
+  "second": 43,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 154,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 11270,
+    "name": "Ei\u00f0ur Sm\u00e1ri Gu\u00f0johnsen"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    104.1,
+    35.0
+  ],
+  "duration": 1.734938,
+  "related_events": [
+    "419545f3-4893-428e-8796-5c2f44a33acb"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.20250149,
+    "end_location": [
+      120.0,
+      41.0,
+      0.5
+    ],
+    "key_pass_id": "c1c2d26d-e7b3-4334-960f-2c6846c8868c",
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          106.4,
+          35.7
+        ],
+        "player": {
+          "id": 6755,
+          "name": "Sergio Asenjo Andr\u00e9s"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.3,
+          46.5
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.3,
+          30.9
+        ],
+        "player": {
+          "id": 26116,
+          "name": "Jos\u00e9 Antonio Garc\u00eda Calvo"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          39.2
+        ],
+        "player": {
+          "id": 26131,
+          "name": "Victoriano Rivas \u00c1lvaro"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.7,
+          33.1
+        ],
+        "player": {
+          "id": 26053,
+          "name": "\u00c1ngel Manuel Vivar Dorado"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

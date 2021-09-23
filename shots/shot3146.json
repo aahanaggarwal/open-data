@@ -1,0 +1,173 @@
+{
+  "id": "b99aa0be-fb91-4be7-9273-262babf2c87a",
+  "index": 2987,
+  "period": 2,
+  "timestamp": "00:43:09.907",
+  "minute": 88,
+  "second": 9,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 188,
+  "possession_team": {
+    "id": 765,
+    "name": "Portland Thorns"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 765,
+    "name": "Portland Thorns"
+  },
+  "player": {
+    "id": 5009,
+    "name": "Margaret Purce"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    103.7,
+    30.5
+  ],
+  "duration": 0.810484,
+  "related_events": [
+    "74a7e810-3ee9-44ba-9251-4faf7043f165"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.07767445,
+    "end_location": [
+      115.0,
+      37.3,
+      0.0
+    ],
+    "key_pass_id": "6c6e9af0-d22c-4e96-850e-1981f775bf09",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.0,
+          37.2
+        ],
+        "player": {
+          "id": 15629,
+          "name": "Satara Murray"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.4,
+          10.8
+        ],
+        "player": {
+          "id": 4995,
+          "name": "Celeste Boureille"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          94.3,
+          39.8
+        ],
+        "player": {
+          "id": 5015,
+          "name": "Kelli Hubly"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.3,
+          32.5
+        ],
+        "player": {
+          "id": 5070,
+          "name": "Christine Nairn"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.7,
+          21.3
+        ],
+        "player": {
+          "id": 5045,
+          "name": "Amber Brooks"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          31.9
+        ],
+        "player": {
+          "id": 31937,
+          "name": "Ally Prisock"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.5,
+          37.3
+        ],
+        "player": {
+          "id": 5056,
+          "name": "Jane Campbell"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "id": "c5d10908-66c2-46a6-92af-531c400a6e7f",
+  "index": 807,
+  "period": 1,
+  "timestamp": "00:27:45.600",
+  "minute": 27,
+  "second": 45,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 54,
+  "possession_team": {
+    "id": 783,
+    "name": "Uruguay"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 783,
+    "name": "Uruguay"
+  },
+  "player": {
+    "id": 5260,
+    "name": "Rodrigo Bentancur Colm\u00e1n"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    111.0,
+    45.0
+  ],
+  "duration": 0.16,
+  "related_events": [
+    "6e009aa1-d253-4f8b-a015-b313140d8045"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.38191983,
+    "end_location": [
+      113.0,
+      40.9,
+      0.5
+    ],
+    "key_pass_id": "b3be23f6-3de3-46c8-84ff-35bb94fb6a6e",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.0,
+          43.0
+        ],
+        "player": {
+          "id": 5174,
+          "name": "Sergei Ignashevich"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          42.0
+        ],
+        "player": {
+          "id": 5171,
+          "name": "Roman Zobnin"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          38.0
+        ],
+        "player": {
+          "id": 5175,
+          "name": "Ilya Kutepov"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.0,
+          51.0
+        ],
+        "player": {
+          "id": 5677,
+          "name": "Fedor Kudryashov"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          37.0
+        ],
+        "player": {
+          "id": 4319,
+          "name": "Edinson Roberto Cavani G\u00f3mez"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.0,
+          40.0
+        ],
+        "player": {
+          "id": 5172,
+          "name": "Igor Akinfeev"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          48.0
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

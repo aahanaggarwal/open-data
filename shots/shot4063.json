@@ -1,0 +1,191 @@
+{
+  "id": "f2ca9ed8-0a52-4384-94f4-bbe211914d7a",
+  "index": 3650,
+  "period": 2,
+  "timestamp": "00:28:28.331",
+  "minute": 73,
+  "second": 28,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 133,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 12737,
+    "name": "David Villa S\u00e1nchez"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    117.5,
+    29.5
+  ],
+  "duration": 0.0909,
+  "under_pressure": true,
+  "related_events": [
+    "229e8573-dbe8-4e26-bc6c-2840b96ea175",
+    "59d9f6da-8398-4f0b-9923-df482186c54a",
+    "c6c3d3d5-b247-4d9c-b7a1-819d3e3ef8e4"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.0653612,
+    "end_location": [
+      117.7,
+      30.1
+    ],
+    "key_pass_id": "e99a17dc-29c2-4e6f-8f21-a9c7fcfa0512",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.6,
+          42.2
+        ],
+        "player": {
+          "id": 6674,
+          "name": "Alberto De La Bella Madure\u00f1o"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.4,
+          36.4
+        ],
+        "player": {
+          "id": 16622,
+          "name": "Mikel Gonz\u00e1lez de Mart\u00edn Mart\u00ednez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.8,
+          43.1
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.3,
+          35.5
+        ],
+        "player": {
+          "id": 4913,
+          "name": "Bojan Krk\u00edc P\u00e9rez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.1,
+          29.3
+        ],
+        "player": {
+          "id": 12191,
+          "name": "Gorka Elustondo Urkola"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.9,
+          30.7
+        ],
+        "player": {
+          "id": 8724,
+          "name": "Carlos Mart\u00ednez D\u00edez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.1,
+          36.2
+        ],
+        "player": {
+          "id": 4691,
+          "name": "Claudio Andr\u00e9s Bravo Mu\u00f1oz"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.4,
+          30.4
+        ],
+        "player": {
+          "id": 26764,
+          "name": "Jon Ansotegi Gorostola"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

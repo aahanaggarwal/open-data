@@ -1,0 +1,188 @@
+{
+  "id": "4c520673-f12a-4b0e-a905-886d74c0d018",
+  "index": 1834,
+  "period": 2,
+  "timestamp": "00:11:46.661",
+  "minute": 56,
+  "second": 46,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 143,
+  "possession_team": {
+    "id": 761,
+    "name": "Chicago Red Stars"
+  },
+  "play_pattern": {
+    "id": 8,
+    "name": "From Keeper"
+  },
+  "team": {
+    "id": 761,
+    "name": "Chicago Red Stars"
+  },
+  "player": {
+    "id": 4961,
+    "name": "Samantha Kerr"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    111.0,
+    29.0
+  ],
+  "duration": 0.806,
+  "related_events": [
+    "6701082b-8602-46fd-b7d0-20c5f273c3fa"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.09259717,
+    "end_location": [
+      118.0,
+      37.2,
+      0.6
+    ],
+    "key_pass_id": "680d1ff1-9287-4017-bf59-643545134aa5",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          120.0,
+          39.0
+        ],
+        "player": {
+          "id": 5025,
+          "name": "Aubrey Bledsoe"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          50.0
+        ],
+        "player": {
+          "id": 4962,
+          "name": "Caprice Dydasco"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          40.0
+        ],
+        "player": {
+          "id": 4951,
+          "name": "Rebecca Quinn"
+        },
+        "position": {
+          "id": 14,
+          "name": "Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          31.0
+        ],
+        "player": {
+          "id": 4950,
+          "name": "Whitney Church"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          35.0
+        ],
+        "player": {
+          "id": 4941,
+          "name": "Taylor Smith"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          44.0
+        ],
+        "player": {
+          "id": 4963,
+          "name": "Yuki Nagasato"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.0,
+          40.0
+        ],
+        "player": {
+          "id": 5103,
+          "name": "Michele Vasconcelos"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.0,
+          39.0
+        ],
+        "player": {
+          "id": 4943,
+          "name": "Estelle Johnson"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

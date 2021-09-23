@@ -1,0 +1,83 @@
+{
+  "id": "d194de45-db7f-46b7-995b-ff0b31921505",
+  "index": 4585,
+  "period": 5,
+  "timestamp": "00:00:49.128",
+  "minute": 120,
+  "second": 49,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 294,
+  "possession_team": {
+    "id": 1205,
+    "name": "Australia Women's"
+  },
+  "play_pattern": {
+    "id": 5,
+    "name": "Other"
+  },
+  "team": {
+    "id": 1205,
+    "name": "Australia Women's"
+  },
+  "player": {
+    "id": 4961,
+    "name": "Samantha Kerr"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    108.1,
+    40.1
+  ],
+  "duration": 0.916819,
+  "related_events": [
+    "9ffd713d-1685-45e3-9f66-f5b812412a88"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.76,
+    "end_location": [
+      120.0,
+      43.2,
+      4.0
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 88,
+      "name": "Penalty"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          120.0,
+          40.1
+        ],
+        "player": {
+          "id": 10394,
+          "name": "Ingrid Hjelmseth"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

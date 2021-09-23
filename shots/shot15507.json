@@ -1,0 +1,203 @@
+{
+  "id": "270cb84e-d582-4395-9be0-351bcbf186c2",
+  "index": 860,
+  "period": 1,
+  "timestamp": "00:18:41.112",
+  "minute": 18,
+  "second": 41,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 38,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3958,
+    "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    100.2,
+    18.9
+  ],
+  "duration": 0.1943,
+  "related_events": [
+    "9f5d9110-b66e-44e7-80a9-84f8cf827b6c",
+    "e75cbd0c-2fc5-4800-86b8-7440d4ed3d97"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.016770197,
+    "end_location": [
+      103.9,
+      22.7
+    ],
+    "key_pass_id": "2a431be6-9fae-47d5-8b77-5e38ddfc2aef",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.4,
+          38.0
+        ],
+        "player": {
+          "id": 6755,
+          "name": "Sergio Asenjo Andr\u00e9s"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          22.8
+        ],
+        "player": {
+          "id": 7034,
+          "name": "Mateo Pablo Musacchio"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          18.7
+        ],
+        "player": {
+          "id": 6772,
+          "name": "Mario Gaspar P\u00e9rez Mart\u00ednez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.6,
+          20.0
+        ],
+        "player": {
+          "id": 6771,
+          "name": "Manuel Trigueros Mu\u00f1oz"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.9,
+          24.1
+        ],
+        "player": {
+          "id": 22819,
+          "name": "Bruno Soriano Llido"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          39.9
+        ],
+        "player": {
+          "id": 6746,
+          "name": "Gabriel Armando de Abreu"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.8,
+          42.8
+        ],
+        "player": {
+          "id": 6622,
+          "name": "Tom\u00e1s Pina Isla"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          80.3,
+          45.7
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          78.8,
+          42.2
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

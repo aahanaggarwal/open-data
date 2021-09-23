@@ -1,0 +1,189 @@
+{
+  "id": "42bfbfb3-80ca-4639-841b-40c3823b026b",
+  "index": 2334,
+  "period": 2,
+  "timestamp": "00:11:03.446",
+  "minute": 56,
+  "second": 3,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 128,
+  "possession_team": {
+    "id": 1230,
+    "name": "Real Murcia"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1230,
+    "name": "Real Murcia"
+  },
+  "player": {
+    "id": 26511,
+    "name": "Enrique de Lucas Mart\u00ednez"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    95.9,
+    41.7
+  ],
+  "duration": 0.6498,
+  "related_events": [
+    "15d4283c-0fce-4a63-9509-e0c25981b115"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.052532785,
+    "end_location": [
+      114.8,
+      37.5,
+      0.3
+    ],
+    "key_pass_id": "8c2dd91b-c25d-4a86-9d71-fd6c108c1b13",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.4,
+          25.7
+        ],
+        "player": {
+          "id": 26243,
+          "name": "Iv\u00e1n Daniel Alonso Vallejo"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          88.8,
+          16.2
+        ],
+        "player": {
+          "id": 26508,
+          "name": "Daniel Aquino Pintos"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          95.2,
+          18.5
+        ],
+        "player": {
+          "id": 25873,
+          "name": "Oleguer Presas Renom"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.9,
+          35.0
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.5,
+          38.8
+        ],
+        "player": {
+          "id": 15071,
+          "name": "Lilian Thuram"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.8,
+          44.5
+        ],
+        "player": {
+          "id": 20177,
+          "name": "Eric-Sylvain Bilal Abidal"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.2,
+          35.6
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.7,
+          39.0
+        ],
+        "player": {
+          "id": 26005,
+          "name": "Jos\u00e9 Manuel Pinto Colorado"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

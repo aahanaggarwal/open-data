@@ -1,0 +1,159 @@
+{
+  "id": "cb039323-a5db-412e-bed7-600cfec3ff2d",
+  "index": 3323,
+  "period": 2,
+  "timestamp": "00:42:49.089",
+  "minute": 87,
+  "second": 49,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 181,
+  "possession_team": {
+    "id": 1217,
+    "name": "Racing Santander"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 1217,
+    "name": "Racing Santander"
+  },
+  "player": {
+    "id": 19577,
+    "name": "Pedro Manuel Munitis \u00c1lvarez"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    108.1,
+    49.4
+  ],
+  "duration": 0.0493,
+  "related_events": [
+    "713d0839-824b-4727-a972-11f5f1ea7252"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.11699014,
+    "end_location": [
+      109.4,
+      48.6,
+      0.2
+    ],
+    "key_pass_id": "55db935b-615e-43a1-a841-0b04bdf9b5f2",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          109.6,
+          48.3
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.5,
+          37.5
+        ],
+        "player": {
+          "id": 5558,
+          "name": "Rafael M\u00e1rquez \u00c1lvarez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.2,
+          24.0
+        ],
+        "player": {
+          "id": 25873,
+          "name": "Oleguer Presas Renom"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.2,
+          20.6
+        ],
+        "player": {
+          "id": 24075,
+          "name": "Christian Fern\u00e1ndez Salas"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.5,
+          47.9
+        ],
+        "player": {
+          "id": 20177,
+          "name": "Eric-Sylvain Bilal Abidal"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.3,
+          45.9
+        ],
+        "player": {
+          "id": 15071,
+          "name": "Lilian Thuram"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

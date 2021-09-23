@@ -1,0 +1,173 @@
+{
+  "id": "cb765e4b-f797-4a4e-be5e-de99647f10c1",
+  "index": 765,
+  "period": 1,
+  "timestamp": "00:15:52.190",
+  "minute": 15,
+  "second": 52,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 33,
+  "possession_team": {
+    "id": 1041,
+    "name": "Sporting Gij\u00f3n"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1041,
+    "name": "Sporting Gij\u00f3n"
+  },
+  "player": {
+    "id": 26248,
+    "name": "David Barral Torres"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    107.2,
+    31.6
+  ],
+  "duration": 0.78028,
+  "related_events": [
+    "12b850f3-fa86-4622-813b-1aca493029de"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.16345744,
+    "end_location": [
+      120.0,
+      43.7,
+      0.2
+    ],
+    "key_pass_id": "2ac2ec15-cbca-4df0-b08f-d1cd884bb4f7",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.9,
+          39.4
+        ],
+        "player": {
+          "id": 23991,
+          "name": "Miguel \u00c1ngel De las Cuevas Barber\u00e1"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.7,
+          37.2
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.8,
+          30.2
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.9,
+          31.7
+        ],
+        "player": {
+          "id": 25919,
+          "name": "Gabriel Alejandro Milito"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.0,
+          42.1
+        ],
+        "player": {
+          "id": 26613,
+          "name": "Maxwell Scherrer Cabelino Andrade"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.8,
+          26.5
+        ],
+        "player": {
+          "id": 4891,
+          "name": "Ibrahim Afellay"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.1,
+          39.1
+        ],
+        "player": {
+          "id": 5216,
+          "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

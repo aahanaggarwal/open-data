@@ -1,0 +1,188 @@
+{
+  "id": "1036a60b-4f54-40fd-ac26-36cd0c9db8ab",
+  "index": 3258,
+  "period": 2,
+  "timestamp": "00:46:03.066",
+  "minute": 91,
+  "second": 3,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 245,
+  "possession_team": {
+    "id": 1207,
+    "name": "China PR Women's"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 1207,
+    "name": "China PR Women's"
+  },
+  "player": {
+    "id": 25489,
+    "name": "Li Yang"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    102.7,
+    30.6
+  ],
+  "duration": 0.184821,
+  "related_events": [
+    "2076458b-9e90-49be-9052-e355d86c0c9a",
+    "379583a3-d5f4-4318-b39c-ecddc28df574"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.074155085,
+    "end_location": [
+      105.7,
+      32.1
+    ],
+    "key_pass_id": "440d7421-bfb5-4eea-a526-f0150bbf1a53",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          116.2,
+          37.5
+        ],
+        "player": {
+          "id": 25746,
+          "name": "Kaylin Swart"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.7,
+          32.5
+        ],
+        "player": {
+          "id": 25747,
+          "name": "Bambanani Nolufefe Mbane"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.8,
+          35.1
+        ],
+        "player": {
+          "id": 25514,
+          "name": "Noko Matlou"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.9,
+          44.3
+        ],
+        "player": {
+          "id": 5054,
+          "name": "Janine van Wyk"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.7,
+          52.7
+        ],
+        "player": {
+          "id": 25509,
+          "name": "Leandra Smeda"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.6,
+          38.1
+        ],
+        "player": {
+          "id": 25485,
+          "name": "Shanshan Wang"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.7,
+          43.7
+        ],
+        "player": {
+          "id": 24461,
+          "name": "Shuang Wang"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.7,
+          57.4
+        ],
+        "player": {
+          "id": 25482,
+          "name": "Jiahui Lou"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

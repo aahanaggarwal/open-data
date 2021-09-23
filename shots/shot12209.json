@@ -1,0 +1,159 @@
+{
+  "id": "594e86ea-ebce-451c-9e88-0682d236c3bf",
+  "index": 1502,
+  "period": 1,
+  "timestamp": "00:41:18.290",
+  "minute": 41,
+  "second": 18,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 97,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    106.1,
+    37.8
+  ],
+  "duration": 0.9153,
+  "related_events": [
+    "04fe31af-02c3-4621-a5f5-351acbe1562d"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.49148288,
+    "end_location": [
+      120.0,
+      37.5,
+      0.4
+    ],
+    "key_pass_id": "c92982a4-e5ac-4634-87cc-797c6f4b9580",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          105.1,
+          39.8
+        ],
+        "player": {
+          "id": 26715,
+          "name": "Maurizio Lanzaro"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.1,
+          54.5
+        ],
+        "player": {
+          "id": 26655,
+          "name": "Jir\u00ed Jaro\u0161\u00edk"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          35.6
+        ],
+        "player": {
+          "id": 3606,
+          "name": "Ander Herrera Ag\u00fcera"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.0,
+          54.3
+        ],
+        "player": {
+          "id": 26654,
+          "name": "Matteo Contini"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.5,
+          38.1
+        ],
+        "player": {
+          "id": 26484,
+          "name": "Antonio Baltasar Doblas Santana"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.2,
+          60.5
+        ],
+        "player": {
+          "id": 12737,
+          "name": "David Villa S\u00e1nchez"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

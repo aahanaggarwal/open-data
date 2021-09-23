@@ -1,0 +1,158 @@
+{
+  "id": "b806f508-6c62-45b1-b9fb-88d5486630a1",
+  "index": 4068,
+  "period": 2,
+  "timestamp": "00:47:39.907",
+  "minute": 92,
+  "second": 39,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 167,
+  "possession_team": {
+    "id": 781,
+    "name": "Brazil"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 781,
+    "name": "Brazil"
+  },
+  "player": {
+    "id": 4320,
+    "name": "Neymar da Silva Santos Junior"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    114.0,
+    52.0
+  ],
+  "duration": 0.693,
+  "related_events": [
+    "9bd2d1ee-3e92-4c07-b8ab-2f3d6f9221cd"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.14093578,
+    "end_location": [
+      116.0,
+      39.7,
+      0.2
+    ],
+    "key_pass_id": "7b5f1f66-0ecc-491a-9e52-820febdf2970",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          114.0,
+          51.0
+        ],
+        "player": {
+          "id": 5601,
+          "name": "Vladimir Stojkovi\u0107"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.0,
+          64.0
+        ],
+        "player": {
+          "id": 3472,
+          "name": "Willian Borges da Silva"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.0,
+          31.0
+        ],
+        "player": {
+          "id": 6321,
+          "name": "Milos Veljkovic"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          33.0
+        ],
+        "player": {
+          "id": 3202,
+          "name": "Gabriel Fernando de Jesus"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.0,
+          46.0
+        ],
+        "player": {
+          "id": 5596,
+          "name": "Aleksandar Kolarov"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          39.0
+        ],
+        "player": {
+          "id": 5603,
+          "name": "Nikola Milenkovi\u0107"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

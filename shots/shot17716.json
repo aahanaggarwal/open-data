@@ -1,0 +1,128 @@
+{
+  "id": "19e5ccf7-af99-404c-b80d-220e6676b940",
+  "index": 2942,
+  "period": 2,
+  "timestamp": "00:38:37.097",
+  "minute": 83,
+  "second": 37,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 195,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    117.2,
+    32.7
+  ],
+  "duration": 0.8236,
+  "related_events": [
+    "b8e37a1b-bf31-4520-939d-8f2bb0e9f6e6"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.3176531,
+    "end_location": [
+      120.0,
+      36.3,
+      1.2
+    ],
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.7,
+          35.6
+        ],
+        "player": {
+          "id": 26484,
+          "name": "Antonio Baltasar Doblas Santana"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.6,
+          32.5
+        ],
+        "player": {
+          "id": 25893,
+          "name": "Alberto Rivera Pizarro"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          35.8
+        ],
+        "player": {
+          "id": 26453,
+          "name": "Juan Alberto Andreu Alvarado"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.3,
+          26.3
+        ],
+        "player": {
+          "id": 25879,
+          "name": "Ronaldo de Assis Moreira"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

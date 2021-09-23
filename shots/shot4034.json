@@ -1,0 +1,220 @@
+{
+  "id": "8f4adda8-a89c-43eb-8b06-a135cf0367e8",
+  "index": 1171,
+  "period": 1,
+  "timestamp": "00:26:48.718",
+  "minute": 26,
+  "second": 48,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 46,
+  "possession_team": {
+    "id": 968,
+    "name": "Arsenal WFC"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 968,
+    "name": "Arsenal WFC"
+  },
+  "player": {
+    "id": 10179,
+    "name": "Lisa Evans"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    107.3,
+    40.8
+  ],
+  "duration": 0.957122,
+  "under_pressure": true,
+  "related_events": [
+    "28ef656f-93af-40a7-b314-e242a642e4a8",
+    "f668363c-3280-4a73-83c3-1bec9d2e1972"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.11864702,
+    "end_location": [
+      120.0,
+      35.2,
+      3.2
+    ],
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          110.8,
+          41.7
+        ],
+        "player": {
+          "id": 31568,
+          "name": "Rebecca Holloway"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.5,
+          37.3
+        ],
+        "player": {
+          "id": 33009,
+          "name": "Lily Simkin"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.7,
+          39.7
+        ],
+        "player": {
+          "id": 19592,
+          "name": "Harriet Scott"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.3,
+          49.2
+        ],
+        "player": {
+          "id": 15562,
+          "name": "Lucy Staniforth"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.3,
+          41.6
+        ],
+        "player": {
+          "id": 31567,
+          "name": "Adrienne Jordan"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.4,
+          52.4
+        ],
+        "player": {
+          "id": 31565,
+          "name": "Abbi Grant"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.2,
+          34.2
+        ],
+        "player": {
+          "id": 15620,
+          "name": "Katie McCabe"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.5,
+          34.2
+        ],
+        "player": {
+          "id": 15623,
+          "name": "Vivianne Miedema"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          96.6,
+          58.9
+        ],
+        "player": {
+          "id": 10380,
+          "name": "Leonie Maier"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.4,
+          39.8
+        ],
+        "player": {
+          "id": 22032,
+          "name": "Hannah Hampton"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "id": "8c5a1c22-2351-4730-b689-8815c0ded852",
+  "index": 2841,
+  "period": 2,
+  "timestamp": "00:24:51.291",
+  "minute": 69,
+  "second": 51,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 126,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 8,
+    "name": "From Keeper"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    109.2,
+    37.1
+  ],
+  "duration": 0.6894,
+  "related_events": [
+    "28071818-ad72-4073-82f4-cc0989a1e6eb"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.41386223,
+    "end_location": [
+      120.0,
+      38.9,
+      4.1
+    ],
+    "key_pass_id": "de896d3b-ac93-4390-a8b5-45ee065f2917",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          96.6,
+          47.7
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.5,
+          37.9
+        ],
+        "player": {
+          "id": 8697,
+          "name": "Andr\u00e9s Eduardo Fern\u00e1ndez Moreno"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.8,
+          40.9
+        ],
+        "player": {
+          "id": 27244,
+          "name": "Francisco Andr\u00e9s Silva Gajardo"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          57.4
+        ],
+        "player": {
+          "id": 23944,
+          "name": "Oier Sanjurjo Mate"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          44.5
+        ],
+        "player": {
+          "id": 24106,
+          "name": "Jordan Loti\u00e8s"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.6,
+          38.2
+        ],
+        "player": {
+          "id": 26723,
+          "name": "\u00c1lvaro Cejudo Carmona"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

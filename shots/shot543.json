@@ -1,0 +1,128 @@
+{
+  "id": "d31587b6-0b86-459c-86ed-c61a77d6842d",
+  "index": 2666,
+  "period": 2,
+  "timestamp": "00:23:14.265",
+  "minute": 68,
+  "second": 14,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 133,
+  "possession_team": {
+    "id": 852,
+    "name": "Norway Women's"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 852,
+    "name": "Norway Women's"
+  },
+  "player": {
+    "id": 13479,
+    "name": "Isabell Herlovsen"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    103.9,
+    42.3
+  ],
+  "duration": 0.5856,
+  "related_events": [
+    "d14252c9-6972-4363-b4f6-6c98f08b6b44"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.20749925,
+    "end_location": [
+      108.6,
+      40.9,
+      0.2
+    ],
+    "key_pass_id": "ba4439ae-927c-425c-84e4-5591bbe3e150",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          96.6,
+          37.1
+        ],
+        "player": {
+          "id": 10514,
+          "name": "Guro Reiten"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.1,
+          40.3
+        ],
+        "player": {
+          "id": 10178,
+          "name": "Lucy Bronze"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.3,
+          42.6
+        ],
+        "player": {
+          "id": 10185,
+          "name": "Stephanie Houghton"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.1,
+          41.2
+        ],
+        "player": {
+          "id": 10170,
+          "name": "Karen Bardsley"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

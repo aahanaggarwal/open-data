@@ -1,0 +1,143 @@
+{
+  "id": "1f8820cb-86ff-4e2e-a965-17f6354170f1",
+  "index": 1056,
+  "period": 1,
+  "timestamp": "00:22:24.200",
+  "minute": 22,
+  "second": 24,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 51,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 22102,
+    "name": "Adriano Correia Claro"
+  },
+  "position": {
+    "id": 2,
+    "name": "Right Back"
+  },
+  "location": [
+    114.0,
+    56.5
+  ],
+  "duration": 0.486696,
+  "related_events": [
+    "1332e4d3-ddb0-4fbc-91bf-b8f3a6136c66"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.023286197,
+    "end_location": [
+      120.0,
+      51.0,
+      0.5
+    ],
+    "key_pass_id": "165c5e2a-5bed-4a90-a3d0-7b1ada683d49",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.8,
+          56.7
+        ],
+        "player": {
+          "id": 6559,
+          "name": "Juan Carlos P\u00e9rez L\u00f3pez"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          52.7
+        ],
+        "player": {
+          "id": 11543,
+          "name": "Jos\u00e9 Antonio Dorado Ram\u00edrez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.3,
+          42.2
+        ],
+        "player": {
+          "id": 27144,
+          "name": "Antonio Amaya Carazo"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.2,
+          43.1
+        ],
+        "player": {
+          "id": 3623,
+          "name": "Adri\u00e1n San Miguel del Castillo"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.4,
+          59.9
+        ],
+        "player": {
+          "id": 25892,
+          "name": "Ignacio P\u00e9rez Santamar\u00eda"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

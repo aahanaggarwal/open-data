@@ -1,0 +1,132 @@
+{
+  "id": "0873ce6f-e63b-4e47-b944-236769a1ce9f",
+  "index": 1751,
+  "period": 2,
+  "timestamp": "00:12:37.052",
+  "minute": 57,
+  "second": 37,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 132,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 15743,
+    "name": "Henrik Larsson"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    116.8,
+    49.2
+  ],
+  "duration": 2.334505,
+  "under_pressure": true,
+  "related_events": [
+    "50f2f5a4-d5b1-497c-9cc2-d3c468f5f2a3",
+    "e3eea918-d36a-46d7-9f96-5af553d87740"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.04704169,
+    "end_location": [
+      120.0,
+      46.5,
+      4.6
+    ],
+    "key_pass_id": "818c753f-895c-417c-85c3-6d0611241736",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "aerial_won": true,
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.0,
+          41.1
+        ],
+        "player": {
+          "id": 26103,
+          "name": "Idriss Carlos Kameni"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.1,
+          40.7
+        ],
+        "player": {
+          "id": 26136,
+          "name": "Mauricio Roberto Pochettino Trossero"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.7,
+          48.5
+        ],
+        "player": {
+          "id": 26138,
+          "name": "David Garc\u00eda De La Cruz"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.2,
+          40.2
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

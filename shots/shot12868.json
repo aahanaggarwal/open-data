@@ -1,0 +1,278 @@
+{
+  "id": "b11c2537-fc85-4e8a-8c54-51d7125805a4",
+  "index": 791,
+  "period": 1,
+  "timestamp": "00:20:16.867",
+  "minute": 20,
+  "second": 16,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 44,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19298,
+    "name": "Samuel Eto\"o Fils"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    90.4,
+    23.3
+  ],
+  "duration": 0.9625,
+  "related_events": [
+    "805fa39d-f53f-4acd-aaa0-eba327371cef"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.014914509,
+    "end_location": [
+      118.4,
+      37.0,
+      0.7
+    ],
+    "key_pass_id": "4ec3ff36-f684-49f3-9463-f37b90b22ad0",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          88.0,
+          22.5
+        ],
+        "player": {
+          "id": 25907,
+          "name": "Francisco Javier Rodr\u00edguez V\u00edlchez"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          81.7,
+          31.5
+        ],
+        "player": {
+          "id": 25904,
+          "name": "Antonio Pacheco D\"Agosti"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.4,
+          34.0
+        ],
+        "player": {
+          "id": 25899,
+          "name": "Gaspar G\u00e1lvez Burgos"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.0,
+          24.5
+        ],
+        "player": {
+          "id": 24631,
+          "name": "Agust\u00edn Garc\u00eda I\u00f1iguez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.7,
+          21.2
+        ],
+        "player": {
+          "id": 25905,
+          "name": "Santiago Denia S\u00e1nchez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          84.2,
+          52.5
+        ],
+        "player": {
+          "id": 25900,
+          "name": "Francisco Pe\u00f1a Romero"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.7,
+          49.0
+        ],
+        "player": {
+          "id": 25902,
+          "name": "Carles Domingo Pladevall"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.3,
+          48.7
+        ],
+        "player": {
+          "id": 25906,
+          "name": "Jaime S\u00e1nchez Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          90.6,
+          25.1
+        ],
+        "player": {
+          "id": 25903,
+          "name": "Laurent Viaud"
+        },
+        "position": {
+          "id": 14,
+          "name": "Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.7,
+          51.5
+        ],
+        "player": {
+          "id": 25878,
+          "name": "Ludovic Giuly"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          82.3,
+          51.6
+        ],
+        "player": {
+          "id": 19757,
+          "name": "Anderson Lu\u00eds de Souza"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          96.5,
+          18.4
+        ],
+        "player": {
+          "id": 17797,
+          "name": "Giovanni van Bronckhorst"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          88.4,
+          25.2
+        ],
+        "player": {
+          "id": 25879,
+          "name": "Ronaldo de Assis Moreira"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.9,
+          37.4
+        ],
+        "player": {
+          "id": 25901,
+          "name": "Ra\u00fal Valbuena Cano"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

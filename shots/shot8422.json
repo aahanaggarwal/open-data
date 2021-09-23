@@ -1,0 +1,204 @@
+{
+  "id": "2f0a2e47-d87f-4473-bbac-d10706198e4f",
+  "index": 2206,
+  "period": 2,
+  "timestamp": "00:13:25.652",
+  "minute": 58,
+  "second": 25,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 113,
+  "possession_team": {
+    "id": 764,
+    "name": "Orlando Pride"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 764,
+    "name": "Orlando Pride"
+  },
+  "player": {
+    "id": 5085,
+    "name": "Alex Morgan"
+  },
+  "position": {
+    "id": 25,
+    "name": "Secondary Striker"
+  },
+  "location": [
+    104.0,
+    34.0
+  ],
+  "duration": 3.08,
+  "related_events": [
+    "2285ceed-1350-42f1-978e-9095ff422cb1"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.14316866,
+    "end_location": [
+      120.0,
+      45.6,
+      2.5
+    ],
+    "key_pass_id": "bb6292e0-70db-4b58-9d94-29273c798e32",
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.0,
+          30.0
+        ],
+        "player": {
+          "id": 5081,
+          "name": "Abby Dahlkemper"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          40.0
+        ],
+        "player": {
+          "id": 5037,
+          "name": "Abby Erceg"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          43.0
+        ],
+        "player": {
+          "id": 5048,
+          "name": "Katelyn Rowland"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          23.0
+        ],
+        "player": {
+          "id": 5083,
+          "name": "Merritt Mathias"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.0,
+          16.0
+        ],
+        "player": {
+          "id": 5084,
+          "name": "Denise O\"Sullivan"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          86.0,
+          38.0
+        ],
+        "player": {
+          "id": 5091,
+          "name": "McCall Zerboni"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          85.0,
+          6.0
+        ],
+        "player": {
+          "id": 5064,
+          "name": "Carson Pickett"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          94.0,
+          27.0
+        ],
+        "player": {
+          "id": 5070,
+          "name": "Christine Nairn"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.0,
+          45.0
+        ],
+        "player": {
+          "id": 5063,
+          "name": "Chioma Ubogagu"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

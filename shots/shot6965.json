@@ -1,0 +1,220 @@
+{
+  "id": "1fa06e74-f1bc-4efb-8b61-d1a68adefa42",
+  "index": 3244,
+  "period": 2,
+  "timestamp": "00:19:19.103",
+  "minute": 64,
+  "second": 19,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 131,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    100.6,
+    47.0
+  ],
+  "duration": 0.658171,
+  "under_pressure": true,
+  "related_events": [
+    "33d4cbad-4fb5-4ef8-adaa-63e1beda8e2c",
+    "6ba689da-aa95-4f07-9eba-0f99f7cb74d5"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.09542681,
+    "end_location": [
+      117.8,
+      42.7,
+      0.2
+    ],
+    "key_pass_id": "691038ed-40d1-4ee4-9c13-8c0094707854",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          101.7,
+          29.0
+        ],
+        "player": {
+          "id": 5477,
+          "name": "Ousmane Demb\u00e9l\u00e9"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          93.8,
+          48.7
+        ],
+        "player": {
+          "id": 13599,
+          "name": "Carles Ale\u00f1a Castillo"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          98.6,
+          53.4
+        ],
+        "player": {
+          "id": 7699,
+          "name": "Daniele Verde"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.9,
+          42.5
+        ],
+        "player": {
+          "id": 11302,
+          "name": "Jordi Masip L\u00f3pez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          49.4
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          91.9,
+          21.1
+        ],
+        "player": {
+          "id": 18164,
+          "name": "Antonio Jes\u00fas Regal Angulo"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.4,
+          40.2
+        ],
+        "player": {
+          "id": 22020,
+          "name": "Joaqu\u00edn Fern\u00e1ndez Moreno"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.3,
+          40.3
+        ],
+        "player": {
+          "id": 8206,
+          "name": "Arturo Erasmo Vidal Pardo"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.2,
+          43.2
+        ],
+        "player": {
+          "id": 11304,
+          "name": "Francisco Jos\u00e9 Olivas Alba"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.7,
+          38.9
+        ],
+        "player": {
+          "id": 11293,
+          "name": "Fernando Calero Villa"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

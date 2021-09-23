@@ -1,0 +1,143 @@
+{
+  "id": "eb357d72-4f7d-41ad-81eb-c8e230ae6642",
+  "index": 2409,
+  "period": 1,
+  "timestamp": "00:46:45.960",
+  "minute": 46,
+  "second": 45,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 73,
+  "possession_team": {
+    "id": 782,
+    "name": "Belgium"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 782,
+    "name": "Belgium"
+  },
+  "player": {
+    "id": 3289,
+    "name": "Romelu Lukaku Menama"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    104.0,
+    30.0
+  ],
+  "duration": 0.693,
+  "related_events": [
+    "7e305a63-d9d3-4856-95fa-a54cf685987d",
+    "be787a7e-a390-4090-b4ff-428713f36289"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.09781054,
+    "end_location": [
+      106.0,
+      30.0
+    ],
+    "key_pass_id": "863840ec-9e8b-4bf3-900e-334512ad0b00",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          107.0,
+          31.0
+        ],
+        "player": {
+          "id": 3244,
+          "name": "John Stones"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          38.0
+        ],
+        "player": {
+          "id": 3468,
+          "name": "Jordan Pickford"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.0,
+          48.0
+        ],
+        "player": {
+          "id": 3336,
+          "name": "Harry Maguire"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.0,
+          29.0
+        ],
+        "player": {
+          "id": 3314,
+          "name": "Phil Jones"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          39.0
+        ],
+        "player": {
+          "id": 10956,
+          "name": "Eric Dier"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

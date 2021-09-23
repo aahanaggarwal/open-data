@@ -1,0 +1,219 @@
+{
+  "id": "230f501b-d132-406c-bd4d-ad732c24c5db",
+  "index": 307,
+  "period": 1,
+  "timestamp": "00:06:27.286",
+  "minute": 6,
+  "second": 27,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 11,
+  "possession_team": {
+    "id": 759,
+    "name": "Washington Spirit"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 759,
+    "name": "Washington Spirit"
+  },
+  "player": {
+    "id": 32632,
+    "name": "Bayley Feist"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    115.6,
+    44.0
+  ],
+  "duration": 0.605421,
+  "related_events": [
+    "bd4ead7a-a676-4d0d-9205-0eead3e7acad"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.3818573,
+    "end_location": [
+      120.0,
+      36.7,
+      0.0
+    ],
+    "key_pass_id": "8bef4844-09de-4750-9b02-d607724994f4",
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 89,
+      "name": "Backheel"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          112.4,
+          35.7
+        ],
+        "player": {
+          "id": 30522,
+          "name": "Joanna Boyles"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.6,
+          32.1
+        ],
+        "player": {
+          "id": 5086,
+          "name": "Rachel Hill"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          43.4
+        ],
+        "player": {
+          "id": 5061,
+          "name": "Haley Judith Kopmeyer"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.6,
+          31.0
+        ],
+        "player": {
+          "id": 25547,
+          "name": "Chloe Logarzo"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.9,
+          35.7
+        ],
+        "player": {
+          "id": 30523,
+          "name": "Erin Greening"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.5,
+          60.8
+        ],
+        "player": {
+          "id": 8199,
+          "name": "Toni Pressley"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.2,
+          52.4
+        ],
+        "player": {
+          "id": 5064,
+          "name": "Carson Pickett"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.1,
+          46.2
+        ],
+        "player": {
+          "id": 5074,
+          "name": "Shelina Zadorsky"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.5,
+          60.1
+        ],
+        "player": {
+          "id": 25546,
+          "name": "Cheyna Matthews"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.9,
+          46.8
+        ],
+        "player": {
+          "id": 4964,
+          "name": "Ashley Hatch"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

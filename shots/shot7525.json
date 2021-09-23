@@ -1,0 +1,203 @@
+{
+  "id": "6f08a159-14af-47bd-9c34-eaeee363411f",
+  "index": 2877,
+  "period": 2,
+  "timestamp": "00:38:51.681",
+  "minute": 83,
+  "second": 51,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 201,
+  "possession_team": {
+    "id": 760,
+    "name": "Seattle Reign"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 760,
+    "name": "Seattle Reign"
+  },
+  "player": {
+    "id": 4994,
+    "name": "Nahomi Kawasumi"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    110.0,
+    55.0
+  ],
+  "duration": 1.856,
+  "related_events": [
+    "51416ab1-7e53-422e-a7c2-784bfbf0265e"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.03457762,
+    "end_location": [
+      120.0,
+      35.2,
+      0.4
+    ],
+    "key_pass_id": "613d436e-9162-4521-96a5-cc0b28398cea",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.0,
+          43.0
+        ],
+        "player": {
+          "id": 5056,
+          "name": "Jane Campbell"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          56.0
+        ],
+        "player": {
+          "id": 5038,
+          "name": "Allysha Chapman"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          54.0
+        ],
+        "player": {
+          "id": 5054,
+          "name": "Janine van Wyk"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          48.0
+        ],
+        "player": {
+          "id": 5053,
+          "name": "Linda Maserame Motlhalo"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.0,
+          52.0
+        ],
+        "player": {
+          "id": 8298,
+          "name": "Megan Rapinoe"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.0,
+          42.0
+        ],
+        "player": {
+          "id": 5006,
+          "name": "Beverly Yanez"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.0,
+          40.0
+        ],
+        "player": {
+          "id": 4959,
+          "name": "Taylor Comeau"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          52.0
+        ],
+        "player": {
+          "id": 5045,
+          "name": "Amber Brooks"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          31.0
+        ],
+        "player": {
+          "id": 5077,
+          "name": "Jasmyne Spencer"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

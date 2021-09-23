@@ -1,0 +1,146 @@
+{
+  "id": "62582b95-f162-4eab-9a63-db3262f40712",
+  "index": 1947,
+  "period": 1,
+  "timestamp": "00:45:34.280",
+  "minute": 45,
+  "second": 34,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 114,
+  "possession_team": {
+    "id": 219,
+    "name": "Deportivo La Coruna"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 219,
+    "name": "Deportivo La Coruna"
+  },
+  "player": {
+    "id": 23929,
+    "name": "Francisco Jim\u00e9nez Tejada"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    109.8,
+    47.9
+  ],
+  "duration": 1.218607,
+  "under_pressure": true,
+  "related_events": [
+    "67e78187-9c1f-476f-bbba-8534e01faf0f",
+    "9ce3bb4a-8862-49b2-a58c-7af0a2348e2e"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.036998224,
+    "end_location": [
+      120.0,
+      53.1,
+      0.2
+    ],
+    "key_pass_id": "5f3aeb97-cb4f-4f5c-beaf-47eb70529ca7",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "aerial_won": true,
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.1,
+          40.8
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.2,
+          33.3
+        ],
+        "player": {
+          "id": 5558,
+          "name": "Rafael M\u00e1rquez \u00c1lvarez"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.9,
+          39.5
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.6,
+          48.0
+        ],
+        "player": {
+          "id": 25919,
+          "name": "Gabriel Alejandro Milito"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.4,
+          40.2
+        ],
+        "player": {
+          "id": 26211,
+          "name": "Joan Verd\u00fa Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "5c30dbd7-e34f-40c9-8f06-c4fe27d83e09",
+  "index": 2946,
+  "period": 2,
+  "timestamp": "00:33:38.208",
+  "minute": 78,
+  "second": 38,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 187,
+  "possession_team": {
+    "id": 1214,
+    "name": "United States Women's"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1214,
+    "name": "United States Women's"
+  },
+  "player": {
+    "id": 8298,
+    "name": "Megan Rapinoe"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    108.3,
+    38.7
+  ],
+  "duration": 0.6487,
+  "related_events": [
+    "d9c31e20-ff7a-47f5-aa4e-65b6287d2ee1"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.46842504,
+    "end_location": [
+      120.0,
+      37.9,
+      0.9
+    ],
+    "key_pass_id": "f03b5695-74e1-4493-943e-698a68c3029d",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.3,
+          40.2
+        ],
+        "player": {
+          "id": 25679,
+          "name": "Ainon Phancha"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.9,
+          41.9
+        ],
+        "player": {
+          "id": 5085,
+          "name": "Alex Morgan"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.9,
+          39.4
+        ],
+        "player": {
+          "id": 25674,
+          "name": "Sukanya Chor Charoenying"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

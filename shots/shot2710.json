@@ -1,0 +1,234 @@
+{
+  "id": "32a07960-db9b-4a31-99fa-0ed8d0573b40",
+  "index": 450,
+  "period": 1,
+  "timestamp": "00:12:44.570",
+  "minute": 12,
+  "second": 44,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 36,
+  "possession_team": {
+    "id": 1475,
+    "name": "Manchester United"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1475,
+    "name": "Manchester United"
+  },
+  "player": {
+    "id": 31532,
+    "name": "Kirsty Hanson"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    108.2,
+    42.5
+  ],
+  "duration": 0.119745,
+  "related_events": [
+    "676fca0c-a2f4-4c54-9b01-dddcfd5b3559",
+    "a9f669e7-267a-43d5-b215-6c841e3380f6"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.09991606,
+    "end_location": [
+      120.0,
+      43.3,
+      0.3
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "deflected": true,
+    "freeze_frame": [
+      {
+        "location": [
+          80.7,
+          17.9
+        ],
+        "player": {
+          "id": 31551,
+          "name": "Kit Graham"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.4,
+          44.1
+        ],
+        "player": {
+          "id": 16397,
+          "name": "Chloe Peplow"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.1,
+          41.3
+        ],
+        "player": {
+          "id": 4865,
+          "name": "Josie Green"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.2,
+          48.9
+        ],
+        "player": {
+          "id": 4848,
+          "name": "Ashleigh Neville"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.3,
+          39.2
+        ],
+        "player": {
+          "id": 31552,
+          "name": "Hannah Godfrey"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.7,
+          41.8
+        ],
+        "player": {
+          "id": 18158,
+          "name": "Rebecca Leigh Spencer"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.1,
+          41.2
+        ],
+        "player": {
+          "id": 18145,
+          "name": "Ria Percival"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.2,
+          42.8
+        ],
+        "player": {
+          "id": 31703,
+          "name": "Anna Filbey"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          32.6
+        ],
+        "player": {
+          "id": 31531,
+          "name": "Lauren James"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.9,
+          30.0
+        ],
+        "player": {
+          "id": 31539,
+          "name": "Leah Galton"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.5,
+          47.1
+        ],
+        "player": {
+          "id": 10654,
+          "name": "Jackie Groenen"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

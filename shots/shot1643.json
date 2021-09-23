@@ -1,0 +1,188 @@
+{
+  "id": "3d0ed328-40fd-4e77-86ac-7f291b7df6a2",
+  "index": 2641,
+  "period": 2,
+  "timestamp": "00:19:14.547",
+  "minute": 64,
+  "second": 14,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 141,
+  "possession_team": {
+    "id": 213,
+    "name": "Sevilla"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 213,
+    "name": "Sevilla"
+  },
+  "player": {
+    "id": 5504,
+    "name": "\u00c9ver Maximiliano David Banega"
+  },
+  "position": {
+    "id": 11,
+    "name": "Left Defensive Midfield"
+  },
+  "location": [
+    104.8,
+    46.0
+  ],
+  "duration": 0.029315,
+  "related_events": [
+    "1cea55db-6843-4e02-bf82-6238f7f2902d",
+    "d5cb9765-a4a8-4125-a579-6c9bf585c652"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.10871899,
+    "end_location": [
+      106.4,
+      45.5
+    ],
+    "key_pass_id": "e884cad1-f63e-4b5d-99cd-5be8fdafae36",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          107.0,
+          45.1
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.4,
+          56.0
+        ],
+        "player": {
+          "id": 6719,
+          "name": "Franco Dami\u00e1n V\u00e1zquez"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.4,
+          33.0
+        ],
+        "player": {
+          "id": 6334,
+          "name": "Luis Fernando Muriel Fruto"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.2,
+          30.3
+        ],
+        "player": {
+          "id": 6718,
+          "name": "Sergio Escudero Palomo"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.2,
+          42.9
+        ],
+        "player": {
+          "id": 5492,
+          "name": "Samuel Yves Umtiti"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.6,
+          43.8
+        ],
+        "player": {
+          "id": 5470,
+          "name": "Ivan Rakiti\u0107"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.6,
+          37.3
+        ],
+        "player": {
+          "id": 6379,
+          "name": "Sergi Roberto Carnicer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.8,
+          40.5
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

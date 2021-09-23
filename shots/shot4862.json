@@ -1,0 +1,175 @@
+{
+  "id": "7e8d3cba-3a26-4e2a-88a9-379f7db7e720",
+  "index": 3215,
+  "period": 2,
+  "timestamp": "00:26:06.813",
+  "minute": 71,
+  "second": 6,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 162,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    98.9,
+    41.4
+  ],
+  "duration": 0.82414,
+  "under_pressure": true,
+  "related_events": [
+    "90a55023-1328-4646-b39a-84b79a7dc93a",
+    "98a4b4b2-77dc-45a0-88de-8952ae92a59f"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.13248058,
+    "end_location": [
+      120.0,
+      35.7,
+      0.5
+    ],
+    "key_pass_id": "b5fd6d9d-19c7-4a20-a975-35d32d7d1563",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          101.2,
+          25.9
+        ],
+        "player": {
+          "id": 4913,
+          "name": "Bojan Krk\u00edc P\u00e9rez"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.5,
+          48.8
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.0,
+          49.4
+        ],
+        "player": {
+          "id": 20134,
+          "name": "Joan Capdevila M\u00e9ndez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.5,
+          47.8
+        ],
+        "player": {
+          "id": 5249,
+          "name": "Diego Roberto God\u00edn Leal"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.4,
+          42.2
+        ],
+        "player": {
+          "id": 25931,
+          "name": "Gonzalo Javier Rodr\u00edguez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.6,
+          35.1
+        ],
+        "player": {
+          "id": 25984,
+          "name": "\u00c1ngel Domingo L\u00f3pez Ruano"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.6,
+          40.2
+        ],
+        "player": {
+          "id": 6768,
+          "name": "Diego L\u00f3pez Rodr\u00edguez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

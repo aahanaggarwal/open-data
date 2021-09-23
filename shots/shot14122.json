@@ -1,0 +1,144 @@
+{
+  "id": "bebc805d-3b60-4b17-a621-3ffd6fc2d5d4",
+  "index": 2735,
+  "period": 2,
+  "timestamp": "00:16:26.635",
+  "minute": 61,
+  "second": 26,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 132,
+  "possession_team": {
+    "id": 969,
+    "name": "Birmingham City WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 969,
+    "name": "Birmingham City WFC"
+  },
+  "player": {
+    "id": 15580,
+    "name": "Claudia Walker"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    101.2,
+    53.4
+  ],
+  "duration": 0.219195,
+  "related_events": [
+    "6e8d1448-30c2-4fc8-9761-742851a1c20d",
+    "8ae14ec9-ed55-43c9-90d7-56fe67d01dfa"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.050312404,
+    "end_location": [
+      105.3,
+      49.8
+    ],
+    "key_pass_id": "10fea156-a94f-466c-ae4f-2829748db9f2",
+    "first_time": true,
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          105.7,
+          49.5
+        ],
+        "player": {
+          "id": 15554,
+          "name": "Gemma Bonner"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.2,
+          41.1
+        ],
+        "player": {
+          "id": 31565,
+          "name": "Abbi Grant"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.3,
+          37.8
+        ],
+        "player": {
+          "id": 10185,
+          "name": "Stephanie Houghton"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.8,
+          43.8
+        ],
+        "player": {
+          "id": 4651,
+          "name": "Demi Stokes"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.2,
+          41.8
+        ],
+        "player": {
+          "id": 4637,
+          "name": "Ellie Roebuck"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

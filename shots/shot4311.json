@@ -1,0 +1,175 @@
+{
+  "id": "884139e8-2f3a-470e-870c-1dbfd2034012",
+  "index": 1011,
+  "period": 1,
+  "timestamp": "00:21:40.598",
+  "minute": 21,
+  "second": 40,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 46,
+  "possession_team": {
+    "id": 213,
+    "name": "Sevilla"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 213,
+    "name": "Sevilla"
+  },
+  "player": {
+    "id": 6821,
+    "name": "Jes\u00fas Navas Gonz\u00e1lez"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    107.1,
+    50.1
+  ],
+  "duration": 0.814294,
+  "under_pressure": true,
+  "related_events": [
+    "0f951728-032b-4f1a-93be-64382aaf7201",
+    "f0a31977-070a-446b-b101-08745cc2c54c"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.114120185,
+    "end_location": [
+      120.0,
+      36.6,
+      0.2
+    ],
+    "key_pass_id": "9c4486d6-c7a2-4976-ba46-3e61ca32e13a",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          115.6,
+          43.6
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.2,
+          33.1
+        ],
+        "player": {
+          "id": 6374,
+          "name": "N\u00e9lson Cabral Semedo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.6,
+          47.9
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.2,
+          40.2
+        ],
+        "player": {
+          "id": 5492,
+          "name": "Samuel Yves Umtiti"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.5,
+          37.7
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.4,
+          34.1
+        ],
+        "player": {
+          "id": 6720,
+          "name": "Pablo Sarabia Garc\u00eda"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.5,
+          38.8
+        ],
+        "player": {
+          "id": 6723,
+          "name": "Wissam Ben Yedder"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

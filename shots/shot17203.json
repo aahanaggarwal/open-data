@@ -1,0 +1,83 @@
+{
+  "id": "23b98afb-dd02-4332-8b1e-f620849f7f77",
+  "index": 654,
+  "period": 1,
+  "timestamp": "00:21:35.725",
+  "minute": 21,
+  "second": 35,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 53,
+  "possession_team": {
+    "id": 1205,
+    "name": "Australia Women's"
+  },
+  "play_pattern": {
+    "id": 5,
+    "name": "Other"
+  },
+  "team": {
+    "id": 1205,
+    "name": "Australia Women's"
+  },
+  "player": {
+    "id": 4961,
+    "name": "Samantha Kerr"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    108.1,
+    40.3
+  ],
+  "duration": 0.523033,
+  "related_events": [
+    "da3308a1-3c41-4e5c-a61e-68b86b5f43bf"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.76,
+    "end_location": [
+      119.7,
+      37.2,
+      0.3
+    ],
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 88,
+      "name": "Penalty"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.3,
+          40.1
+        ],
+        "player": {
+          "id": 10218,
+          "name": "Laura Giuliani"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

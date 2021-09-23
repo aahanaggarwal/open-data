@@ -1,0 +1,144 @@
+{
+  "id": "96aa1291-77e9-4679-8b62-0e83d19aabee",
+  "index": 1426,
+  "period": 1,
+  "timestamp": "00:39:29.877",
+  "minute": 39,
+  "second": 29,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 88,
+  "possession_team": {
+    "id": 1209,
+    "name": "Chile Women's"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1209,
+    "name": "Chile Women's"
+  },
+  "player": {
+    "id": 25694,
+    "name": "Mar\u00eda Jos\u00e9 Urrutia"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    104.4,
+    57.0
+  ],
+  "duration": 0.892957,
+  "related_events": [
+    "fae32fae-f0ec-4a4f-93bd-d62f20a98528"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.040150344,
+    "end_location": [
+      120.0,
+      45.7,
+      1.3
+    ],
+    "key_pass_id": "40723ffb-89d5-4bc4-a998-8106ffb51bad",
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          114.8,
+          44.0
+        ],
+        "player": {
+          "id": 4640,
+          "name": "Rut Hedvig Lindahl"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.9,
+          56.4
+        ],
+        "player": {
+          "id": 10230,
+          "name": "Linda Brigitta Sembrant"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.5,
+          40.4
+        ],
+        "player": {
+          "id": 10375,
+          "name": "Nilla Fischer"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.6,
+          55.5
+        ],
+        "player": {
+          "id": 4633,
+          "name": "Magdalena Ericsson"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.6,
+          39.5
+        ],
+        "player": {
+          "id": 25689,
+          "name": "Rosario Balmaceda"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

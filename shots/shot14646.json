@@ -1,0 +1,219 @@
+{
+  "id": "befb61ac-5aa6-48c8-8d34-97d4e263a752",
+  "index": 771,
+  "period": 1,
+  "timestamp": "00:17:25.633",
+  "minute": 17,
+  "second": 25,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 30,
+  "possession_team": {
+    "id": 790,
+    "name": "Sweden"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 790,
+    "name": "Sweden"
+  },
+  "player": {
+    "id": 11098,
+    "name": "Marcus Berg"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    105.0,
+    43.0
+  ],
+  "duration": 0.387,
+  "related_events": [
+    "130acf92-3a13-42c0-973d-41108b9dad1e",
+    "dfede940-12f8-4e85-b2c3-7365a0d38f1e"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.07109924,
+    "end_location": [
+      107.0,
+      45.0
+    ],
+    "key_pass_id": "e50abe58-da2b-4bc1-816b-ecfc1362be6c",
+    "first_time": true,
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          120.0,
+          43.0
+        ],
+        "player": {
+          "id": 5570,
+          "name": "Manuel Neuer"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          29.0
+        ],
+        "player": {
+          "id": 5579,
+          "name": "Joshua Kimmich"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          42.0
+        ],
+        "player": {
+          "id": 5578,
+          "name": "J\u00e9r\u00f4me Boateng"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          50.0
+        ],
+        "player": {
+          "id": 3167,
+          "name": "Antonio R\u00fcdiger"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          54.0
+        ],
+        "player": {
+          "id": 6040,
+          "name": "Jonas Hector"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          61.0
+        ],
+        "player": {
+          "id": 5612,
+          "name": "Mikael Lustig"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.0,
+          57.0
+        ],
+        "player": {
+          "id": 4417,
+          "name": "Ola Toivonen"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          95.0,
+          40.0
+        ],
+        "player": {
+          "id": 6039,
+          "name": "Sebastian Rudy"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.0,
+          60.0
+        ],
+        "player": {
+          "id": 5559,
+          "name": "Marco Reus"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          52.0
+        ],
+        "player": {
+          "id": 5574,
+          "name": "Toni Kroos"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

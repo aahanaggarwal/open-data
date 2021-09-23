@@ -1,0 +1,144 @@
+{
+  "id": "f3d492e6-c1d4-4786-bf0e-f07f8f480097",
+  "index": 287,
+  "period": 1,
+  "timestamp": "00:05:20.170",
+  "minute": 5,
+  "second": 20,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 8,
+  "possession_team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "player": {
+    "id": 4654,
+    "name": "Nikita Parris"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    114.0,
+    48.0
+  ],
+  "duration": 0.15383,
+  "related_events": [
+    "f68b2fe3-77bb-4a8c-8287-36e6fb593cd5"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.16539614,
+    "end_location": [
+      115.7,
+      46.2,
+      0.2
+    ],
+    "key_pass_id": "d79c66d6-2e2b-4f82-8e53-64700851c317",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          100.3,
+          49.8
+        ],
+        "player": {
+          "id": 20725,
+          "name": "Pauline Bremer"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.2,
+          51.3
+        ],
+        "player": {
+          "id": 15715,
+          "name": "Ellie Mason"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.9,
+          34.9
+        ],
+        "player": {
+          "id": 19774,
+          "name": "Charlotte Buxton"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          47.0
+        ],
+        "player": {
+          "id": 15717,
+          "name": "Hannah Short"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.8,
+          46.3
+        ],
+        "player": {
+          "id": 15709,
+          "name": "Megan Walsh"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

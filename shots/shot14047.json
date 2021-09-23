@@ -1,0 +1,203 @@
+{
+  "id": "ad01ad2a-9cfd-476c-897a-d1383eb981f1",
+  "index": 931,
+  "period": 1,
+  "timestamp": "00:27:52.474",
+  "minute": 27,
+  "second": 52,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 71,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    102.6,
+    35.8
+  ],
+  "duration": 1.157244,
+  "related_events": [
+    "22b2464c-3893-4e6d-a0d8-2efbd057f408"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.033653863,
+    "end_location": [
+      117.6,
+      37.0,
+      1.1
+    ],
+    "key_pass_id": "251caa73-89da-4156-95c1-6d3faae67c50",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          97.5,
+          51.5
+        ],
+        "player": {
+          "id": 20175,
+          "name": "Ryan Giggs"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.9,
+          40.2
+        ],
+        "player": {
+          "id": 24805,
+          "name": "Roy Keane"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.1,
+          31.8
+        ],
+        "player": {
+          "id": 40366,
+          "name": "Wes Brown"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.3,
+          38.2
+        ],
+        "player": {
+          "id": 20341,
+          "name": "Mika\u00ebl Silvestre"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.9,
+          38.8
+        ],
+        "player": {
+          "id": 40364,
+          "name": "Roy Carroll"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.1,
+          18.3
+        ],
+        "player": {
+          "id": 15402,
+          "name": "Gary Neville"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.6,
+          42.5
+        ],
+        "player": {
+          "id": 16890,
+          "name": "John O\"Shea"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.9,
+          67.7
+        ],
+        "player": {
+          "id": 40222,
+          "name": "Laureano Bisan-Etame Mayer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.9,
+          40.2
+        ],
+        "player": {
+          "id": 23816,
+          "name": "Jos\u00e9 Antonio Reyes Calder\u00f3n"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

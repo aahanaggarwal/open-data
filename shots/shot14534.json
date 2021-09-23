@@ -1,0 +1,128 @@
+{
+  "id": "c14ebab3-dc13-4259-be2a-2ed8cbffa7ab",
+  "index": 3103,
+  "period": 2,
+  "timestamp": "00:40:31.853",
+  "minute": 85,
+  "second": 31,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 201,
+  "possession_team": {
+    "id": 764,
+    "name": "Orlando Pride"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 764,
+    "name": "Orlando Pride"
+  },
+  "player": {
+    "id": 5082,
+    "name": "Marta Vieira da Silva"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    113.0,
+    29.0
+  ],
+  "duration": 1.488,
+  "related_events": [
+    "4f4f4d67-8a57-4792-a3f0-a724d9a50266"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.10539738,
+    "end_location": [
+      120.0,
+      40.1,
+      0.8
+    ],
+    "key_pass_id": "6f6beaf9-5282-47c9-8c7a-26e858900ae5",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.0,
+          39.0
+        ],
+        "player": {
+          "id": 5025,
+          "name": "Aubrey Bledsoe"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          33.0
+        ],
+        "player": {
+          "id": 4950,
+          "name": "Whitney Church"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          36.0
+        ],
+        "player": {
+          "id": 4943,
+          "name": "Estelle Johnson"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          44.0
+        ],
+        "player": {
+          "id": 4962,
+          "name": "Caprice Dydasco"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

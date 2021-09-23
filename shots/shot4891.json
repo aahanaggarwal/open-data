@@ -1,0 +1,158 @@
+{
+  "id": "42409a21-067a-42d1-906c-19c73f78ddda",
+  "index": 3428,
+  "period": 2,
+  "timestamp": "00:39:33.836",
+  "minute": 84,
+  "second": 33,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 159,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    107.6,
+    22.4
+  ],
+  "duration": 0.5306,
+  "related_events": [
+    "035f0218-076a-4121-a46f-5f3b78f889e9"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.019626742,
+    "end_location": [
+      120.0,
+      34.8,
+      2.0
+    ],
+    "key_pass_id": "ccdcab35-93d9-42cf-a571-91e38f028c23",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.9,
+          36.8
+        ],
+        "player": {
+          "id": 25917,
+          "name": "C\u00e9sar S\u00e1nchez Dom\u00ednguez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.8,
+          34.0
+        ],
+        "player": {
+          "id": 26215,
+          "name": "Francisco Pav\u00f3n Barahona"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.3,
+          31.1
+        ],
+        "player": {
+          "id": 25969,
+          "name": "Sergio Fern\u00e1ndez Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.6,
+          27.2
+        ],
+        "player": {
+          "id": 24520,
+          "name": "Alberto Zapater Arjol"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.6,
+          23.0
+        ],
+        "player": {
+          "id": 24193,
+          "name": "Jes\u00fas Mar\u00eda Herrero G\u00f3mez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.7,
+          15.7
+        ],
+        "player": {
+          "id": 25873,
+          "name": "Oleguer Presas Renom"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "id": "4ec18d53-6b48-4a92-9521-9f94841688b8",
+  "index": 940,
+  "period": 1,
+  "timestamp": "00:29:13.943",
+  "minute": 29,
+  "second": 13,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 62,
+  "possession_team": {
+    "id": 24,
+    "name": "Liverpool"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 24,
+    "name": "Liverpool"
+  },
+  "player": {
+    "id": 15665,
+    "name": "Michael Owen"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    107.6,
+    35.9
+  ],
+  "duration": 1.339743,
+  "under_pressure": true,
+  "related_events": [
+    "2a83e820-0ab9-4857-9d7e-7e8ca6a2e0c7",
+    "bc468c83-6ad9-4a2f-9f26-080e75724145"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.31966993,
+    "end_location": [
+      120.0,
+      39.6,
+      3.8
+    ],
+    "key_pass_id": "4cdd7db6-6e73-41a9-951e-e7fe996138e6",
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          110.0,
+          37.7
+        ],
+        "player": {
+          "id": 20015,
+          "name": "Jens Lehmann"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.9,
+          23.2
+        ],
+        "player": {
+          "id": 15659,
+          "name": "Emile Heskey"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          92.7,
+          18.7
+        ],
+        "player": {
+          "id": 40222,
+          "name": "Laureano Bisan-Etame Mayer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.1,
+          31.2
+        ],
+        "player": {
+          "id": 38412,
+          "name": "Kolo Habib Tour\u00e9"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.3,
+          37.6
+        ],
+        "player": {
+          "id": 15637,
+          "name": "Sulzeer Jeremiah \"Sol\" Campbell"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

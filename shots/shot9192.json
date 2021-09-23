@@ -1,0 +1,189 @@
+{
+  "id": "1c8730f3-7897-47e7-830e-a4bcc3074d2b",
+  "index": 80,
+  "period": 1,
+  "timestamp": "00:01:26.902",
+  "minute": 1,
+  "second": 26,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 3,
+  "possession_team": {
+    "id": 422,
+    "name": "Osasuna"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 422,
+    "name": "Osasuna"
+  },
+  "player": {
+    "id": 6657,
+    "name": "Sergio Le\u00f3n Limones"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    110.2,
+    59.1
+  ],
+  "duration": 0.0729,
+  "related_events": [
+    "acc7b97d-2a86-4f02-baf5-7d7b66207c2b",
+    "cb3d57d1-dd1b-4de0-b628-d94001e8549e"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.020736631,
+    "end_location": [
+      110.6,
+      58.2
+    ],
+    "key_pass_id": "6b22403f-e82d-450b-9d3e-e7d55cab5b73",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          101.9,
+          38.8
+        ],
+        "player": {
+          "id": 6379,
+          "name": "Sergi Roberto Carnicer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.7,
+          54.1
+        ],
+        "player": {
+          "id": 5492,
+          "name": "Samuel Yves Umtiti"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.9,
+          59.3
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          57.9
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.9,
+          45.0
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.5,
+          31.5
+        ],
+        "player": {
+          "id": 7478,
+          "name": "Alejandro Berenguer Remiro"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          84.2,
+          64.3
+        ],
+        "player": {
+          "id": 23991,
+          "name": "Miguel \u00c1ngel De las Cuevas Barber\u00e1"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          89.9,
+          56.3
+        ],
+        "player": {
+          "id": 27243,
+          "name": "Oriol Riera Magem"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

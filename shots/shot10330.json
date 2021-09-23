@@ -1,0 +1,160 @@
+{
+  "id": "c5489ce6-508b-4ff8-9e72-20a79048e23e",
+  "index": 2990,
+  "period": 2,
+  "timestamp": "00:35:38.955",
+  "minute": 80,
+  "second": 38,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 164,
+  "possession_team": {
+    "id": 855,
+    "name": "Italy Women's"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 855,
+    "name": "Italy Women's"
+  },
+  "player": {
+    "id": 10225,
+    "name": "Aurora Galli"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    114.5,
+    39.6
+  ],
+  "duration": 0.289201,
+  "related_events": [
+    "68182382-8973-4954-b186-c74e426abba4"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "open_goal": true,
+    "statsbomb_xg": 0.90712947,
+    "end_location": [
+      120.0,
+      39.7,
+      0.3
+    ],
+    "key_pass_id": "bec2f393-909f-45bf-84e4-cbf527b2be9c",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.9,
+          41.3
+        ],
+        "player": {
+          "id": 25545,
+          "name": "Allyson Swaby"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.2,
+          39.0
+        ],
+        "player": {
+          "id": 25541,
+          "name": "Valentina Giacinti"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.2,
+          49.3
+        ],
+        "player": {
+          "id": 25557,
+          "name": "Deneisha Selena Blackwood"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.7,
+          48.2
+        ],
+        "player": {
+          "id": 25550,
+          "name": "Sydney Schneider"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.2,
+          37.2
+        ],
+        "player": {
+          "id": 25548,
+          "name": "Konya Plummer"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.4,
+          50.0
+        ],
+        "player": {
+          "id": 10206,
+          "name": "Daniela Sabatino"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

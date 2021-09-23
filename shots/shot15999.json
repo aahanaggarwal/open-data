@@ -1,0 +1,159 @@
+{
+  "id": "af627615-afff-4306-8b5b-53de3c950e5e",
+  "index": 1970,
+  "period": 2,
+  "timestamp": "00:11:11.964",
+  "minute": 56,
+  "second": 11,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 119,
+  "possession_team": {
+    "id": 972,
+    "name": "West Ham United LFC"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 972,
+    "name": "West Ham United LFC"
+  },
+  "player": {
+    "id": 18146,
+    "name": "Leanne Kiernan"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    110.0,
+    28.2
+  ],
+  "duration": 0.190456,
+  "under_pressure": true,
+  "related_events": [
+    "787f68b7-f929-4aac-ab7a-ff85b81a56e8",
+    "c07ad9f2-60f2-49e7-9098-03e0d60748ad"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.20215571,
+    "end_location": [
+      113.4,
+      32.6,
+      0.2
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.5,
+          49.9
+        ],
+        "player": {
+          "id": 23465,
+          "name": "Megan Campbell"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.5,
+          38.5
+        ],
+        "player": {
+          "id": 8297,
+          "name": "Adriana Leon"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.9,
+          41.4
+        ],
+        "player": {
+          "id": 15554,
+          "name": "Gemma Bonner"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.5,
+          30.6
+        ],
+        "player": {
+          "id": 10185,
+          "name": "Stephanie Houghton"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.2,
+          28.9
+        ],
+        "player": {
+          "id": 4992,
+          "name": "Janine Beckie"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.3,
+          32.4
+        ],
+        "player": {
+          "id": 4637,
+          "name": "Ellie Roebuck"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

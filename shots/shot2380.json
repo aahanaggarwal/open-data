@@ -1,0 +1,158 @@
+{
+  "id": "975a0d06-a933-4f13-a37c-7b0a3ce8ead6",
+  "index": 2216,
+  "period": 2,
+  "timestamp": "00:39:13.310",
+  "minute": 84,
+  "second": 13,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 164,
+  "possession_team": {
+    "id": 972,
+    "name": "West Ham United LFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 972,
+    "name": "West Ham United LFC"
+  },
+  "player": {
+    "id": 18146,
+    "name": "Leanne Kiernan"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    108.0,
+    41.7
+  ],
+  "duration": 2.411933,
+  "related_events": [
+    "e1f7c4c6-7ff5-48b1-8a42-f0e687969548"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.07089399,
+    "end_location": [
+      120.0,
+      22.8,
+      0.8
+    ],
+    "key_pass_id": "191b3235-1a7d-475c-b525-d12c06b521e3",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          105.1,
+          39.2
+        ],
+        "player": {
+          "id": 31558,
+          "name": "Martha Thomas"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.6,
+          43.9
+        ],
+        "player": {
+          "id": 31536,
+          "name": "Millie Turner"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.6,
+          40.3
+        ],
+        "player": {
+          "id": 4648,
+          "name": "Abbie McManus"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.6,
+          38.2
+        ],
+        "player": {
+          "id": 31533,
+          "name": "Amy Turner"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.2,
+          40.5
+        ],
+        "player": {
+          "id": 31538,
+          "name": "Mary Alexandra Earps"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.6,
+          45.2
+        ],
+        "player": {
+          "id": 31540,
+          "name": "Katie Zelem"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

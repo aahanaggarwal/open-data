@@ -1,0 +1,188 @@
+{
+  "id": "34b6a4da-d159-41b0-8da0-5b4a07e92e70",
+  "index": 1671,
+  "period": 2,
+  "timestamp": "00:03:28.000",
+  "minute": 48,
+  "second": 28,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 121,
+  "possession_team": {
+    "id": 763,
+    "name": "Sky Blue FC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 763,
+    "name": "Sky Blue FC"
+  },
+  "player": {
+    "id": 5096,
+    "name": "Savannah McCaskill"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    106.0,
+    52.0
+  ],
+  "duration": 0.293,
+  "related_events": [
+    "3ec4333b-c49a-4082-96c8-c11a4d197c15",
+    "64adad7d-f8da-44c2-be65-c55739cad108"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.07061148,
+    "end_location": [
+      111.0,
+      49.0
+    ],
+    "key_pass_id": "4e5b2b74-69b2-4b9a-84b7-9bf47433433e",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          105.0,
+          42.0
+        ],
+        "player": {
+          "id": 5087,
+          "name": "Samantha Mewis"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          31.0
+        ],
+        "player": {
+          "id": 5091,
+          "name": "McCall Zerboni"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          28.0
+        ],
+        "player": {
+          "id": 4982,
+          "name": "Katlyn Johnson"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.0,
+          34.0
+        ],
+        "player": {
+          "id": 5097,
+          "name": "Carli Lloyd"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.0,
+          25.0
+        ],
+        "player": {
+          "id": 4986,
+          "name": "Shea Groom"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.0,
+          43.0
+        ],
+        "player": {
+          "id": 5048,
+          "name": "Katelyn Rowland"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          44.0
+        ],
+        "player": {
+          "id": 5081,
+          "name": "Abby Dahlkemper"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          49.0
+        ],
+        "player": {
+          "id": 5037,
+          "name": "Abby Erceg"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

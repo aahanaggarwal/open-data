@@ -1,0 +1,188 @@
+{
+  "id": "d15db9aa-fc5e-4445-a356-55282cd282eb",
+  "index": 1124,
+  "period": 1,
+  "timestamp": "00:34:12.383",
+  "minute": 34,
+  "second": 12,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 70,
+  "possession_team": {
+    "id": 221,
+    "name": "Levante"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 221,
+    "name": "Levante"
+  },
+  "player": {
+    "id": 20182,
+    "name": "Vladimir Manchev"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    106.8,
+    36.8
+  ],
+  "duration": 1.154373,
+  "related_events": [
+    "c6058e94-5212-49b8-b166-39cca9528f8b"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.41833436,
+    "end_location": [
+      120.0,
+      48.8,
+      0.1
+    ],
+    "key_pass_id": "78d057e4-b955-42c8-91c1-472620af0b78",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.7,
+          31.1
+        ],
+        "player": {
+          "id": 25890,
+          "name": "Jofre Gonz\u00e1lez Mateu"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.9,
+          36.7
+        ],
+        "player": {
+          "id": 25892,
+          "name": "Ignacio P\u00e9rez Santamar\u00eda"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.4,
+          40.6
+        ],
+        "player": {
+          "id": 6730,
+          "name": "Rub\u00e9n Iv\u00e1n Mart\u00ednez Andrade"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.6,
+          39.6
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.5,
+          52.5
+        ],
+        "player": {
+          "id": 25873,
+          "name": "Oleguer Presas Renom"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.5,
+          41.9
+        ],
+        "player": {
+          "id": 17797,
+          "name": "Giovanni van Bronckhorst"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.8,
+          38.6
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.1,
+          34.1
+        ],
+        "player": {
+          "id": 25896,
+          "name": "Dami\u00e0 Abella P\u00e9rez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

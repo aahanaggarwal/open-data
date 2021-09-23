@@ -1,0 +1,159 @@
+{
+  "id": "02e80422-295c-4bb7-94dd-b2ab20fe30bc",
+  "index": 3524,
+  "period": 2,
+  "timestamp": "00:44:08.240",
+  "minute": 89,
+  "second": 8,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 173,
+  "possession_team": {
+    "id": 791,
+    "name": "South Korea"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 791,
+    "name": "South Korea"
+  },
+  "player": {
+    "id": 5623,
+    "name": "Jae-Sung Lee"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    98.0,
+    42.0
+  ],
+  "duration": 0.12,
+  "under_pressure": true,
+  "related_events": [
+    "40aacd10-52f8-4480-b303-1f39e963432a",
+    "6cf0599e-8c58-48e0-906f-c56daa87e414",
+    "a9c2361f-ccf8-4191-b7cc-609ee92df315"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.04271262,
+    "end_location": [
+      100.0,
+      41.0
+    ],
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          100.0,
+          42.0
+        ],
+        "player": {
+          "id": 6322,
+          "name": "Niklas S\u00fcle"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          36.0
+        ],
+        "player": {
+          "id": 5579,
+          "name": "Joshua Kimmich"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          28.0
+        ],
+        "player": {
+          "id": 6325,
+          "name": "Yo-Han Ko"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.0,
+          50.0
+        ],
+        "player": {
+          "id": 5572,
+          "name": "Mats Hummels"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          57.0
+        ],
+        "player": {
+          "id": 3083,
+          "name": "Heung-Min Son"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.0,
+          41.0
+        ],
+        "player": {
+          "id": 5570,
+          "name": "Manuel Neuer"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

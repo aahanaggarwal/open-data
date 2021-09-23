@@ -1,0 +1,204 @@
+{
+  "id": "2dd54619-d8bf-4c5e-a93f-6529c3aacd45",
+  "index": 456,
+  "period": 1,
+  "timestamp": "00:08:28.886",
+  "minute": 8,
+  "second": 28,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 24,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    114.1,
+    30.9
+  ],
+  "duration": 0.7574,
+  "under_pressure": true,
+  "related_events": [
+    "362dd7cd-3706-44d0-8b1a-87b2113b6902",
+    "605ad1f6-cf15-426c-9f9e-497e0e1d6453"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.09463087,
+    "end_location": [
+      120.0,
+      37.0,
+      3.7
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          114.2,
+          31.4
+        ],
+        "player": {
+          "id": 6787,
+          "name": "Pedro L\u00f3pez Mu\u00f1oz"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.7,
+          32.6
+        ],
+        "player": {
+          "id": 26444,
+          "name": "Sergio Mart\u00ednez Ballesteros"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.6,
+          36.5
+        ],
+        "player": {
+          "id": 26221,
+          "name": "Gustavo Adolfo Mun\u00faa Vera"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          38.2
+        ],
+        "player": {
+          "id": 6794,
+          "name": "Gustavo Daniel Cabral C\u00e1ceres"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.1,
+          43.6
+        ],
+        "player": {
+          "id": 26023,
+          "name": "Juan Francisco Garc\u00eda Garc\u00eda"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.3,
+          36.0
+        ],
+        "player": {
+          "id": 24162,
+          "name": "Xavier Torres Buigues"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.5,
+          38.2
+        ],
+        "player": {
+          "id": 5208,
+          "name": "Thiago Alc\u00e2ntara do Nascimento"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.2,
+          28.4
+        ],
+        "player": {
+          "id": 3958,
+          "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+        },
+        "position": {
+          "id": 8,
+          "name": "Left Wing Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.2,
+          48.6
+        ],
+        "player": {
+          "id": 3385,
+          "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

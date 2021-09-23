@@ -1,0 +1,176 @@
+{
+  "id": "adf2f655-520e-426d-98df-80b656a8d0eb",
+  "index": 889,
+  "period": 1,
+  "timestamp": "00:23:44.029",
+  "minute": 23,
+  "second": 44,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 53,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    99.6,
+    47.5
+  ],
+  "duration": 0.6566,
+  "under_pressure": true,
+  "related_events": [
+    "38a983ef-8775-4999-b67b-6dd714ded067",
+    "a2ebed1a-056c-471d-9cd8-77a1b94e9f72",
+    "cddfa69d-fcf0-4b99-9be8-9c6e0ea2f85c"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.17612515,
+    "end_location": [
+      102.8,
+      46.7,
+      0.2
+    ],
+    "key_pass_id": "a91f85ed-d005-472f-a430-368c81ced6cf",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          98.2,
+          53.6
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          85.0,
+          33.2
+        ],
+        "player": {
+          "id": 5216,
+          "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          89.3,
+          41.1
+        ],
+        "player": {
+          "id": 20540,
+          "name": "Rub\u00e9n de la Red Guti\u00e9rrez"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.9,
+          33.5
+        ],
+        "player": {
+          "id": 26496,
+          "name": "Daniel Alberto D\u00edaz"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.3,
+          46.8
+        ],
+        "player": {
+          "id": 26081,
+          "name": "Pedro Mario \u00c1lvarez Abrante"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.9,
+          48.4
+        ],
+        "player": {
+          "id": 26497,
+          "name": "Lucas Mat\u00edas Licht"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.5,
+          46.5
+        ],
+        "player": {
+          "id": 26427,
+          "name": "Roberto Carlos Abbondanzieri"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

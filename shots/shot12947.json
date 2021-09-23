@@ -1,0 +1,143 @@
+{
+  "id": "a70053d9-7790-4fe6-9ec5-a886b2f1902d",
+  "index": 331,
+  "period": 1,
+  "timestamp": "00:08:51.335",
+  "minute": 8,
+  "second": 51,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 21,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 4913,
+    "name": "Bojan Krk\u00edc P\u00e9rez"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    107.4,
+    55.0
+  ],
+  "duration": 0.908946,
+  "related_events": [
+    "c8ba68f2-752a-4006-a522-33e270ecb9f1"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.14272903,
+    "end_location": [
+      120.0,
+      30.2,
+      0.0
+    ],
+    "key_pass_id": "4888dd5b-d317-4763-9698-13e2f40ff0f1",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          95.8,
+          62.1
+        ],
+        "player": {
+          "id": 26612,
+          "name": "Jos\u00e9 Manuel Casado Bizcocho"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.8,
+          45.4
+        ],
+        "player": {
+          "id": 10763,
+          "name": "Asier Riesgo Unamuno"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.7,
+          53.2
+        ],
+        "player": {
+          "id": 26644,
+          "name": "Andr\u00e9s Lamas Bervejillo"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.4,
+          54.1
+        ],
+        "player": {
+          "id": 26642,
+          "name": "Mogammat Nasief Morris"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.5,
+          37.0
+        ],
+        "player": {
+          "id": 16604,
+          "name": "Alain Nef"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

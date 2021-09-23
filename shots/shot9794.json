@@ -1,0 +1,188 @@
+{
+  "id": "c6e8d1fb-2ef8-4a61-9eea-e2ad76dddd84",
+  "index": 840,
+  "period": 1,
+  "timestamp": "00:16:09.272",
+  "minute": 16,
+  "second": 9,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 56,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    101.9,
+    24.3
+  ],
+  "duration": 0.7319,
+  "related_events": [
+    "853bd0bf-5ab2-4cb7-90cf-48991933e5d3"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.029087491,
+    "end_location": [
+      120.0,
+      37.3,
+      0.2
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          108.4,
+          44.5
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.8,
+          38.2
+        ],
+        "player": {
+          "id": 6913,
+          "name": "Fernando Navarro i Corbacho"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.3,
+          33.3
+        ],
+        "player": {
+          "id": 26012,
+          "name": "David Navarro Pedr\u00f3s"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.2,
+          27.0
+        ],
+        "player": {
+          "id": 26200,
+          "name": "H\u00e9ctor Berenguel del Pi\u00f1o"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.9,
+          38.7
+        ],
+        "player": {
+          "id": 25992,
+          "name": "Jos\u00e9 Carlos de Ara\u00fajo Nunes"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.1,
+          36.1
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.3,
+          31.0
+        ],
+        "player": {
+          "id": 19757,
+          "name": "Anderson Lu\u00eds de Souza"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          116.8,
+          37.7
+        ],
+        "player": {
+          "id": 7069,
+          "name": "Miguel \u00c1ngel Moy\u00e0 Rumbo"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

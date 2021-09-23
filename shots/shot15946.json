@@ -1,0 +1,128 @@
+{
+  "id": "4592db09-1258-4eab-9935-ade652cdd292",
+  "index": 2170,
+  "period": 2,
+  "timestamp": "00:04:52.864",
+  "minute": 49,
+  "second": 52,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 103,
+  "possession_team": {
+    "id": 213,
+    "name": "Sevilla"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 213,
+    "name": "Sevilla"
+  },
+  "player": {
+    "id": 6841,
+    "name": "V\u00edctor Mach\u00edn P\u00e9rez"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    109.0,
+    48.1
+  ],
+  "duration": 1.771321,
+  "related_events": [
+    "1da937ae-d1d5-4d54-9fc8-235c1900e1b8"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.35880727,
+    "end_location": [
+      120.0,
+      34.8,
+      0.1
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.6,
+          45.3
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.6,
+          47.2
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.2,
+          45.9
+        ],
+        "player": {
+          "id": 6593,
+          "name": "Mart\u00edn Montoya Torralbo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.7,
+          47.9
+        ],
+        "player": {
+          "id": 6401,
+          "name": "Kevin Gameiro"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

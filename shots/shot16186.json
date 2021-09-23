@@ -1,0 +1,175 @@
+{
+  "id": "8b080538-e05c-405f-b9f4-cf77458925dc",
+  "index": 1715,
+  "period": 1,
+  "timestamp": "00:42:40.403",
+  "minute": 42,
+  "second": 40,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 108,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 4320,
+    "name": "Neymar da Silva Santos Junior"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    103.4,
+    29.9
+  ],
+  "duration": 0.6856,
+  "under_pressure": true,
+  "related_events": [
+    "8d2d74ab-a17a-4891-b10a-4c6fdcb4f33b",
+    "e6d1af8e-ce72-4961-9bfc-3fc27e3ea005"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.11736693,
+    "end_location": [
+      114.8,
+      39.4,
+      0.0
+    ],
+    "key_pass_id": "9e9d71c0-154d-4fb5-9e11-8d7c2c974072",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          115.5,
+          37.4
+        ],
+        "player": {
+          "id": 6884,
+          "name": "Sergio \u00c1lvarez Conde"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.1,
+          32.4
+        ],
+        "player": {
+          "id": 6802,
+          "name": "Jonathan Castro Otto"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.2,
+          30.8
+        ],
+        "player": {
+          "id": 6805,
+          "name": "Hugo Mallo Novegil"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.3,
+          43.0
+        ],
+        "player": {
+          "id": 6804,
+          "name": "Sergi G\u00f3mez Sol\u00e0"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.3,
+          34.2
+        ],
+        "player": {
+          "id": 6794,
+          "name": "Gustavo Daniel Cabral C\u00e1ceres"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          86.2,
+          51.8
+        ],
+        "player": {
+          "id": 6796,
+          "name": "Nemanja Radoja"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.1,
+          26.4
+        ],
+        "player": {
+          "id": 7105,
+          "name": "Fabi\u00e1n Ariel Orellana Valenzuela"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

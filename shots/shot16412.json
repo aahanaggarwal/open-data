@@ -1,0 +1,159 @@
+{
+  "id": "9e5ac047-fed7-427d-b365-b3098b28307b",
+  "index": 2333,
+  "period": 2,
+  "timestamp": "00:16:20.121",
+  "minute": 61,
+  "second": 20,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 132,
+  "possession_team": {
+    "id": 760,
+    "name": "Seattle Reign"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 760,
+    "name": "Seattle Reign"
+  },
+  "player": {
+    "id": 5002,
+    "name": "Jodie Taylor"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    111.0,
+    32.0
+  ],
+  "duration": 1.401,
+  "related_events": [
+    "204a530c-c7fa-4899-811c-b61b036261b5"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.30757156,
+    "end_location": [
+      120.0,
+      45.8,
+      1.9
+    ],
+    "key_pass_id": "85f6423a-7eb4-47bf-bc2b-7ed02023750b",
+    "first_time": true,
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.0,
+          43.0
+        ],
+        "player": {
+          "id": 8298,
+          "name": "Megan Rapinoe"
+        },
+        "position": {
+          "id": 20,
+          "name": "Left Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          116.0,
+          36.0
+        ],
+        "player": {
+          "id": 21057,
+          "name": "DiDi Haracic"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          43.0
+        ],
+        "player": {
+          "id": 5029,
+          "name": "Tori Huster"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          35.0
+        ],
+        "player": {
+          "id": 4951,
+          "name": "Rebecca Quinn"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          40.0
+        ],
+        "player": {
+          "id": 4943,
+          "name": "Estelle Johnson"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          47.0
+        ],
+        "player": {
+          "id": 5026,
+          "name": "Meggie Dougherty Howard"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

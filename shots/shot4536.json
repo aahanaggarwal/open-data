@@ -1,0 +1,129 @@
+{
+  "id": "0269c5fb-d609-4f66-abfe-c0ec47ecf373",
+  "index": 1637,
+  "period": 1,
+  "timestamp": "00:46:56.343",
+  "minute": 46,
+  "second": 56,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 89,
+  "possession_team": {
+    "id": 761,
+    "name": "Chicago Red Stars"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 761,
+    "name": "Chicago Red Stars"
+  },
+  "player": {
+    "id": 4961,
+    "name": "Samantha Kerr"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    108.0,
+    42.5
+  ],
+  "duration": 0.865521,
+  "related_events": [
+    "ce6d01fe-a0d1-45be-90f9-3cf1119024e2"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.43567234,
+    "end_location": [
+      120.0,
+      36.8,
+      0.4
+    ],
+    "key_pass_id": "444f58af-9835-410f-877f-203f81818f3f",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          114.6,
+          42.4
+        ],
+        "player": {
+          "id": 5061,
+          "name": "Haley Judith Kopmeyer"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.9,
+          44.0
+        ],
+        "player": {
+          "id": 33070,
+          "name": "Morgan Reid"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.2,
+          37.8
+        ],
+        "player": {
+          "id": 30523,
+          "name": "Erin Greening"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.9,
+          59.4
+        ],
+        "player": {
+          "id": 8199,
+          "name": "Toni Pressley"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "id": "49e0a681-e4f3-4a6d-865e-8a805fefc409",
+  "index": 1951,
+  "period": 2,
+  "timestamp": "00:13:27.889",
+  "minute": 58,
+  "second": 27,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 129,
+  "possession_team": {
+    "id": 765,
+    "name": "Portland Thorns"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 765,
+    "name": "Portland Thorns"
+  },
+  "player": {
+    "id": 5093,
+    "name": "Tyler Lussi"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    103.0,
+    43.0
+  ],
+  "duration": 1.759,
+  "related_events": [
+    "cc3a9a52-8ebb-4b9b-a716-980c1ae79be7"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.3811224,
+    "end_location": [
+      120.0,
+      42.4,
+      0.2
+    ],
+    "key_pass_id": "0dd147b1-fc19-499d-a730-0842f52278a0",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          109.0,
+          43.0
+        ],
+        "player": {
+          "id": 5031,
+          "name": "Abby Smith"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          28.0
+        ],
+        "player": {
+          "id": 4987,
+          "name": "Sydney Miramontez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.0,
+          21.0
+        ],
+        "player": {
+          "id": 5010,
+          "name": "Mallory Weber"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          94.0,
+          60.0
+        ],
+        "player": {
+          "id": 6818,
+          "name": "Hayley Raso"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          84.0,
+          44.0
+        ],
+        "player": {
+          "id": 4979,
+          "name": "Katrina Gorry"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.0,
+          42.0
+        ],
+        "player": {
+          "id": 4984,
+          "name": "Rachel Corsie"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.0,
+          48.0
+        ],
+        "player": {
+          "id": 4971,
+          "name": "Rebecca Moros"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.0,
+          35.0
+        ],
+        "player": {
+          "id": 5030,
+          "name": "Becky Sauerbrunn"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          84.0,
+          35.0
+        ],
+        "player": {
+          "id": 4966,
+          "name": "Desiree Scott"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

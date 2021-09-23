@@ -1,0 +1,203 @@
+{
+  "id": "9f43cd40-af38-44a4-bbea-f0713428cdc2",
+  "index": 1146,
+  "period": 1,
+  "timestamp": "00:24:01.566",
+  "minute": 24,
+  "second": 1,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 56,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15515,
+    "name": "Patrick Vieira"
+  },
+  "position": {
+    "id": 9,
+    "name": "Right Defensive Midfield"
+  },
+  "location": [
+    95.0,
+    45.3
+  ],
+  "duration": 0.831842,
+  "related_events": [
+    "be72f5d1-52af-4c4e-af19-3bf747623b74"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.03590704,
+    "end_location": [
+      118.1,
+      38.1,
+      0.2
+    ],
+    "key_pass_id": "46cff565-8346-4035-a308-ef28ffe3d197",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          101.9,
+          47.8
+        ],
+        "player": {
+          "id": 40377,
+          "name": "Hermann Hreidarsson"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.6,
+          40.4
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.2,
+          23.0
+        ],
+        "player": {
+          "id": 40417,
+          "name": "Jonathan Fortune"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.3,
+          39.8
+        ],
+        "player": {
+          "id": 40416,
+          "name": "Luke Young"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.1,
+          43.1
+        ],
+        "player": {
+          "id": 40380,
+          "name": "Mark Fish"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.6,
+          54.0
+        ],
+        "player": {
+          "id": 19312,
+          "name": "Robert Pir\u00e8s "
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.9,
+          59.2
+        ],
+        "player": {
+          "id": 40222,
+          "name": "Laureano Bisan-Etame Mayer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.3,
+          38.1
+        ],
+        "player": {
+          "id": 40378,
+          "name": "Dean Kiely"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.1,
+          40.4
+        ],
+        "player": {
+          "id": 20153,
+          "name": "Claus Jensen"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

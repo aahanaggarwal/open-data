@@ -1,0 +1,203 @@
+{
+  "id": "801c4c2f-78d9-42b3-91bb-99300061ca22",
+  "index": 179,
+  "period": 1,
+  "timestamp": "00:03:59.503",
+  "minute": 3,
+  "second": 59,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 13,
+  "possession_team": {
+    "id": 216,
+    "name": "Getafe"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 216,
+    "name": "Getafe"
+  },
+  "player": {
+    "id": 19866,
+    "name": "Maris Verpakovskis"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    109.9,
+    44.0
+  ],
+  "duration": 0.0398,
+  "related_events": [
+    "07959c3f-c548-4518-997f-c37c11486d9e",
+    "d6ce8ef4-4a8f-4e2f-9986-3bc824740b01"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.07850322,
+    "end_location": [
+      111.2,
+      43.9
+    ],
+    "key_pass_id": "c4d78c0b-070f-4d0b-a5d1-2194767636fb",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          105.7,
+          40.2
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.2,
+          50.9
+        ],
+        "player": {
+          "id": 25910,
+          "name": "Jos\u00e9 Edm\u00edlson Gomes de Moraes"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.1,
+          79.1
+        ],
+        "player": {
+          "id": 26061,
+          "name": "Mario Guti\u00e9rrez Cotelo"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.9,
+          40.6
+        ],
+        "player": {
+          "id": 26144,
+          "name": "Francisco Javier Casquero Paredes"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.4,
+          39.1
+        ],
+        "player": {
+          "id": 24507,
+          "name": "Manuel del Moral Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.3,
+          62.2
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.8,
+          42.3
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.7,
+          39.5
+        ],
+        "player": {
+          "id": 25863,
+          "name": "Juliano Haus Belletti"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.8,
+          43.3
+        ],
+        "player": {
+          "id": 15071,
+          "name": "Lilian Thuram"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

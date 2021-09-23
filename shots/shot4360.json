@@ -1,0 +1,99 @@
+{
+  "id": "b79bc4f1-8df1-4aaa-9571-dc733265ac83",
+  "index": 2223,
+  "period": 2,
+  "timestamp": "00:14:38.406",
+  "minute": 59,
+  "second": 38,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 144,
+  "possession_team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "player": {
+    "id": 4654,
+    "name": "Nikita Parris"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    107.0,
+    45.0
+  ],
+  "duration": 0.804,
+  "related_events": [
+    "d5d0e320-ebc8-474e-bd0d-4267550f3c3d"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.28906053,
+    "end_location": [
+      120.0,
+      34.6,
+      0.7
+    ],
+    "key_pass_id": "17be5af9-377c-46d4-9218-d55a8c4745f2",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          106.0,
+          44.0
+        ],
+        "player": {
+          "id": 4642,
+          "name": "Millie Bright"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          44.0
+        ],
+        "player": {
+          "id": 4640,
+          "name": "Rut Hedvig Lindahl"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

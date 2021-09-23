@@ -1,0 +1,188 @@
+{
+  "id": "f390368e-7f19-4f99-8825-71fac1db6820",
+  "index": 3072,
+  "period": 2,
+  "timestamp": "00:45:51.032",
+  "minute": 90,
+  "second": 51,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 206,
+  "possession_team": {
+    "id": 749,
+    "name": "Tottenham Hotspur Women"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 749,
+    "name": "Tottenham Hotspur Women"
+  },
+  "player": {
+    "id": 15706,
+    "name": "Rachel Furness"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    89.5,
+    49.8
+  ],
+  "duration": 2.068203,
+  "related_events": [
+    "319dcdf3-7ab4-4575-98ae-18b95d1e8a3e"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.012373688,
+    "end_location": [
+      120.0,
+      26.3,
+      2.7
+    ],
+    "key_pass_id": "3217375e-eca9-4a4b-8531-4da1a215f965",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.0,
+          40.6
+        ],
+        "player": {
+          "id": 16376,
+          "name": "Sophie Baggaley"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.1,
+          46.8
+        ],
+        "player": {
+          "id": 31702,
+          "name": "Rianna Dean"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.6,
+          48.3
+        ],
+        "player": {
+          "id": 19502,
+          "name": "Meaghan Sargeant"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.5,
+          58.2
+        ],
+        "player": {
+          "id": 16381,
+          "name": "Gemma Evans"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          88.1,
+          63.4
+        ],
+        "player": {
+          "id": 31551,
+          "name": "Kit Graham"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          93.2,
+          49.0
+        ],
+        "player": {
+          "id": 15618,
+          "name": "Jasmine Matthews"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          87.2,
+          49.2
+        ],
+        "player": {
+          "id": 10171,
+          "name": "Frankie Brown"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.9,
+          40.9
+        ],
+        "player": {
+          "id": 24922,
+          "name": "Florence Allen"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

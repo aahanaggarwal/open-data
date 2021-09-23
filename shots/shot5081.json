@@ -1,0 +1,236 @@
+{
+  "id": "cdf46b32-a097-4c6f-b94e-ec13c6b4c7d0",
+  "index": 406,
+  "period": 1,
+  "timestamp": "00:09:55.855",
+  "minute": 9,
+  "second": 55,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 19,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5246,
+    "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    114.2,
+    50.8
+  ],
+  "duration": 0.326347,
+  "under_pressure": true,
+  "related_events": [
+    "007fb27c-a396-4769-8725-2582ad80dad1",
+    "3aea997d-b9b3-49fa-9d40-1c4233e074a4"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.16557595,
+    "end_location": [
+      118.7,
+      43.9,
+      0.4
+    ],
+    "key_pass_id": "9d871ecc-76bc-4b2d-a815-1c99df5e1ada",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          118.8,
+          43.4
+        ],
+        "player": {
+          "id": 6792,
+          "name": "Pau L\u00f3pez Sabata"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          51.9
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.1,
+          31.0
+        ],
+        "player": {
+          "id": 4320,
+          "name": "Neymar da Silva Santos Junior"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.6,
+          37.1
+        ],
+        "player": {
+          "id": 5470,
+          "name": "Ivan Rakiti\u0107"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.3,
+          49.5
+        ],
+        "player": {
+          "id": 6867,
+          "name": "Papa Kouly Diop"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.9,
+          51.8
+        ],
+        "player": {
+          "id": 27241,
+          "name": "V\u00edctor Guillermo \u00c1lvarez Delgado"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.6,
+          53.7
+        ],
+        "player": {
+          "id": 5719,
+          "name": "Marco Asensio Willemsen"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.7,
+          49.9
+        ],
+        "player": {
+          "id": 6612,
+          "name": "Rub\u00e9n Duarte S\u00e1nchez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.6,
+          38.2
+        ],
+        "player": {
+          "id": 6791,
+          "name": "Javier L\u00f3pez Rodr\u00edguez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.4,
+          41.1
+        ],
+        "player": {
+          "id": 16456,
+          "name": "Enzo Pablo Roco Roco"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.1,
+          40.0
+        ],
+        "player": {
+          "id": 18407,
+          "name": "Jos\u00e9 Alberto Ca\u00f1as Ruiz Herrera"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

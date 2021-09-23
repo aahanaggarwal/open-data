@@ -1,0 +1,204 @@
+{
+  "id": "e15cf6bc-611e-4ee0-a281-43825ee0089d",
+  "index": 1100,
+  "period": 1,
+  "timestamp": "00:21:53.460",
+  "minute": 21,
+  "second": 53,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 36,
+  "possession_team": {
+    "id": 395,
+    "name": "Real Zaragoza"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 395,
+    "name": "Real Zaragoza"
+  },
+  "player": {
+    "id": 24578,
+    "name": "Francisco Monta\u00f1\u00e9s Claver\u00edas"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    112.8,
+    34.7
+  ],
+  "duration": 0.134,
+  "related_events": [
+    "d6da83a7-c56a-4d03-bf7e-61f46d6e0199",
+    "ea648d14-936f-40ad-9c90-672e666d540d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.10109011,
+    "end_location": [
+      113.7,
+      34.6
+    ],
+    "key_pass_id": "5f966e4f-e41a-4849-8c76-65a91c7a5ac3",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.2,
+          79.3
+        ],
+        "player": {
+          "id": 7701,
+          "name": "Franco Zuculini"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.6,
+          37.0
+        ],
+        "player": {
+          "id": 15893,
+          "name": "V\u00edctor Rodr\u00edguez Romero"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.5,
+          41.1
+        ],
+        "player": {
+          "id": 26522,
+          "name": "Carlos Reina Aranda"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.0,
+          39.6
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.9,
+          34.7
+        ],
+        "player": {
+          "id": 6593,
+          "name": "Mart\u00edn Montoya Torralbo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.1,
+          47.1
+        ],
+        "player": {
+          "id": 27053,
+          "name": "Alexandre Dimitri Song-Billong"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.4,
+          38.1
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          49.1
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.1,
+          72.2
+        ],
+        "player": {
+          "id": 5211,
+          "name": "Jordi Alba Ramos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

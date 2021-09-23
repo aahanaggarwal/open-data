@@ -1,0 +1,188 @@
+{
+  "id": "b691b876-7620-4375-8959-a138ee5b6591",
+  "index": 2294,
+  "period": 2,
+  "timestamp": "00:27:58.213",
+  "minute": 72,
+  "second": 58,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 175,
+  "possession_team": {
+    "id": 759,
+    "name": "Washington Spirit"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 759,
+    "name": "Washington Spirit"
+  },
+  "player": {
+    "id": 5026,
+    "name": "Meggie Dougherty Howard"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    95.0,
+    42.0
+  ],
+  "duration": 1.68,
+  "related_events": [
+    "24ef997d-8075-4323-abc5-23ef932f20c5"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.049308147,
+    "end_location": [
+      120.0,
+      41.7,
+      4.2
+    ],
+    "key_pass_id": "a5989172-6790-4007-8a7c-a80edcef8cb8",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.0,
+          40.0
+        ],
+        "player": {
+          "id": 5048,
+          "name": "Katelyn Rowland"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          26.0
+        ],
+        "player": {
+          "id": 5083,
+          "name": "Merritt Mathias"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          26.0
+        ],
+        "player": {
+          "id": 5023,
+          "name": "Mallory Pugh"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.0,
+          43.0
+        ],
+        "player": {
+          "id": 5037,
+          "name": "Abby Erceg"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          35.0
+        ],
+        "player": {
+          "id": 5081,
+          "name": "Abby Dahlkemper"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          33.0
+        ],
+        "player": {
+          "id": 5087,
+          "name": "Samantha Mewis"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.0,
+          32.0
+        ],
+        "player": {
+          "id": 5091,
+          "name": "McCall Zerboni"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          88.0,
+          49.0
+        ],
+        "player": {
+          "id": 5029,
+          "name": "Tori Huster"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

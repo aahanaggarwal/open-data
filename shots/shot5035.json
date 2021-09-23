@@ -1,0 +1,189 @@
+{
+  "id": "a34b9fcd-bf89-4fab-b7df-55da74d75dbc",
+  "index": 267,
+  "period": 1,
+  "timestamp": "00:06:20.077",
+  "minute": 6,
+  "second": 20,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 21,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19298,
+    "name": "Samuel Eto\"o Fils"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    114.1,
+    43.9
+  ],
+  "duration": 1.078882,
+  "related_events": [
+    "dd31ca2f-7ec0-4cd2-b4b3-0786742fc08e"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.21923949,
+    "end_location": [
+      120.0,
+      42.4,
+      6.4
+    ],
+    "key_pass_id": "e59b2bb8-da8d-4a51-82a9-50e746ddb4e6",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.0,
+          52.2
+        ],
+        "player": {
+          "id": 19757,
+          "name": "Anderson Lu\u00eds de Souza"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.7,
+          50.9
+        ],
+        "player": {
+          "id": 25894,
+          "name": "I\u00f1aki Descarga Retegi"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.9,
+          43.1
+        ],
+        "player": {
+          "id": 25891,
+          "name": "Juan Luis Mora Palacios"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.2,
+          44.8
+        ],
+        "player": {
+          "id": 20321,
+          "name": "Fabio Celestini"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.5,
+          42.6
+        ],
+        "player": {
+          "id": 25887,
+          "name": "Jos\u00e9 Alejandro Su\u00e1rez Mart\u00edn"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          37.8
+        ],
+        "player": {
+          "id": 25888,
+          "name": "Jose Antonio Culebras Arenas"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.6,
+          39.3
+        ],
+        "player": {
+          "id": 25893,
+          "name": "Alberto Rivera Pizarro"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.9,
+          40.6
+        ],
+        "player": {
+          "id": 25889,
+          "name": "Pablo Pinillos Caro"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

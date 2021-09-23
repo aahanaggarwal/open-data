@@ -1,0 +1,145 @@
+{
+  "id": "181f868d-71ae-4442-850b-d48873d5a4aa",
+  "index": 2910,
+  "period": 2,
+  "timestamp": "00:29:39.729",
+  "minute": 74,
+  "second": 39,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 179,
+  "possession_team": {
+    "id": 36,
+    "name": "Manchester City"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 36,
+    "name": "Manchester City"
+  },
+  "player": {
+    "id": 15519,
+    "name": "Nicolas Anelka"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    105.5,
+    32.2
+  ],
+  "duration": 0.210787,
+  "under_pressure": true,
+  "related_events": [
+    "aba18d98-64ad-4d9c-9de6-599ca8b40589",
+    "ca9f6221-68b9-4a2f-9dce-b0ddffb0bc3b",
+    "e1762a8e-ea50-498e-9547-5fda736f8aa6"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.23069903,
+    "end_location": [
+      106.1,
+      32.6
+    ],
+    "key_pass_id": "69d6b9f4-5cfb-4995-9fe9-7423a2d40d53",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          95.6,
+          45.0
+        ],
+        "player": {
+          "id": 38412,
+          "name": "Kolo Habib Tour\u00e9"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.0,
+          42.4
+        ],
+        "player": {
+          "id": 38465,
+          "name": "Claudio Reyna"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.2,
+          37.0
+        ],
+        "player": {
+          "id": 20015,
+          "name": "Jens Lehmann"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.0,
+          52.4
+        ],
+        "player": {
+          "id": 12529,
+          "name": "Ashley Cole"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.1,
+          32.9
+        ],
+        "player": {
+          "id": 15637,
+          "name": "Sulzeer Jeremiah \"Sol\" Campbell"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

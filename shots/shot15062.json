@@ -1,0 +1,296 @@
+{
+  "id": "4050eeb9-73bd-4f15-afaa-bec1058a00e9",
+  "index": 2609,
+  "period": 2,
+  "timestamp": "00:15:42.588",
+  "minute": 60,
+  "second": 42,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 120,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 2,
+    "name": "From Corner"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    108.0,
+    30.5
+  ],
+  "duration": 0.203,
+  "under_pressure": true,
+  "related_events": [
+    "39f0c7f7-32ae-4b35-b21f-fdf7d0cf2cc1",
+    "cdb35185-83a8-4a5f-a013-fc3d66d95a12",
+    "f75a443a-4ba4-43af-8b80-01ab6de09e54"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.060703866,
+    "end_location": [
+      108.9,
+      31.3
+    ],
+    "key_pass_id": "12a4b88e-5263-436e-a340-0ab8a540a3d7",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          109.0,
+          31.4
+        ],
+        "player": {
+          "id": 26803,
+          "name": "Pedro Roberto Silva Botelho"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.6,
+          37.7
+        ],
+        "player": {
+          "id": 26221,
+          "name": "Gustavo Adolfo Mun\u00faa Vera"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.5,
+          20.4
+        ],
+        "player": {
+          "id": 6787,
+          "name": "Pedro L\u00f3pez Mu\u00f1oz"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.7,
+          36.9
+        ],
+        "player": {
+          "id": 6794,
+          "name": "Gustavo Daniel Cabral C\u00e1ceres"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.2,
+          33.5
+        ],
+        "player": {
+          "id": 3497,
+          "name": "Vicente Iborra De La Fuente"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.6,
+          19.9
+        ],
+        "player": {
+          "id": 5216,
+          "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+        },
+        "position": {
+          "id": 8,
+          "name": "Left Wing Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.2,
+          20.8
+        ],
+        "player": {
+          "id": 25872,
+          "name": "Valmiro L\u00f3pes Rocha"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.5,
+          42.2
+        ],
+        "player": {
+          "id": 26023,
+          "name": "Juan Francisco Garc\u00eda Garc\u00eda"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.5,
+          43.4
+        ],
+        "player": {
+          "id": 3385,
+          "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.9,
+          56.2
+        ],
+        "player": {
+          "id": 26776,
+          "name": "Juan Isaac Cuenca L\u00f3pez"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.9,
+          19.6
+        ],
+        "player": {
+          "id": 3478,
+          "name": "Francesc F\u00e0bregas i Soler"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.6,
+          27.1
+        ],
+        "player": {
+          "id": 24162,
+          "name": "Xavier Torres Buigues"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.4,
+          41.6
+        ],
+        "player": {
+          "id": 26226,
+          "name": "Jos\u00e9 Javier Barkero Saludes"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.2,
+          36.7
+        ],
+        "player": {
+          "id": 5208,
+          "name": "Thiago Alc\u00e2ntara do Nascimento"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.8,
+          28.2
+        ],
+        "player": {
+          "id": 26444,
+          "name": "Sergio Mart\u00ednez Ballesteros"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "id": "9eb9e55a-8c6b-4410-841c-760454a461da",
+  "index": 2183,
+  "period": 2,
+  "timestamp": "00:05:59.973",
+  "minute": 50,
+  "second": 59,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 103,
+  "possession_team": {
+    "id": 769,
+    "name": "Colombia"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 769,
+    "name": "Colombia"
+  },
+  "player": {
+    "id": 3445,
+    "name": "Radamel Falcao Garc\u00eda Z\u00e1rate"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    102.0,
+    51.0
+  ],
+  "duration": 0.787,
+  "related_events": [
+    "71ee724c-2797-4e94-90bf-95cd2e0085c1"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.066389844,
+    "end_location": [
+      120.0,
+      41.9,
+      5.9
+    ],
+    "key_pass_id": "e793f8a9-0ec1-49cb-ac93-4d529a8da978",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.0,
+          43.0
+        ],
+        "player": {
+          "id": 5669,
+          "name": "Wojciech Szcz\u0119sny"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          32.0
+        ],
+        "player": {
+          "id": 5695,
+          "name": "James David Rodr\u00edguez Rubio"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.0,
+          61.0
+        ],
+        "player": {
+          "id": 5689,
+          "name": "Juan Guillermo Cuadrado Bello"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.0,
+          54.0
+        ],
+        "player": {
+          "id": 5670,
+          "name": "Micha\u0142 Pazdan"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          58.0
+        ],
+        "player": {
+          "id": 5672,
+          "name": "Maciej Rybus"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          49.0
+        ],
+        "player": {
+          "id": 4626,
+          "name": "Jan Bednarek"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          88.0,
+          26.0
+        ],
+        "player": {
+          "id": 5673,
+          "name": "Bartosz Bereszy\u0144ski"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          39.0
+        ],
+        "player": {
+          "id": 5658,
+          "name": "\u0141ukasz Piszczek"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

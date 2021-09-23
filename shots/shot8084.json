@@ -1,0 +1,174 @@
+{
+  "id": "6d5d658b-b147-4db5-ab79-81bbc71500b9",
+  "index": 2125,
+  "period": 2,
+  "timestamp": "00:08:24.920",
+  "minute": 53,
+  "second": 24,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 118,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    111.5,
+    49.1
+  ],
+  "duration": 0.817149,
+  "related_events": [
+    "c142a6a3-10b3-453b-a050-925a4a131413"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.35744256,
+    "end_location": [
+      120.0,
+      35.4,
+      0.2
+    ],
+    "key_pass_id": "b927c1c7-29b2-4a2c-8662-f0a06ec926ec",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.8,
+          42.1
+        ],
+        "player": {
+          "id": 26042,
+          "name": "Jos\u00e9 Mar\u00eda Calvo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.8,
+          48.4
+        ],
+        "player": {
+          "id": 26168,
+          "name": "Iago Bouz\u00f3n Amodeo"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.6,
+          50.0
+        ],
+        "player": {
+          "id": 26172,
+          "name": "Hip\u00f3lito Fern\u00e1ndez Serrano"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.3,
+          46.8
+        ],
+        "player": {
+          "id": 11270,
+          "name": "Ei\u00f0ur Sm\u00e1ri Gu\u00f0johnsen"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.8,
+          38.4
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.4,
+          32.2
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.2,
+          44.9
+        ],
+        "player": {
+          "id": 7055,
+          "name": "Stefano Sorrentino"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

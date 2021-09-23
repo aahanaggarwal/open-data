@@ -1,6 +1,8 @@
 import os
 import json
 
+# this file was just to process the data and only handle "shot" events
+
 files = [os.path.join("data/events", f) for f in os.listdir("data/events") if os.path.isfile(os.path.join("data/events", f))]
 
 shots_file = open("shots.json", "a+")

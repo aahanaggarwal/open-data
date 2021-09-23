@@ -1,0 +1,174 @@
+{
+  "id": "b5e58da3-05a5-4abc-947a-388eba34cd80",
+  "index": 1731,
+  "period": 2,
+  "timestamp": "00:05:35.560",
+  "minute": 50,
+  "second": 35,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 122,
+  "possession_team": {
+    "id": 765,
+    "name": "Portland Thorns"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 765,
+    "name": "Portland Thorns"
+  },
+  "player": {
+    "id": 5013,
+    "name": "Tobin Heath"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    105.0,
+    25.0
+  ],
+  "duration": 0.893,
+  "related_events": [
+    "ae605ba1-6414-4e65-882a-c50fc3993aba"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.022680882,
+    "end_location": [
+      120.0,
+      35.2,
+      4.6
+    ],
+    "key_pass_id": "e7e4a2d0-7320-47d4-94bd-2c55d4f7797c",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          105.0,
+          38.0
+        ],
+        "player": {
+          "id": 4999,
+          "name": "Lindsey Horan"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.0,
+          38.0
+        ],
+        "player": {
+          "id": 4998,
+          "name": "Rumi Utsugi"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          36.0
+        ],
+        "player": {
+          "id": 5007,
+          "name": "Megan Oyster"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          48.0
+        ],
+        "player": {
+          "id": 5008,
+          "name": "Kristen McNabb"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          28.0
+        ],
+        "player": {
+          "id": 5017,
+          "name": "Christen Westphal"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          27.0
+        ],
+        "player": {
+          "id": 5006,
+          "name": "Beverly Yanez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          120.0,
+          40.0
+        ],
+        "player": {
+          "id": 5019,
+          "name": "Michelle Betos"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

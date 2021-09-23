@@ -1,0 +1,158 @@
+{
+  "id": "107b0b2f-6b57-4017-8ec9-cb021b50edce",
+  "index": 3712,
+  "period": 2,
+  "timestamp": "00:47:30.375",
+  "minute": 92,
+  "second": 30,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 170,
+  "possession_team": {
+    "id": 221,
+    "name": "Levante"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 221,
+    "name": "Levante"
+  },
+  "player": {
+    "id": 11669,
+    "name": "Gonzalo Juli\u00e1n Melero Manzanares"
+  },
+  "position": {
+    "id": 11,
+    "name": "Left Defensive Midfield"
+  },
+  "location": [
+    103.5,
+    42.6
+  ],
+  "duration": 0.644208,
+  "related_events": [
+    "6b0b4582-715a-4435-8c5b-f5ec5f80aa7e"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.2995308,
+    "end_location": [
+      120.0,
+      45.5,
+      0.5
+    ],
+    "key_pass_id": "9764d635-af34-49a7-a711-b92067e134b3",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.5,
+          39.6
+        ],
+        "player": {
+          "id": 6379,
+          "name": "Sergi Roberto Carnicer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.4,
+          44.8
+        ],
+        "player": {
+          "id": 25006,
+          "name": "Carles P\u00e9rez Sayol"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.7,
+          48.0
+        ],
+        "player": {
+          "id": 6374,
+          "name": "N\u00e9lson Cabral Semedo"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.0,
+          23.0
+        ],
+        "player": {
+          "id": 6796,
+          "name": "Nemanja Radoja"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.7,
+          40.9
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.9,
+          43.7
+        ],
+        "player": {
+          "id": 6680,
+          "name": "Rub\u00e9n Rochina Naixes"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

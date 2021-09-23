@@ -1,0 +1,158 @@
+{
+  "id": "809364f5-293a-4955-bcbc-fa8e07315838",
+  "index": 2529,
+  "period": 2,
+  "timestamp": "00:36:01.230",
+  "minute": 81,
+  "second": 1,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 189,
+  "possession_team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "player": {
+    "id": 5080,
+    "name": "Kristen Hamilton"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    113.0,
+    44.0
+  ],
+  "duration": 0.38,
+  "related_events": [
+    "70fc3bbc-75a1-475d-a885-5e3f7c2a5121",
+    "ea0c6759-85a4-4b72-95f9-689c18ce4160"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.3917208,
+    "end_location": [
+      114.0,
+      44.0
+    ],
+    "key_pass_id": "5f766df0-4597-4db6-a536-c02ce0a81d95",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          115.0,
+          42.0
+        ],
+        "player": {
+          "id": 5012,
+          "name": "Katherine Reynolds"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          39.0
+        ],
+        "player": {
+          "id": 5092,
+          "name": "Emily Menges"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          37.0
+        ],
+        "player": {
+          "id": 5015,
+          "name": "Kelli Hubly"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          41.0
+        ],
+        "player": {
+          "id": 5005,
+          "name": "Britt Eckerstrom"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          45.0
+        ],
+        "player": {
+          "id": 5011,
+          "name": "Meghan Klingenberg"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          37.0
+        ],
+        "player": {
+          "id": 5034,
+          "name": "Jessica McDonald"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

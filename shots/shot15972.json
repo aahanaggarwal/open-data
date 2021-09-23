@@ -1,0 +1,250 @@
+{
+  "id": "608a7a1b-6351-4a3a-96cf-321e2605f868",
+  "index": 2308,
+  "period": 2,
+  "timestamp": "00:18:13.419",
+  "minute": 63,
+  "second": 13,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 148,
+  "possession_team": {
+    "id": 360,
+    "name": "Rayo Vallecano"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 360,
+    "name": "Rayo Vallecano"
+  },
+  "player": {
+    "id": 26799,
+    "name": "Rafael Garc\u00eda Garc\u00eda"
+  },
+  "position": {
+    "id": 11,
+    "name": "Left Defensive Midfield"
+  },
+  "location": [
+    95.3,
+    55.6
+  ],
+  "duration": 0.191905,
+  "under_pressure": true,
+  "related_events": [
+    "0e450f68-6088-4c1a-8815-048dbe305096",
+    "b498f9c1-5048-4304-a3fb-bb73f750bb6f",
+    "b70aa5cf-46a8-4c3f-84d5-62f59a0e9f8f"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.017534938,
+    "end_location": [
+      96.6,
+      55.0
+    ],
+    "key_pass_id": "34e5961d-e8b8-4470-978d-2d25bd17b5f5",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          96.5,
+          55.0
+        ],
+        "player": {
+          "id": 20177,
+          "name": "Eric-Sylvain Bilal Abidal"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.1,
+          62.8
+        ],
+        "player": {
+          "id": 3478,
+          "name": "Francesc F\u00e0bregas i Soler"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.4,
+          69.6
+        ],
+        "player": {
+          "id": 25920,
+          "name": "Jose Mar\u00eda Movilla Cubero"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.5,
+          76.4
+        ],
+        "player": {
+          "id": 26803,
+          "name": "Pedro Roberto Silva Botelho"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.3,
+          54.0
+        ],
+        "player": {
+          "id": 23761,
+          "name": "Alhassane Bangoura"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.2,
+          53.0
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.6,
+          41.5
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.1,
+          43.1
+        ],
+        "player": {
+          "id": 20169,
+          "name": "Seydou K\u00e9ita"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          34.2
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.4,
+          39.7
+        ],
+        "player": {
+          "id": 26109,
+          "name": "Ra\u00fal Tamudo Montero"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.5,
+          34.7
+        ],
+        "player": {
+          "id": 26804,
+          "name": "Miguel P\u00e9rez Cuesta"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          87.3,
+          33.6
+        ],
+        "player": {
+          "id": 5208,
+          "name": "Thiago Alc\u00e2ntara do Nascimento"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "id": "7bae48d6-6021-4833-8560-230234f619e7",
+  "index": 55,
+  "period": 1,
+  "timestamp": "00:01:20.064",
+  "minute": 1,
+  "second": 20,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 5,
+  "possession_team": {
+    "id": 223,
+    "name": "M\u00e1laga"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 223,
+    "name": "M\u00e1laga"
+  },
+  "player": {
+    "id": 25875,
+    "name": "Miguel \u00c1ngel Lozano Ayala"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    102.0,
+    52.8
+  ],
+  "duration": 1.603682,
+  "related_events": [
+    "e12f4f8e-32fb-4560-90bf-47482aaf8791"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.048476335,
+    "end_location": [
+      120.0,
+      61.4,
+      1.9
+    ],
+    "key_pass_id": "4a14ec92-8e9c-4503-bd9b-e1476bd353c0",
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          100.3,
+          50.8
+        ],
+        "player": {
+          "id": 25881,
+          "name": "Juan Antonio Rodr\u00edguez Villamuela"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.6,
+          34.1
+        ],
+        "player": {
+          "id": 25884,
+          "name": "Antonio Manuel S\u00e1nchez G\u00f3mez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.8,
+          39.8
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.5,
+          49.9
+        ],
+        "player": {
+          "id": 25873,
+          "name": "Oleguer Presas Renom"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.7,
+          41.0
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.8,
+          40.5
+        ],
+        "player": {
+          "id": 17797,
+          "name": "Giovanni van Bronckhorst"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

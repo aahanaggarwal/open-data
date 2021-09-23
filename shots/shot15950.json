@@ -1,0 +1,159 @@
+{
+  "id": "d78242f3-b511-4d19-90a9-e36e12ec1d85",
+  "index": 2409,
+  "period": 2,
+  "timestamp": "00:11:39.342",
+  "minute": 56,
+  "second": 39,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 118,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3385,
+    "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    103.5,
+    53.0
+  ],
+  "duration": 1.27605,
+  "related_events": [
+    "4d2cfa86-0794-47b5-a507-32a1ef2e1eda"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.065176226,
+    "end_location": [
+      120.0,
+      32.9,
+      0.2
+    ],
+    "key_pass_id": "52817425-942d-4a6a-9887-a700513ed213",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          114.2,
+          43.7
+        ],
+        "player": {
+          "id": 27111,
+          "name": "Ant\u00f3nio Alberto Bastos Pimparel"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.3,
+          51.7
+        ],
+        "player": {
+          "id": 7909,
+          "name": "Nicol\u00e1s Mart\u00edn Pareja"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.2,
+          52.5
+        ],
+        "player": {
+          "id": 3515,
+          "name": "Alberto Moreno P\u00e9rez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.4,
+          44.5
+        ],
+        "player": {
+          "id": 6349,
+          "name": "Federico Juli\u00e1n Fazio"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.9,
+          32.3
+        ],
+        "player": {
+          "id": 10881,
+          "name": "Diogo Jos\u00e9 Ros\u00e1rio Gomes Figueiras"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.3,
+          30.8
+        ],
+        "player": {
+          "id": 3958,
+          "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

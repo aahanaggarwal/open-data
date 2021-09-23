@@ -1,0 +1,173 @@
+{
+  "id": "cfd7f54f-3ad0-4a24-a607-eba476077c69",
+  "index": 1569,
+  "period": 1,
+  "timestamp": "00:34:27.727",
+  "minute": 34,
+  "second": 27,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 69,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 4320,
+    "name": "Neymar da Silva Santos Junior"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    107.3,
+    36.8
+  ],
+  "duration": 0.1785,
+  "related_events": [
+    "24a1031d-80e4-40b2-9b60-ea59e56f4bd9",
+    "e5450559-d7dd-4cee-8bd0-1cea389f47b3"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.21099623,
+    "end_location": [
+      109.0,
+      37.6
+    ],
+    "key_pass_id": "102df01d-1a44-4da3-936d-ac9838286768",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.2,
+          39.8
+        ],
+        "player": {
+          "id": 6378,
+          "name": "Jan Oblak"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.7,
+          38.2
+        ],
+        "player": {
+          "id": 5259,
+          "name": "Jos\u00e9 Mar\u00eda Gim\u00e9nez de Vargas"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.8,
+          29.4
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.6,
+          48.5
+        ],
+        "player": {
+          "id": 5470,
+          "name": "Ivan Rakiti\u0107"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.9,
+          41.0
+        ],
+        "player": {
+          "id": 6375,
+          "name": "Juan Francisco Torres Bel\u00e9n"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.8,
+          41.5
+        ],
+        "player": {
+          "id": 5249,
+          "name": "Diego Roberto God\u00edn Leal"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.8,
+          33.5
+        ],
+        "player": {
+          "id": 6384,
+          "name": "Gabriel Fern\u00e1ndez Arenas"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

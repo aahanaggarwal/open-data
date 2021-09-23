@@ -1,0 +1,189 @@
+{
+  "id": "ec7532c4-02f7-405f-9cf4-91263368c35e",
+  "index": 780,
+  "period": 1,
+  "timestamp": "00:16:37.372",
+  "minute": 16,
+  "second": 37,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 37,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 23816,
+    "name": "Jos\u00e9 Antonio Reyes Calder\u00f3n"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    103.5,
+    45.5
+  ],
+  "duration": 0.76381,
+  "related_events": [
+    "7b755235-7e72-419f-b1b6-bb3921087fa0"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.043996442,
+    "end_location": [
+      120.0,
+      46.7,
+      2.4
+    ],
+    "key_pass_id": "1d6df0d4-dffa-4b24-bcc1-68f4fe07872f",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.8,
+          59.9
+        ],
+        "player": {
+          "id": 40295,
+          "name": "Stan Lazaridis"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.1,
+          61.9
+        ],
+        "player": {
+          "id": 40298,
+          "name": "Jamie Clapham"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.5,
+          32.1
+        ],
+        "player": {
+          "id": 40400,
+          "name": "Olivier T\u00e9bily"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.2,
+          45.8
+        ],
+        "player": {
+          "id": 40296,
+          "name": "Kenny Cunningham"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.0,
+          50.4
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.4,
+          47.7
+        ],
+        "player": {
+          "id": 40290,
+          "name": "Robbie Savage"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.3,
+          40.3
+        ],
+        "player": {
+          "id": 40401,
+          "name": "Ian Bennett"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.8,
+          56.9
+        ],
+        "player": {
+          "id": 40297,
+          "name": "Stephen Clemence"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

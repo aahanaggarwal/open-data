@@ -1,0 +1,173 @@
+{
+  "id": "df1a250b-355e-402a-b052-c17fb4fbc21d",
+  "index": 2476,
+  "period": 2,
+  "timestamp": "00:30:12.289",
+  "minute": 75,
+  "second": 12,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 159,
+  "possession_team": {
+    "id": 767,
+    "name": "Utah Royals"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 767,
+    "name": "Utah Royals"
+  },
+  "player": {
+    "id": 6817,
+    "name": "Christen Press"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    113.0,
+    26.0
+  ],
+  "duration": 0.953,
+  "related_events": [
+    "1ceca34d-6b5a-42e0-ad80-ec5308141e5d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.048008595,
+    "end_location": [
+      117.0,
+      42.2,
+      1.5
+    ],
+    "key_pass_id": "444c1b5e-9795-4473-ba54-ca020bd7e1bd",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.0,
+          31.0
+        ],
+        "player": {
+          "id": 4973,
+          "name": "Diana Matheson"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          120.0,
+          38.0
+        ],
+        "player": {
+          "id": 5025,
+          "name": "Aubrey Bledsoe"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          28.0
+        ],
+        "player": {
+          "id": 4951,
+          "name": "Rebecca Quinn"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          34.0
+        ],
+        "player": {
+          "id": 4943,
+          "name": "Estelle Johnson"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          48.0
+        ],
+        "player": {
+          "id": 5029,
+          "name": "Tori Huster"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          40.0
+        ],
+        "player": {
+          "id": 4950,
+          "name": "Whitney Church"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          28.0
+        ],
+        "player": {
+          "id": 4941,
+          "name": "Taylor Smith"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

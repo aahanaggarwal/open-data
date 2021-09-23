@@ -1,0 +1,131 @@
+{
+  "id": "7f6009d8-f7de-468d-aca8-b2e782a14be9",
+  "index": 908,
+  "period": 1,
+  "timestamp": "00:21:09.817",
+  "minute": 21,
+  "second": 9,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 45,
+  "possession_team": {
+    "id": 901,
+    "name": "Real Valladolid"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 901,
+    "name": "Real Valladolid"
+  },
+  "player": {
+    "id": 26191,
+    "name": "Joseba Llorente Etxarri"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    106.7,
+    22.1
+  ],
+  "duration": 0.7543,
+  "under_pressure": true,
+  "related_events": [
+    "30c316e1-58c0-4615-a45f-05a6303c4735",
+    "98233d50-f299-426b-b294-afc563f7ef58"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.03318246,
+    "end_location": [
+      118.1,
+      36.8,
+      1.9
+    ],
+    "key_pass_id": "e75d4b1d-9c39-4990-89cf-d1002b1c3e37",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.4,
+          37.4
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.3,
+          39.9
+        ],
+        "player": {
+          "id": 25854,
+          "name": "Sylvio Mendes Campos Junior"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.8,
+          24.5
+        ],
+        "player": {
+          "id": 5558,
+          "name": "Rafael M\u00e1rquez \u00c1lvarez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.1,
+          23.2
+        ],
+        "player": {
+          "id": 25919,
+          "name": "Gabriel Alejandro Milito"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "id": "27112a34-a50e-46ff-8085-5cfa8270f67d",
+  "index": 3283,
+  "period": 2,
+  "timestamp": "00:44:33.567",
+  "minute": 89,
+  "second": 33,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 213,
+  "possession_team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "player": {
+    "id": 16400,
+    "name": "Kayleigh Green"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    102.5,
+    43.2
+  ],
+  "duration": 3.006103,
+  "related_events": [
+    "83141a1a-1fea-41ae-b0af-b41ff670891b"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.12977476,
+    "end_location": [
+      120.0,
+      57.4,
+      0.6
+    ],
+    "key_pass_id": "b9eb878e-df53-4565-adbc-1a6aa312e040",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          117.5,
+          40.6
+        ],
+        "player": {
+          "id": 31538,
+          "name": "Mary Alexandra Earps"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.4,
+          42.5
+        ],
+        "player": {
+          "id": 10196,
+          "name": "Kirsty Smith"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.7,
+          38.2
+        ],
+        "player": {
+          "id": 31536,
+          "name": "Millie Turner"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.6,
+          32.0
+        ],
+        "player": {
+          "id": 31533,
+          "name": "Amy Turner"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.2,
+          37.2
+        ],
+        "player": {
+          "id": 19501,
+          "name": "Hayley Ladd"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.2,
+          43.0
+        ],
+        "player": {
+          "id": 23413,
+          "name": "Megan Connolly"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.2,
+          28.9
+        ],
+        "player": {
+          "id": 16378,
+          "name": "Iniabasi Anefiok Umotong"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.0,
+          38.6
+        ],
+        "player": {
+          "id": 16374,
+          "name": "Aileen Whelan"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

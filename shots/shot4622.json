@@ -1,0 +1,188 @@
+{
+  "id": "8818283a-d995-4143-8cd2-ca50a90c2aef",
+  "index": 953,
+  "period": 1,
+  "timestamp": "00:28:09.244",
+  "minute": 28,
+  "second": 9,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 81,
+  "possession_team": {
+    "id": 1475,
+    "name": "Manchester United"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1475,
+    "name": "Manchester United"
+  },
+  "player": {
+    "id": 31539,
+    "name": "Leah Galton"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    114.6,
+    30.3
+  ],
+  "duration": 0.738622,
+  "related_events": [
+    "42cef720-d961-43dd-8ee7-6dd9abd40cf4"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.10831591,
+    "end_location": [
+      120.0,
+      40.9,
+      0.0
+    ],
+    "key_pass_id": "5d593a6f-23f8-4f0c-8a30-f4c79a33ff3e",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          84.7,
+          14.8
+        ],
+        "player": {
+          "id": 50460,
+          "name": "Lotta \u00d6kvist"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.2,
+          35.7
+        ],
+        "player": {
+          "id": 34360,
+          "name": "Alexandra MacIver"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.9,
+          32.2
+        ],
+        "player": {
+          "id": 10651,
+          "name": "Kika van Es"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.6,
+          26.9
+        ],
+        "player": {
+          "id": 4649,
+          "name": "Esme Beth Morgan"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.9,
+          32.2
+        ],
+        "player": {
+          "id": 31713,
+          "name": "Ma\u00e9va Clemaron"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.3,
+          40.9
+        ],
+        "player": {
+          "id": 18254,
+          "name": "Megan Finnigan"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.9,
+          42.7
+        ],
+        "player": {
+          "id": 4653,
+          "name": "Jane Ross"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.6,
+          26.2
+        ],
+        "player": {
+          "id": 31534,
+          "name": "Ella Toone"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

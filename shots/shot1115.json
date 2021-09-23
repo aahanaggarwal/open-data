@@ -1,0 +1,159 @@
+{
+  "id": "8522290e-3caa-4604-acb4-75f6e869b8b2",
+  "index": 921,
+  "period": 1,
+  "timestamp": "00:20:57.787",
+  "minute": 20,
+  "second": 57,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 52,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    117.0,
+    30.4
+  ],
+  "duration": 0.089971,
+  "related_events": [
+    "c42b42be-7874-48f3-a326-09a05859801c"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.091814615,
+    "end_location": [
+      118.0,
+      34.1,
+      0.5
+    ],
+    "key_pass_id": "a94d78dd-4738-481b-ba0e-1d291c152898",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          116.9,
+          26.8
+        ],
+        "player": {
+          "id": 19772,
+          "name": "Stylianos Giannakopoulos"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.8,
+          39.8
+        ],
+        "player": {
+          "id": 40393,
+          "name": "Bruno N\"Gotty"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.2,
+          30.8
+        ],
+        "player": {
+          "id": 40383,
+          "name": "\u00c9merson Augusto Thome"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.2,
+          48.5
+        ],
+        "player": {
+          "id": 40221,
+          "name": "Gilberto Aparecido da Silva"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.0,
+          42.6
+        ],
+        "player": {
+          "id": 40390,
+          "name": "Simon Charlton"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.9,
+          34.1
+        ],
+        "player": {
+          "id": 40385,
+          "name": "Jussi J\u00e4\u00e4skel\u00e4inen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

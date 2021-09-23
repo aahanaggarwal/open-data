@@ -1,0 +1,190 @@
+{
+  "id": "c1c66d97-56e6-47ca-bd7c-2eb3371ec1a7",
+  "index": 3712,
+  "period": 2,
+  "timestamp": "00:51:45.600",
+  "minute": 96,
+  "second": 45,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 172,
+  "possession_team": {
+    "id": 781,
+    "name": "Brazil"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 781,
+    "name": "Brazil"
+  },
+  "player": {
+    "id": 4320,
+    "name": "Neymar da Silva Santos Junior"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    115.0,
+    42.0
+  ],
+  "duration": 0.773,
+  "related_events": [
+    "bf75e571-2259-498d-a93e-c945b2bb6327"
+  ],
+  "shot": {
+    "open_goal": true,
+    "statsbomb_xg": 0.84282774,
+    "end_location": [
+      120.0,
+      36.6,
+      1.6
+    ],
+    "key_pass_id": "3847d74c-0f96-4163-a781-6686e63de224",
+    "first_time": true,
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          115.0,
+          52.0
+        ],
+        "player": {
+          "id": 5837,
+          "name": "Douglas Costa de Souza"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.0,
+          39.0
+        ],
+        "player": {
+          "id": 5590,
+          "name": "Johnny Acosta Zamora"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          33.0
+        ],
+        "player": {
+          "id": 3535,
+          "name": "Roberto Firmino Barbosa de Oliveira"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.0,
+          34.0
+        ],
+        "player": {
+          "id": 5584,
+          "name": "Giancarlo Gonz\u00e1lez Castro"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          48.0
+        ],
+        "player": {
+          "id": 5600,
+          "name": "Francisco Javier Calvo Quesada"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          43.0
+        ],
+        "player": {
+          "id": 5839,
+          "name": "Yeltsin Ignacio Tejeda Valverde"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          47.0
+        ],
+        "player": {
+          "id": 5836,
+          "name": "Bryan Oviedo"
+        },
+        "position": {
+          "id": 8,
+          "name": "Left Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.0,
+          45.0
+        ],
+        "player": {
+          "id": 5597,
+          "name": "Keylor Navas Gamboa"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

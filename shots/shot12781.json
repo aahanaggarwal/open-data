@@ -1,0 +1,130 @@
+{
+  "id": "ec8f19ae-1d0e-49b7-b023-460f30f764db",
+  "index": 1452,
+  "period": 1,
+  "timestamp": "00:32:37.681",
+  "minute": 32,
+  "second": 37,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 90,
+  "possession_team": {
+    "id": 215,
+    "name": "Athletic Bilbao"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 215,
+    "name": "Athletic Bilbao"
+  },
+  "player": {
+    "id": 6394,
+    "name": "Aritz Aduriz Zubeldia"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    109.7,
+    41.7
+  ],
+  "duration": 0.6815,
+  "under_pressure": true,
+  "related_events": [
+    "74fbdb65-1288-4401-8e19-039f077a0903",
+    "91d2a8e9-b6a2-4659-b17b-5d1ff775a048"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.4120488,
+    "end_location": [
+      120.0,
+      39.3,
+      3.8
+    ],
+    "key_pass_id": "ebbab46f-dbe4-42af-84b6-7c671bf8701d",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          109.8,
+          42.7
+        ],
+        "player": {
+          "id": 25854,
+          "name": "Sylvio Mendes Campos Junior"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.2,
+          41.8
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.7,
+          39.7
+        ],
+        "player": {
+          "id": 15071,
+          "name": "Lilian Thuram"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.8,
+          41.3
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "bd89c31d-4a37-4168-8c6d-1e1f69219225",
+  "index": 761,
+  "period": 1,
+  "timestamp": "00:20:02.246",
+  "minute": 20,
+  "second": 2,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 51,
+  "possession_team": {
+    "id": 1230,
+    "name": "Real Murcia"
+  },
+  "play_pattern": {
+    "id": 8,
+    "name": "From Keeper"
+  },
+  "team": {
+    "id": 1230,
+    "name": "Real Murcia"
+  },
+  "player": {
+    "id": 26515,
+    "name": "\u00cd\u00f1igo V\u00e9lez De Mendiz\u00e1bal Fern\u00e1ndez De Garc\u00eda"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    116.6,
+    52.2
+  ],
+  "duration": 0.4401,
+  "related_events": [
+    "01567f89-273f-438d-a204-ae5727785c0e"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.04654728,
+    "end_location": [
+      118.5,
+      43.3,
+      0.9
+    ],
+    "key_pass_id": "a6e3c69c-4821-4aca-ac77-847e64e65d50",
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.4,
+          43.3
+        ],
+        "player": {
+          "id": 26005,
+          "name": "Jos\u00e9 Manuel Pinto Colorado"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.3,
+          50.9
+        ],
+        "player": {
+          "id": 15071,
+          "name": "Lilian Thuram"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

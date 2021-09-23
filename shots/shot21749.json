@@ -1,0 +1,236 @@
+{
+  "id": "d12869e4-322c-4b97-a27b-599ad262e701",
+  "index": 2167,
+  "period": 2,
+  "timestamp": "00:12:02.183",
+  "minute": 57,
+  "second": 2,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 112,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    113.6,
+    38.2
+  ],
+  "duration": 0.4373,
+  "under_pressure": true,
+  "related_events": [
+    "5d043010-f4a0-4a43-94a9-dd800dba2836",
+    "8f99d1a2-20ec-4911-92f3-c334148ff6a4"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.472923,
+    "end_location": [
+      120.0,
+      38.9,
+      1.8
+    ],
+    "key_pass_id": "b4982d66-08a2-4957-921f-54aa64b32130",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.1,
+          22.2
+        ],
+        "player": {
+          "id": 26807,
+          "name": "Marc Bertr\u00e1n Vilanova"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.7,
+          28.1
+        ],
+        "player": {
+          "id": 26254,
+          "name": "Manuel Jes\u00fas Ortiz Toribio"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.5,
+          37.1
+        ],
+        "player": {
+          "id": 24313,
+          "name": "Miguel Fla\u00f1o Bezunartea"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.3,
+          38.5
+        ],
+        "player": {
+          "id": 27088,
+          "name": "Fernando Macedo Da Silva Rodilla"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.5,
+          16.6
+        ],
+        "player": {
+          "id": 12737,
+          "name": "David Villa S\u00e1nchez"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.4,
+          25.7
+        ],
+        "player": {
+          "id": 22102,
+          "name": "Adriano Correia Claro"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.4,
+          30.7
+        ],
+        "player": {
+          "id": 25874,
+          "name": "Francisco Pu\u00f1al Mart\u00ednez"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.1,
+          37.6
+        ],
+        "player": {
+          "id": 27089,
+          "name": "Raoul C\u00e9dric Lo\u00e9"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.5,
+          47.8
+        ],
+        "player": {
+          "id": 23944,
+          "name": "Oier Sanjurjo Mate"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.9,
+          49.4
+        ],
+        "player": {
+          "id": 3958,
+          "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.1,
+          39.2
+        ],
+        "player": {
+          "id": 8697,
+          "name": "Andr\u00e9s Eduardo Fern\u00e1ndez Moreno"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

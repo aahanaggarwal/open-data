@@ -1,0 +1,114 @@
+{
+  "id": "f83d19e5-10c4-488f-8e65-2146d52033e3",
+  "index": 1513,
+  "period": 1,
+  "timestamp": "00:38:14.728",
+  "minute": 38,
+  "second": 14,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 88,
+  "possession_team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "player": {
+    "id": 15555,
+    "name": "Lauren Hemp"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    94.0,
+    54.0
+  ],
+  "duration": 2.109281,
+  "related_events": [
+    "15263e33-42b5-4f80-93bc-52f1d4d1ef7a"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.41234776,
+    "end_location": [
+      118.0,
+      37.0,
+      0.6
+    ],
+    "key_pass_id": "f93a7d75-6a1a-4c71-9fed-dcb41e32bcb4",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          91.0,
+          54.0
+        ],
+        "player": {
+          "id": 18145,
+          "name": "Ria Percival"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.0,
+          47.0
+        ],
+        "player": {
+          "id": 21014,
+          "name": "Vyan Sampson"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          52.0
+        ],
+        "player": {
+          "id": 22027,
+          "name": "Anne Moorhouse"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

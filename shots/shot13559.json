@@ -1,0 +1,173 @@
+{
+  "id": "01c0783e-bf3b-4bbc-831c-cc2ba8df8f72",
+  "index": 2192,
+  "period": 2,
+  "timestamp": "00:07:50.186",
+  "minute": 52,
+  "second": 50,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 137,
+  "possession_team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "player": {
+    "id": 33350,
+    "name": "Leah Pruitt"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    106.7,
+    40.5
+  ],
+  "duration": 0.71822,
+  "related_events": [
+    "96821c4d-df60-41e8-817d-c5a9867c1a00"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.24036385,
+    "end_location": [
+      120.0,
+      37.1,
+      2.0
+    ],
+    "key_pass_id": "96f75774-e60f-43df-bc45-846d4edf8f5f",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          106.9,
+          31.9
+        ],
+        "player": {
+          "id": 5029,
+          "name": "Tori Huster"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.2,
+          33.5
+        ],
+        "player": {
+          "id": 5044,
+          "name": "D\u00e9bora Cristiane de Oliveira"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.5,
+          38.5
+        ],
+        "player": {
+          "id": 30651,
+          "name": "Paige Nielsen"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          42.1
+        ],
+        "player": {
+          "id": 5025,
+          "name": "Aubrey Bledsoe"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.4,
+          46.8
+        ],
+        "player": {
+          "id": 30648,
+          "name": "Dorian Bailey"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.1,
+          56.2
+        ],
+        "player": {
+          "id": 30650,
+          "name": "Samantha Staab"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.3,
+          51.6
+        ],
+        "player": {
+          "id": 5055,
+          "name": "Lynn Williams"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

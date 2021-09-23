@@ -1,0 +1,144 @@
+{
+  "id": "cfb41c94-aa16-4e6a-9f1a-6ea80b76f8f7",
+  "index": 2774,
+  "period": 2,
+  "timestamp": "00:19:18.283",
+  "minute": 64,
+  "second": 18,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 109,
+  "possession_team": {
+    "id": 422,
+    "name": "Osasuna"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 422,
+    "name": "Osasuna"
+  },
+  "player": {
+    "id": 24166,
+    "name": "Juan Francisco Mart\u00ednez Modesto"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    116.1,
+    29.1
+  ],
+  "duration": 0.823011,
+  "related_events": [
+    "11e23f7e-e9c0-478b-b53e-1db9d7819045"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.1770409,
+    "end_location": [
+      120.0,
+      47.7,
+      0.5
+    ],
+    "key_pass_id": "8018135f-0e44-4838-b009-a14a7714e534",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.7,
+          34.2
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.4,
+          27.9
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.9,
+          36.9
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.1,
+          36.3
+        ],
+        "player": {
+          "id": 26613,
+          "name": "Maxwell Scherrer Cabelino Andrade"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.3,
+          36.2
+        ],
+        "player": {
+          "id": 24069,
+          "name": "Ibrahima Bald\u00e9"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

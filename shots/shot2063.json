@@ -1,0 +1,173 @@
+{
+  "id": "0b429667-0c17-4c9f-8541-6261c8cacbad",
+  "index": 1240,
+  "period": 1,
+  "timestamp": "00:34:46.893",
+  "minute": 34,
+  "second": 46,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 68,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19298,
+    "name": "Samuel Eto\"o Fils"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    115.0,
+    36.7
+  ],
+  "duration": 2.0455,
+  "related_events": [
+    "2e5e73e1-961e-456f-885b-caf0ce86e9ae",
+    "89f7062c-aa51-4a7e-bcb7-fc3ad753847f"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.2087572,
+    "end_location": [
+      118.9,
+      38.6
+    ],
+    "key_pass_id": "911ef10d-d88c-43a0-8288-a013798eb23e",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          106.8,
+          56.7
+        ],
+        "player": {
+          "id": 26455,
+          "name": "Jos\u00e9 Isidoro G\u00f3mez Torres"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.1,
+          33.5
+        ],
+        "player": {
+          "id": 24511,
+          "name": "Branko Ili\u010d"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.6,
+          53.8
+        ],
+        "player": {
+          "id": 20519,
+          "name": "Juan Guti\u00e9rrez Moreno"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          31.0
+        ],
+        "player": {
+          "id": 25879,
+          "name": "Ronaldo de Assis Moreira"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.8,
+          44.9
+        ],
+        "player": {
+          "id": 26454,
+          "name": "Jes\u00fas Capit\u00e1n Prada"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.4,
+          39.8
+        ],
+        "player": {
+          "id": 26453,
+          "name": "Juan Alberto Andreu Alvarado"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.2,
+          36.4
+        ],
+        "player": {
+          "id": 26452,
+          "name": "Pedro Gonzalez Contreras Cano"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

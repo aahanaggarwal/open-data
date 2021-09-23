@@ -1,0 +1,191 @@
+{
+  "id": "f1eed746-d772-4ffa-b2bb-ec738dab9608",
+  "index": 3036,
+  "period": 2,
+  "timestamp": "00:41:51.093",
+  "minute": 86,
+  "second": 51,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 193,
+  "possession_team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "player": {
+    "id": 5080,
+    "name": "Kristen Hamilton"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    112.0,
+    43.0
+  ],
+  "duration": 1.088,
+  "under_pressure": true,
+  "related_events": [
+    "052434ea-729c-4669-91ad-227dd164202d",
+    "7002f97b-ddd0-467c-8529-c111ff41cd3d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.29744712,
+    "end_location": [
+      118.0,
+      41.1,
+      2.1
+    ],
+    "key_pass_id": "bdb7f712-1d61-4caf-8597-7a4f8c46441f",
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "aerial_won": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.0,
+          43.0
+        ],
+        "player": {
+          "id": 4942,
+          "name": "Arin Gilliland"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          52.0
+        ],
+        "player": {
+          "id": 5087,
+          "name": "Samantha Mewis"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.0,
+          41.0
+        ],
+        "player": {
+          "id": 6814,
+          "name": "Heather O\"Reilly"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.0,
+          40.0
+        ],
+        "player": {
+          "id": 4947,
+          "name": "Danielle Colaprico"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          20.0
+        ],
+        "player": {
+          "id": 5055,
+          "name": "Lynn Williams"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.0,
+          34.0
+        ],
+        "player": {
+          "id": 4955,
+          "name": "Sarah Gorden"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          39.0
+        ],
+        "player": {
+          "id": 4958,
+          "name": "Kathleen Naughton"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          25.0
+        ],
+        "player": {
+          "id": 5100,
+          "name": "Alyssa Naeher"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "id": "0421724e-5597-4493-8086-785a78dadeaa",
+  "index": 327,
+  "period": 1,
+  "timestamp": "00:06:23.434",
+  "minute": 6,
+  "second": 23,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 14,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5487,
+    "name": "Antoine Griezmann"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    111.3,
+    31.3
+  ],
+  "duration": 1.070684,
+  "related_events": [
+    "68b0492e-2ec6-4cfb-ac1f-1e1848089427"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.3502728,
+    "end_location": [
+      120.0,
+      38.7,
+      0.5
+    ],
+    "key_pass_id": "4986a729-8b41-482b-9d8e-0d779c81cfe4",
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          100.4,
+          39.4
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.2,
+          34.0
+        ],
+        "player": {
+          "id": 24083,
+          "name": "Manuel Reina Rodr\u00edguez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.2,
+          32.1
+        ],
+        "player": {
+          "id": 24084,
+          "name": "Martin Valjent"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.6,
+          44.1
+        ],
+        "player": {
+          "id": 24089,
+          "name": "Joan Sastre Vanrell"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.5,
+          26.9
+        ],
+        "player": {
+          "id": 24576,
+          "name": "Francisco G\u00e1mez L\u00f3pez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

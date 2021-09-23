@@ -1,0 +1,159 @@
+{
+  "id": "3f56e0f3-3f50-4d00-9068-0567d39a2711",
+  "index": 3836,
+  "period": 2,
+  "timestamp": "00:44:17.553",
+  "minute": 89,
+  "second": 17,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 183,
+  "possession_team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "player": {
+    "id": 4651,
+    "name": "Demi Stokes"
+  },
+  "position": {
+    "id": 6,
+    "name": "Left Back"
+  },
+  "location": [
+    113.7,
+    27.0
+  ],
+  "duration": 0.538067,
+  "related_events": [
+    "bd7236a8-dd4b-4162-abfe-6f05f27e6235"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.09617093,
+    "end_location": [
+      119.3,
+      35.5,
+      1.4
+    ],
+    "key_pass_id": "4784482b-f2fc-48f1-8738-b503d8342fd7",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.0,
+          27.8
+        ],
+        "player": {
+          "id": 19592,
+          "name": "Harriet Scott"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.5,
+          22.7
+        ],
+        "player": {
+          "id": 10099,
+          "name": "Tessa Wullaert"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.8,
+          36.6
+        ],
+        "player": {
+          "id": 15569,
+          "name": "Kerys Harrop"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.9,
+          32.0
+        ],
+        "player": {
+          "id": 19500,
+          "name": "Sarah Emma Mayling"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.4,
+          40.0
+        ],
+        "player": {
+          "id": 10180,
+          "name": "Ellen White"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.4,
+          36.2
+        ],
+        "player": {
+          "id": 22032,
+          "name": "Hannah Hampton"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

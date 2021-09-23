@@ -1,0 +1,264 @@
+{
+  "id": "1d4d71f6-da21-4c28-b410-12539d86d8bb",
+  "index": 3501,
+  "period": 2,
+  "timestamp": "00:47:02.987",
+  "minute": 92,
+  "second": 2,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 160,
+  "possession_team": {
+    "id": 779,
+    "name": "Argentina"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 779,
+    "name": "Argentina"
+  },
+  "player": {
+    "id": 3237,
+    "name": "Sergio Leonel Ag\u00fcero del Castillo"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    112.0,
+    37.0
+  ],
+  "duration": 0.653,
+  "related_events": [
+    "a2086549-ea10-4226-a649-1004939f4e2d"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.14020057,
+    "end_location": [
+      119.0,
+      36.4,
+      0.9
+    ],
+    "key_pass_id": "2e0d1329-b226-4b68-9ca9-6db7b026b8ce",
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.0,
+          38.0
+        ],
+        "player": {
+          "id": 3099,
+          "name": "Hugo Lloris"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          61.0
+        ],
+        "player": {
+          "id": 2995,
+          "name": "\u00c1ngel Fabi\u00e1n Di Mar\u00eda Hern\u00e1ndez"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.0,
+          59.0
+        ],
+        "player": {
+          "id": 5484,
+          "name": "Lucas Hern\u00e1ndez Pi"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          51.0
+        ],
+        "player": {
+          "id": 5492,
+          "name": "Samuel Yves Umtiti"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.0,
+          50.0
+        ],
+        "player": {
+          "id": 5480,
+          "name": "Corentin Tolisso"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          90.0,
+          48.0
+        ],
+        "player": {
+          "id": 3961,
+          "name": "N\"Golo Kant\u00e9"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.0,
+          31.0
+        ],
+        "player": {
+          "id": 3254,
+          "name": "Florian Thauvin"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          36.0
+        ],
+        "player": {
+          "id": 5476,
+          "name": "Benjamin Pavard"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          35.0
+        ],
+        "player": {
+          "id": 5499,
+          "name": "Maximiliano Eduardo Meza"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          94.0,
+          45.0
+        ],
+        "player": {
+          "id": 5504,
+          "name": "\u00c9ver Maximiliano David Banega"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          85.0,
+          57.0
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 25,
+          "name": "Secondary Striker"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.0,
+          39.0
+        ],
+        "player": {
+          "id": 5485,
+          "name": "Rapha\u00ebl Varane"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.0,
+          45.0
+        ],
+        "player": {
+          "id": 20004,
+          "name": "Paul Pogba"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

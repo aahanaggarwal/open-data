@@ -1,0 +1,265 @@
+{
+  "id": "465230dd-5583-4c13-8592-3d72313e3106",
+  "index": 2649,
+  "period": 2,
+  "timestamp": "00:33:21.170",
+  "minute": 78,
+  "second": 21,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 188,
+  "possession_team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "player": {
+    "id": 16400,
+    "name": "Kayleigh Green"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    87.1,
+    42.8
+  ],
+  "duration": 0.261368,
+  "related_events": [
+    "7f0ce96f-9d85-415d-ab4c-9698dfa47570",
+    "bfd4c051-2bc8-4f1b-ad96-cfa423d32d6b"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.018878048,
+    "end_location": [
+      119.0,
+      43.6,
+      0.2
+    ],
+    "key_pass_id": "1e46f4fe-e943-447f-8968-1c3e15c4ecc4",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "deflected": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.1,
+          40.7
+        ],
+        "player": {
+          "id": 31555,
+          "name": "Courtney Brosnan"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.2,
+          68.3
+        ],
+        "player": {
+          "id": 34378,
+          "name": "Filippa Wall\u00e9n"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          77.3,
+          60.1
+        ],
+        "player": {
+          "id": 16399,
+          "name": "Kate Natkiel"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          84.3,
+          31.9
+        ],
+        "player": {
+          "id": 16374,
+          "name": "Aileen Whelan"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          88.5,
+          46.1
+        ],
+        "player": {
+          "id": 23413,
+          "name": "Megan Connolly"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          86.0,
+          43.1
+        ],
+        "player": {
+          "id": 18153,
+          "name": "Alisha Lehmann"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.2,
+          37.6
+        ],
+        "player": {
+          "id": 34232,
+          "name": "Grace Fisk"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.9,
+          52.1
+        ],
+        "player": {
+          "id": 22798,
+          "name": "So-Hyun Cho"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          80.5,
+          57.6
+        ],
+        "player": {
+          "id": 15421,
+          "name": "Kenza Dali"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.6,
+          61.8
+        ],
+        "player": {
+          "id": 31557,
+          "name": "Katharina Baunach"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          73.9,
+          33.0
+        ],
+        "player": {
+          "id": 18150,
+          "name": "Julia Simic"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          80.4,
+          23.2
+        ],
+        "player": {
+          "id": 31553,
+          "name": "Cecilie Redisch Kvamme"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.8,
+          40.5
+        ],
+        "player": {
+          "id": 18151,
+          "name": "Gilly Louise Scarlett Flaherty"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

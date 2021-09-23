@@ -1,0 +1,158 @@
+{
+  "id": "548e173a-7c42-4955-94ba-7d510c00afda",
+  "index": 664,
+  "period": 1,
+  "timestamp": "00:17:46.223",
+  "minute": 17,
+  "second": 46,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 31,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19298,
+    "name": "Samuel Eto\"o Fils"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    110.3,
+    37.4
+  ],
+  "duration": 1.233141,
+  "related_events": [
+    "29f124ef-e1f6-46c1-a016-3ed178f398c8"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.21007702,
+    "end_location": [
+      120.0,
+      42.7,
+      0.2
+    ],
+    "key_pass_id": "10377050-770b-47aa-a843-7a7ca0dc0d39",
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.9,
+          28.4
+        ],
+        "player": {
+          "id": 5216,
+          "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.6,
+          46.1
+        ],
+        "player": {
+          "id": 11270,
+          "name": "Ei\u00f0ur Sm\u00e1ri Gu\u00f0johnsen"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.7,
+          37.9
+        ],
+        "player": {
+          "id": 20256,
+          "name": "Gr\u00e9gory Coupet"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.1,
+          36.5
+        ],
+        "player": {
+          "id": 19731,
+          "name": "Tom\u00e1\u0161 Ujfalu\u0161i"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.7,
+          36.0
+        ],
+        "player": {
+          "id": 26120,
+          "name": "Luis Amaranto Perea Mosquera"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.8,
+          42.2
+        ],
+        "player": {
+          "id": 19728,
+          "name": "Johnny Heitinga"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

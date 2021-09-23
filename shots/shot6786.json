@@ -1,0 +1,203 @@
+{
+  "id": "0fe2784a-0aae-476c-973c-411a88504f66",
+  "index": 2140,
+  "period": 2,
+  "timestamp": "00:10:48.960",
+  "minute": 55,
+  "second": 48,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 93,
+  "possession_team": {
+    "id": 771,
+    "name": "France"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 771,
+    "name": "France"
+  },
+  "player": {
+    "id": 3604,
+    "name": "Olivier Giroud"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    112.0,
+    34.0
+  ],
+  "duration": 0.2,
+  "related_events": [
+    "e43dab16-f0cd-483b-aa63-0aafa85f90ed",
+    "fb737da8-95bd-48dd-85bd-084c47599abb"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.17627539,
+    "end_location": [
+      113.0,
+      35.0
+    ],
+    "key_pass_id": "b06e2b96-97fa-45be-8838-d86daee0377f",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.0,
+          35.0
+        ],
+        "player": {
+          "id": 3037,
+          "name": "Moussa Sidi Yaya Demb\u00e9l\u00e9"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.0,
+          38.0
+        ],
+        "player": {
+          "id": 3509,
+          "name": "Thibaut Courtois"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          23.0
+        ],
+        "player": {
+          "id": 4375,
+          "name": "Blaise Matuidi"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.0,
+          22.0
+        ],
+        "player": {
+          "id": 4831,
+          "name": "Nacer Chadli"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          21.0
+        ],
+        "player": {
+          "id": 5484,
+          "name": "Lucas Hern\u00e1ndez Pi"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.0,
+          27.0
+        ],
+        "player": {
+          "id": 5642,
+          "name": "Axel Witsel"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          31.0
+        ],
+        "player": {
+          "id": 3009,
+          "name": "Kylian Mbapp\u00e9 Lottin"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.0,
+          32.0
+        ],
+        "player": {
+          "id": 3101,
+          "name": "Vincent Kompany"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          32.0
+        ],
+        "player": {
+          "id": 20005,
+          "name": "Toby Alderweireld"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

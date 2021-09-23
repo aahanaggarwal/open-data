@@ -1,0 +1,143 @@
+{
+  "id": "cc69d1e5-36bf-4522-ae6d-fa1459dfb877",
+  "index": 1648,
+  "period": 2,
+  "timestamp": "00:06:35.947",
+  "minute": 51,
+  "second": 35,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 107,
+  "possession_team": {
+    "id": 771,
+    "name": "France"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 771,
+    "name": "France"
+  },
+  "player": {
+    "id": 3009,
+    "name": "Kylian Mbapp\u00e9 Lottin"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    115.0,
+    55.0
+  ],
+  "duration": 0.28,
+  "related_events": [
+    "103cc7b6-f2e5-4648-a1d5-202973049731"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.09879184,
+    "end_location": [
+      118.0,
+      39.9,
+      0.6
+    ],
+    "key_pass_id": "0deaee58-85a1-43f7-9cdf-2caadd3edc2b",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.0,
+          52.0
+        ],
+        "player": {
+          "id": 3444,
+          "name": "Danijel Suba\u0161i\u0107"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          39.0
+        ],
+        "player": {
+          "id": 3604,
+          "name": "Olivier Giroud"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.0,
+          39.0
+        ],
+        "player": {
+          "id": 3471,
+          "name": "Dejan Lovren"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          51.0
+        ],
+        "player": {
+          "id": 5457,
+          "name": "Ivan Strini\u0107"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          51.0
+        ],
+        "player": {
+          "id": 5468,
+          "name": "Domagoj Vida"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

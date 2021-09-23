@@ -1,0 +1,221 @@
+{
+  "id": "b83ea6f2-ee99-4bee-ae01-2e0b61e78953",
+  "index": 2488,
+  "period": 2,
+  "timestamp": "00:27:05.888",
+  "minute": 72,
+  "second": 5,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 156,
+  "possession_team": {
+    "id": 972,
+    "name": "West Ham United LFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 972,
+    "name": "West Ham United LFC"
+  },
+  "player": {
+    "id": 18153,
+    "name": "Alisha Lehmann"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    111.2,
+    63.4
+  ],
+  "duration": 0.077457,
+  "related_events": [
+    "5cc18ef3-22e4-4c50-bb8f-1d18b8e12502",
+    "f570e326-b6d5-45bd-9dc0-9a163db06d87"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.07520498,
+    "end_location": [
+      120.0,
+      37.9,
+      1.0
+    ],
+    "key_pass_id": "f2590719-fa3b-4a30-b113-357ba6380b9b",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "deflected": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          100.4,
+          40.3
+        ],
+        "player": {
+          "id": 16393,
+          "name": "Ellie Brazil"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.7,
+          36.5
+        ],
+        "player": {
+          "id": 8297,
+          "name": "Adriana Leon"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.8,
+          43.1
+        ],
+        "player": {
+          "id": 15709,
+          "name": "Megan Walsh"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.2,
+          39.4
+        ],
+        "player": {
+          "id": 31528,
+          "name": "Matilde Lundorf Skovsen"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.2,
+          43.0
+        ],
+        "player": {
+          "id": 31558,
+          "name": "Martha Thomas"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          96.3,
+          44.9
+        ],
+        "player": {
+          "id": 16395,
+          "name": "Victoria Williams"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.7,
+          55.1
+        ],
+        "player": {
+          "id": 31529,
+          "name": "L\u00e9a Le Garrec"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.4,
+          51.8
+        ],
+        "player": {
+          "id": 16383,
+          "name": "Danique Kerkdijk"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.1,
+          46.9
+        ],
+        "player": {
+          "id": 31553,
+          "name": "Cecilie Redisch Kvamme"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.7,
+          46.8
+        ],
+        "player": {
+          "id": 15421,
+          "name": "Kenza Dali"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

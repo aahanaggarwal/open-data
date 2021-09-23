@@ -1,0 +1,205 @@
+{
+  "id": "eae14723-23ef-4e84-9b4b-221c9a4d31a2",
+  "index": 3080,
+  "period": 2,
+  "timestamp": "00:22:00.181",
+  "minute": 67,
+  "second": 0,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 166,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 4320,
+    "name": "Neymar da Silva Santos Junior"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    99.7,
+    25.3
+  ],
+  "duration": 0.774938,
+  "under_pressure": true,
+  "related_events": [
+    "399789e7-c972-4686-9f5d-c077c84a0415",
+    "ba5988cc-cdda-4a03-9444-d9e905268781"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.0355163,
+    "end_location": [
+      120.0,
+      48.4,
+      0.6
+    ],
+    "key_pass_id": "a4c4ffae-7159-42ca-8fcf-836a19db3e3a",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.1,
+          37.5
+        ],
+        "player": {
+          "id": 6576,
+          "name": "Gorka Iraizoz Moreno"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.9,
+          42.3
+        ],
+        "player": {
+          "id": 6789,
+          "name": "Mikel Balenziaga Oruesagasti"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.9,
+          36.5
+        ],
+        "player": {
+          "id": 4353,
+          "name": "Aymeric Laporte"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.5,
+          33.4
+        ],
+        "player": {
+          "id": 6656,
+          "name": "Mikel Rico Moreno"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.2,
+          31.0
+        ],
+        "player": {
+          "id": 26087,
+          "name": "Carlos Gurpegi Nausia"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.5,
+          29.2
+        ],
+        "player": {
+          "id": 11746,
+          "name": "Unai L\u00f3pez Cabrera"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.5,
+          24.8
+        ],
+        "player": {
+          "id": 6388,
+          "name": "Ander Iturraspe Derteano"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.9,
+          47.8
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.9,
+          35.6
+        ],
+        "player": {
+          "id": 3958,
+          "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

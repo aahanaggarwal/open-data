@@ -1,0 +1,144 @@
+{
+  "id": "c4dff855-d4c3-4c9e-a094-4da441af3f2a",
+  "index": 798,
+  "period": 1,
+  "timestamp": "00:20:19.290",
+  "minute": 20,
+  "second": 19,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 45,
+  "possession_team": {
+    "id": 59,
+    "name": "Aston Villa"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 59,
+    "name": "Aston Villa"
+  },
+  "player": {
+    "id": 40362,
+    "name": "Juan Pablo \u00c1ngel Arango"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    102.0,
+    53.5
+  ],
+  "duration": 0.35144,
+  "related_events": [
+    "638757f4-106a-4878-9da8-f4ee1ac0cf37"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.2991552,
+    "end_location": [
+      120.0,
+      38.7,
+      4.6
+    ],
+    "key_pass_id": "04b566c6-222e-458b-938a-b6a8c95c91f3",
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          101.3,
+          55.9
+        ],
+        "player": {
+          "id": 26194,
+          "name": "Pascal Cygan"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.7,
+          52.2
+        ],
+        "player": {
+          "id": 20015,
+          "name": "Jens Lehmann"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          87.2,
+          33.0
+        ],
+        "player": {
+          "id": 40222,
+          "name": "Laureano Bisan-Etame Mayer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.3,
+          43.5
+        ],
+        "player": {
+          "id": 15637,
+          "name": "Sulzeer Jeremiah \"Sol\" Campbell"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          87.5,
+          26.3
+        ],
+        "player": {
+          "id": 20180,
+          "name": "Marcus Allb\u00e4ck"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

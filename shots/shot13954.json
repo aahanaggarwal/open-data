@@ -1,0 +1,203 @@
+{
+  "id": "0b3f7c90-1475-40e6-a7ba-4cc92e9369cd",
+  "index": 205,
+  "period": 1,
+  "timestamp": "00:04:39.278",
+  "minute": 4,
+  "second": 39,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 12,
+  "possession_team": {
+    "id": 767,
+    "name": "Utah Royals"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 767,
+    "name": "Utah Royals"
+  },
+  "player": {
+    "id": 6817,
+    "name": "Christen Press"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    95.0,
+    49.0
+  ],
+  "duration": 1.352,
+  "related_events": [
+    "49e55f9f-5662-44ba-aea7-93763fa70c17"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.022972425,
+    "end_location": [
+      119.0,
+      44.0,
+      3.2
+    ],
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "first_time": true,
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          95.0,
+          43.0
+        ],
+        "player": {
+          "id": 5001,
+          "name": "Allie Long"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          87.0,
+          42.0
+        ],
+        "player": {
+          "id": 5006,
+          "name": "Beverly Yanez"
+        },
+        "position": {
+          "id": 14,
+          "name": "Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          37.0
+        ],
+        "player": {
+          "id": 5007,
+          "name": "Megan Oyster"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          47.0
+        ],
+        "player": {
+          "id": 5065,
+          "name": "Lauren Barnes"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          27.0
+        ],
+        "player": {
+          "id": 5069,
+          "name": "Theresa Nielsen"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          50.0
+        ],
+        "player": {
+          "id": 5024,
+          "name": "Amy Rodriguez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.0,
+          41.0
+        ],
+        "player": {
+          "id": 5066,
+          "name": "Lydia Williams"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.0,
+          30.0
+        ],
+        "player": {
+          "id": 5016,
+          "name": "Jessica Fishlock"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          42.0
+        ],
+        "player": {
+          "id": 5000,
+          "name": "Steph Catley"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

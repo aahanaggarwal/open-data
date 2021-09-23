@@ -1,0 +1,144 @@
+{
+  "id": "41883856-8b68-454d-933f-f327d28344aa",
+  "index": 3955,
+  "period": 2,
+  "timestamp": "00:48:06.891",
+  "minute": 93,
+  "second": 6,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 178,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    106.2,
+    38.5
+  ],
+  "duration": 0.2313,
+  "related_events": [
+    "5cd81009-8e22-4f98-96ad-bdbb530b72dc"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.25381058,
+    "end_location": [
+      109.1,
+      39.3,
+      1.1
+    ],
+    "key_pass_id": "b567c641-4a2e-4b4a-9f47-b1c20f280f89",
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          90.9,
+          25.8
+        ],
+        "player": {
+          "id": 7005,
+          "name": "Jo\u00e3o Pedro Cavaco Cancelo"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.5,
+          42.3
+        ],
+        "player": {
+          "id": 5470,
+          "name": "Ivan Rakiti\u0107"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          95.3,
+          23.6
+        ],
+        "player": {
+          "id": 3958,
+          "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.4,
+          37.8
+        ],
+        "player": {
+          "id": 3090,
+          "name": "Nicol\u00e1s Hern\u00e1n Otamendi"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.4,
+          38.9
+        ],
+        "player": {
+          "id": 25144,
+          "name": "Diego Alves Carreira"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

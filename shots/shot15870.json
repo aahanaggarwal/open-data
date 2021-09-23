@@ -1,0 +1,219 @@
+{
+  "id": "d19e756e-0adb-4686-ae2f-b2693a14ed3d",
+  "index": 650,
+  "period": 1,
+  "timestamp": "00:17:03.813",
+  "minute": 17,
+  "second": 3,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 42,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    100.2,
+    43.5
+  ],
+  "duration": 0.725414,
+  "related_events": [
+    "7d84f12b-d9b5-4ec0-a25c-094d48e68c94"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.1332327,
+    "end_location": [
+      120.0,
+      44.9,
+      1.3
+    ],
+    "key_pass_id": "21a7f44b-d1d6-493c-b887-1819a4d94c77",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          115.9,
+          40.4
+        ],
+        "player": {
+          "id": 20446,
+          "name": "Shay Given"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.9,
+          30.5
+        ],
+        "player": {
+          "id": 40229,
+          "name": "Darren Ambrose"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.6,
+          39.3
+        ],
+        "player": {
+          "id": 38412,
+          "name": "Kolo Habib Tour\u00e9"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.9,
+          28.5
+        ],
+        "player": {
+          "id": 26014,
+          "name": "Eduardo C\u00e9sar Daude Gaspar"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.6,
+          53.5
+        ],
+        "player": {
+          "id": 24799,
+          "name": "Gary Speed"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.8,
+          50.9
+        ],
+        "player": {
+          "id": 23816,
+          "name": "Jos\u00e9 Antonio Reyes Calder\u00f3n"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.6,
+          48.4
+        ],
+        "player": {
+          "id": 40233,
+          "name": "Olivier Bernard"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          44.9
+        ],
+        "player": {
+          "id": 38418,
+          "name": "Jonathan Woodgate"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.1,
+          40.3
+        ],
+        "player": {
+          "id": 40225,
+          "name": "Andy O\"Brien"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.7,
+          34.2
+        ],
+        "player": {
+          "id": 20059,
+          "name": "Aaron Hughes"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

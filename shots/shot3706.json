@@ -1,0 +1,188 @@
+{
+  "id": "27f5dccf-15de-4082-8155-58fc0654c93c",
+  "index": 802,
+  "period": 1,
+  "timestamp": "00:24:23.268",
+  "minute": 24,
+  "second": 23,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 57,
+  "possession_team": {
+    "id": 749,
+    "name": "Tottenham Hotspur Women"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 749,
+    "name": "Tottenham Hotspur Women"
+  },
+  "player": {
+    "id": 15721,
+    "name": "Gemma Suzanne Davison"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    96.5,
+    24.9
+  ],
+  "duration": 0.300205,
+  "related_events": [
+    "946cd99d-f30d-48b9-b676-89fb0b9c01a1",
+    "d470aecf-c1c1-4fdb-836a-129f8e9d6a74"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.027472392,
+    "end_location": [
+      104.1,
+      30.8
+    ],
+    "key_pass_id": "a26940d9-13c9-461b-8d76-c2a595380fb1",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.2,
+          30.8
+        ],
+        "player": {
+          "id": 15720,
+          "name": "Sophie Howard"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.2,
+          36.7
+        ],
+        "player": {
+          "id": 10190,
+          "name": "Jade Moore"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.9,
+          38.5
+        ],
+        "player": {
+          "id": 15719,
+          "name": "Grace Moloney"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.1,
+          23.5
+        ],
+        "player": {
+          "id": 31628,
+          "name": "Kristine Leine"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.9,
+          50.3
+        ],
+        "player": {
+          "id": 15724,
+          "name": "Mayumi Pacheco"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.8,
+          46.8
+        ],
+        "player": {
+          "id": 10198,
+          "name": "Josanne Potter"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.1,
+          52.0
+        ],
+        "player": {
+          "id": 18145,
+          "name": "Ria Percival"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.5,
+          24.7
+        ],
+        "player": {
+          "id": 31702,
+          "name": "Rianna Dean"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

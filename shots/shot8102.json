@@ -1,0 +1,172 @@
+{
+  "id": "ce075280-30a9-47e1-812f-81b757ec1c11",
+  "index": 1236,
+  "period": 1,
+  "timestamp": "00:28:52.876",
+  "minute": 28,
+  "second": 52,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 65,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 422,
+    "name": "Osasuna"
+  },
+  "player": {
+    "id": 30277,
+    "name": "Jon Moncayola Tollar"
+  },
+  "position": {
+    "id": 10,
+    "name": "Center Defensive Midfield"
+  },
+  "location": [
+    77.5,
+    78.1
+  ],
+  "duration": 1.5929,
+  "related_events": [
+    "f4d59e79-2b4a-48e0-8b6b-899d40b24fe4"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.098546475,
+    "end_location": [
+      109.2,
+      46.8,
+      1.8
+    ],
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          83.1,
+          46.3
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          74.6,
+          63.8
+        ],
+        "player": {
+          "id": 24841,
+          "name": "Ricard Puig Mart\u00ed"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          68.9,
+          61.6
+        ],
+        "player": {
+          "id": 6826,
+          "name": "Cl\u00e9ment Lenglet"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          69.7,
+          32.7
+        ],
+        "player": {
+          "id": 6374,
+          "name": "N\u00e9lson Cabral Semedo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.6,
+          43.9
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          72.9,
+          39.8
+        ],
+        "player": {
+          "id": 6810,
+          "name": "Jos\u00e9 Manuel Arn\u00e1iz D\u00edaz"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          64.6,
+          57.9
+        ],
+        "player": {
+          "id": 6735,
+          "name": "Adri\u00e1n L\u00f3pez \u00c1lvarez"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

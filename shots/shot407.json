@@ -1,0 +1,190 @@
+{
+  "id": "e0c9e3e6-79d4-45d3-9edf-1d854b9ebc92",
+  "index": 2588,
+  "period": 2,
+  "timestamp": "00:30:41.107",
+  "minute": 75,
+  "second": 41,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 188,
+  "possession_team": {
+    "id": 763,
+    "name": "Sky Blue FC"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 763,
+    "name": "Sky Blue FC"
+  },
+  "player": {
+    "id": 5097,
+    "name": "Carli Lloyd"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    113.0,
+    40.0
+  ],
+  "duration": 1.957,
+  "under_pressure": true,
+  "related_events": [
+    "6311b307-1583-4edc-b65f-2f6515845ec0",
+    "df5c2031-95e8-4d76-9229-ff6dd85b7730"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.10711456,
+    "end_location": [
+      113.0,
+      30.0
+    ],
+    "key_pass_id": "a7df4e3f-64c3-4091-a241-76418a8a2fbb",
+    "aerial_won": true,
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "outcome": {
+      "id": 101,
+      "name": "Wayward"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          120.0,
+          71.0
+        ],
+        "player": {
+          "id": 5096,
+          "name": "Savannah McCaskill"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.0,
+          60.0
+        ],
+        "player": {
+          "id": 4958,
+          "name": "Kathleen Naughton"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          67.0
+        ],
+        "player": {
+          "id": 6811,
+          "name": "Julie Ertz"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          41.0
+        ],
+        "player": {
+          "id": 5100,
+          "name": "Alyssa Naeher"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          40.0
+        ],
+        "player": {
+          "id": 4965,
+          "name": "Nikki Stanton"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          32.0
+        ],
+        "player": {
+          "id": 4953,
+          "name": "Alyssa Mautz"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          35.0
+        ],
+        "player": {
+          "id": 4992,
+          "name": "Janine Beckie"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.0,
+          40.0
+        ],
+        "player": {
+          "id": 4942,
+          "name": "Arin Gilliland"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

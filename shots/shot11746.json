@@ -1,0 +1,173 @@
+{
+  "id": "1e663b32-5776-4d5f-b7d0-ba5a49dee682",
+  "index": 2817,
+  "period": 2,
+  "timestamp": "00:26:04.280",
+  "minute": 71,
+  "second": 4,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 135,
+  "possession_team": {
+    "id": 777,
+    "name": "Tunisia"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 777,
+    "name": "Tunisia"
+  },
+  "player": {
+    "id": 3196,
+    "name": "Wahbi Khazri"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    106.0,
+    60.0
+  ],
+  "duration": 0.333,
+  "related_events": [
+    "cca5c908-33f0-42ba-9bee-821c2e7cfe49",
+    "f5837f3f-e024-40a8-a02d-d54347ea1b71"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.027727345,
+    "end_location": [
+      109.0,
+      59.0
+    ],
+    "key_pass_id": "613d3e1e-b962-412b-8ae3-7768934d0350",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          109.0,
+          59.0
+        ],
+        "player": {
+          "id": 3244,
+          "name": "John Stones"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          57.0
+        ],
+        "player": {
+          "id": 3336,
+          "name": "Harry Maguire"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          62.0
+        ],
+        "player": {
+          "id": 3612,
+          "name": "Ashley Young"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          37.0
+        ],
+        "player": {
+          "id": 3205,
+          "name": "Kyle Walker"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          28.0
+        ],
+        "player": {
+          "id": 3308,
+          "name": "Kieran Trippier"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.0,
+          29.0
+        ],
+        "player": {
+          "id": 3557,
+          "name": "Na\u00efm Sliti"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          120.0,
+          44.0
+        ],
+        "player": {
+          "id": 3468,
+          "name": "Jordan Pickford"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "id": "fc0d0f6f-2d3a-4b98-ac8e-92b975c2dcc8",
+  "index": 1121,
+  "period": 1,
+  "timestamp": "00:27:25.591",
+  "minute": 27,
+  "second": 25,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 68,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    106.5,
+    33.2
+  ],
+  "duration": 0.7528,
+  "related_events": [
+    "f2c96d50-7dc8-40a3-8cfa-9f44dad52685"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.18960457,
+    "end_location": [
+      120.0,
+      43.7,
+      0.2
+    ],
+    "key_pass_id": "335408fd-283a-4bab-ab39-af69024e20ba",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          114.7,
+          37.1
+        ],
+        "player": {
+          "id": 26397,
+          "name": "Renan Brito Soares"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.2,
+          32.2
+        ],
+        "player": {
+          "id": 7030,
+          "name": "Ra\u00fal Albiol Tortajada"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          38.6
+        ],
+        "player": {
+          "id": 26396,
+          "name": "Hedwiges Maduro"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.6,
+          46.5
+        ],
+        "player": {
+          "id": 20128,
+          "name": "David Albelda Aliqu\u00e9s"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.7,
+          48.5
+        ],
+        "player": {
+          "id": 26398,
+          "name": "Asier del Horno Cosgaya"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.5,
+          30.6
+        ],
+        "player": {
+          "id": 6350,
+          "name": "Manuel Henrique Tavares Fernandes"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

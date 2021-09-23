@@ -1,0 +1,131 @@
+{
+  "id": "5f0ada0a-e03c-4ec8-a9c3-1a1c6bcc1987",
+  "index": 592,
+  "period": 1,
+  "timestamp": "00:14:26.818",
+  "minute": 14,
+  "second": 26,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 32,
+  "possession_team": {
+    "id": 219,
+    "name": "Deportivo La Coruna"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 219,
+    "name": "Deportivo La Coruna"
+  },
+  "player": {
+    "id": 26288,
+    "name": "Jonathan Javier Rodr\u00edguez Portillo"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    114.1,
+    31.2
+  ],
+  "duration": 0.1289,
+  "under_pressure": true,
+  "related_events": [
+    "0411ff3f-908c-48b8-b152-9d25de59571c",
+    "35caf06e-9d3c-4a74-978c-84c776e03a3a"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.14401191,
+    "end_location": [
+      115.4,
+      32.8,
+      0.2
+    ],
+    "key_pass_id": "1dafe8c0-34ab-44aa-a658-e8d1727c96b1",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          116.0,
+          33.4
+        ],
+        "player": {
+          "id": 4691,
+          "name": "Claudio Andr\u00e9s Bravo Mu\u00f1oz"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.4,
+          32.6
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.2,
+          35.2
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.8,
+          18.7
+        ],
+        "player": {
+          "id": 6734,
+          "name": "Luis Carlos Correia Pinto"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

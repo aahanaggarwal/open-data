@@ -1,0 +1,203 @@
+{
+  "id": "3f3cf082-d3b6-4277-bed5-a3a4f218b80c",
+  "index": 60,
+  "period": 1,
+  "timestamp": "00:00:55.812",
+  "minute": 0,
+  "second": 55,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 3,
+  "possession_team": {
+    "id": 46,
+    "name": "Wolverhampton Wanderers"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 46,
+    "name": "Wolverhampton Wanderers"
+  },
+  "player": {
+    "id": 40313,
+    "name": "Colin Cameron"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    91.5,
+    24.6
+  ],
+  "duration": 2.027407,
+  "related_events": [
+    "e6af5c74-b0b3-4440-9aae-17b3c67c1c7e"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.00884863,
+    "end_location": [
+      118.7,
+      36.6,
+      0.2
+    ],
+    "key_pass_id": "bfe0cfc5-c6bf-4aed-9eb9-0ad7604d16af",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.6,
+          39.4
+        ],
+        "player": {
+          "id": 20015,
+          "name": "Jens Lehmann"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.5,
+          18.1
+        ],
+        "player": {
+          "id": 38412,
+          "name": "Kolo Habib Tour\u00e9"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.1,
+          43.0
+        ],
+        "player": {
+          "id": 20302,
+          "name": "Ga\u00ebl Clichy"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.1,
+          36.1
+        ],
+        "player": {
+          "id": 26194,
+          "name": "Pascal Cygan"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.9,
+          26.2
+        ],
+        "player": {
+          "id": 15515,
+          "name": "Patrick Vieira"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.9,
+          26.6
+        ],
+        "player": {
+          "id": 15637,
+          "name": "Sulzeer Jeremiah \"Sol\" Campbell"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          84.6,
+          17.3
+        ],
+        "player": {
+          "id": 15754,
+          "name": "Fredrik Ljungberg"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.8,
+          42.3
+        ],
+        "player": {
+          "id": 40308,
+          "name": "Henri Camara"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          98.8,
+          22.6
+        ],
+        "player": {
+          "id": 10525,
+          "name": "Kenny Miller"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

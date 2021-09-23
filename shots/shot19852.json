@@ -1,0 +1,220 @@
+{
+  "id": "2866061e-c46c-430e-89d9-ce7bb6fe4836",
+  "index": 1402,
+  "period": 1,
+  "timestamp": "00:36:50.807",
+  "minute": 36,
+  "second": 50,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 94,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    116.8,
+    29.2
+  ],
+  "duration": 0.1682,
+  "under_pressure": true,
+  "related_events": [
+    "8b25bea9-b3e0-46b1-8471-3bd7bbc82413",
+    "d339d9b9-7009-4d93-8ee5-c087ed367a01"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.07202372,
+    "end_location": [
+      117.5,
+      31.1,
+      0.8
+    ],
+    "key_pass_id": "24e17a10-73ee-4465-8fec-9df2b694f492",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.1,
+          38.7
+        ],
+        "player": {
+          "id": 27089,
+          "name": "Raoul C\u00e9dric Lo\u00e9"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.4,
+          42.6
+        ],
+        "player": {
+          "id": 25896,
+          "name": "Dami\u00e0 Abella P\u00e9rez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          32.7
+        ],
+        "player": {
+          "id": 6869,
+          "name": "Alejandro Arribas Garrido"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.1,
+          31.7
+        ],
+        "player": {
+          "id": 25874,
+          "name": "Francisco Pu\u00f1al Mart\u00ednez"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.3,
+          27.6
+        ],
+        "player": {
+          "id": 26807,
+          "name": "Marc Bertr\u00e1n Vilanova"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.5,
+          34.6
+        ],
+        "player": {
+          "id": 24313,
+          "name": "Miguel Fla\u00f1o Bezunartea"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.3,
+          31.3
+        ],
+        "player": {
+          "id": 8697,
+          "name": "Andr\u00e9s Eduardo Fern\u00e1ndez Moreno"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.1,
+          48.2
+        ],
+        "player": {
+          "id": 3478,
+          "name": "Francesc F\u00e0bregas i Soler"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.5,
+          43.8
+        ],
+        "player": {
+          "id": 3385,
+          "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.9,
+          18.8
+        ],
+        "player": {
+          "id": 6658,
+          "name": "Cristian Tello Herrera"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

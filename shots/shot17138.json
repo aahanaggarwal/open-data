@@ -1,0 +1,159 @@
+{
+  "id": "0205e92f-e8ca-4bb2-9e30-585bcb1770b4",
+  "index": 3284,
+  "period": 2,
+  "timestamp": "00:38:41.986",
+  "minute": 83,
+  "second": 41,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 176,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 6658,
+    "name": "Cristian Tello Herrera"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    118.0,
+    54.3
+  ],
+  "duration": 0.1263,
+  "related_events": [
+    "a09782d4-0307-4363-b441-20dc057adf6f"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.041596152,
+    "end_location": [
+      118.3,
+      52.3,
+      0.2
+    ],
+    "key_pass_id": "a3a43e4b-82a8-43c0-a9dc-9d1ccd35a18b",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.4,
+          52.1
+        ],
+        "player": {
+          "id": 26146,
+          "name": "Dud\u00fa Aouate"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          46.5
+        ],
+        "player": {
+          "id": 25992,
+          "name": "Jos\u00e9 Carlos de Ara\u00fajo Nunes"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.2,
+          54.5
+        ],
+        "player": {
+          "id": 24191,
+          "name": "Alejandro Alfaro Ligero"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.2,
+          38.9
+        ],
+        "player": {
+          "id": 6778,
+          "name": "Iv\u00e1n Ramis Barrios"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.3,
+          37.7
+        ],
+        "player": {
+          "id": 25948,
+          "name": "Jose Luis Mart\u00ed Soler"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.2,
+          40.8
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

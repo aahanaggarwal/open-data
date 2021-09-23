@@ -1,0 +1,160 @@
+{
+  "id": "f24059fe-bcf0-4d75-ab7d-05bd31d6e0f7",
+  "index": 879,
+  "period": 1,
+  "timestamp": "00:20:20.708",
+  "minute": 20,
+  "second": 20,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 32,
+  "possession_team": {
+    "id": 764,
+    "name": "Orlando Pride"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 764,
+    "name": "Orlando Pride"
+  },
+  "player": {
+    "id": 5063,
+    "name": "Chioma Ubogagu"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    107.7,
+    35.8
+  ],
+  "duration": 1.019334,
+  "related_events": [
+    "19739ff4-f0d0-4ba3-8ffc-ee8dc5f2480d"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "open_goal": true,
+    "statsbomb_xg": 0.7262999,
+    "end_location": [
+      120.0,
+      39.8,
+      0.2
+    ],
+    "key_pass_id": "9e01fc58-f0b9-4433-a2a3-e1d2302c3201",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          106.9,
+          38.9
+        ],
+        "player": {
+          "id": 5025,
+          "name": "Aubrey Bledsoe"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.1,
+          46.3
+        ],
+        "player": {
+          "id": 30650,
+          "name": "Samantha Staab"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.8,
+          64.0
+        ],
+        "player": {
+          "id": 30648,
+          "name": "Dorian Bailey"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.7,
+          36.6
+        ],
+        "player": {
+          "id": 32632,
+          "name": "Bayley Feist"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.8,
+          38.9
+        ],
+        "player": {
+          "id": 34828,
+          "name": "McKenzie Berryhill"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.9,
+          27.9
+        ],
+        "player": {
+          "id": 30522,
+          "name": "Joanna Boyles"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

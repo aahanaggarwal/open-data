@@ -1,0 +1,175 @@
+{
+  "id": "3b0117b2-0c51-493a-abec-57e86e46d391",
+  "index": 3258,
+  "period": 2,
+  "timestamp": "00:47:03.332",
+  "minute": 92,
+  "second": 3,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 177,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    107.1,
+    43.1
+  ],
+  "duration": 0.2303,
+  "under_pressure": true,
+  "related_events": [
+    "2dcc9eaf-2731-4618-ad37-899724e5ce16",
+    "3da86c09-5ef2-43a4-b2df-af57e8e76d76"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.36397308,
+    "end_location": [
+      111.2,
+      42.2,
+      0.4
+    ],
+    "key_pass_id": "9911f79e-f145-40ab-bd7f-94fbade673df",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          111.8,
+          41.9
+        ],
+        "player": {
+          "id": 6730,
+          "name": "Rub\u00e9n Iv\u00e1n Mart\u00ednez Andrade"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.8,
+          39.8
+        ],
+        "player": {
+          "id": 27461,
+          "name": "Francisco Manuel V\u00e9lez Jim\u00e9nez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.7,
+          42.0
+        ],
+        "player": {
+          "id": 27458,
+          "name": "Jonathan Sundy Zongo"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          40.6
+        ],
+        "player": {
+          "id": 27246,
+          "name": "Sebasti\u00e1n Dubarbier"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.5,
+          39.1
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.2,
+          36.7
+        ],
+        "player": {
+          "id": 6923,
+          "name": "Joaqu\u00edn Navarro Jim\u00e9nez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.1,
+          30.6
+        ],
+        "player": {
+          "id": 4320,
+          "name": "Neymar da Silva Santos Junior"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

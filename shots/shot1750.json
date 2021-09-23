@@ -1,0 +1,206 @@
+{
+  "id": "a4f91283-6266-490a-aad7-56d3db162411",
+  "index": 3225,
+  "period": 2,
+  "timestamp": "00:31:27.024",
+  "minute": 76,
+  "second": 27,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 147,
+  "possession_team": {
+    "id": 219,
+    "name": "Deportivo La Coruna"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 219,
+    "name": "Deportivo La Coruna"
+  },
+  "player": {
+    "id": 6732,
+    "name": "Lucas P\u00e9rez Mart\u00ednez"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    111.8,
+    47.7
+  ],
+  "duration": 0.6339,
+  "under_pressure": true,
+  "related_events": [
+    "7b7dddc4-d2f7-49e7-8290-b605854a6922",
+    "823a5ffc-f9d7-426f-9bc9-a0cbb14e5146"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.43912175,
+    "end_location": [
+      120.0,
+      37.8,
+      1.2
+    ],
+    "key_pass_id": "90481a01-b2f1-4133-9bcc-a94f6ba47a97",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.7,
+          41.9
+        ],
+        "player": {
+          "id": 4691,
+          "name": "Claudio Andr\u00e9s Bravo Mu\u00f1oz"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.2,
+          39.0
+        ],
+        "player": {
+          "id": 7782,
+          "name": "Luis Alberto Romero Alconchel"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.3,
+          41.3
+        ],
+        "player": {
+          "id": 10852,
+          "name": "Miguel Filipe Nunes Cardoso"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          93.5,
+          48.9
+        ],
+        "player": {
+          "id": 5216,
+          "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.8,
+          31.6
+        ],
+        "player": {
+          "id": 6379,
+          "name": "Sergi Roberto Carnicer"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.7,
+          39.3
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.2,
+          43.6
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.2,
+          45.2
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.8,
+          47.7
+        ],
+        "player": {
+          "id": 10609,
+          "name": "J\u00e9r\u00e9my Mathieu"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

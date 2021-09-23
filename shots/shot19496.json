@@ -1,0 +1,203 @@
+{
+  "id": "1dda1284-0895-4c9a-b9b0-5fb2ce99d381",
+  "index": 2215,
+  "period": 2,
+  "timestamp": "00:16:09.560",
+  "minute": 61,
+  "second": 9,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 128,
+  "possession_team": {
+    "id": 796,
+    "name": "Russia"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 796,
+    "name": "Russia"
+  },
+  "player": {
+    "id": 5195,
+    "name": "Artem Dzyuba"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    108.0,
+    44.0
+  ],
+  "duration": 0.733,
+  "related_events": [
+    "b57af0d7-78f2-45ca-9b3a-173cf1fef06c"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.23581284,
+    "end_location": [
+      119.0,
+      44.0,
+      0.5
+    ],
+    "key_pass_id": "894f529e-6796-4e6b-8113-27651435b820",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          109.0,
+          41.0
+        ],
+        "player": {
+          "id": 4063,
+          "name": "Ahmed Hegazi"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          48.0
+        ],
+        "player": {
+          "id": 5263,
+          "name": "Mohamed Abdul Shafy Sayed Abouezeid"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          38.0
+        ],
+        "player": {
+          "id": 5250,
+          "name": "Ahmed Fathy Abdel Meneim Ibrahim"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          35.0
+        ],
+        "player": {
+          "id": 5186,
+          "name": "Denis Cheryshev"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          98.0,
+          38.0
+        ],
+        "player": {
+          "id": 3568,
+          "name": "Mohamed Naser Elsayed Elneny"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          50.0
+        ],
+        "player": {
+          "id": 5262,
+          "name": "Tarek Hamed"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          44.0
+        ],
+        "player": {
+          "id": 5254,
+          "name": "Ali Gabr"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          42.0
+        ],
+        "player": {
+          "id": 5265,
+          "name": "Mohamed El Shenawy"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          55.0
+        ],
+        "player": {
+          "id": 5182,
+          "name": "Aleksandr Samedov"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

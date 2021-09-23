@@ -1,0 +1,189 @@
+{
+  "id": "0638b14d-ea0f-4270-a15e-87cae56ebead",
+  "index": 3219,
+  "period": 2,
+  "timestamp": "00:21:36.367",
+  "minute": 66,
+  "second": 36,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 131,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3385,
+    "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    116.5,
+    32.3
+  ],
+  "duration": 0.414113,
+  "related_events": [
+    "44a38657-7e37-4eff-9724-9b0a7599f0e3"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.18996234,
+    "end_location": [
+      120.0,
+      37.1,
+      3.6
+    ],
+    "key_pass_id": "27a2b9e2-3bf4-4339-9b82-df4a707b84cf",
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 90,
+      "name": "Diving Header"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.8,
+          44.5
+        ],
+        "player": {
+          "id": 20669,
+          "name": "Tiago Cardoso Mendes"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.4,
+          37.4
+        ],
+        "player": {
+          "id": 5551,
+          "name": "Jo\u00e3o Miranda de Souza Filho"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.8,
+          43.4
+        ],
+        "player": {
+          "id": 5249,
+          "name": "Diego Roberto God\u00edn Leal"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          57.4
+        ],
+        "player": {
+          "id": 11094,
+          "name": "Arda Turan"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          41.4
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.3,
+          39.4
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.7,
+          34.6
+        ],
+        "player": {
+          "id": 6375,
+          "name": "Juan Francisco Torres Bel\u00e9n"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.5,
+          38.6
+        ],
+        "player": {
+          "id": 3509,
+          "name": "Thibaut Courtois"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

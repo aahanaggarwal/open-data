@@ -1,0 +1,204 @@
+{
+  "id": "262196d5-c437-4480-b70b-bd9ab54779bb",
+  "index": 3517,
+  "period": 2,
+  "timestamp": "00:41:52.388",
+  "minute": 86,
+  "second": 52,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 189,
+  "possession_team": {
+    "id": 901,
+    "name": "Real Valladolid"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 901,
+    "name": "Real Valladolid"
+  },
+  "player": {
+    "id": 26186,
+    "name": "Bartholomew Ogbeche"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    104.8,
+    37.1
+  ],
+  "duration": 0.5909,
+  "under_pressure": true,
+  "related_events": [
+    "2ea91e7d-fb16-48ba-864e-16f2aeb09f7d",
+    "f60d442f-8749-4cd5-ad71-c8f7d5365b1a"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.09867615,
+    "end_location": [
+      117.3,
+      42.1,
+      1.8
+    ],
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.2,
+          42.0
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.3,
+          26.4
+        ],
+        "player": {
+          "id": 26184,
+          "name": "\u00d3scar S\u00e1nchez Fuentes"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.8,
+          36.1
+        ],
+        "player": {
+          "id": 5216,
+          "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          38.5
+        ],
+        "player": {
+          "id": 25919,
+          "name": "Gabriel Alejandro Milito"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.1,
+          40.5
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.4,
+          42.5
+        ],
+        "player": {
+          "id": 15774,
+          "name": "Gianluca Zambrotta"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.4,
+          42.0
+        ],
+        "player": {
+          "id": 26053,
+          "name": "\u00c1ngel Manuel Vivar Dorado"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.9,
+          45.7
+        ],
+        "player": {
+          "id": 25854,
+          "name": "Sylvio Mendes Campos Junior"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.2,
+          44.3
+        ],
+        "player": {
+          "id": 26185,
+          "name": "V\u00edctor Manuel Fern\u00e1ndez Guti\u00e9rrez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "id": "9c6e1358-aa7f-4ffb-9bd8-6e6d2acf39ac",
+  "index": 2444,
+  "period": 2,
+  "timestamp": "00:27:24.696",
+  "minute": 72,
+  "second": 24,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 148,
+  "possession_team": {
+    "id": 764,
+    "name": "Orlando Pride"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 764,
+    "name": "Orlando Pride"
+  },
+  "player": {
+    "id": 5062,
+    "name": "Dani Weatherholt"
+  },
+  "position": {
+    "id": 10,
+    "name": "Center Defensive Midfield"
+  },
+  "location": [
+    116.0,
+    42.0
+  ],
+  "duration": 0.979,
+  "related_events": [
+    "77940ab5-1c60-480b-b7b4-5c95d70c951b"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "open_goal": true,
+    "statsbomb_xg": 0.81565976,
+    "end_location": [
+      119.0,
+      42.8,
+      1.2
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.0,
+          41.0
+        ],
+        "player": {
+          "id": 4981,
+          "name": "Kailen Sheridan"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          39.0
+        ],
+        "player": {
+          "id": 5098,
+          "name": "Erica Skroski"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          50.0
+        ],
+        "player": {
+          "id": 4970,
+          "name": "Amanda Frisbie"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          38.0
+        ],
+        "player": {
+          "id": 4974,
+          "name": "Mandy Freeman"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          37.0
+        ],
+        "player": {
+          "id": 4985,
+          "name": "Christina Gibbons"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

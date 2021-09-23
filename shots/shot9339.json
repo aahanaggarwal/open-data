@@ -1,0 +1,236 @@
+{
+  "id": "04948584-8217-48d0-9853-dcf4d7143860",
+  "index": 377,
+  "period": 1,
+  "timestamp": "00:09:50.848",
+  "minute": 9,
+  "second": 50,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 24,
+  "possession_team": {
+    "id": 24,
+    "name": "Liverpool"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 24,
+    "name": "Liverpool"
+  },
+  "player": {
+    "id": 26649,
+    "name": "Jermaine Pennant"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    110.7,
+    55.3
+  ],
+  "duration": 0.54737,
+  "under_pressure": true,
+  "related_events": [
+    "02e7a96a-d00d-4442-9bcc-7182ecaf9ff2",
+    "e5828d80-2e12-4b3e-8088-77c5e9a1f992"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.07891242,
+    "end_location": [
+      116.5,
+      44.2,
+      0.3
+    ],
+    "key_pass_id": "f55f906f-f807-4c69-8e49-7ca313007de9",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          103.4,
+          36.4
+        ],
+        "player": {
+          "id": 19109,
+          "name": "Steven Gerrard"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.9,
+          44.8
+        ],
+        "player": {
+          "id": 20195,
+          "name": "Dirk Kuijt"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          88.6,
+          32.9
+        ],
+        "player": {
+          "id": 19849,
+          "name": "Andrea Pirlo"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.8,
+          35.1
+        ],
+        "player": {
+          "id": 19877,
+          "name": "Massimo Oddo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.4,
+          42.0
+        ],
+        "player": {
+          "id": 15778,
+          "name": "Alessandro Nesta"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.7,
+          53.3
+        ],
+        "player": {
+          "id": 15116,
+          "name": "Paolo Maldini"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          87.3,
+          20.9
+        ],
+        "player": {
+          "id": 17793,
+          "name": "Boudewijn Zenden"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.6,
+          44.9
+        ],
+        "player": {
+          "id": 34393,
+          "name": "Nelson de Jesus da Silva"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          87.0,
+          33.0
+        ],
+        "player": {
+          "id": 17607,
+          "name": "Massimo Ambrosini"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          86.2,
+          30.2
+        ],
+        "player": {
+          "id": 20142,
+          "name": "Ivan Gennaro Gattuso"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.7,
+          48.5
+        ],
+        "player": {
+          "id": 17961,
+          "name": "Marek Jankulovski"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "104a8dc5-a024-4f41-a62b-f8bff0940b38",
+  "index": 2663,
+  "period": 2,
+  "timestamp": "00:21:01.098",
+  "minute": 66,
+  "second": 1,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 132,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 5,
+    "name": "Other"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 4320,
+    "name": "Neymar da Silva Santos Junior"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    108.1,
+    40.1
+  ],
+  "duration": 0.4728,
+  "related_events": [
+    "eb864242-ea94-41e1-9b50-e4bba0847f89"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.76,
+    "end_location": [
+      120.0,
+      40.2,
+      3.8
+    ],
+    "follows_dribble": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 88,
+      "name": "Penalty"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.4,
+          40.0
+        ],
+        "player": {
+          "id": 26753,
+          "name": "Javier Varas Herrera"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

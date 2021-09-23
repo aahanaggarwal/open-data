@@ -1,0 +1,189 @@
+{
+  "id": "3eb4da6e-e6aa-49a5-98e5-a64988047d68",
+  "index": 509,
+  "period": 1,
+  "timestamp": "00:10:17.384",
+  "minute": 10,
+  "second": 17,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 26,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    117.2,
+    44.6
+  ],
+  "duration": 0.2147,
+  "related_events": [
+    "c6209ca6-356e-4bf8-93d8-1f68491d4476"
+  ],
+  "shot": {
+    "open_goal": true,
+    "statsbomb_xg": 0.7201212,
+    "end_location": [
+      120.0,
+      43.0,
+      0.0
+    ],
+    "key_pass_id": "d7237dea-4e6a-4b45-b8d4-c475b8ba8d85",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.3,
+          41.8
+        ],
+        "player": {
+          "id": 24313,
+          "name": "Miguel Fla\u00f1o Bezunartea"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.5,
+          29.0
+        ],
+        "player": {
+          "id": 26254,
+          "name": "Manuel Jes\u00fas Ortiz Toribio"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.2,
+          27.7
+        ],
+        "player": {
+          "id": 22102,
+          "name": "Adriano Correia Claro"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.0,
+          39.6
+        ],
+        "player": {
+          "id": 12737,
+          "name": "David Villa S\u00e1nchez"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.2,
+          30.9
+        ],
+        "player": {
+          "id": 6869,
+          "name": "Alejandro Arribas Garrido"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.6,
+          38.8
+        ],
+        "player": {
+          "id": 26807,
+          "name": "Marc Bertr\u00e1n Vilanova"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.4,
+          43.7
+        ],
+        "player": {
+          "id": 27088,
+          "name": "Fernando Macedo Da Silva Rodilla"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.5,
+          42.3
+        ],
+        "player": {
+          "id": 8697,
+          "name": "Andr\u00e9s Eduardo Fern\u00e1ndez Moreno"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

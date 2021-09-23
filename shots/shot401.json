@@ -1,0 +1,99 @@
+{
+  "id": "2413fe72-683e-4e69-b54a-0ea0c5d4d864",
+  "index": 2161,
+  "period": 2,
+  "timestamp": "00:18:36.645",
+  "minute": 63,
+  "second": 36,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 158,
+  "possession_team": {
+    "id": 761,
+    "name": "Chicago Red Stars"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 761,
+    "name": "Chicago Red Stars"
+  },
+  "player": {
+    "id": 4961,
+    "name": "Samantha Kerr"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    111.0,
+    24.0
+  ],
+  "duration": 0.797,
+  "related_events": [
+    "3ffee5cb-5f6f-44fe-aa77-11dd2e5b25e3"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.23728302,
+    "end_location": [
+      115.0,
+      44.0,
+      0.3
+    ],
+    "key_pass_id": "0a58a88b-fc12-4b5b-ad6a-be0062a88724",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          53.0,
+          80.0
+        ],
+        "player": {
+          "id": 5100,
+          "name": "Alyssa Naeher"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.0,
+          31.0
+        ],
+        "player": {
+          "id": 4981,
+          "name": "Kailen Sheridan"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

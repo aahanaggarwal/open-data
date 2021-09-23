@@ -1,0 +1,249 @@
+{
+  "id": "31e7c7f0-c510-4c78-b928-620a0589cb66",
+  "index": 2999,
+  "period": 2,
+  "timestamp": "00:30:20.507",
+  "minute": 75,
+  "second": 20,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 152,
+  "possession_team": {
+    "id": 781,
+    "name": "Brazil"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 781,
+    "name": "Brazil"
+  },
+  "player": {
+    "id": 5553,
+    "name": "Renato Soares de Oliveira Augusto"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    111.0,
+    42.0
+  ],
+  "duration": 0.933,
+  "related_events": [
+    "734d9d9a-8569-4619-986b-5b292ca2e8d5"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.1786923,
+    "end_location": [
+      120.0,
+      43.8,
+      0.5
+    ],
+    "key_pass_id": "313e5f4c-9e5f-4676-9c20-ebd9dbd6ed88",
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          99.0,
+          43.0
+        ],
+        "player": {
+          "id": 4831,
+          "name": "Nacer Chadli"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.0,
+          35.0
+        ],
+        "player": {
+          "id": 5642,
+          "name": "Axel Witsel"
+        },
+        "position": {
+          "id": 14,
+          "name": "Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          30.0
+        ],
+        "player": {
+          "id": 3296,
+          "name": "Marouane Fellaini-Bakkioui"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          23.0
+        ],
+        "player": {
+          "id": 3176,
+          "name": "Thomas Meunier"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          31.0
+        ],
+        "player": {
+          "id": 3535,
+          "name": "Roberto Firmino Barbosa de Oliveira"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.0,
+          40.0
+        ],
+        "player": {
+          "id": 3101,
+          "name": "Vincent Kompany"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          44.0
+        ],
+        "player": {
+          "id": 3077,
+          "name": "Jan Vertonghen"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          41.0
+        ],
+        "player": {
+          "id": 3509,
+          "name": "Thibaut Courtois"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.0,
+          32.0
+        ],
+        "player": {
+          "id": 3501,
+          "name": "Philippe Coutinho Correia"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          91.0,
+          41.0
+        ],
+        "player": {
+          "id": 4320,
+          "name": "Neymar da Silva Santos Junior"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.0,
+          31.0
+        ],
+        "player": {
+          "id": 20005,
+          "name": "Toby Alderweireld"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          15.0
+        ],
+        "player": {
+          "id": 5552,
+          "name": "Marcelo Vieira da Silva J\u00fanior"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

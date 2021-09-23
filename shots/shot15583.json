@@ -1,0 +1,99 @@
+{
+  "id": "ff6b3ca0-18ea-47de-887f-4921db27611b",
+  "index": 2427,
+  "period": 2,
+  "timestamp": "00:27:23.593",
+  "minute": 72,
+  "second": 23,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 170,
+  "possession_team": {
+    "id": 218,
+    "name": "Real Betis"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 218,
+    "name": "Real Betis"
+  },
+  "player": {
+    "id": 25274,
+    "name": "Ricardo de Oliveira"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    107.2,
+    32.1
+  ],
+  "duration": 0.1077,
+  "related_events": [
+    "96a76694-f0c0-4bfa-9eeb-135f38228552"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.2789836,
+    "end_location": [
+      108.7,
+      32.7,
+      0.1
+    ],
+    "key_pass_id": "ae7c3e0e-413f-4a5f-a2c8-7b96f518d0cb",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.0,
+          33.9
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.7,
+          39.2
+        ],
+        "player": {
+          "id": 5248,
+          "name": "Jos\u00e9 Mart\u00edn C\u00e1ceres Silva"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

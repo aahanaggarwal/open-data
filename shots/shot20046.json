@@ -1,0 +1,203 @@
+{
+  "id": "126c9bcb-eeac-403f-aa37-d170e66c2631",
+  "index": 3926,
+  "period": 2,
+  "timestamp": "00:45:01.994",
+  "minute": 90,
+  "second": 1,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 155,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 6400,
+    "name": "Aleix Vidal Parreu"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    112.1,
+    53.1
+  ],
+  "duration": 0.109,
+  "related_events": [
+    "8a8a5461-bb89-46c1-a46d-445a556809fd"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.18879901,
+    "end_location": [
+      114.1,
+      51.1,
+      0.3
+    ],
+    "key_pass_id": "b6619897-8ea7-4a89-a71c-d14f5236df54",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.0,
+          42.3
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          95.4,
+          19.3
+        ],
+        "player": {
+          "id": 6402,
+          "name": "Francisco Alc\u00e1cer Garc\u00eda"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          87.4,
+          36.4
+        ],
+        "player": {
+          "id": 6771,
+          "name": "Manuel Trigueros Mu\u00f1oz"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          87.3,
+          46.1
+        ],
+        "player": {
+          "id": 6765,
+          "name": "Rodrigo Hern\u00e1ndez Cascante"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.2,
+          48.4
+        ],
+        "player": {
+          "id": 6752,
+          "name": "V\u00edctor Ru\u00edz Torre"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.8,
+          39.2
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.1,
+          41.0
+        ],
+        "player": {
+          "id": 6762,
+          "name": "\u00c1lvaro Gonz\u00e1lez Sober\u00f3n"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.3,
+          37.1
+        ],
+        "player": {
+          "id": 6772,
+          "name": "Mario Gaspar P\u00e9rez Mart\u00ednez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.1,
+          49.9
+        ],
+        "player": {
+          "id": 6755,
+          "name": "Sergio Asenjo Andr\u00e9s"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

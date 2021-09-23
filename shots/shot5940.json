@@ -1,0 +1,130 @@
+{
+  "id": "857166b6-b3a0-483e-b1ef-6589a08d285d",
+  "index": 2917,
+  "period": 2,
+  "timestamp": "00:37:38.433",
+  "minute": 82,
+  "second": 38,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 170,
+  "possession_team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 965,
+    "name": "Brighton & Hove Albion WFC"
+  },
+  "player": {
+    "id": 16393,
+    "name": "Ellie Brazil"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    103.6,
+    59.4
+  ],
+  "duration": 0.477766,
+  "under_pressure": true,
+  "related_events": [
+    "62c70982-07b8-4885-b76c-922b99126847",
+    "714dc0d0-fe9f-4ae9-9ff8-4ca698fecd83",
+    "d5dfef4b-0c36-4a42-b49d-90d8e8ce9b7f"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.016151395,
+    "end_location": [
+      105.9,
+      56.9
+    ],
+    "key_pass_id": "1239fe08-77e0-4ad3-a244-c637dd9fab4a",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          105.5,
+          56.6
+        ],
+        "player": {
+          "id": 4633,
+          "name": "Magdalena Ericsson"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.8,
+          42.8
+        ],
+        "player": {
+          "id": 15560,
+          "name": "Ann-Katrin Berger"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.6,
+          50.7
+        ],
+        "player": {
+          "id": 10222,
+          "name": "Jonna Andersson"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.6,
+          37.9
+        ],
+        "player": {
+          "id": 4642,
+          "name": "Millie Bright"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "id": "e4e871b0-1521-4fa8-bc69-a8cbe223b1a5",
+  "index": 798,
+  "period": 1,
+  "timestamp": "00:15:54.585",
+  "minute": 15,
+  "second": 54,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 42,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 19312,
+    "name": "Robert Pir\u00e8s "
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    99.0,
+    30.0
+  ],
+  "duration": 0.942703,
+  "related_events": [
+    "60c59a35-5a39-47fb-b25a-7dc55196eec3"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.05061619,
+    "end_location": [
+      120.0,
+      42.5,
+      1.3
+    ],
+    "key_pass_id": "747d9bc9-1deb-4094-a3f0-a2ca6ae07e01",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.8,
+          39.2
+        ],
+        "player": {
+          "id": 40385,
+          "name": "Jussi J\u00e4\u00e4skel\u00e4inen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.0,
+          32.9
+        ],
+        "player": {
+          "id": 40386,
+          "name": "Iv\u00e1n Campo Ramos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.8,
+          28.2
+        ],
+        "player": {
+          "id": 40383,
+          "name": "\u00c9merson Augusto Thome"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.4,
+          34.4
+        ],
+        "player": {
+          "id": 40393,
+          "name": "Bruno N\"Gotty"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          41.4
+        ],
+        "player": {
+          "id": 40390,
+          "name": "Simon Charlton"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.6,
+          40.4
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.8,
+          30.4
+        ],
+        "player": {
+          "id": 15042,
+          "name": "Dennis Bergkamp"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.4,
+          26.8
+        ],
+        "player": {
+          "id": 9353,
+          "name": "Nicky Hunt"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

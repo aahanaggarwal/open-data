@@ -1,0 +1,190 @@
+{
+  "id": "9f6b8160-a5f0-4776-8d5b-f432904831e1",
+  "index": 3789,
+  "period": 2,
+  "timestamp": "00:36:55.680",
+  "minute": 81,
+  "second": 55,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 132,
+  "possession_team": {
+    "id": 772,
+    "name": "Spain"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 772,
+    "name": "Spain"
+  },
+  "player": {
+    "id": 5217,
+    "name": "Iago Aspas Juncal"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    100.0,
+    48.0
+  ],
+  "duration": 1.093,
+  "under_pressure": true,
+  "related_events": [
+    "eb393015-a0ca-4434-9cc2-8c54ae7d1774",
+    "fbbdaea3-b5e1-4613-b41e-51fdb1d51c30"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.062179223,
+    "end_location": [
+      120.0,
+      40.1,
+      0.9
+    ],
+    "key_pass_id": "ba4b2e8c-69b2-46cc-9797-e82a2f9cc913",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          101.0,
+          54.0
+        ],
+        "player": {
+          "id": 5209,
+          "name": "Rapha\u00ebl Adelino Jos\u00e9 Guerreiro"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          47.0
+        ],
+        "player": {
+          "id": 3960,
+          "name": "Jos\u00e9 Miguel da Rocha Fonte"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          88.0,
+          46.0
+        ],
+        "player": {
+          "id": 5214,
+          "name": "William Silva de Carvalho"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          120.0,
+          43.0
+        ],
+        "player": {
+          "id": 5205,
+          "name": "Rui Pedro dos Santos Patr\u00edcio"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.0,
+          23.0
+        ],
+        "player": {
+          "id": 5211,
+          "name": "Jordi Alba Ramos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.0,
+          37.0
+        ],
+        "player": {
+          "id": 4926,
+          "name": "Francisco Rom\u00e1n Alarc\u00f3n Su\u00e1rez"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.0,
+          48.0
+        ],
+        "player": {
+          "id": 20016,
+          "name": "Kl\u00e9per Laveran Lima Ferreira"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          38.0
+        ],
+        "player": {
+          "id": 3329,
+          "name": "C\u00e9dric Ricardo Alves Soares"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

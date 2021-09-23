@@ -1,0 +1,174 @@
+{
+  "id": "ad57d76c-79d3-494b-9476-4bd079aa9fdc",
+  "index": 1239,
+  "period": 1,
+  "timestamp": "00:29:13.524",
+  "minute": 29,
+  "second": 13,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 72,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 20131,
+    "name": "Xavier Hern\u00e1ndez Creus"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    103.3,
+    40.5
+  ],
+  "duration": 0.909309,
+  "related_events": [
+    "5ac11096-71ef-4465-b4e3-ab37a7359a61"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.19330522,
+    "end_location": [
+      120.0,
+      38.2,
+      0.3
+    ],
+    "key_pass_id": "45016853-7fd0-4d5a-99ca-90a075d2c8c3",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.8,
+          43.3
+        ],
+        "player": {
+          "id": 26033,
+          "name": "Javier Casas Cuevas"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.8,
+          39.5
+        ],
+        "player": {
+          "id": 26028,
+          "name": "Fernando Amorebieta Mardaras"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.2,
+          30.0
+        ],
+        "player": {
+          "id": 25983,
+          "name": "Josu Sarriegi Zum\u00e1rraga"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.8,
+          53.6
+        ],
+        "player": {
+          "id": 25878,
+          "name": "Ludovic Giuly"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.5,
+          21.3
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.9,
+          19.8
+        ],
+        "player": {
+          "id": 25879,
+          "name": "Ronaldo de Assis Moreira"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.1,
+          40.6
+        ],
+        "player": {
+          "id": 26029,
+          "name": "Daniel Aranzubia Aguado"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

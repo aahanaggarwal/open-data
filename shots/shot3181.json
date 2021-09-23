@@ -1,0 +1,206 @@
+{
+  "id": "e06e2c75-2478-4124-a7ec-013e15500b49",
+  "index": 94,
+  "period": 1,
+  "timestamp": "00:02:17.397",
+  "minute": 2,
+  "second": 17,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 6,
+  "possession_team": {
+    "id": 214,
+    "name": "Espanyol"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 214,
+    "name": "Espanyol"
+  },
+  "player": {
+    "id": 26109,
+    "name": "Ra\u00fal Tamudo Montero"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    93.8,
+    29.2
+  ],
+  "duration": 1.106014,
+  "under_pressure": true,
+  "related_events": [
+    "7a512758-b3ab-4870-a9f6-47faab1a8204",
+    "c662c876-dcea-4172-930b-f0e6874340a1"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.022971535,
+    "end_location": [
+      114.4,
+      40.1,
+      0.1
+    ],
+    "key_pass_id": "7eaf3036-a36b-4f38-b4fd-c5c244eb48ce",
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          116.4,
+          40.4
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.0,
+          38.0
+        ],
+        "player": {
+          "id": 15071,
+          "name": "Lilian Thuram"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.2,
+          39.5
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.8,
+          28.6
+        ],
+        "player": {
+          "id": 15774,
+          "name": "Gianluca Zambrotta"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          81.9,
+          40.6
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          86.9,
+          41.8
+        ],
+        "player": {
+          "id": 17797,
+          "name": "Giovanni van Bronckhorst"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          80.4,
+          39.0
+        ],
+        "player": {
+          "id": 26102,
+          "name": "Ferr\u00e1n Corominas Telechea"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          94.4,
+          38.3
+        ],
+        "player": {
+          "id": 23916,
+          "name": "Luis Garc\u00eda Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          83.7,
+          45.9
+        ],
+        "player": {
+          "id": 26159,
+          "name": "Albert Riera Ortega"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

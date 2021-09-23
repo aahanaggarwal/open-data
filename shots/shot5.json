@@ -1,0 +1,173 @@
+{
+  "id": "a44a9e69-09c7-474a-88e0-7ad9a64039fd",
+  "index": 1122,
+  "period": 1,
+  "timestamp": "00:22:45.424",
+  "minute": 22,
+  "second": 45,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 45,
+  "possession_team": {
+    "id": 1220,
+    "name": "Recreativo Huelva"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 1220,
+    "name": "Recreativo Huelva"
+  },
+  "player": {
+    "id": 26080,
+    "name": "Rafael Barber Rodr\u00edguez"
+  },
+  "position": {
+    "id": 11,
+    "name": "Left Defensive Midfield"
+  },
+  "location": [
+    110.9,
+    43.5
+  ],
+  "duration": 0.145966,
+  "related_events": [
+    "01e4c6dc-52f1-4f46-a020-801c7766fee0"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.3807395,
+    "end_location": [
+      111.4,
+      40.3
+    ],
+    "key_pass_id": "7b4b48bf-42fd-4e60-8935-e7cb064fe3b0",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 101,
+      "name": "Wayward"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.4,
+          43.1
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.8,
+          45.1
+        ],
+        "player": {
+          "id": 25854,
+          "name": "Sylvio Mendes Campos Junior"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.1,
+          51.0
+        ],
+        "player": {
+          "id": 25885,
+          "name": "Juan Manuel G\u00f3mez S\u00e1nchez"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.7,
+          44.2
+        ],
+        "player": {
+          "id": 19757,
+          "name": "Anderson Lu\u00eds de Souza"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.3,
+          35.6
+        ],
+        "player": {
+          "id": 15071,
+          "name": "Lilian Thuram"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.9,
+          37.8
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.4,
+          33.7
+        ],
+        "player": {
+          "id": 26083,
+          "name": "Florent Sinama-Pongolle"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

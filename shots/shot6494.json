@@ -1,0 +1,205 @@
+{
+  "id": "4c3814fc-6f75-48de-acd1-b9cff8c0dea4",
+  "index": 1384,
+  "period": 1,
+  "timestamp": "00:35:25.666",
+  "minute": 35,
+  "second": 25,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 87,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    108.3,
+    34.2
+  ],
+  "duration": 0.909331,
+  "under_pressure": true,
+  "related_events": [
+    "0d8028a8-a345-4659-a391-21181fb7908d",
+    "15e205f5-f85a-41d3-9091-9815ff98c411"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.17735319,
+    "end_location": [
+      119.1,
+      41.4,
+      0.5
+    ],
+    "key_pass_id": "214e48ad-d11e-4e1f-a9cb-9a18c9267860",
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          101.9,
+          49.8
+        ],
+        "player": {
+          "id": 40407,
+          "name": "Steed Malbranque"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.4,
+          36.2
+        ],
+        "player": {
+          "id": 40414,
+          "name": "J\u00e9r\u00f4me Bonnissel"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.8,
+          33.3
+        ],
+        "player": {
+          "id": 40415,
+          "name": "Andy Melville"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.1,
+          29.3
+        ],
+        "player": {
+          "id": 40413,
+          "name": "Zat Knight"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.7,
+          31.7
+        ],
+        "player": {
+          "id": 38566,
+          "name": "Lee Clark"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.4,
+          26.4
+        ],
+        "player": {
+          "id": 19312,
+          "name": "Robert Pir\u00e8s "
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.3,
+          27.5
+        ],
+        "player": {
+          "id": 40411,
+          "name": "Sylvain Legwinski"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          23.6
+        ],
+        "player": {
+          "id": 40409,
+          "name": "Junichi Inamoto"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.8,
+          39.7
+        ],
+        "player": {
+          "id": 15036,
+          "name": "Edwin van der Sar"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "id": "c37a5140-bf5d-4a3f-981d-c77f65750e49",
+  "index": 265,
+  "period": 1,
+  "timestamp": "00:08:25.434",
+  "minute": 8,
+  "second": 25,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 12,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 8118,
+    "name": "Frenkie de Jong"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    113.5,
+    37.7
+  ],
+  "duration": 0.380057,
+  "related_events": [
+    "c6c9c218-1643-4350-8050-31c26697a0f2"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.46307668,
+    "end_location": [
+      120.0,
+      37.7,
+      0.3
+    ],
+    "key_pass_id": "8eab051a-5e81-47b0-a332-708cd2786593",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.7,
+          39.0
+        ],
+        "player": {
+          "id": 16309,
+          "name": "Joel Robles Bl\u00e1zquez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.4,
+          39.9
+        ],
+        "player": {
+          "id": 26404,
+          "name": "Guido Rodr\u00edguez"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          42.8
+        ],
+        "player": {
+          "id": 7068,
+          "name": "Marc Bartra Aregall"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.8,
+          34.3
+        ],
+        "player": {
+          "id": 6648,
+          "name": "A\u00efssa Mandi"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.1,
+          30.7
+        ],
+        "player": {
+          "id": 23522,
+          "name": "Emerson Aparecido Leite de Souza Junior"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.3,
+          52.3
+        ],
+        "player": {
+          "id": 11538,
+          "name": "Alejandro Moreno Lopera"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.7,
+          41.7
+        ],
+        "player": {
+          "id": 8206,
+          "name": "Arturo Erasmo Vidal Pardo"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.1,
+          31.8
+        ],
+        "player": {
+          "id": 5487,
+          "name": "Antoine Griezmann"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          98.7,
+          20.7
+        ],
+        "player": {
+          "id": 17304,
+          "name": "H\u00e9ctor Junior Firpo Adames"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

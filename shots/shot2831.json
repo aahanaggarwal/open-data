@@ -1,0 +1,174 @@
+{
+  "id": "b8553888-917f-4af3-8259-552e946851d7",
+  "index": 621,
+  "period": 1,
+  "timestamp": "00:15:02.698",
+  "minute": 15,
+  "second": 2,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 36,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 12737,
+    "name": "David Villa S\u00e1nchez"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    103.2,
+    55.8
+  ],
+  "duration": 0.2091,
+  "related_events": [
+    "4d7bdef5-9b7b-4c6d-947b-9571164393e3"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.2978784,
+    "end_location": [
+      107.3,
+      52.7,
+      0.5
+    ],
+    "key_pass_id": "1e6d30cc-691b-4322-9840-02a84ecd5330",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.1,
+          52.4
+        ],
+        "player": {
+          "id": 26146,
+          "name": "Dud\u00fa Aouate"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.0,
+          55.1
+        ],
+        "player": {
+          "id": 7907,
+          "name": "Pedro Bigas Rigo"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.8,
+          46.3
+        ],
+        "player": {
+          "id": 6778,
+          "name": "Iv\u00e1n Ramis Barrios"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.0,
+          42.0
+        ],
+        "player": {
+          "id": 26653,
+          "name": "Jos\u00e9 Manuel Flores Moreno"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.9,
+          30.5
+        ],
+        "player": {
+          "id": 26737,
+          "name": "Pablo Cendr\u00f3s L\u00f3pez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          90.0,
+          39.7
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          90.6,
+          59.2
+        ],
+        "player": {
+          "id": 26776,
+          "name": "Juan Isaac Cuenca L\u00f3pez"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

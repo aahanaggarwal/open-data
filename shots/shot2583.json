@@ -1,0 +1,234 @@
+{
+  "id": "b138dfdc-8d81-4cac-a580-bc2d9308c58c",
+  "index": 760,
+  "period": 1,
+  "timestamp": "00:14:54.650",
+  "minute": 14,
+  "second": 54,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 30,
+  "possession_team": {
+    "id": 789,
+    "name": "Poland"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 789,
+    "name": "Poland"
+  },
+  "player": {
+    "id": 5668,
+    "name": "Robert Lewandowski"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    98.0,
+    32.0
+  ],
+  "duration": 0.453,
+  "related_events": [
+    "75f21d29-1fec-4e27-9584-ec3f49f6403d",
+    "9e78d998-a769-4280-87bc-a16f1530c2e0"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.041472737,
+    "end_location": [
+      102.0,
+      35.0
+    ],
+    "key_pass_id": "70b43c99-0bfa-44fe-80d6-8a9ef2bbe9f7",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "first_time": true,
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.0,
+          33.0
+        ],
+        "player": {
+          "id": 5693,
+          "name": "Gaku Shibasaki"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          26.0
+        ],
+        "player": {
+          "id": 5694,
+          "name": "Hotaru Yamaguchi"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          47.0
+        ],
+        "player": {
+          "id": 5690,
+          "name": "Yuto Nagatomo"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          38.0
+        ],
+        "player": {
+          "id": 6338,
+          "name": "Tomoaki Makino"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          41.0
+        ],
+        "player": {
+          "id": 3175,
+          "name": "Eiji Kawashima"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.0,
+          20.0
+        ],
+        "player": {
+          "id": 6339,
+          "name": "Gotoku Sakai"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          32.0
+        ],
+        "player": {
+          "id": 3530,
+          "name": "Hiroki Sakai"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          88.0,
+          40.0
+        ],
+        "player": {
+          "id": 3637,
+          "name": "Grzegorz Krychowiak"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          91.0,
+          50.0
+        ],
+        "player": {
+          "id": 6191,
+          "name": "Takashi Usami"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          35.0
+        ],
+        "player": {
+          "id": 5660,
+          "name": "Piotr Zieli\u0144ski"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.0,
+          44.0
+        ],
+        "player": {
+          "id": 5667,
+          "name": "Kamil Grosicki"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

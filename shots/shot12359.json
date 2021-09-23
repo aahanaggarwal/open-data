@@ -1,0 +1,266 @@
+{
+  "id": "7862be61-1bb9-4792-b354-b1adbb0198e0",
+  "index": 852,
+  "period": 1,
+  "timestamp": "00:21:15.447",
+  "minute": 21,
+  "second": 15,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 65,
+  "possession_team": {
+    "id": 39,
+    "name": "Manchester United"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 39,
+    "name": "Manchester United"
+  },
+  "player": {
+    "id": 19729,
+    "name": "Ruud van Nistelrooy"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    98.3,
+    39.4
+  ],
+  "duration": 0.17832,
+  "under_pressure": true,
+  "related_events": [
+    "1dc3134f-a19d-4e62-84ad-88ed51538411",
+    "33625615-2b07-44bc-8f9f-af10dd75788a",
+    "4e84b0eb-26a4-4ed4-9658-f540493177d0"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.028373944,
+    "end_location": [
+      100.0,
+      39.3
+    ],
+    "key_pass_id": "3262343b-50b3-4bd9-be83-48486d43757f",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.0,
+          40.2
+        ],
+        "player": {
+          "id": 20015,
+          "name": "Jens Lehmann"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.6,
+          27.8
+        ],
+        "player": {
+          "id": 24972,
+          "name": "Ray Parlour"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.8,
+          46.8
+        ],
+        "player": {
+          "id": 15042,
+          "name": "Dennis Bergkamp"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.8,
+          55.5
+        ],
+        "player": {
+          "id": 12529,
+          "name": "Ashley Cole"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.9,
+          43.1
+        ],
+        "player": {
+          "id": 15515,
+          "name": "Patrick Vieira"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.7,
+          34.2
+        ],
+        "player": {
+          "id": 40222,
+          "name": "Laureano Bisan-Etame Mayer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.5,
+          39.9
+        ],
+        "player": {
+          "id": 38412,
+          "name": "Kolo Habib Tour\u00e9"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.6,
+          37.3
+        ],
+        "player": {
+          "id": 15654,
+          "name": "Martin Keown"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.8,
+          36.6
+        ],
+        "player": {
+          "id": 24805,
+          "name": "Roy Keane"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.9,
+          33.5
+        ],
+        "player": {
+          "id": 16890,
+          "name": "John O\"Shea"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.4,
+          34.2
+        ],
+        "player": {
+          "id": 20341,
+          "name": "Mika\u00ebl Silvestre"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          92.6,
+          32.3
+        ],
+        "player": {
+          "id": 40246,
+          "name": "Quinton Fortune Kolobea"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.0,
+          39.3
+        ],
+        "player": {
+          "id": 40221,
+          "name": "Gilberto Aparecido da Silva"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "id": "6a6da3fb-465c-478b-96ab-baaf7fc7292f",
+  "index": 2149,
+  "period": 2,
+  "timestamp": "00:13:49.495",
+  "minute": 58,
+  "second": 49,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 124,
+  "possession_team": {
+    "id": 969,
+    "name": "Birmingham City WFC"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 969,
+    "name": "Birmingham City WFC"
+  },
+  "player": {
+    "id": 15563,
+    "name": "Charlie Wellings"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    107.6,
+    50.4
+  ],
+  "duration": 1.0838,
+  "under_pressure": true,
+  "related_events": [
+    "c662ffc0-5444-4309-b5cf-9cf034dd2ff4",
+    "e71e1310-77db-4941-b3ab-af8818728441"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.14629795,
+    "end_location": [
+      120.0,
+      36.8,
+      0.5
+    ],
+    "key_pass_id": "c68ddff8-5af5-4ff2-af1b-8ac8fa8af8ca",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          100.5,
+          41.3
+        ],
+        "player": {
+          "id": 15580,
+          "name": "Claudia Walker"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.1,
+          42.2
+        ],
+        "player": {
+          "id": 15709,
+          "name": "Megan Walsh"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.7,
+          46.9
+        ],
+        "player": {
+          "id": 15710,
+          "name": "Megan Alexander"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.5,
+          38.0
+        ],
+        "player": {
+          "id": 15712,
+          "name": "Nicola Cousins"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.6,
+          38.4
+        ],
+        "player": {
+          "id": 10180,
+          "name": "Ellen White"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.9,
+          33.9
+        ],
+        "player": {
+          "id": 10195,
+          "name": "Rachel Mclauchlan"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.6,
+          29.5
+        ],
+        "player": {
+          "id": 15707,
+          "name": "Georgia Evans"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

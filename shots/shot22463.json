@@ -1,0 +1,189 @@
+{
+  "id": "55fec7bf-c571-442d-aab4-be2545e378f7",
+  "index": 1611,
+  "period": 2,
+  "timestamp": "00:00:54.505",
+  "minute": 45,
+  "second": 54,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 103,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5558,
+    "name": "Rafael M\u00e1rquez \u00c1lvarez"
+  },
+  "position": {
+    "id": 3,
+    "name": "Right Center Back"
+  },
+  "location": [
+    103.5,
+    52.8
+  ],
+  "duration": 0.894659,
+  "related_events": [
+    "31344be8-d3e1-4c03-ae3d-3867da775566"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.038208246,
+    "end_location": [
+      120.0,
+      36.0,
+      2.3
+    ],
+    "key_pass_id": "cf4b290e-8884-4656-b08a-5ef47defa500",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 99,
+      "name": "Post"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          111.5,
+          41.6
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.4,
+          56.2
+        ],
+        "player": {
+          "id": 25878,
+          "name": "Ludovic Giuly"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.8,
+          34.5
+        ],
+        "player": {
+          "id": 11270,
+          "name": "Ei\u00f0ur Sm\u00e1ri Gu\u00f0johnsen"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.1,
+          42.4
+        ],
+        "player": {
+          "id": 26084,
+          "name": "I\u00f1aki Lafuente Sancha"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.2,
+          54.3
+        ],
+        "player": {
+          "id": 26032,
+          "name": "Unai Exp\u00f3sito Medina"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.9,
+          40.5
+        ],
+        "player": {
+          "id": 26100,
+          "name": "Ustaritz Aldekoaotalora Astarloa"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.6,
+          48.2
+        ],
+        "player": {
+          "id": 25983,
+          "name": "Josu Sarriegi Zum\u00e1rraga"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.5,
+          49.4
+        ],
+        "player": {
+          "id": 26031,
+          "name": "Andoni Iraola Sagarna"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

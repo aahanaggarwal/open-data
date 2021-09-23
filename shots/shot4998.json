@@ -1,0 +1,143 @@
+{
+  "id": "da01565d-ba3d-47ee-8121-7a829ae35dcc",
+  "index": 2128,
+  "period": 2,
+  "timestamp": "00:07:35.560",
+  "minute": 52,
+  "second": 35,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 110,
+  "possession_team": {
+    "id": 779,
+    "name": "Argentina"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 785,
+    "name": "Croatia"
+  },
+  "player": {
+    "id": 5465,
+    "name": "Ante Rebi\u0107"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    108.0,
+    30.0
+  ],
+  "duration": 1.093,
+  "related_events": [
+    "cc090779-7cb1-42b7-8488-0074d91d8e13"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.24468073,
+    "end_location": [
+      120.0,
+      40.7,
+      1.9
+    ],
+    "first_time": true,
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.0,
+          37.0
+        ],
+        "player": {
+          "id": 3659,
+          "name": "Wilfredo Daniel Caballero"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          18.0
+        ],
+        "player": {
+          "id": 5742,
+          "name": "Gabriel Iv\u00e1n Mercado"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          30.0
+        ],
+        "player": {
+          "id": 3090,
+          "name": "Nicol\u00e1s Hern\u00e1n Otamendi"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          88.0,
+          55.0
+        ],
+        "player": {
+          "id": 5507,
+          "name": "Nicol\u00e1s Alejandro Tagliafico"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.0,
+          30.0
+        ],
+        "player": {
+          "id": 5472,
+          "name": "Mario Mand\u017euki\u0107"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

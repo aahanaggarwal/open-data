@@ -1,0 +1,266 @@
+{
+  "id": "d7a24a07-adde-4583-9c1d-079af729db57",
+  "index": 3033,
+  "period": 2,
+  "timestamp": "00:39:30.140",
+  "minute": 84,
+  "second": 30,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 201,
+  "possession_team": {
+    "id": 761,
+    "name": "Chicago Red Stars"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 761,
+    "name": "Chicago Red Stars"
+  },
+  "player": {
+    "id": 4982,
+    "name": "Katlyn Johnson"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    111.4,
+    40.6
+  ],
+  "duration": 0.104402,
+  "under_pressure": true,
+  "related_events": [
+    "336f96d8-00dc-4cd6-b498-2cbe8aed0d87",
+    "7167149b-191f-43c8-894f-ef26a4bda320",
+    "e6365e04-4b09-42b9-ba0b-103ace9ff7c2"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.06774003,
+    "end_location": [
+      112.3,
+      40.7
+    ],
+    "key_pass_id": "d50e2cbe-c139-49a9-9940-d4f5a64e43ff",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "aerial_won": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.4,
+          40.7
+        ],
+        "player": {
+          "id": 4981,
+          "name": "Kailen Sheridan"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.9,
+          32.0
+        ],
+        "player": {
+          "id": 4967,
+          "name": "Raquel Rodriguez"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.8,
+          18.3
+        ],
+        "player": {
+          "id": 4963,
+          "name": "Yuki Nagasato"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.9,
+          21.7
+        ],
+        "player": {
+          "id": 33318,
+          "name": "Sabrina Flores"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.7,
+          29.5
+        ],
+        "player": {
+          "id": 33135,
+          "name": "Maria Guadalupe Sanchez Morales"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.9,
+          38.9
+        ],
+        "player": {
+          "id": 4988,
+          "name": "Sarah Killion"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.6,
+          53.6
+        ],
+        "player": {
+          "id": 4994,
+          "name": "Nahomi Kawasumi"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.3,
+          57.1
+        ],
+        "player": {
+          "id": 7179,
+          "name": "Casey Short"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.7,
+          39.0
+        ],
+        "player": {
+          "id": 4942,
+          "name": "Arin Gilliland"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.1,
+          38.5
+        ],
+        "player": {
+          "id": 5098,
+          "name": "Erica Skroski"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.3,
+          39.5
+        ],
+        "player": {
+          "id": 16403,
+          "name": "Gina Lewandowski"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.5,
+          37.7
+        ],
+        "player": {
+          "id": 32760,
+          "name": "Julie James"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.2,
+          40.7
+        ],
+        "player": {
+          "id": 4962,
+          "name": "Caprice Dydasco"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

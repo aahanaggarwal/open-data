@@ -1,0 +1,188 @@
+{
+  "id": "916fe546-d186-4001-a760-faaa32a786fe",
+  "index": 3034,
+  "period": 2,
+  "timestamp": "00:39:15.613",
+  "minute": 84,
+  "second": 15,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 179,
+  "possession_team": {
+    "id": 762,
+    "name": "Houston Dash"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 762,
+    "name": "Houston Dash"
+  },
+  "player": {
+    "id": 5039,
+    "name": "Veronica Latsko"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    104.0,
+    57.0
+  ],
+  "duration": 1.827,
+  "related_events": [
+    "c0b3894a-73ca-4a6f-b0df-8a47529a25c9"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.03864006,
+    "end_location": [
+      120.0,
+      33.9,
+      0.3
+    ],
+    "key_pass_id": "c31de6c9-593d-4370-9f4d-6fd4e878ac5c",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.0,
+          36.0
+        ],
+        "player": {
+          "id": 5058,
+          "name": "Rachel Daly"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          98.0,
+          46.0
+        ],
+        "player": {
+          "id": 5053,
+          "name": "Linda Maserame Motlhalo"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.0,
+          39.0
+        ],
+        "player": {
+          "id": 5037,
+          "name": "Abby Erceg"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          45.0
+        ],
+        "player": {
+          "id": 5057,
+          "name": "Kaleigh Kurtz"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          57.0
+        ],
+        "player": {
+          "id": 5033,
+          "name": "Yuri Kawamura"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          42.0
+        ],
+        "player": {
+          "id": 5048,
+          "name": "Katelyn Rowland"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          50.0
+        ],
+        "player": {
+          "id": 5046,
+          "name": "Elizabeth Eddy"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          30.0
+        ],
+        "player": {
+          "id": 3921,
+          "name": "Ryan Williams"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

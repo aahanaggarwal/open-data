@@ -1,0 +1,204 @@
+{
+  "id": "350569b1-6c3e-4ae0-8066-b577bc6e49d6",
+  "index": 2727,
+  "period": 2,
+  "timestamp": "00:24:59.010",
+  "minute": 69,
+  "second": 59,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 175,
+  "possession_team": {
+    "id": 761,
+    "name": "Chicago Red Stars"
+  },
+  "play_pattern": {
+    "id": 2,
+    "name": "From Corner"
+  },
+  "team": {
+    "id": 761,
+    "name": "Chicago Red Stars"
+  },
+  "player": {
+    "id": 4963,
+    "name": "Yuki Nagasato"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    116.3,
+    31.4
+  ],
+  "duration": 0.232365,
+  "related_events": [
+    "42c85a72-9f86-4d4e-9563-e32aa663f269"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.13984564,
+    "end_location": [
+      120.0,
+      35.1,
+      2.0
+    ],
+    "key_pass_id": "1e93c9b4-8d1b-4664-967a-d93d347b1b3c",
+    "first_time": true,
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.3,
+          38.0
+        ],
+        "player": {
+          "id": 30557,
+          "name": "Casey Murphy"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.6,
+          33.4
+        ],
+        "player": {
+          "id": 5069,
+          "name": "Theresa Nielsen"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.9,
+          35.7
+        ],
+        "player": {
+          "id": 5007,
+          "name": "Megan Oyster"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.4,
+          39.3
+        ],
+        "player": {
+          "id": 32596,
+          "name": "Stephanie Cox"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          52.3
+        ],
+        "player": {
+          "id": 5065,
+          "name": "Lauren Barnes"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.4,
+          37.1
+        ],
+        "player": {
+          "id": 5103,
+          "name": "Michele Vasconcelos"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.4,
+          22.8
+        ],
+        "player": {
+          "id": 5096,
+          "name": "Savannah McCaskill"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.4,
+          42.2
+        ],
+        "player": {
+          "id": 4982,
+          "name": "Katlyn Johnson"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.4,
+          33.0
+        ],
+        "player": {
+          "id": 4958,
+          "name": "Kathleen Naughton"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

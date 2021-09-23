@@ -1,0 +1,144 @@
+{
+  "id": "34c37f82-f3e6-4360-b8c2-2ffd94d2e9ec",
+  "index": 3457,
+  "period": 2,
+  "timestamp": "00:43:51.562",
+  "minute": 88,
+  "second": 51,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 188,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    108.7,
+    26.9
+  ],
+  "duration": 0.897722,
+  "related_events": [
+    "33b09e19-c70d-4a7a-ab1a-75fa3a0df5f2"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.1411635,
+    "end_location": [
+      120.0,
+      43.3,
+      0.4
+    ],
+    "key_pass_id": "ea1a866b-a53e-4910-826f-59f8d6172567",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          107.3,
+          39.0
+        ],
+        "player": {
+          "id": 40312,
+          "name": "Paul Butler"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.5,
+          37.5
+        ],
+        "player": {
+          "id": 40255,
+          "name": "J\u00e9r\u00e9mie Aliadi\u00e8re"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.5,
+          33.1
+        ],
+        "player": {
+          "id": 40314,
+          "name": "Jody Craddock"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.5,
+          29.1
+        ],
+        "player": {
+          "id": 40309,
+          "name": "Oleg Luzhny"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.7,
+          37.1
+        ],
+        "player": {
+          "id": 40310,
+          "name": "Michael Oakes"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "id": "7a050ba2-3d27-4377-8b6e-6d770efa274d",
+  "index": 2808,
+  "period": 2,
+  "timestamp": "00:24:24.039",
+  "minute": 69,
+  "second": 24,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 125,
+  "possession_team": {
+    "id": 360,
+    "name": "Rayo Vallecano"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 360,
+    "name": "Rayo Vallecano"
+  },
+  "player": {
+    "id": 23761,
+    "name": "Alhassane Bangoura"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    103.8,
+    29.2
+  ],
+  "duration": 0.5642,
+  "under_pressure": true,
+  "related_events": [
+    "97220dff-2080-4f9a-8c6a-114c6897179c",
+    "f76884f9-e431-4ba4-b08c-0f40754935d8"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.08657679,
+    "end_location": [
+      118.4,
+      40.8,
+      2.0
+    ],
+    "key_pass_id": "13714faa-9aca-4ea0-80e9-13e13d1890f0",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          107.7,
+          46.1
+        ],
+        "player": {
+          "id": 26804,
+          "name": "Miguel P\u00e9rez Cuesta"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.1,
+          41.9
+        ],
+        "player": {
+          "id": 6593,
+          "name": "Mart\u00edn Montoya Torralbo"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.7,
+          39.2
+        ],
+        "player": {
+          "id": 26005,
+          "name": "Jos\u00e9 Manuel Pinto Colorado"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.4,
+          30.0
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.7,
+          26.8
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.3,
+          33.4
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

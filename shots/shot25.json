@@ -1,0 +1,204 @@
+{
+  "id": "4adb2ec9-9278-4bf1-b13a-678bd5295fad",
+  "index": 234,
+  "period": 1,
+  "timestamp": "00:04:57.872",
+  "minute": 4,
+  "second": 57,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 12,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 12737,
+    "name": "David Villa S\u00e1nchez"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    113.5,
+    30.8
+  ],
+  "duration": 0.0316,
+  "related_events": [
+    "5bf698e0-4389-417b-a755-05903cf64bcd",
+    "bd77bc25-6e73-4cfe-bd9e-94cdafe6ae3c"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.046507716,
+    "end_location": [
+      114.1,
+      31.7
+    ],
+    "key_pass_id": "a48b453d-fb8f-4d1a-b40a-5cc2abd15f8a",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          114.2,
+          32.1
+        ],
+        "player": {
+          "id": 26081,
+          "name": "Pedro Mario \u00c1lvarez Abrante"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.8,
+          48.7
+        ],
+        "player": {
+          "id": 3385,
+          "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.0,
+          42.7
+        ],
+        "player": {
+          "id": 25022,
+          "name": "Alejandro Mart\u00ednez S\u00e1nchez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.8,
+          40.3
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.0,
+          36.3
+        ],
+        "player": {
+          "id": 27145,
+          "name": "Emmanuel Nosakhare Igiebor"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.5,
+          36.9
+        ],
+        "player": {
+          "id": 3623,
+          "name": "Adri\u00e1n San Miguel del Castillo"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          25.2
+        ],
+        "player": {
+          "id": 27144,
+          "name": "Antonio Amaya Carazo"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.2,
+          14.7
+        ],
+        "player": {
+          "id": 6599,
+          "name": "Rub\u00e9n Salvador P\u00e9rez Del M\u00e1rmol"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          14.0
+        ],
+        "player": {
+          "id": 5211,
+          "name": "Jordi Alba Ramos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

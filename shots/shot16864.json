@@ -1,0 +1,146 @@
+{
+  "id": "1b818c66-00ab-4e76-b933-054a713243d3",
+  "index": 620,
+  "period": 1,
+  "timestamp": "00:10:58.469",
+  "minute": 10,
+  "second": 58,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 22,
+  "possession_team": {
+    "id": 1217,
+    "name": "Racing Santander"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 1217,
+    "name": "Racing Santander"
+  },
+  "player": {
+    "id": 23804,
+    "name": "Jonathan Pereira Rodr\u00edguez"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    114.0,
+    28.3
+  ],
+  "duration": 0.655983,
+  "under_pressure": true,
+  "related_events": [
+    "6a36a809-fd7f-4d91-a35e-4a701e32a8de",
+    "c4a2a661-cb68-407a-b9f7-0e7a5e7e79e7"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.08485521,
+    "end_location": [
+      118.5,
+      34.4,
+      0.2
+    ],
+    "key_pass_id": "cdaebc2f-23cd-4d78-a33b-f4d812ad3018",
+    "saved_to_post": true,
+    "outcome": {
+      "id": 116,
+      "name": "Saved to Post"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          114.1,
+          29.0
+        ],
+        "player": {
+          "id": 5558,
+          "name": "Rafael M\u00e1rquez \u00c1lvarez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.8,
+          34.2
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.6,
+          32.0
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.7,
+          46.5
+        ],
+        "player": {
+          "id": 20177,
+          "name": "Eric-Sylvain Bilal Abidal"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.9,
+          49.1
+        ],
+        "player": {
+          "id": 19577,
+          "name": "Pedro Manuel Munitis \u00c1lvarez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

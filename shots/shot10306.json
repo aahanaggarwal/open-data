@@ -1,0 +1,144 @@
+{
+  "id": "b5f5ff8c-1d6f-4557-96a7-1e452549d007",
+  "index": 3027,
+  "period": 2,
+  "timestamp": "00:44:39.174",
+  "minute": 89,
+  "second": 39,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 169,
+  "possession_team": {
+    "id": 974,
+    "name": "Reading WFC"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 974,
+    "name": "Reading WFC"
+  },
+  "player": {
+    "id": 24747,
+    "name": "Millie Farrow"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    112.7,
+    48.9
+  ],
+  "duration": 0.362012,
+  "related_events": [
+    "3039ff65-5da1-4f60-84e2-dc982cc82bb3"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.38376066,
+    "end_location": [
+      113.6,
+      47.6,
+      0.2
+    ],
+    "key_pass_id": "d10f3317-8e0f-439f-905c-8584820c15ee",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.1,
+          32.2
+        ],
+        "player": {
+          "id": 15703,
+          "name": "Charlotte Estcourt"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.1,
+          46.8
+        ],
+        "player": {
+          "id": 15709,
+          "name": "Megan Walsh"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.5,
+          40.2
+        ],
+        "player": {
+          "id": 15712,
+          "name": "Nicola Cousins"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.6,
+          33.9
+        ],
+        "player": {
+          "id": 15708,
+          "name": "Amy Goddard"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.6,
+          42.5
+        ],
+        "player": {
+          "id": 15715,
+          "name": "Ellie Mason"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

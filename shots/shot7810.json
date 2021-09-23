@@ -1,0 +1,143 @@
+{
+  "id": "1a7a5fd6-ac50-44f5-af9b-388f0b981a06",
+  "index": 1729,
+  "period": 1,
+  "timestamp": "00:35:19.041",
+  "minute": 35,
+  "second": 19,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 64,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3958,
+    "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    109.0,
+    39.4
+  ],
+  "duration": 0.724139,
+  "related_events": [
+    "524c1122-d35b-4ade-a9c4-f76428fc0b29"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.2582319,
+    "end_location": [
+      120.0,
+      37.3,
+      0.3
+    ],
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.3,
+          37.6
+        ],
+        "player": {
+          "id": 26233,
+          "name": "Manuel Gaspar Haro"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.4,
+          38.1
+        ],
+        "player": {
+          "id": 26669,
+          "name": "Weligton R\u00f3bson Pena de Oliveira"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.5,
+          41.5
+        ],
+        "player": {
+          "id": 5216,
+          "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.6,
+          41.9
+        ],
+        "player": {
+          "id": 26731,
+          "name": "Patrick Jan Mtiliga"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.8,
+          39.5
+        ],
+        "player": {
+          "id": 6755,
+          "name": "Sergio Asenjo Andr\u00e9s"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

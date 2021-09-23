@@ -1,0 +1,145 @@
+{
+  "id": "048a1592-0505-47b5-8953-35076d3cb5e1",
+  "index": 59,
+  "period": 1,
+  "timestamp": "00:00:43.084",
+  "minute": 0,
+  "second": 43,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 3,
+  "possession_team": {
+    "id": 47,
+    "name": "Middlesbrough"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 47,
+    "name": "Middlesbrough"
+  },
+  "player": {
+    "id": 40327,
+    "name": "Szil\u00e1rd N\u00e9meth"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    113.3,
+    52.0
+  ],
+  "duration": 0.400593,
+  "under_pressure": true,
+  "related_events": [
+    "12a711e4-34ec-4693-b754-4cbab931f9d2",
+    "b503412b-9b20-420d-96bf-c3c08daee7ce"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.11705457,
+    "end_location": [
+      120.0,
+      43.5,
+      4.5
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          103.4,
+          49.8
+        ],
+        "player": {
+          "id": 40221,
+          "name": "Gilberto Aparecido da Silva"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.9,
+          52.2
+        ],
+        "player": {
+          "id": 15637,
+          "name": "Sulzeer Jeremiah \"Sol\" Campbell"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.9,
+          57.1
+        ],
+        "player": {
+          "id": 12529,
+          "name": "Ashley Cole"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.6,
+          44.3
+        ],
+        "player": {
+          "id": 20015,
+          "name": "Jens Lehmann"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.6,
+          51.0
+        ],
+        "player": {
+          "id": 38412,
+          "name": "Kolo Habib Tour\u00e9"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

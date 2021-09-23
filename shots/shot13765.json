@@ -1,0 +1,114 @@
+{
+  "id": "44d3c541-8c77-45b4-9bb1-8d8394c4c807",
+  "index": 1837,
+  "period": 2,
+  "timestamp": "00:01:09.833",
+  "minute": 46,
+  "second": 9,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 108,
+  "possession_team": {
+    "id": 220,
+    "name": "Real Madrid"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 220,
+    "name": "Real Madrid"
+  },
+  "player": {
+    "id": 19729,
+    "name": "Ruud van Nistelrooy"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    108.9,
+    39.9
+  ],
+  "duration": 0.853522,
+  "related_events": [
+    "9b471db3-e56d-482b-8f0e-77ab60794030"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.25334114,
+    "end_location": [
+      120.0,
+      43.5,
+      0.9
+    ],
+    "key_pass_id": "98a00746-3fcd-494b-9ce5-709c6d516dc0",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          105.1,
+          41.5
+        ],
+        "player": {
+          "id": 25854,
+          "name": "Sylvio Mendes Campos Junior"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.2,
+          39.1
+        ],
+        "player": {
+          "id": 15774,
+          "name": "Gianluca Zambrotta"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.7,
+          40.7
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

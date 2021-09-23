@@ -1,0 +1,188 @@
+{
+  "id": "81b6ac96-8bc2-417d-ba97-2ada02fd816f",
+  "index": 3189,
+  "period": 2,
+  "timestamp": "00:43:06.027",
+  "minute": 88,
+  "second": 6,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 158,
+  "possession_team": {
+    "id": 785,
+    "name": "Croatia"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 785,
+    "name": "Croatia"
+  },
+  "player": {
+    "id": 5460,
+    "name": "Andrej Kramari\u0107"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    104.0,
+    33.0
+  ],
+  "duration": 0.72,
+  "related_events": [
+    "5c713666-d742-436e-93e4-72a7ab5e676d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.06328202,
+    "end_location": [
+      119.0,
+      34.8,
+      0.2
+    ],
+    "key_pass_id": "9707b8dd-559c-4742-900e-48249718a55f",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          100.0,
+          42.0
+        ],
+        "player": {
+          "id": 6305,
+          "name": "Milan Badelj"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.0,
+          59.0
+        ],
+        "player": {
+          "id": 5474,
+          "name": "Ivan Peri\u0161i\u0107"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.0,
+          39.0
+        ],
+        "player": {
+          "id": 5498,
+          "name": "Hannes \u00de\u00f3r Halld\u00f3rsson"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          39.0
+        ],
+        "player": {
+          "id": 5501,
+          "name": "H\u00f6r\u00f0ur Bj\u00f6rgvin Magn\u00fasson"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          35.0
+        ],
+        "player": {
+          "id": 5831,
+          "name": "Sverrir Ingi Ingason"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          33.0
+        ],
+        "player": {
+          "id": 5508,
+          "name": "Birkir M\u00e1r S\u00e6varsson"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.0,
+          36.0
+        ],
+        "player": {
+          "id": 5512,
+          "name": "Emil Hallfre\u00f0sson"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          22.0
+        ],
+        "player": {
+          "id": 6310,
+          "name": "Filip Bradari\u0107"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

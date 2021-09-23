@@ -1,0 +1,191 @@
+{
+  "id": "049c9539-d04d-40d8-81a9-21a073d3c6ec",
+  "index": 865,
+  "period": 1,
+  "timestamp": "00:19:35.037",
+  "minute": 19,
+  "second": 35,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 40,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3672,
+    "name": "Zlatan Ibrahimovi\u0107"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    112.2,
+    32.5
+  ],
+  "duration": 0.0662,
+  "under_pressure": true,
+  "related_events": [
+    "48ede3df-e4aa-4a1f-8eb8-8f7b8e39d973",
+    "9db8cf50-b64b-4a65-a93f-7ed507317391",
+    "c5ebab8e-236f-4c28-a668-0ecaf14e794b"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.07306133,
+    "end_location": [
+      112.8,
+      33.6
+    ],
+    "key_pass_id": "ebc659fb-9e76-496a-8822-65eba6e37004",
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "aerial_won": true,
+    "freeze_frame": [
+      {
+        "location": [
+          101.0,
+          51.0
+        ],
+        "player": {
+          "id": 26695,
+          "name": "Marc Valiente Hern\u00e1ndez"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          54.9
+        ],
+        "player": {
+          "id": 26254,
+          "name": "Manuel Jes\u00fas Ortiz Toribio"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.6,
+          62.1
+        ],
+        "player": {
+          "id": 6913,
+          "name": "Fernando Navarro i Corbacho"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.9,
+          45.5
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.2,
+          42.0
+        ],
+        "player": {
+          "id": 25952,
+          "name": "Ivica Dragutinovic"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.9,
+          28.1
+        ],
+        "player": {
+          "id": 26683,
+          "name": "Abdoulay Konko"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.2,
+          37.3
+        ],
+        "player": {
+          "id": 25946,
+          "name": "Andr\u00e9s Palop Cervera"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          34.1
+        ],
+        "player": {
+          "id": 26018,
+          "name": "Julien Escud\u00e9"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

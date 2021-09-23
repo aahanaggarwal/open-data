@@ -1,0 +1,190 @@
+{
+  "id": "f5ad7ab8-c88f-4c82-a787-3ef3ef24d48f",
+  "index": 701,
+  "period": 1,
+  "timestamp": "00:12:48.328",
+  "minute": 12,
+  "second": 48,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 21,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    109.6,
+    26.1
+  ],
+  "duration": 1.3038,
+  "under_pressure": true,
+  "related_events": [
+    "225c7a99-b559-44bb-a59a-b389f5463dd0",
+    "4b47c2db-c0cf-4127-bf25-dfd527157155"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.05768442,
+    "end_location": [
+      120.0,
+      44.8,
+      0.2
+    ],
+    "key_pass_id": "b93ddb6b-4352-4209-92d4-995ad4b7036b",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.6,
+          27.2
+        ],
+        "player": {
+          "id": 25931,
+          "name": "Gonzalo Javier Rodr\u00edguez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.4,
+          27.6
+        ],
+        "player": {
+          "id": 25984,
+          "name": "\u00c1ngel Domingo L\u00f3pez Ruano"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.4,
+          38.7
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.3,
+          42.3
+        ],
+        "player": {
+          "id": 20134,
+          "name": "Joan Capdevila M\u00e9ndez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.6,
+          44.3
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.9,
+          37.4
+        ],
+        "player": {
+          "id": 26621,
+          "name": "Sebasti\u00e1n Eguren Ledesma"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.2,
+          29.8
+        ],
+        "player": {
+          "id": 5249,
+          "name": "Diego Roberto God\u00edn Leal"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.7,
+          36.0
+        ],
+        "player": {
+          "id": 6768,
+          "name": "Diego L\u00f3pez Rodr\u00edguez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

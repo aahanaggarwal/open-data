@@ -1,0 +1,262 @@
+{
+  "id": "908cf1c2-4efe-40e6-94a2-ef61eba2cde4",
+  "index": 3503,
+  "period": 2,
+  "timestamp": "00:36:50.954",
+  "minute": 81,
+  "second": 50,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 181,
+  "possession_team": {
+    "id": 322,
+    "name": "Eibar"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 322,
+    "name": "Eibar"
+  },
+  "player": {
+    "id": 5687,
+    "name": "Takashi Inui"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    115.0,
+    27.0
+  ],
+  "duration": 0.3689,
+  "related_events": [
+    "04a148fa-ddaf-47a0-9723-2e25922e4736",
+    "d9bfb5da-87a2-41d7-995b-0070085a58f3"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.03474552,
+    "end_location": [
+      117.2,
+      30.6
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          106.0,
+          48.9
+        ],
+        "player": {
+          "id": 6710,
+          "name": "Rub\u00e9n Pe\u00f1a Jim\u00e9nez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.2,
+          37.0
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.3,
+          41.3
+        ],
+        "player": {
+          "id": 5211,
+          "name": "Jordi Alba Ramos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.8,
+          33.0
+        ],
+        "player": {
+          "id": 6711,
+          "name": "Enrique Garc\u00eda Mart\u00ednez"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.1,
+          31.8
+        ],
+        "player": {
+          "id": 5492,
+          "name": "Samuel Yves Umtiti"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          26.1
+        ],
+        "player": {
+          "id": 5470,
+          "name": "Ivan Rakiti\u0107"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.1,
+          29.4
+        ],
+        "player": {
+          "id": 6379,
+          "name": "Sergi Roberto Carnicer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          38.9
+        ],
+        "player": {
+          "id": 3501,
+          "name": "Philippe Coutinho Correia"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.2,
+          27.8
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.7,
+          16.5
+        ],
+        "player": {
+          "id": 6701,
+          "name": "Joan Jord\u00e1n Moreno"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.0,
+          34.0
+        ],
+        "player": {
+          "id": 6712,
+          "name": "Gonzalo Escalante"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          95.7,
+          32.2
+        ],
+        "player": {
+          "id": 6775,
+          "name": "Daniel Garc\u00eda Carrillo"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.2,
+          30.6
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

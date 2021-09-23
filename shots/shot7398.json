@@ -1,0 +1,159 @@
+{
+  "id": "c0b67201-bd6c-4129-ae1a-a189330013ca",
+  "index": 2195,
+  "period": 2,
+  "timestamp": "00:08:27.574",
+  "minute": 53,
+  "second": 27,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 113,
+  "possession_team": {
+    "id": 210,
+    "name": "Real Sociedad"
+  },
+  "play_pattern": {
+    "id": 8,
+    "name": "From Keeper"
+  },
+  "team": {
+    "id": 210,
+    "name": "Real Sociedad"
+  },
+  "player": {
+    "id": 5487,
+    "name": "Antoine Griezmann"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    107.8,
+    48.5
+  ],
+  "duration": 0.8088,
+  "related_events": [
+    "42bde47c-6d6a-4f2a-bf3f-4708cb1846c5"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.36156714,
+    "end_location": [
+      120.0,
+      42.0,
+      2.3
+    ],
+    "key_pass_id": "75644211-30c2-4e43-8ba1-3531238f369b",
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          115.2,
+          43.8
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.7,
+          44.2
+        ],
+        "player": {
+          "id": 22102,
+          "name": "Adriano Correia Claro"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.9,
+          39.7
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.9,
+          28.2
+        ],
+        "player": {
+          "id": 27053,
+          "name": "Alexandre Dimitri Song-Billong"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.2,
+          24.7
+        ],
+        "player": {
+          "id": 3958,
+          "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.4,
+          18.4
+        ],
+        "player": {
+          "id": 5560,
+          "name": "Carlos Alberto Vela Garrido"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

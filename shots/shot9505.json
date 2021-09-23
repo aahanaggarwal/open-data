@@ -1,0 +1,159 @@
+{
+  "id": "8715abca-c230-4b4a-b3e3-c4d3a0c394e6",
+  "index": 3428,
+  "period": 2,
+  "timestamp": "00:41:35.742",
+  "minute": 86,
+  "second": 35,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 204,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 25962,
+    "name": "Javier Pedro Saviola Fern\u00e1ndez"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    111.6,
+    33.4
+  ],
+  "duration": 0.623468,
+  "related_events": [
+    "02dc0ae5-7d57-4d52-ba10-cebe10607348"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.20653212,
+    "end_location": [
+      118.8,
+      39.6,
+      0.2
+    ],
+    "key_pass_id": "41db004a-1a93-4eb7-aa41-0abb11ca7bf0",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          119.1,
+          38.3
+        ],
+        "player": {
+          "id": 19579,
+          "name": "Jos\u00e9 Santiago Ca\u00f1izares Ru\u00edz"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          35.6
+        ],
+        "player": {
+          "id": 20128,
+          "name": "David Albelda Aliqu\u00e9s"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.4,
+          40.1
+        ],
+        "player": {
+          "id": 26016,
+          "name": "Roberto Fabi\u00e1n Ayala"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.5,
+          29.4
+        ],
+        "player": {
+          "id": 26012,
+          "name": "David Navarro Pedr\u00f3s"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.3,
+          17.1
+        ],
+        "player": {
+          "id": 20070,
+          "name": "Lu\u00eds Miguel Brito Garcia Monteiro"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.4,
+          15.6
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

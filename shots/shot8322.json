@@ -1,0 +1,146 @@
+{
+  "id": "8fa9ab03-9faf-4aaf-9e42-3f3f4d8596a0",
+  "index": 2240,
+  "period": 2,
+  "timestamp": "00:13:38.187",
+  "minute": 58,
+  "second": 38,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 139,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5216,
+    "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    110.1,
+    35.1
+  ],
+  "duration": 1.0526,
+  "under_pressure": true,
+  "related_events": [
+    "01dd70fe-ee06-474a-a52e-a11c99e9c19e",
+    "a6d72915-f4b6-452d-9995-e96e6cf1bd46"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.37710407,
+    "end_location": [
+      120.0,
+      44.7,
+      0.3
+    ],
+    "key_pass_id": "e6c7d2eb-04ab-4729-8f86-5f0115beeb30",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          107.4,
+          42.2
+        ],
+        "player": {
+          "id": 26067,
+          "name": "Oriol Lozano Farr\u00e1n"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.9,
+          56.0
+        ],
+        "player": {
+          "id": 26137,
+          "name": "\u00d3scar Serrano Rodriguez"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.7,
+          36.3
+        ],
+        "player": {
+          "id": 6891,
+          "name": "Ezequiel Marcelo Garay"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.3,
+          36.2
+        ],
+        "player": {
+          "id": 25870,
+          "name": "Juan Jes\u00fas Calatayud S\u00e1nchez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.2,
+          39.3
+        ],
+        "player": {
+          "id": 25962,
+          "name": "Javier Pedro Saviola Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

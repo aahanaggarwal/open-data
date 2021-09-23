@@ -1,0 +1,83 @@
+{
+  "id": "28af8ac2-2036-4034-a838-2be0d6dff22a",
+  "index": 4589,
+  "period": 5,
+  "timestamp": "00:02:23.226",
+  "minute": 122,
+  "second": 23,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 296,
+  "possession_team": {
+    "id": 1205,
+    "name": "Australia Women's"
+  },
+  "play_pattern": {
+    "id": 5,
+    "name": "Other"
+  },
+  "team": {
+    "id": 1205,
+    "name": "Australia Women's"
+  },
+  "player": {
+    "id": 25744,
+    "name": "Emily Gielnik"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    108.1,
+    40.0
+  ],
+  "duration": 0.798035,
+  "related_events": [
+    "1b2e3866-aa4f-4cca-ba78-a127b81d497b"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.76,
+    "end_location": [
+      119.6,
+      37.0,
+      0.4
+    ],
+    "type": {
+      "id": 88,
+      "name": "Penalty"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.7,
+          40.0
+        ],
+        "player": {
+          "id": 10394,
+          "name": "Ingrid Hjelmseth"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

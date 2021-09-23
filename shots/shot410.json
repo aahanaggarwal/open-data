@@ -1,0 +1,128 @@
+{
+  "id": "ed0b3eed-ee67-4685-ba00-972288e88cf4",
+  "index": 351,
+  "period": 1,
+  "timestamp": "00:06:16.120",
+  "minute": 6,
+  "second": 16,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 16,
+  "possession_team": {
+    "id": 972,
+    "name": "West Ham United LFC"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 972,
+    "name": "West Ham United LFC"
+  },
+  "player": {
+    "id": 18153,
+    "name": "Alisha Lehmann"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    108.0,
+    46.0
+  ],
+  "duration": 0.0353,
+  "related_events": [
+    "450e6408-feb7-4e75-ad06-0d7d40e8d305",
+    "f1346201-0f0b-4c8f-8216-6e26738a4a93"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.1657547,
+    "end_location": [
+      110.0,
+      45.0
+    ],
+    "key_pass_id": "87200fe9-5000-43b2-aac0-022e29734781",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.0,
+          42.0
+        ],
+        "player": {
+          "id": 19778,
+          "name": "Frances Kitching"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          45.0
+        ],
+        "player": {
+          "id": 15630,
+          "name": "Leigh-Anne Robe"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          39.0
+        ],
+        "player": {
+          "id": 15618,
+          "name": "Jasmine Matthews"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          33.0
+        ],
+        "player": {
+          "id": 15614,
+          "name": "Sophie Elizabeth Bradley-Auckland"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

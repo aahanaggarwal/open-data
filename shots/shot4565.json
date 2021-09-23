@@ -1,0 +1,188 @@
+{
+  "id": "a4d6a058-2308-461f-aeae-db6794ec01fe",
+  "index": 1259,
+  "period": 1,
+  "timestamp": "00:34:14.539",
+  "minute": 34,
+  "second": 14,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 79,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 25879,
+    "name": "Ronaldo de Assis Moreira"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    115.7,
+    51.5
+  ],
+  "duration": 0.1385,
+  "related_events": [
+    "0c128848-4b10-4b9f-b852-0885d991ffc8",
+    "56382af9-82c1-46c1-9017-4384c60ccd1a"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.05449146,
+    "end_location": [
+      116.3,
+      50.4
+    ],
+    "key_pass_id": "f205ef75-a5ce-4769-9f27-6b2122df913f",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          115.8,
+          49.9
+        ],
+        "player": {
+          "id": 26462,
+          "name": "Gerardo Garc\u00eda Le\u00f3n"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          50.3
+        ],
+        "player": {
+          "id": 26459,
+          "name": "Vicente Valcarce Cano"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.1,
+          43.2
+        ],
+        "player": {
+          "id": 26044,
+          "name": "C\u00e9sar Gonz\u00e1lez Navas"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.4,
+          44.8
+        ],
+        "player": {
+          "id": 26460,
+          "name": "Francesc Arnau"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.4,
+          35.0
+        ],
+        "player": {
+          "id": 6614,
+          "name": "Alexis Ruano Delgado"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.3,
+          36.5
+        ],
+        "player": {
+          "id": 19296,
+          "name": "Mark van Bommel"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.3,
+          42.8
+        ],
+        "player": {
+          "id": 25878,
+          "name": "Ludovic Giuly"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.0,
+          45.6
+        ],
+        "player": {
+          "id": 25881,
+          "name": "Juan Antonio Rodr\u00edguez Villamuela"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

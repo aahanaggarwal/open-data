@@ -1,0 +1,159 @@
+{
+  "id": "ca920b62-434d-40b4-9b8b-f8fe7639495e",
+  "index": 2554,
+  "period": 2,
+  "timestamp": "00:25:42.099",
+  "minute": 70,
+  "second": 42,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 177,
+  "possession_team": {
+    "id": 37,
+    "name": "Newcastle United"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 37,
+    "name": "Newcastle United"
+  },
+  "player": {
+    "id": 40233,
+    "name": "Olivier Bernard"
+  },
+  "position": {
+    "id": 6,
+    "name": "Left Back"
+  },
+  "location": [
+    109.5,
+    27.9
+  ],
+  "duration": 0.691328,
+  "related_events": [
+    "e3eca283-8fe9-43fe-a5d2-ed77a2aac0db"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.09981891,
+    "end_location": [
+      120.0,
+      37.9,
+      2.4
+    ],
+    "key_pass_id": "80205855-7b2a-4a17-9159-c97174fa1c5f",
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          106.7,
+          43.0
+        ],
+        "player": {
+          "id": 38412,
+          "name": "Kolo Habib Tour\u00e9"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.6,
+          48.9
+        ],
+        "player": {
+          "id": 26194,
+          "name": "Pascal Cygan"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.9,
+          35.8
+        ],
+        "player": {
+          "id": 20015,
+          "name": "Jens Lehmann"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.9,
+          29.3
+        ],
+        "player": {
+          "id": 15654,
+          "name": "Martin Keown"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.8,
+          49.1
+        ],
+        "player": {
+          "id": 40231,
+          "name": "Alan Shearer"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.3,
+          42.7
+        ],
+        "player": {
+          "id": 40226,
+          "name": "Craig Bellamy"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

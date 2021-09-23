@@ -1,0 +1,188 @@
+{
+  "id": "39c3b964-fe53-46ac-8422-ad4b1b7a0d4f",
+  "index": 3225,
+  "period": 2,
+  "timestamp": "00:32:34.641",
+  "minute": 77,
+  "second": 34,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 157,
+  "possession_team": {
+    "id": 1049,
+    "name": "Granada"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 1049,
+    "name": "Granada"
+  },
+  "player": {
+    "id": 26182,
+    "name": "Alexandre Geijo Pazos"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    105.1,
+    22.4
+  ],
+  "duration": 0.0914,
+  "related_events": [
+    "53c85017-da7a-4c8f-afcf-a1578d2c6663",
+    "f2dc3945-d1df-40d3-b00f-84cc8b7d9093"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.014151182,
+    "end_location": [
+      105.8,
+      23.4
+    ],
+    "key_pass_id": "9c37cea5-ff99-425a-8a0c-eb6df4984a1b",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          86.0,
+          47.0
+        ],
+        "player": {
+          "id": 23930,
+          "name": "Ikechukwu Uche"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          90.1,
+          55.1
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.6,
+          40.9
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.1,
+          37.8
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.6,
+          23.6
+        ],
+        "player": {
+          "id": 26171,
+          "name": "Carlos Jorge Neto Martins"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          94.6,
+          22.1
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.7,
+          25.5
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.7,
+          23.5
+        ],
+        "player": {
+          "id": 20169,
+          "name": "Seydou K\u00e9ita"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "id": "6584549d-3c21-4d39-8994-b4b5089aa20c",
+  "index": 1670,
+  "period": 1,
+  "timestamp": "00:40:24.888",
+  "minute": 40,
+  "second": 24,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 100,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19298,
+    "name": "Samuel Eto\"o Fils"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    103.5,
+    25.7
+  ],
+  "duration": 1.295178,
+  "related_events": [
+    "302af3ef-66d2-433d-8d5c-914e50030df1"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.2892174,
+    "end_location": [
+      120.0,
+      42.3,
+      0.2
+    ],
+    "key_pass_id": "8a86e281-84f5-4c9d-b306-1cff3555a561",
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          99.8,
+          48.4
+        ],
+        "player": {
+          "id": 26033,
+          "name": "Javier Casas Cuevas"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.5,
+          31.1
+        ],
+        "player": {
+          "id": 26028,
+          "name": "Fernando Amorebieta Mardaras"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          27.1
+        ],
+        "player": {
+          "id": 26032,
+          "name": "Unai Exp\u00f3sito Medina"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.9,
+          53.0
+        ],
+        "player": {
+          "id": 25878,
+          "name": "Ludovic Giuly"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.9,
+          28.3
+        ],
+        "player": {
+          "id": 26029,
+          "name": "Daniel Aranzubia Aguado"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

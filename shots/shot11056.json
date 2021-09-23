@@ -1,0 +1,191 @@
+{
+  "id": "afea8b88-5f15-4cf5-8785-8f748a6d8eb3",
+  "index": 2064,
+  "period": 2,
+  "timestamp": "00:10:41.549",
+  "minute": 55,
+  "second": 41,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 112,
+  "possession_team": {
+    "id": 967,
+    "name": "Everton LFC"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 967,
+    "name": "Everton LFC"
+  },
+  "player": {
+    "id": 16386,
+    "name": "Lucy Graham"
+  },
+  "position": {
+    "id": 10,
+    "name": "Center Defensive Midfield"
+  },
+  "location": [
+    99.5,
+    42.0
+  ],
+  "duration": 0.910079,
+  "under_pressure": true,
+  "related_events": [
+    "5489095b-7d84-46b4-89aa-07f53466d304",
+    "5fd14f14-71e4-40a3-9441-4e5269e463e1"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.048915945,
+    "end_location": [
+      120.0,
+      43.2,
+      1.9
+    ],
+    "key_pass_id": "d3beaae1-a150-4657-9a4e-edb044611c76",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.5,
+          41.0
+        ],
+        "player": {
+          "id": 18158,
+          "name": "Rebecca Leigh Spencer"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.3,
+          50.6
+        ],
+        "player": {
+          "id": 4858,
+          "name": "Jenna Schillaci"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.3,
+          42.4
+        ],
+        "player": {
+          "id": 31703,
+          "name": "Anna Filbey"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.6,
+          44.0
+        ],
+        "player": {
+          "id": 15559,
+          "name": "Simone Magill"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.6,
+          41.4
+        ],
+        "player": {
+          "id": 18145,
+          "name": "Ria Percival"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.1,
+          38.4
+        ],
+        "player": {
+          "id": 15579,
+          "name": "Inessa Kaagman"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.6,
+          62.7
+        ],
+        "player": {
+          "id": 31564,
+          "name": "Molly Pike"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.0,
+          56.4
+        ],
+        "player": {
+          "id": 4846,
+          "name": "Lucia Leon"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

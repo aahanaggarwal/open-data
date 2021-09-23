@@ -1,0 +1,173 @@
+{
+  "id": "3a9a4eec-fd80-4629-b867-9f03f4294f73",
+  "index": 3194,
+  "period": 2,
+  "timestamp": "00:44:21.322",
+  "minute": 89,
+  "second": 21,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 242,
+  "possession_team": {
+    "id": 1207,
+    "name": "China PR Women's"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1207,
+    "name": "China PR Women's"
+  },
+  "player": {
+    "id": 25489,
+    "name": "Li Yang"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    111.5,
+    33.1
+  ],
+  "duration": 0.457117,
+  "related_events": [
+    "dfa8df3c-184e-4b18-a0f2-8373cc17864e"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.21412541,
+    "end_location": [
+      117.5,
+      38.0,
+      1.4
+    ],
+    "key_pass_id": "2ddd3b8f-7d6a-40e1-be8b-0cc19746b8fe",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.2,
+          37.8
+        ],
+        "player": {
+          "id": 25746,
+          "name": "Kaylin Swart"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          35.0
+        ],
+        "player": {
+          "id": 25514,
+          "name": "Noko Matlou"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.5,
+          40.7
+        ],
+        "player": {
+          "id": 25747,
+          "name": "Bambanani Nolufefe Mbane"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.3,
+          53.1
+        ],
+        "player": {
+          "id": 5054,
+          "name": "Janine van Wyk"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.2,
+          60.8
+        ],
+        "player": {
+          "id": 25509,
+          "name": "Leandra Smeda"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.5,
+          56.1
+        ],
+        "player": {
+          "id": 25485,
+          "name": "Shanshan Wang"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          92.3,
+          43.7
+        ],
+        "player": {
+          "id": 24461,
+          "name": "Shuang Wang"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

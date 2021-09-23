@@ -1,0 +1,114 @@
+{
+  "id": "0bd8831c-8555-4e89-9174-fe5eed3e0124",
+  "index": 348,
+  "period": 1,
+  "timestamp": "00:08:01.355",
+  "minute": 8,
+  "second": 1,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 19,
+  "possession_team": {
+    "id": 37,
+    "name": "Newcastle United"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 37,
+    "name": "Newcastle United"
+  },
+  "player": {
+    "id": 40231,
+    "name": "Alan Shearer"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    106.1,
+    72.9
+  ],
+  "duration": 1.42554,
+  "related_events": [
+    "677c8556-3d67-44a5-8ffb-d65126a6f5a3"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.05220853,
+    "end_location": [
+      120.0,
+      39.7,
+      4.6
+    ],
+    "key_pass_id": "21333277-17ba-4efa-bd59-0b60e4466a25",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          116.3,
+          40.7
+        ],
+        "player": {
+          "id": 20015,
+          "name": "Jens Lehmann"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          70.5
+        ],
+        "player": {
+          "id": 15637,
+          "name": "Sulzeer Jeremiah \"Sol\" Campbell"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.1,
+          68.8
+        ],
+        "player": {
+          "id": 12529,
+          "name": "Ashley Cole"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

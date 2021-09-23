@@ -1,0 +1,188 @@
+{
+  "id": "2274c171-fb32-4c6e-abf1-2384ac75e8b2",
+  "index": 3521,
+  "period": 2,
+  "timestamp": "00:41:18.726",
+  "minute": 86,
+  "second": 18,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 199,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5246,
+    "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    109.5,
+    53.3
+  ],
+  "duration": 0.103589,
+  "related_events": [
+    "6dcd83b0-1b53-4b0b-984a-6bc11749f62a",
+    "c476ae16-5963-4a3f-ad2d-daded278dd5b"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.04820086,
+    "end_location": [
+      110.5,
+      52.4
+    ],
+    "key_pass_id": "c1b90dea-afb9-4471-a31c-d382b15b590c",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.5,
+          47.4
+        ],
+        "player": {
+          "id": 6675,
+          "name": "Antonio Manuel Luna Rodr\u00edguez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.2,
+          40.1
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.3,
+          46.8
+        ],
+        "player": {
+          "id": 6782,
+          "name": "Enis Bardhi"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.6,
+          25.2
+        ],
+        "player": {
+          "id": 8206,
+          "name": "Arturo Erasmo Vidal Pardo"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.9,
+          43.7
+        ],
+        "player": {
+          "id": 23344,
+          "name": "Aitor Fern\u00e1ndez Abarisketa"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.1,
+          39.6
+        ],
+        "player": {
+          "id": 6672,
+          "name": "Jorge And\u00fajar Moreno"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.4,
+          43.6
+        ],
+        "player": {
+          "id": 6592,
+          "name": "R\u00faben Miguel Nunes Vezo"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.5,
+          52.1
+        ],
+        "player": {
+          "id": 6807,
+          "name": "Roberto Su\u00e1rez Pier"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

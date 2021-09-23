@@ -1,0 +1,83 @@
+{
+  "id": "05626f6b-2e04-4dc4-8e48-2744dddacdbe",
+  "index": 3541,
+  "period": 2,
+  "timestamp": "00:48:05.431",
+  "minute": 93,
+  "second": 5,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 227,
+  "possession_team": {
+    "id": 39,
+    "name": "Manchester United"
+  },
+  "play_pattern": {
+    "id": 5,
+    "name": "Other"
+  },
+  "team": {
+    "id": 39,
+    "name": "Manchester United"
+  },
+  "player": {
+    "id": 19729,
+    "name": "Ruud van Nistelrooy"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    108.2,
+    40.1
+  ],
+  "duration": 0.35097,
+  "related_events": [
+    "406956b7-9615-4e22-872c-aa150fec390a"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.76,
+    "end_location": [
+      120.0,
+      37.5,
+      2.9
+    ],
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 88,
+      "name": "Penalty"
+    },
+    "outcome": {
+      "id": 99,
+      "name": "Post"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.9,
+          40.0
+        ],
+        "player": {
+          "id": 20015,
+          "name": "Jens Lehmann"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

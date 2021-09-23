@@ -1,0 +1,174 @@
+{
+  "id": "abd5420f-9770-469f-993d-6432fe58345c",
+  "index": 3120,
+  "period": 2,
+  "timestamp": "00:27:06.748",
+  "minute": 72,
+  "second": 6,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 178,
+  "possession_team": {
+    "id": 967,
+    "name": "Everton LFC"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 967,
+    "name": "Everton LFC"
+  },
+  "player": {
+    "id": 15579,
+    "name": "Inessa Kaagman"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    114.0,
+    47.0
+  ],
+  "duration": 0.280856,
+  "related_events": [
+    "4e376ca2-f531-4597-9038-c06e2984580c",
+    "782fb436-e263-4655-a5bb-bdaa64c1774e"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.114569046,
+    "end_location": [
+      117.0,
+      46.0
+    ],
+    "key_pass_id": "35a64b64-ab2a-44d6-9d0c-47945c8f8b96",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          120.0,
+          49.0
+        ],
+        "player": {
+          "id": 15570,
+          "name": "Chloe Kelly"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.0,
+          43.0
+        ],
+        "player": {
+          "id": 19419,
+          "name": "Marie Hourihan"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          35.0
+        ],
+        "player": {
+          "id": 16374,
+          "name": "Aileen Whelan"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          45.0
+        ],
+        "player": {
+          "id": 16379,
+          "name": "Jodie Brett"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          49.0
+        ],
+        "player": {
+          "id": 16395,
+          "name": "Victoria Williams"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          47.0
+        ],
+        "player": {
+          "id": 16394,
+          "name": "Laura Rafferty"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          44.0
+        ],
+        "player": {
+          "id": 20034,
+          "name": "Danielle Buet"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "id": "b1d04489-53e8-4cfc-baf1-e70dba779d0d",
+  "index": 3897,
+  "period": 2,
+  "timestamp": "00:40:16.661",
+  "minute": 85,
+  "second": 16,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 178,
+  "possession_team": {
+    "id": 219,
+    "name": "Deportivo La Coruna"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 219,
+    "name": "Deportivo La Coruna"
+  },
+  "player": {
+    "id": 20137,
+    "name": "N\u00e9lson Miguel Castro Oliveira"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    106.8,
+    22.6
+  ],
+  "duration": 0.0737,
+  "under_pressure": true,
+  "related_events": [
+    "2170ca3f-0930-446e-b490-b9afb2c26c33",
+    "742a6807-f575-4d91-badb-83788142af58",
+    "962a0604-aca9-45e4-9830-e97067761e12"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.025679844,
+    "end_location": [
+      107.7,
+      23.7
+    ],
+    "key_pass_id": "852ca69d-72f7-461e-9bc3-bff01e576809",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.9,
+          33.8
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          30.9
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.4,
+          42.8
+        ],
+        "player": {
+          "id": 5216,
+          "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.3,
+          41.9
+        ],
+        "player": {
+          "id": 23806,
+          "name": "Alejandro Berganti\u00f1os Garc\u00eda"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.7,
+          36.7
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.3,
+          33.0
+        ],
+        "player": {
+          "id": 27053,
+          "name": "Alexandre Dimitri Song-Billong"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.2,
+          34.0
+        ],
+        "player": {
+          "id": 26169,
+          "name": "Javier Camu\u00f1as Gallego"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.5,
+          41.0
+        ],
+        "player": {
+          "id": 5211,
+          "name": "Jordi Alba Ramos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.1,
+          39.4
+        ],
+        "player": {
+          "id": 27191,
+          "name": "Diogo Ferreira Salom\u00e3o"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.8,
+          35.7
+        ],
+        "player": {
+          "id": 22102,
+          "name": "Adriano Correia Claro"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.8,
+          47.2
+        ],
+        "player": {
+          "id": 10325,
+          "name": "Lu\u00eds Miguel Afonso Fernandes"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.1,
+          23.1
+        ],
+        "player": {
+          "id": 6593,
+          "name": "Mart\u00edn Montoya Torralbo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

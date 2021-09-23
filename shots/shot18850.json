@@ -1,0 +1,114 @@
+{
+  "id": "333fd037-d053-4ced-a11b-88ee1e7d9809",
+  "index": 2802,
+  "period": 2,
+  "timestamp": "00:36:08.667",
+  "minute": 81,
+  "second": 8,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 189,
+  "possession_team": {
+    "id": 968,
+    "name": "Arsenal WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 968,
+    "name": "Arsenal WFC"
+  },
+  "player": {
+    "id": 15620,
+    "name": "Katie McCabe"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    114.1,
+    47.9
+  ],
+  "duration": 0.3959,
+  "related_events": [
+    "e748dcd8-3c55-414a-8133-3bc3002e4be1"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.2603791,
+    "end_location": [
+      118.8,
+      42.4,
+      2.4
+    ],
+    "key_pass_id": "6cf685f5-f1d7-40da-a851-9f614a939189",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "first_time": true,
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.4,
+          46.1
+        ],
+        "player": {
+          "id": 15569,
+          "name": "Kerys Harrop"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.3,
+          37.7
+        ],
+        "player": {
+          "id": 19503,
+          "name": "Aoife Mannion"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.4,
+          41.9
+        ],
+        "player": {
+          "id": 22032,
+          "name": "Hannah Hampton"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

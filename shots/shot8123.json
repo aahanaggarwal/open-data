@@ -1,0 +1,203 @@
+{
+  "id": "ea33730c-e21f-4ca0-952e-4ac35b1314d6",
+  "index": 601,
+  "period": 1,
+  "timestamp": "00:10:49.874",
+  "minute": 10,
+  "second": 49,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 23,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    106.6,
+    38.7
+  ],
+  "duration": 1.0809,
+  "related_events": [
+    "dc027aee-1768-4e3d-8a26-782e3b47b26a"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.24534398,
+    "end_location": [
+      116.9,
+      43.5
+    ],
+    "key_pass_id": "4c711eb1-3dda-4b43-8dc9-9f4f229b2964",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 101,
+      "name": "Wayward"
+    },
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          100.9,
+          23.8
+        ],
+        "player": {
+          "id": 12737,
+          "name": "David Villa S\u00e1nchez"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.8,
+          25.7
+        ],
+        "player": {
+          "id": 6805,
+          "name": "Hugo Mallo Novegil"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.7,
+          49.9
+        ],
+        "player": {
+          "id": 27054,
+          "name": "Roberto Lago Soto"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.8,
+          37.1
+        ],
+        "player": {
+          "id": 27196,
+          "name": "Jonathan Vila Pereira"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.5,
+          40.5
+        ],
+        "player": {
+          "id": 27198,
+          "name": "Andr\u00e9s Jos\u00e9 T\u00fa\u00f1ez Arceo"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.3,
+          43.3
+        ],
+        "player": {
+          "id": 6356,
+          "name": "Michael Krohn-Dehli"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.2,
+          40.7
+        ],
+        "player": {
+          "id": 3478,
+          "name": "Francesc F\u00e0bregas i Soler"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.0,
+          61.4
+        ],
+        "player": {
+          "id": 3958,
+          "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.6,
+          39.0
+        ],
+        "player": {
+          "id": 26753,
+          "name": "Javier Varas Herrera"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

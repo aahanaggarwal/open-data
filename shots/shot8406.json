@@ -1,0 +1,115 @@
+{
+  "id": "1c906a1b-6eb3-42c6-b281-dee3084c7649",
+  "index": 725,
+  "period": 1,
+  "timestamp": "00:18:26.107",
+  "minute": 18,
+  "second": 26,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 40,
+  "possession_team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "player": {
+    "id": 5088,
+    "name": "Crystal Alyssia Dunn"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    106.0,
+    46.0
+  ],
+  "duration": 1.453,
+  "under_pressure": true,
+  "related_events": [
+    "2bcd6230-e5f7-4120-b1c3-3be4e94411f7",
+    "693f13b6-0493-467a-aee1-b59d37ada9ea"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.25093204,
+    "end_location": [
+      120.0,
+      34.8,
+      0.2
+    ],
+    "key_pass_id": "673f75fb-6bb0-407e-af58-38c64051f9f8",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.0,
+          43.0
+        ],
+        "player": {
+          "id": 5090,
+          "name": "Ashlyn Harris"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          34.0
+        ],
+        "player": {
+          "id": 5068,
+          "name": "Kristen Edmonds"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          45.0
+        ],
+        "player": {
+          "id": 5089,
+          "name": "Ali Krieger"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "id": "12ea8849-b45b-4a94-ae61-41930d74e7bf",
+  "index": 3380,
+  "period": 2,
+  "timestamp": "00:34:08.865",
+  "minute": 79,
+  "second": 8,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 166,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    108.7,
+    32.4
+  ],
+  "duration": 1.614919,
+  "related_events": [
+    "2e9d35dc-4d3f-430b-b49a-bb9ab2c5429a"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.3941985,
+    "end_location": [
+      120.0,
+      38.1,
+      0.2
+    ],
+    "key_pass_id": "0bfc154e-e4fd-40bd-ba48-5c53a576c9e2",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.7,
+          36.4
+        ],
+        "player": {
+          "id": 6654,
+          "name": "Antonio Ad\u00e1n Garrido"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.4,
+          46.9
+        ],
+        "player": {
+          "id": 6655,
+          "name": "Fabi\u00e1n Ruiz Pe\u00f1a"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.1,
+          42.3
+        ],
+        "player": {
+          "id": 6646,
+          "name": "Riza Durmisi"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.1,
+          37.3
+        ],
+        "player": {
+          "id": 6647,
+          "name": "Zouhair Feddal"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          29.0
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.6,
+          46.8
+        ],
+        "player": {
+          "id": 5470,
+          "name": "Ivan Rakiti\u0107"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.8,
+          37.3
+        ],
+        "player": {
+          "id": 6648,
+          "name": "A\u00efssa Mandi"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

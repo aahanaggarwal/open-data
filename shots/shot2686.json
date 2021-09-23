@@ -1,0 +1,190 @@
+{
+  "id": "d144f957-3063-4c6f-8bdf-891aa47f0a0f",
+  "index": 1576,
+  "period": 1,
+  "timestamp": "00:42:39.019",
+  "minute": 42,
+  "second": 39,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 82,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    104.8,
+    45.2
+  ],
+  "duration": 0.5413,
+  "under_pressure": true,
+  "related_events": [
+    "7dab2687-1c6a-41ff-8d4a-9fffe6e6d87c",
+    "ad24e79b-3fe8-4a68-a5ba-e3da73a67410"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.11288858,
+    "end_location": [
+      117.6,
+      40.9,
+      0.5
+    ],
+    "key_pass_id": "d8ac84ff-7112-412b-bfc2-1af214f14282",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.8,
+          30.6
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.0,
+          33.9
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.7,
+          40.6
+        ],
+        "player": {
+          "id": 26197,
+          "name": "Christian Abbiati"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.2,
+          51.6
+        ],
+        "player": {
+          "id": 19765,
+          "name": "Sim\u00e3o Pedro Fonseca Sabrosa"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.9,
+          49.4
+        ],
+        "player": {
+          "id": 26057,
+          "name": "Mariano Andr\u00e9s Pern\u00eda"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.5,
+          35.9
+        ],
+        "player": {
+          "id": 26222,
+          "name": "Jos\u00e9 Eduardo Rosa Vale e Castro"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.8,
+          43.4
+        ],
+        "player": {
+          "id": 19760,
+          "name": "Nuno Ricardo de Oliveira Ribeiro"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.7,
+          32.0
+        ],
+        "player": {
+          "id": 19767,
+          "name": "Giorgios Seitaridis"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

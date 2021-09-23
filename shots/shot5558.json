@@ -1,0 +1,115 @@
+{
+  "id": "969b120f-e6aa-467c-9324-b3bfcc74ee9a",
+  "index": 3338,
+  "period": 2,
+  "timestamp": "00:44:37.560",
+  "minute": 89,
+  "second": 37,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 205,
+  "possession_team": {
+    "id": 773,
+    "name": "Switzerland"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 773,
+    "name": "Switzerland"
+  },
+  "player": {
+    "id": 3533,
+    "name": "Xherdan Shaqiri"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    111.0,
+    31.0
+  ],
+  "duration": 1.333,
+  "under_pressure": true,
+  "related_events": [
+    "32fb347e-15cb-43a0-83b0-1b71f933ec70",
+    "cbaf9358-d331-4679-bee7-7cc128601284"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.27450573,
+    "end_location": [
+      120.0,
+      43.8,
+      0.5
+    ],
+    "key_pass_id": "0eb27f86-f5a5-4c0c-a659-5260e098bc6f",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          114.0,
+          32.0
+        ],
+        "player": {
+          "id": 5601,
+          "name": "Vladimir Stojkovi\u0107"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          33.0
+        ],
+        "player": {
+          "id": 5580,
+          "name": "Du\u0161ko To\u0161i\u0107"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.0,
+          43.0
+        ],
+        "player": {
+          "id": 5596,
+          "name": "Aleksandar Kolarov"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

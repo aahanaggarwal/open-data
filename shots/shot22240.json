@@ -1,0 +1,176 @@
+{
+  "id": "a4e475fe-162b-42fc-972c-f3b32539073a",
+  "index": 2436,
+  "period": 2,
+  "timestamp": "00:13:32.441",
+  "minute": 58,
+  "second": 32,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 111,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5246,
+    "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    105.4,
+    48.0
+  ],
+  "duration": 0.4406,
+  "under_pressure": true,
+  "related_events": [
+    "45bd593e-bc93-44ff-841a-e77e2a76da58",
+    "ad844e7a-9fd0-45ee-af97-e8ffb3def923"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.36171857,
+    "end_location": [
+      111.1,
+      44.4,
+      1.8
+    ],
+    "key_pass_id": "52c503ba-b73a-478d-b011-5a66a3ae74e7",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          111.7,
+          44.1
+        ],
+        "player": {
+          "id": 26753,
+          "name": "Javier Varas Herrera"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          47.6
+        ],
+        "player": {
+          "id": 7692,
+          "name": "Mauricio Lemos Merladet"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.1,
+          34.1
+        ],
+        "player": {
+          "id": 6922,
+          "name": "M\u00edchel Macedo Rocha Machado"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.8,
+          30.6
+        ],
+        "player": {
+          "id": 11094,
+          "name": "Arda Turan"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          95.5,
+          49.8
+        ],
+        "player": {
+          "id": 27565,
+          "name": "H\u00e9lder Filipe Oliveira Lopes"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          83.5,
+          45.2
+        ],
+        "player": {
+          "id": 3610,
+          "name": "Roque Mesa Quevedo"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          82.6,
+          48.5
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

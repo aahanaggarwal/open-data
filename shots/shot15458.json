@@ -1,0 +1,159 @@
+{
+  "id": "9f7620bf-7e64-4678-b9f0-1b984f198440",
+  "index": 1559,
+  "period": 1,
+  "timestamp": "00:40:52.143",
+  "minute": 40,
+  "second": 52,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 87,
+  "possession_team": {
+    "id": 1041,
+    "name": "Sporting Gij\u00f3n"
+  },
+  "play_pattern": {
+    "id": 9,
+    "name": "From Kick Off"
+  },
+  "out": true,
+  "team": {
+    "id": 1041,
+    "name": "Sporting Gij\u00f3n"
+  },
+  "player": {
+    "id": 26229,
+    "name": "Carmelo Jos\u00e9 Gonz\u00e1lez Jim\u00e9nez"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    112.1,
+    27.7
+  ],
+  "duration": 1.3712,
+  "related_events": [
+    "9f0e70fe-84a6-47fb-be58-bf0932c9f6a9"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.12914987,
+    "end_location": [
+      120.0,
+      61.0
+    ],
+    "key_pass_id": "c1b93a67-b27e-4ec2-a800-61efc15803ba",
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 101,
+      "name": "Wayward"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          109.8,
+          45.4
+        ],
+        "player": {
+          "id": 20177,
+          "name": "Eric-Sylvain Bilal Abidal"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.5,
+          35.4
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.3,
+          36.0
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.8,
+          35.4
+        ],
+        "player": {
+          "id": 5248,
+          "name": "Jos\u00e9 Mart\u00edn C\u00e1ceres Silva"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.4,
+          33.6
+        ],
+        "player": {
+          "id": 26248,
+          "name": "David Barral Torres"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.3,
+          28.0
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

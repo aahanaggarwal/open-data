@@ -1,0 +1,173 @@
+{
+  "id": "226fc798-43cc-4ab9-aa19-4a9743b514ff",
+  "index": 2713,
+  "period": 2,
+  "timestamp": "00:25:52.042",
+  "minute": 70,
+  "second": 52,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 133,
+  "possession_team": {
+    "id": 205,
+    "name": "Legan\u00e9s"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 205,
+    "name": "Legan\u00e9s"
+  },
+  "player": {
+    "id": 6875,
+    "name": "Alexander Szymanowski"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    96.5,
+    25.4
+  ],
+  "duration": 0.802378,
+  "related_events": [
+    "8d55fb36-4e8d-4323-a175-06719a540cae"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.03210973,
+    "end_location": [
+      120.0,
+      36.7,
+      6.1
+    ],
+    "key_pass_id": "d9586d2f-f791-4779-903a-4671caa59553",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          80.9,
+          36.1
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.0,
+          27.7
+        ],
+        "player": {
+          "id": 5211,
+          "name": "Jordi Alba Ramos"
+        },
+        "position": {
+          "id": 8,
+          "name": "Left Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.1,
+          30.9
+        ],
+        "player": {
+          "id": 5492,
+          "name": "Samuel Yves Umtiti"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.6,
+          43.8
+        ],
+        "player": {
+          "id": 26553,
+          "name": "Mamadou Kon\u00e9"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          80.1,
+          51.0
+        ],
+        "player": {
+          "id": 6607,
+          "name": "Juli\u00e1n Omar Ramos Su\u00e1rez"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          87.3,
+          32.1
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.9,
+          37.1
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

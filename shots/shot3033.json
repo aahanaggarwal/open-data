@@ -1,0 +1,189 @@
+{
+  "id": "d71d7caf-3b5e-43b8-8f7d-ba786b3df5d5",
+  "index": 3062,
+  "period": 2,
+  "timestamp": "00:38:24.957",
+  "minute": 83,
+  "second": 24,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 207,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    113.3,
+    48.1
+  ],
+  "duration": 0.764786,
+  "related_events": [
+    "9895ccff-1874-45d6-be00-f0a19d35f171"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.30505502,
+    "end_location": [
+      120.0,
+      37.9,
+      4.2
+    ],
+    "key_pass_id": "ce088ecc-9e4d-4684-967d-3bbfe593a0e2",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.4,
+          45.9
+        ],
+        "player": {
+          "id": 12626,
+          "name": "Emiliano Adri\u00e1n Ins\u00faa Zapata"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          43.5
+        ],
+        "player": {
+          "id": 26070,
+          "name": "Antonio Rodr\u00edguez Mart\u00ednez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.4,
+          53.5
+        ],
+        "player": {
+          "id": 3130,
+          "name": "Ga\u00ebl Kakuta"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.7,
+          43.8
+        ],
+        "player": {
+          "id": 26607,
+          "name": "Jos\u00e9 Ra\u00fal Baena Urdiales"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.4,
+          39.3
+        ],
+        "player": {
+          "id": 6914,
+          "name": "Roberto Rom\u00e1n Triguero"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.9,
+          40.3
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.8,
+          37.3
+        ],
+        "player": {
+          "id": 3508,
+          "name": "Sandro Ram\u00edrez Castillo"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.4,
+          36.8
+        ],
+        "player": {
+          "id": 3958,
+          "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "id": "6967f832-ff56-4383-8c4b-756cc1b23e8a",
+  "index": 531,
+  "period": 1,
+  "timestamp": "00:10:21.904",
+  "minute": 10,
+  "second": 21,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 22,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    91.2,
+    39.2
+  ],
+  "duration": 0.1938,
+  "related_events": [
+    "bbaf3dd8-7af9-42cc-8464-bbd016fe408f",
+    "fdf4c832-37af-491c-ab87-78019528292c"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.024840806,
+    "end_location": [
+      96.0,
+      38.9
+    ],
+    "key_pass_id": "5f3f811e-7f38-4095-9738-b5cdc320c69b",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          98.7,
+          61.5
+        ],
+        "player": {
+          "id": 4913,
+          "name": "Bojan Krk\u00edc P\u00e9rez"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.5,
+          60.8
+        ],
+        "player": {
+          "id": 26479,
+          "name": "Koikili Lertxundi Del Campo"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.5,
+          51.9
+        ],
+        "player": {
+          "id": 26028,
+          "name": "Fernando Amorebieta Mardaras"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          90.1,
+          41.2
+        ],
+        "player": {
+          "id": 9399,
+          "name": "Javier Mart\u00ednez Aginaga"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.2,
+          24.7
+        ],
+        "player": {
+          "id": 25869,
+          "name": "David L\u00f3pez Moreno"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.1,
+          35.4
+        ],
+        "player": {
+          "id": 26031,
+          "name": "Andoni Iraola Sagarna"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.0,
+          37.8
+        ],
+        "player": {
+          "id": 26613,
+          "name": "Maxwell Scherrer Cabelino Andrade"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.7,
+          39.3
+        ],
+        "player": {
+          "id": 6576,
+          "name": "Gorka Iraizoz Moreno"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.4,
+          38.8
+        ],
+        "player": {
+          "id": 6389,
+          "name": "Mikel San Jos\u00e9 Dom\u00ednguez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

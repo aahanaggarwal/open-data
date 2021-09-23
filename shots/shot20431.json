@@ -1,0 +1,145 @@
+{
+  "id": "2a272220-f097-41a7-850a-9bddf4136286",
+  "index": 974,
+  "period": 1,
+  "timestamp": "00:24:52.660",
+  "minute": 24,
+  "second": 52,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 60,
+  "possession_team": {
+    "id": 749,
+    "name": "Tottenham Hotspur Women"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 749,
+    "name": "Tottenham Hotspur Women"
+  },
+  "player": {
+    "id": 15706,
+    "name": "Rachel Furness"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    103.6,
+    54.5
+  ],
+  "duration": 0.74089,
+  "under_pressure": true,
+  "related_events": [
+    "0df0613d-227e-4dcd-90a1-18c7fe2d22b1",
+    "d5e438da-f7e9-4c4c-bdbb-6b9477ac7187"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.054537736,
+    "end_location": [
+      115.8,
+      43.9,
+      0.2
+    ],
+    "key_pass_id": "e6bbd6d1-3053-4d43-bb2b-9d088b11c629",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.3,
+          42.6
+        ],
+        "player": {
+          "id": 31702,
+          "name": "Rianna Dean"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.8,
+          43.8
+        ],
+        "player": {
+          "id": 15709,
+          "name": "Megan Walsh"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.7,
+          48.4
+        ],
+        "player": {
+          "id": 16383,
+          "name": "Danique Kerkdijk"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.8,
+          56.2
+        ],
+        "player": {
+          "id": 16392,
+          "name": "Felicity Gibbons"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.1,
+          52.8
+        ],
+        "player": {
+          "id": 16395,
+          "name": "Victoria Williams"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "id": "6f62f525-6ef5-4c94-a956-93f6d5957d73",
+  "index": 1789,
+  "period": 1,
+  "timestamp": "00:46:06.705",
+  "minute": 46,
+  "second": 6,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 108,
+  "possession_team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "player": {
+    "id": 5034,
+    "name": "Jessica McDonald"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    109.0,
+    53.0
+  ],
+  "duration": 0.777,
+  "related_events": [
+    "7b23c623-93ab-48c1-a37b-44099a3e1cc3"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.10912124,
+    "end_location": [
+      120.0,
+      44.6,
+      3.7
+    ],
+    "key_pass_id": "15c004c3-4386-47cd-a57c-7cd2e3d30ff9",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.0,
+          41.0
+        ],
+        "player": {
+          "id": 5044,
+          "name": "D\u00e9bora Cristiane de Oliveira"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.0,
+          39.0
+        ],
+        "player": {
+          "id": 5088,
+          "name": "Crystal Alyssia Dunn"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.0,
+          43.0
+        ],
+        "player": {
+          "id": 5100,
+          "name": "Alyssa Naeher"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          44.0
+        ],
+        "player": {
+          "id": 4947,
+          "name": "Danielle Colaprico"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          49.0
+        ],
+        "player": {
+          "id": 6812,
+          "name": "Vanessa DiBernardo"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          48.0
+        ],
+        "player": {
+          "id": 7179,
+          "name": "Casey Short"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          42.0
+        ],
+        "player": {
+          "id": 4958,
+          "name": "Kathleen Naughton"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          41.0
+        ],
+        "player": {
+          "id": 4942,
+          "name": "Arin Gilliland"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

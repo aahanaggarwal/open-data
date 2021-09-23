@@ -1,0 +1,203 @@
+{
+  "id": "42b646f8-43e4-4c95-9f00-82a9415fd2ca",
+  "index": 1275,
+  "period": 1,
+  "timestamp": "00:40:27.617",
+  "minute": 40,
+  "second": 27,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 94,
+  "possession_team": {
+    "id": 761,
+    "name": "Chicago Red Stars"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 761,
+    "name": "Chicago Red Stars"
+  },
+  "player": {
+    "id": 4963,
+    "name": "Yuki Nagasato"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    107.0,
+    61.0
+  ],
+  "duration": 0.251,
+  "related_events": [
+    "455ba580-f54f-4945-ae17-da4dd9a2004e",
+    "d5ad04d8-46ff-43ee-9463-7b2f731a5658"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.012883259,
+    "end_location": [
+      109.0,
+      61.0
+    ],
+    "key_pass_id": "67a0e037-0a31-4191-81a9-1ddeb73433ee",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.0,
+          59.0
+        ],
+        "player": {
+          "id": 4968,
+          "name": "Madison Tiernan"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          60.0
+        ],
+        "player": {
+          "id": 4978,
+          "name": "Dominique Richardson"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          47.0
+        ],
+        "player": {
+          "id": 4974,
+          "name": "Mandy Freeman"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          36.0
+        ],
+        "player": {
+          "id": 5098,
+          "name": "Erica Skroski"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          34.0
+        ],
+        "player": {
+          "id": 5103,
+          "name": "Michele Vasconcelos"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.0,
+          45.0
+        ],
+        "player": {
+          "id": 5096,
+          "name": "Savannah McCaskill"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.0,
+          47.0
+        ],
+        "player": {
+          "id": 4961,
+          "name": "Samantha Kerr"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.0,
+          51.0
+        ],
+        "player": {
+          "id": 4992,
+          "name": "Janine Beckie"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          45.0
+        ],
+        "player": {
+          "id": 4981,
+          "name": "Kailen Sheridan"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

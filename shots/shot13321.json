@@ -1,0 +1,188 @@
+{
+  "id": "66be9faf-f0ea-4feb-ba3a-a96230455d70",
+  "index": 2120,
+  "period": 2,
+  "timestamp": "00:15:03.382",
+  "minute": 60,
+  "second": 3,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 129,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19296,
+    "name": "Mark van Bommel"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    100.2,
+    28.8
+  ],
+  "duration": 0.667199,
+  "related_events": [
+    "74dbf5f3-7220-45e3-a7cb-b2cb8b49dad5"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.024062505,
+    "end_location": [
+      116.5,
+      37.8,
+      0.2
+    ],
+    "key_pass_id": "b582680d-dede-49f3-8335-fc141308bb62",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          100.2,
+          35.5
+        ],
+        "player": {
+          "id": 26030,
+          "name": "Ander Murillo Garc\u00eda"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.7,
+          43.1
+        ],
+        "player": {
+          "id": 26028,
+          "name": "Fernando Amorebieta Mardaras"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          29.6
+        ],
+        "player": {
+          "id": 26085,
+          "name": "Luis Prieto Zalbidegoitia"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.2,
+          30.4
+        ],
+        "player": {
+          "id": 26031,
+          "name": "Andoni Iraola Sagarna"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.9,
+          45.2
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.3,
+          32.0
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.3,
+          18.8
+        ],
+        "player": {
+          "id": 17797,
+          "name": "Giovanni van Bronckhorst"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.1,
+          38.2
+        ],
+        "player": {
+          "id": 26084,
+          "name": "I\u00f1aki Lafuente Sancha"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

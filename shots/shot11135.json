@@ -1,0 +1,296 @@
+{
+  "id": "f1fc9d5a-11d8-49cb-bf6d-344b73fb9f5d",
+  "index": 233,
+  "period": 1,
+  "timestamp": "00:05:00.369",
+  "minute": 5,
+  "second": 0,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 19,
+  "possession_team": {
+    "id": 98,
+    "name": "Blackburn Rovers"
+  },
+  "play_pattern": {
+    "id": 2,
+    "name": "From Corner"
+  },
+  "team": {
+    "id": 98,
+    "name": "Blackburn Rovers"
+  },
+  "player": {
+    "id": 40356,
+    "name": "Craig Short"
+  },
+  "position": {
+    "id": 3,
+    "name": "Right Center Back"
+  },
+  "location": [
+    111.6,
+    42.1
+  ],
+  "duration": 0.800357,
+  "under_pressure": true,
+  "related_events": [
+    "0d402acf-fa1d-4896-a7d7-bb158604dd43",
+    "96bdcd98-2fb1-4262-b007-34e70f07edfe",
+    "f1acd387-a2d1-4b2a-9cbc-639246dac9c4"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.04714762,
+    "end_location": [
+      119.2,
+      43.5
+    ],
+    "key_pass_id": "b2a80e49-5722-49e4-b780-900b18baeb71",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "aerial_won": true,
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          115.8,
+          37.0
+        ],
+        "player": {
+          "id": 26014,
+          "name": "Eduardo C\u00e9sar Daude Gaspar"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.7,
+          44.1
+        ],
+        "player": {
+          "id": 15515,
+          "name": "Patrick Vieira"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.1,
+          42.0
+        ],
+        "player": {
+          "id": 15637,
+          "name": "Sulzeer Jeremiah \"Sol\" Campbell"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.8,
+          38.7
+        ],
+        "player": {
+          "id": 40221,
+          "name": "Gilberto Aparecido da Silva"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.1,
+          36.8
+        ],
+        "player": {
+          "id": 38412,
+          "name": "Kolo Habib Tour\u00e9"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.5,
+          37.7
+        ],
+        "player": {
+          "id": 40222,
+          "name": "Laureano Bisan-Etame Mayer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.5,
+          48.1
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.6,
+          49.2
+        ],
+        "player": {
+          "id": 19312,
+          "name": "Robert Pir\u00e8s "
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.7,
+          38.0
+        ],
+        "player": {
+          "id": 24767,
+          "name": "Andy Cole"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.1,
+          29.2
+        ],
+        "player": {
+          "id": 15095,
+          "name": "Tugay Kerimo\u011flu"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.2,
+          35.2
+        ],
+        "player": {
+          "id": 40355,
+          "name": "Andy Todd"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.1,
+          39.6
+        ],
+        "player": {
+          "id": 40397,
+          "name": "Martin Andresen"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.2,
+          44.4
+        ],
+        "player": {
+          "id": 40396,
+          "name": "Matt Jansen"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.4,
+          40.9
+        ],
+        "player": {
+          "id": 20015,
+          "name": "Jens Lehmann"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.4,
+          43.5
+        ],
+        "player": {
+          "id": 12529,
+          "name": "Ashley Cole"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

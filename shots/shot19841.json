@@ -1,0 +1,188 @@
+{
+  "id": "1773474e-2632-4eea-9103-5f2f690e298f",
+  "index": 190,
+  "period": 1,
+  "timestamp": "00:04:02.040",
+  "minute": 4,
+  "second": 2,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 13,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3385,
+    "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    102.7,
+    52.1
+  ],
+  "duration": 0.4088,
+  "related_events": [
+    "a8bae841-e3b6-4e69-97dc-78fa29e02e15"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.07066926,
+    "end_location": [
+      113.9,
+      45.0,
+      1.2
+    ],
+    "key_pass_id": "3b2ce72a-2890-44a3-9810-174512bfd186",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          88.0,
+          44.1
+        ],
+        "player": {
+          "id": 25874,
+          "name": "Francisco Pu\u00f1al Mart\u00ednez"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.5,
+          51.1
+        ],
+        "player": {
+          "id": 25896,
+          "name": "Dami\u00e0 Abella P\u00e9rez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.1,
+          51.5
+        ],
+        "player": {
+          "id": 24313,
+          "name": "Miguel Fla\u00f1o Bezunartea"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.9,
+          42.2
+        ],
+        "player": {
+          "id": 6869,
+          "name": "Alejandro Arribas Garrido"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.5,
+          31.0
+        ],
+        "player": {
+          "id": 26807,
+          "name": "Marc Bertr\u00e1n Vilanova"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.7,
+          44.9
+        ],
+        "player": {
+          "id": 8697,
+          "name": "Andr\u00e9s Eduardo Fern\u00e1ndez Moreno"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.4,
+          20.9
+        ],
+        "player": {
+          "id": 6658,
+          "name": "Cristian Tello Herrera"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          87.4,
+          44.6
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

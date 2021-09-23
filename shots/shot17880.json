@@ -1,0 +1,131 @@
+{
+  "id": "6f0fe552-5839-4169-a2f0-c4920ce765f6",
+  "index": 2335,
+  "period": 2,
+  "timestamp": "00:09:33.530",
+  "minute": 54,
+  "second": 33,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 108,
+  "possession_team": {
+    "id": 209,
+    "name": "Celta Vigo"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 209,
+    "name": "Celta Vigo"
+  },
+  "player": {
+    "id": 5516,
+    "name": "Pione Sisto Ifolo Emirmija"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    115.1,
+    22.7
+  ],
+  "duration": 0.396577,
+  "under_pressure": true,
+  "related_events": [
+    "f6a3f833-7a2b-48b5-bdfa-78a0097078bd",
+    "f90ebd9f-9c92-46f8-a376-107f40eb4de3"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.030669494,
+    "end_location": [
+      118.3,
+      36.0,
+      0.2
+    ],
+    "key_pass_id": "260aef2f-05fa-4470-8df6-ac5141559e31",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.4,
+          25.7
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.3,
+          36.1
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.4,
+          30.8
+        ],
+        "player": {
+          "id": 5492,
+          "name": "Samuel Yves Umtiti"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.3,
+          42.6
+        ],
+        "player": {
+          "id": 17304,
+          "name": "H\u00e9ctor Junior Firpo Adames"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

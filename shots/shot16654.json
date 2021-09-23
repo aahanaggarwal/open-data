@@ -1,0 +1,218 @@
+{
+  "id": "eeaa5fc8-93bb-47ee-ba6e-9b0a08ae3283",
+  "index": 2689,
+  "period": 2,
+  "timestamp": "00:11:45.664",
+  "minute": 56,
+  "second": 45,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 122,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3478,
+    "name": "Francesc F\u00e0bregas i Soler"
+  },
+  "position": {
+    "id": 20,
+    "name": "Left Attacking Midfield"
+  },
+  "location": [
+    108.0,
+    29.4
+  ],
+  "duration": 0.0908,
+  "related_events": [
+    "12131de0-5f8b-4e8d-b82c-9fd23803fbb0",
+    "27a39347-88bb-4c89-b211-01e0499cc6bd"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.06849575,
+    "end_location": [
+      109.1,
+      30.4
+    ],
+    "key_pass_id": "073424f5-58f7-45ab-a55e-38c428f4402f",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.2,
+          31.3
+        ],
+        "player": {
+          "id": 26455,
+          "name": "Jos\u00e9 Isidoro G\u00f3mez Torres"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.4,
+          30.3
+        ],
+        "player": {
+          "id": 11543,
+          "name": "Jos\u00e9 Antonio Dorado Ram\u00edrez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.9,
+          37.7
+        ],
+        "player": {
+          "id": 26081,
+          "name": "Pedro Mario \u00c1lvarez Abrante"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.1,
+          37.9
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.6,
+          37.8
+        ],
+        "player": {
+          "id": 23815,
+          "name": "Casto Espinosa Barriga"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          39.4
+        ],
+        "player": {
+          "id": 25892,
+          "name": "Ignacio P\u00e9rez Santamar\u00eda"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.7,
+          49.3
+        ],
+        "player": {
+          "id": 6832,
+          "name": "Rub\u00e9n Castro Mart\u00edn"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          48.8
+        ],
+        "player": {
+          "id": 3385,
+          "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+        },
+        "position": {
+          "id": 8,
+          "name": "Left Wing Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.6,
+          30.7
+        ],
+        "player": {
+          "id": 26794,
+          "name": "Javier Magro Matilla"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          88.5,
+          58.5
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

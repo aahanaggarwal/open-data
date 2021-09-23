@@ -1,0 +1,189 @@
+{
+  "id": "2b2a8657-2382-4f60-b3ba-a3d537bf4c77",
+  "index": 969,
+  "period": 1,
+  "timestamp": "00:22:03.306",
+  "minute": 22,
+  "second": 3,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 52,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 12737,
+    "name": "David Villa S\u00e1nchez"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    111.2,
+    36.6
+  ],
+  "duration": 0.676429,
+  "related_events": [
+    "15228ff2-3891-4725-899d-dd30c30652af"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.3354093,
+    "end_location": [
+      120.0,
+      40.5,
+      4.5
+    ],
+    "key_pass_id": "f51a2f68-394a-4cd6-bb2a-c2fc38bc2d96",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          101.4,
+          35.0
+        ],
+        "player": {
+          "id": 27144,
+          "name": "Antonio Amaya Carazo"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.8,
+          38.0
+        ],
+        "player": {
+          "id": 3623,
+          "name": "Adri\u00e1n San Miguel del Castillo"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.4,
+          38.7
+        ],
+        "player": {
+          "id": 6599,
+          "name": "Rub\u00e9n Salvador P\u00e9rez Del M\u00e1rmol"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.7,
+          41.5
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.1,
+          40.1
+        ],
+        "player": {
+          "id": 25022,
+          "name": "Alejandro Mart\u00ednez S\u00e1nchez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.2,
+          40.7
+        ],
+        "player": {
+          "id": 27145,
+          "name": "Emmanuel Nosakhare Igiebor"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.8,
+          36.4
+        ],
+        "player": {
+          "id": 27053,
+          "name": "Alexandre Dimitri Song-Billong"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.1,
+          54.1
+        ],
+        "player": {
+          "id": 3385,
+          "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

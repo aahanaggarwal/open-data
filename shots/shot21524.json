@@ -1,0 +1,189 @@
+{
+  "id": "5aa3cae9-f30d-4616-a556-f7faeae8f309",
+  "index": 228,
+  "period": 1,
+  "timestamp": "00:03:37.320",
+  "minute": 3,
+  "second": 37,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 7,
+  "possession_team": {
+    "id": 782,
+    "name": "Belgium"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 782,
+    "name": "Belgium"
+  },
+  "player": {
+    "id": 3176,
+    "name": "Thomas Meunier"
+  },
+  "position": {
+    "id": 7,
+    "name": "Right Wing Back"
+  },
+  "location": [
+    113.0,
+    41.0
+  ],
+  "duration": 0.693,
+  "related_events": [
+    "f8092de4-b8c4-45e3-8b83-78b564044c0e"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.2976184,
+    "end_location": [
+      120.0,
+      41.9,
+      0.4
+    ],
+    "key_pass_id": "ad1837d5-658e-4fcd-9dec-b5058a699e8b",
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.0,
+          42.0
+        ],
+        "player": {
+          "id": 3594,
+          "name": "Danny Rose"
+        },
+        "position": {
+          "id": 8,
+          "name": "Left Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          40.0
+        ],
+        "player": {
+          "id": 3468,
+          "name": "Jordan Pickford"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          43.0
+        ],
+        "player": {
+          "id": 3336,
+          "name": "Harry Maguire"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          36.0
+        ],
+        "player": {
+          "id": 3244,
+          "name": "John Stones"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          26.0
+        ],
+        "player": {
+          "id": 3314,
+          "name": "Phil Jones"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          38.0
+        ],
+        "player": {
+          "id": 3089,
+          "name": "Kevin De Bruyne"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.0,
+          21.0
+        ],
+        "player": {
+          "id": 3308,
+          "name": "Kieran Trippier"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          13.0
+        ],
+        "player": {
+          "id": 4831,
+          "name": "Nacer Chadli"
+        },
+        "position": {
+          "id": 8,
+          "name": "Left Wing Back"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

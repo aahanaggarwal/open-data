@@ -1,0 +1,204 @@
+{
+  "id": "10bb2b08-a3da-475e-8627-96e23d77e0a7",
+  "index": 1071,
+  "period": 1,
+  "timestamp": "00:26:10.341",
+  "minute": 26,
+  "second": 10,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 63,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5203,
+    "name": "Sergio Busquets i Burgos"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    107.3,
+    30.2
+  ],
+  "duration": 0.739739,
+  "related_events": [
+    "19b35f83-2d47-4f2e-8b6a-025d561cfa5e"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.09314939,
+    "end_location": [
+      120.0,
+      43.3,
+      4.0
+    ],
+    "key_pass_id": "6510f963-14b7-418d-8338-87e2fdd9d367",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.5,
+          50.1
+        ],
+        "player": {
+          "id": 26172,
+          "name": "Hip\u00f3lito Fern\u00e1ndez Serrano"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.3,
+          43.5
+        ],
+        "player": {
+          "id": 26642,
+          "name": "Mogammat Nasief Morris"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.2,
+          37.6
+        ],
+        "player": {
+          "id": 10763,
+          "name": "Asier Riesgo Unamuno"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.1,
+          38.7
+        ],
+        "player": {
+          "id": 25848,
+          "name": "C\u00e9sar Arzo Amposta"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.6,
+          34.0
+        ],
+        "player": {
+          "id": 15656,
+          "name": "Roberto Luis Gaspar de Deus Severo"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.8,
+          24.5
+        ],
+        "player": {
+          "id": 26168,
+          "name": "Iago Bouz\u00f3n Amodeo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.6,
+          47.6
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.6,
+          25.8
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.1,
+          41.4
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

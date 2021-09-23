@@ -1,0 +1,173 @@
+{
+  "id": "ef756883-4f72-426c-a37e-312e4ad1afe2",
+  "index": 3008,
+  "period": 2,
+  "timestamp": "00:33:32.466",
+  "minute": 78,
+  "second": 32,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 190,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 23816,
+    "name": "Jos\u00e9 Antonio Reyes Calder\u00f3n"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    101.3,
+    48.7
+  ],
+  "duration": 0.284106,
+  "related_events": [
+    "aee549ad-26c0-46c1-95d4-2be032fe2e54"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.3967671,
+    "end_location": [
+      108.2,
+      44.6,
+      1.1
+    ],
+    "key_pass_id": "393ca2e9-e456-45ab-ad2a-0b6fc3c2fa6c",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          99.9,
+          49.7
+        ],
+        "player": {
+          "id": 24758,
+          "name": "Michael Tarnat"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.2,
+          47.3
+        ],
+        "player": {
+          "id": 40218,
+          "name": "Sylvain Distin"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.4,
+          33.3
+        ],
+        "player": {
+          "id": 38551,
+          "name": "Shaun Wright-Phillips"
+        },
+        "position": {
+          "id": 18,
+          "name": "Right Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.2,
+          44.8
+        ],
+        "player": {
+          "id": 20329,
+          "name": "David James"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.1,
+          42.3
+        ],
+        "player": {
+          "id": 19312,
+          "name": "Robert Pir\u00e8s "
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.5,
+          41.5
+        ],
+        "player": {
+          "id": 20447,
+          "name": "Richard Dunne"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          90.6,
+          26.0
+        ],
+        "player": {
+          "id": 12529,
+          "name": "Ashley Cole"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

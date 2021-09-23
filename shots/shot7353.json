@@ -1,0 +1,173 @@
+{
+  "id": "30610e36-0585-43a1-bd45-21648041959c",
+  "index": 312,
+  "period": 1,
+  "timestamp": "00:05:16.081",
+  "minute": 5,
+  "second": 16,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 8,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 4324,
+    "name": "Daniel Alves da Silva"
+  },
+  "position": {
+    "id": 2,
+    "name": "Right Back"
+  },
+  "location": [
+    116.2,
+    48.1
+  ],
+  "duration": 0.1955,
+  "related_events": [
+    "2a0240aa-56df-4eba-877d-21f55ca5af6e"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.15668905,
+    "end_location": [
+      116.9,
+      46.2,
+      1.3
+    ],
+    "key_pass_id": "cc732323-ed2c-47b2-9a44-db7e9f76e7fb",
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          116.9,
+          46.1
+        ],
+        "player": {
+          "id": 25971,
+          "name": "Esteban Andr\u00e9s Su\u00e1rez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.3,
+          37.2
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.8,
+          59.6
+        ],
+        "player": {
+          "id": 6400,
+          "name": "Aleix Vidal Parreu"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.9,
+          48.6
+        ],
+        "player": {
+          "id": 27246,
+          "name": "Sebasti\u00e1n Dubarbier"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.3,
+          44.2
+        ],
+        "player": {
+          "id": 3385,
+          "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.7,
+          44.2
+        ],
+        "player": {
+          "id": 27515,
+          "name": "Marco Natanel Torsiglieri"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.2,
+          39.4
+        ],
+        "player": {
+          "id": 25824,
+          "name": "\u00c1ngel Trujillo Canorea"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

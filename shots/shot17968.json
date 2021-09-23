@@ -1,0 +1,129 @@
+{
+  "id": "c9e94df6-7244-4f4a-814a-0195a03d115c",
+  "index": 4081,
+  "period": 4,
+  "timestamp": "00:04:53.012",
+  "minute": 109,
+  "second": 53,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 256,
+  "possession_team": {
+    "id": 220,
+    "name": "Real Madrid"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 220,
+    "name": "Real Madrid"
+  },
+  "player": {
+    "id": 6399,
+    "name": "Gareth Frank Bale"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    117.0,
+    44.0
+  ],
+  "duration": 0.466169,
+  "under_pressure": true,
+  "related_events": [
+    "04912687-7b77-4d46-a72e-baf5ba3d838a",
+    "8312f576-abed-4c34-a23e-d688ff16b22a"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.5641499,
+    "end_location": [
+      120.0,
+      41.1,
+      2.2
+    ],
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.0,
+          42.0
+        ],
+        "player": {
+          "id": 20005,
+          "name": "Toby Alderweireld"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          30.0
+        ],
+        "player": {
+          "id": 5249,
+          "name": "Diego Roberto God\u00edn Leal"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          120.0,
+          31.0
+        ],
+        "player": {
+          "id": 2995,
+          "name": "\u00c1ngel Fabi\u00e1n Di Mar\u00eda Hern\u00e1ndez"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.0,
+          32.0
+        ],
+        "player": {
+          "id": 3509,
+          "name": "Thibaut Courtois"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

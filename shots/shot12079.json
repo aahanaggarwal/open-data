@@ -1,0 +1,203 @@
+{
+  "id": "b4952a66-6a46-477a-a0c8-258a3dda2b1b",
+  "index": 492,
+  "period": 1,
+  "timestamp": "00:11:21.168",
+  "minute": 11,
+  "second": 21,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 31,
+  "possession_team": {
+    "id": 764,
+    "name": "Orlando Pride"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 764,
+    "name": "Orlando Pride"
+  },
+  "player": {
+    "id": 5085,
+    "name": "Alex Morgan"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    93.0,
+    31.0
+  ],
+  "duration": 0.115,
+  "related_events": [
+    "6d9d671c-27df-4c8d-9a77-1962afeae0ce",
+    "fa402a66-3143-4231-87a8-1634b68dd868"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.01914714,
+    "end_location": [
+      96.0,
+      30.0
+    ],
+    "key_pass_id": "9f6e35fb-f969-47f4-9af6-7c7ef9171b84",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.0,
+          39.0
+        ],
+        "player": {
+          "id": 5048,
+          "name": "Katelyn Rowland"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          41.0
+        ],
+        "player": {
+          "id": 5082,
+          "name": "Marta Vieira da Silva"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          98.0,
+          14.0
+        ],
+        "player": {
+          "id": 5060,
+          "name": "Poliana Barbosa Medeiros"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.0,
+          27.0
+        ],
+        "player": {
+          "id": 5091,
+          "name": "McCall Zerboni"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.0,
+          33.0
+        ],
+        "player": {
+          "id": 5084,
+          "name": "Denise O\"Sullivan"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.0,
+          25.0
+        ],
+        "player": {
+          "id": 5083,
+          "name": "Merritt Mathias"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.0,
+          31.0
+        ],
+        "player": {
+          "id": 5081,
+          "name": "Abby Dahlkemper"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          36.0
+        ],
+        "player": {
+          "id": 5037,
+          "name": "Abby Erceg"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          44.0
+        ],
+        "player": {
+          "id": 5057,
+          "name": "Kaleigh Kurtz"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

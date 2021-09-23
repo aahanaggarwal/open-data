@@ -1,0 +1,128 @@
+{
+  "id": "a270e717-1955-4a24-9b2d-640c910876ff",
+  "index": 910,
+  "period": 1,
+  "timestamp": "00:23:53.783",
+  "minute": 23,
+  "second": 53,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 43,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    111.3,
+    50.4
+  ],
+  "duration": 0.2079,
+  "related_events": [
+    "9b5b98e6-9b85-48ff-8923-19e64ab503f0"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.17195125,
+    "end_location": [
+      112.4,
+      49.3,
+      0.0
+    ],
+    "key_pass_id": "1b0e9036-6d24-4eec-803d-b78026aa4ffa",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.5,
+          49.3
+        ],
+        "player": {
+          "id": 25917,
+          "name": "C\u00e9sar S\u00e1nchez Dom\u00ednguez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.6,
+          54.2
+        ],
+        "player": {
+          "id": 25969,
+          "name": "Sergio Fern\u00e1ndez Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.6,
+          51.9
+        ],
+        "player": {
+          "id": 26023,
+          "name": "Juan Francisco Garc\u00eda Garc\u00eda"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.1,
+          42.5
+        ],
+        "player": {
+          "id": 26215,
+          "name": "Francisco Pav\u00f3n Barahona"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

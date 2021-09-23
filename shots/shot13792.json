@@ -1,0 +1,174 @@
+{
+  "id": "d372bc9b-5ff0-4035-bb19-92e2a8b50e37",
+  "index": 1302,
+  "period": 1,
+  "timestamp": "00:35:46.952",
+  "minute": 35,
+  "second": 46,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 76,
+  "possession_team": {
+    "id": 208,
+    "name": "Las Palmas"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 208,
+    "name": "Las Palmas"
+  },
+  "player": {
+    "id": 6930,
+    "name": "Jonathan Calleri"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    117.7,
+    32.5
+  ],
+  "duration": 0.383266,
+  "related_events": [
+    "3d7821bc-b8c8-4457-8021-fb4ac2c3c845"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.09567429,
+    "end_location": [
+      120.0,
+      36.5,
+      4.2
+    ],
+    "key_pass_id": "cf1e28ea-cd08-49d8-ba69-47f252e2fb59",
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          116.1,
+          33.8
+        ],
+        "player": {
+          "id": 6379,
+          "name": "Sergi Roberto Carnicer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.1,
+          39.0
+        ],
+        "player": {
+          "id": 5492,
+          "name": "Samuel Yves Umtiti"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.1,
+          41.5
+        ],
+        "player": {
+          "id": 6332,
+          "name": "Thomas Vermaelen"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.6,
+          39.0
+        ],
+        "player": {
+          "id": 6925,
+          "name": "Jairo Samperio Bustara"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          93.4,
+          56.0
+        ],
+        "player": {
+          "id": 6926,
+          "name": "Alen Halilovi\u0107"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.3,
+          59.0
+        ],
+        "player": {
+          "id": 6849,
+          "name": "Lucas Digne"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.5,
+          34.6
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

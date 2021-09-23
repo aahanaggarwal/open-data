@@ -1,0 +1,147 @@
+{
+  "id": "aa1edba4-67a9-4aa3-8f45-1b40be471b08",
+  "index": 3332,
+  "period": 2,
+  "timestamp": "00:33:55.318",
+  "minute": 78,
+  "second": 55,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 163,
+  "possession_team": {
+    "id": 214,
+    "name": "Espanyol"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "out": true,
+  "team": {
+    "id": 214,
+    "name": "Espanyol"
+  },
+  "player": {
+    "id": 6767,
+    "name": "Sergio Garc\u00eda De La Fuente"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    112.8,
+    55.1
+  ],
+  "duration": 0.8057,
+  "under_pressure": true,
+  "related_events": [
+    "a4f42cc4-4318-47be-b328-5fd6d8cdbc9f",
+    "f54f544d-8a34-46d3-8c09-3f8e290a9e5a"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.03354075,
+    "end_location": [
+      120.0,
+      42.2,
+      2.9
+    ],
+    "key_pass_id": "c9fa45d2-b9fd-48a2-a95c-c193585ba7e6",
+    "outcome": {
+      "id": 99,
+      "name": "Post"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.3,
+          54.5
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.9,
+          44.0
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          42.5
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.1,
+          40.8
+        ],
+        "player": {
+          "id": 8817,
+          "name": "Jhon Andr\u00e9s C\u00f3rdoba Copete"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.6,
+          54.3
+        ],
+        "player": {
+          "id": 6593,
+          "name": "Mart\u00edn Montoya Torralbo"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

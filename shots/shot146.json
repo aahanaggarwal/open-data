@@ -1,0 +1,174 @@
+{
+  "id": "e6ce54fc-44bb-4bd0-9d98-c58897932a70",
+  "index": 1672,
+  "period": 2,
+  "timestamp": "00:02:39.769",
+  "minute": 47,
+  "second": 39,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 110,
+  "possession_team": {
+    "id": 24,
+    "name": "Liverpool"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 24,
+    "name": "Liverpool"
+  },
+  "player": {
+    "id": 34391,
+    "name": "Harry Kewell"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    93.1,
+    43.8
+  ],
+  "duration": 1.032946,
+  "related_events": [
+    "1da05ec6-632b-43e0-b192-7b7b9fa99e08"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.039144453,
+    "end_location": [
+      120.0,
+      34.4,
+      0.2
+    ],
+    "key_pass_id": "9406cb52-e01e-492b-8fe6-4aa9670d897a",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          101.0,
+          40.0
+        ],
+        "player": {
+          "id": 38412,
+          "name": "Kolo Habib Tour\u00e9"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.5,
+          42.8
+        ],
+        "player": {
+          "id": 15637,
+          "name": "Sulzeer Jeremiah \"Sol\" Campbell"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.8,
+          25.5
+        ],
+        "player": {
+          "id": 40222,
+          "name": "Laureano Bisan-Etame Mayer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.2,
+          50.9
+        ],
+        "player": {
+          "id": 12529,
+          "name": "Ashley Cole"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.8,
+          39.1
+        ],
+        "player": {
+          "id": 20015,
+          "name": "Jens Lehmann"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.5,
+          63.9
+        ],
+        "player": {
+          "id": 40257,
+          "name": "El-Hadji Ousseynou Diouf"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.2,
+          36.7
+        ],
+        "player": {
+          "id": 15665,
+          "name": "Michael Owen"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "id": "ca0da3a9-7889-4b8a-9cb6-94132818006f",
+  "index": 836,
+  "period": 1,
+  "timestamp": "00:22:58.083",
+  "minute": 22,
+  "second": 58,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 50,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    108.3,
+    34.4
+  ],
+  "duration": 0.5836,
+  "related_events": [
+    "813151f2-0c62-41c5-828f-bd50fb516f8e"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.36235386,
+    "end_location": [
+      120.0,
+      36.4,
+      0.1
+    ],
+    "key_pass_id": "83416872-0ea2-41f7-a74a-a6e6e0be7622",
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.3,
+          30.4
+        ],
+        "player": {
+          "id": 6743,
+          "name": "Manuel Rolando Iturra Urrutia"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.8,
+          36.7
+        ],
+        "player": {
+          "id": 24255,
+          "name": "Juan Carlos Mart\u00edn Corral"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.1,
+          30.1
+        ],
+        "player": {
+          "id": 6713,
+          "name": "Diego Javier Llorente R\u00edos"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          29.0
+        ],
+        "player": {
+          "id": 26848,
+          "name": "Roberto Trashorras Gayoso"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.6,
+          26.6
+        ],
+        "player": {
+          "id": 4320,
+          "name": "Neymar da Silva Santos Junior"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.0,
+          40.2
+        ],
+        "player": {
+          "id": 18404,
+          "name": "Jos\u00e9 \u00c1ngel Crespo Rinc\u00f3n"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.3,
+          48.1
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.9,
+          35.0
+        ],
+        "player": {
+          "id": 24138,
+          "name": "Joaqu\u00edn Jos\u00e9 Mar\u00edn Ruiz"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

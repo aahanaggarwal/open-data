@@ -1,0 +1,144 @@
+{
+  "id": "abb33775-8927-42cc-9c17-c04dde5a7704",
+  "index": 2931,
+  "period": 2,
+  "timestamp": "00:13:49.797",
+  "minute": 58,
+  "second": 49,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 99,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    112.2,
+    45.3
+  ],
+  "duration": 0.587069,
+  "related_events": [
+    "af760433-b502-4a7f-9329-794b474ca87f"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.6923279,
+    "end_location": [
+      120.0,
+      42.0,
+      0.2
+    ],
+    "key_pass_id": "54fcd25e-ba0b-4b21-8946-ffb8042ee387",
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.4,
+          40.1
+        ],
+        "player": {
+          "id": 6777,
+          "name": "Sidnei Rechel da Silva J\u00fanior"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.9,
+          41.3
+        ],
+        "player": {
+          "id": 10277,
+          "name": "Fabricio Mart\u00edn Agosto Ram\u00edrez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.2,
+          43.5
+        ],
+        "player": {
+          "id": 23800,
+          "name": "Laureano Sanabria Ruiz"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.2,
+          33.3
+        ],
+        "player": {
+          "id": 23806,
+          "name": "Alejandro Berganti\u00f1os Garc\u00eda"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.4,
+          36.4
+        ],
+        "player": {
+          "id": 4320,
+          "name": "Neymar da Silva Santos Junior"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

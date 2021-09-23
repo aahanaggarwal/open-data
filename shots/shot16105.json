@@ -1,0 +1,203 @@
+{
+  "id": "366f6290-e6fa-4e2d-a063-0958ed7a224e",
+  "index": 1902,
+  "period": 2,
+  "timestamp": "00:01:00.830",
+  "minute": 46,
+  "second": 0,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 104,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 9,
+    "name": "From Kick Off"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 4913,
+    "name": "Bojan Krk\u00edc P\u00e9rez"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    114.4,
+    43.6
+  ],
+  "duration": 0.2055,
+  "related_events": [
+    "a43e4a68-58a5-4fc8-aac2-d64b0ef9b979",
+    "c9893df9-daf5-4562-976a-867b14b837f8"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.25572214,
+    "end_location": [
+      115.0,
+      42.7
+    ],
+    "key_pass_id": "32dc02c5-aacf-4fd8-80e8-d17c720f3f95",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          111.6,
+          39.4
+        ],
+        "player": {
+          "id": 5987,
+          "name": "Giovani dos Santos Ram\u00edrez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.3,
+          37.2
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.1,
+          51.0
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.1,
+          35.5
+        ],
+        "player": {
+          "id": 20016,
+          "name": "Kl\u00e9per Laveran Lima Ferreira"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.8,
+          45.7
+        ],
+        "player": {
+          "id": 5552,
+          "name": "Marcelo Vieira da Silva J\u00fanior"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.2,
+          37.7
+        ],
+        "player": {
+          "id": 26036,
+          "name": "Fernando Rub\u00e9n Gago"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.5,
+          36.2
+        ],
+        "player": {
+          "id": 26021,
+          "name": "Mahamadou Diarra"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.3,
+          42.1
+        ],
+        "player": {
+          "id": 26176,
+          "name": "Iv\u00e1n Gabriel Heinze"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.2,
+          41.0
+        ],
+        "player": {
+          "id": 11179,
+          "name": "Iker Casillas Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

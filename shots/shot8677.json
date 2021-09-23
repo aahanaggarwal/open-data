@@ -1,0 +1,146 @@
+{
+  "id": "a63f2048-50ad-4217-ad9b-5f18adb46fbe",
+  "index": 4220,
+  "period": 2,
+  "timestamp": "00:46:38.019",
+  "minute": 91,
+  "second": 38,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 198,
+  "possession_team": {
+    "id": 220,
+    "name": "Real Madrid"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 220,
+    "name": "Real Madrid"
+  },
+  "player": {
+    "id": 3163,
+    "name": "Mariano D\u00edaz Mej\u00eda"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    117.6,
+    50.1
+  ],
+  "duration": 0.848199,
+  "under_pressure": true,
+  "related_events": [
+    "1ae53e17-b94c-4226-8f08-e7760b61e787",
+    "fdb700e5-d4fd-4271-88a7-386aad583ef3"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.06766241,
+    "end_location": [
+      120.0,
+      39.4,
+      0.2
+    ],
+    "key_pass_id": "429a1e0f-2d5a-4b86-8ab1-104e639aec64",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.3,
+          48.1
+        ],
+        "player": {
+          "id": 5200,
+          "name": "Lucas V\u00e1zquez Iglesias"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.2,
+          33.9
+        ],
+        "player": {
+          "id": 18395,
+          "name": "Vin\u00edcius Jos\u00e9 Paix\u00e3o de Oliveira J\u00fanior"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.5,
+          50.0
+        ],
+        "player": {
+          "id": 5492,
+          "name": "Samuel Yves Umtiti"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.5,
+          43.5
+        ],
+        "player": {
+          "id": 6374,
+          "name": "N\u00e9lson Cabral Semedo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.3,
+          45.9
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "id": "dc559a6a-952f-41ee-92df-8bdcc8067f84",
+  "index": 1967,
+  "period": 2,
+  "timestamp": "00:13:34.165",
+  "minute": 58,
+  "second": 34,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 138,
+  "possession_team": {
+    "id": 861,
+    "name": "France Women's"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 861,
+    "name": "France Women's"
+  },
+  "player": {
+    "id": 10137,
+    "name": "Kadidiatou Diani"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    101.7,
+    53.2
+  ],
+  "duration": 0.2165,
+  "under_pressure": true,
+  "related_events": [
+    "4cd226b8-3f3c-4a71-a523-f676a859c76f",
+    "b39ace43-195a-4cc5-88bf-d9cc26e38de5",
+    "f18bb47c-8dcf-4223-a3a5-ab965be155d9"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.04612449,
+    "end_location": [
+      102.7,
+      52.5
+    ],
+    "key_pass_id": "753e44a2-78c0-41da-bbb3-a943ddf56b45",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          94.0,
+          24.8
+        ],
+        "player": {
+          "id": 5021,
+          "name": "Kelley O\"Hara"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.6,
+          30.4
+        ],
+        "player": {
+          "id": 25442,
+          "name": "Val\u00e9rie Gauvin"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          98.0,
+          36.1
+        ],
+        "player": {
+          "id": 5081,
+          "name": "Abby Dahlkemper"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.8,
+          46.7
+        ],
+        "player": {
+          "id": 5030,
+          "name": "Becky Sauerbrunn"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.6,
+          43.6
+        ],
+        "player": {
+          "id": 5100,
+          "name": "Alyssa Naeher"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.8,
+          52.1
+        ],
+        "player": {
+          "id": 5088,
+          "name": "Crystal Alyssia Dunn"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

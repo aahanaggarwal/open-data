@@ -1,0 +1,175 @@
+{
+  "id": "7cd148f9-212d-4a81-a29f-32db206b5bea",
+  "index": 501,
+  "period": 1,
+  "timestamp": "00:10:58.953",
+  "minute": 10,
+  "second": 58,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 29,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3958,
+    "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    102.9,
+    29.9
+  ],
+  "duration": 0.3765,
+  "under_pressure": true,
+  "related_events": [
+    "18dcdb9c-548b-4acb-a0e1-5083be430065",
+    "ae455716-9cdd-4b22-a37f-b23dafd7f3e5"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.26319855,
+    "end_location": [
+      110.2,
+      35.0,
+      0.9
+    ],
+    "key_pass_id": "872d78fb-acef-4711-80f7-7472545f46b3",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          85.7,
+          45.0
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          90.8,
+          44.4
+        ],
+        "player": {
+          "id": 26018,
+          "name": "Julien Escud\u00e9"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.6,
+          45.7
+        ],
+        "player": {
+          "id": 16453,
+          "name": "Gary Alexis Medel Soto"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.6,
+          47.0
+        ],
+        "player": {
+          "id": 6913,
+          "name": "Fernando Navarro i Corbacho"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.2,
+          35.2
+        ],
+        "player": {
+          "id": 25946,
+          "name": "Andr\u00e9s Palop Cervera"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.8,
+          32.5
+        ],
+        "player": {
+          "id": 26791,
+          "name": "Emir Spahi\u0107"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.9,
+          30.8
+        ],
+        "player": {
+          "id": 6675,
+          "name": "Antonio Manuel Luna Rodr\u00edguez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "id": "ca6143ab-dc5f-4f3b-9586-f1b20c980654",
+  "index": 3478,
+  "period": 2,
+  "timestamp": "00:33:39.446",
+  "minute": 78,
+  "second": 39,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 169,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 4913,
+    "name": "Bojan Krk\u00edc P\u00e9rez"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    112.9,
+    43.2
+  ],
+  "duration": 0.32101,
+  "related_events": [
+    "6e663e0d-7bfd-4634-9086-b271b9eec96d"
+  ],
+  "shot": {
+    "open_goal": true,
+    "statsbomb_xg": 0.7583516,
+    "end_location": [
+      120.0,
+      42.2,
+      0.4
+    ],
+    "key_pass_id": "a8be3868-9089-493e-ae99-72d238bae1e3",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          89.6,
+          13.0
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.9,
+          25.8
+        ],
+        "player": {
+          "id": 11270,
+          "name": "Ei\u00f0ur Sm\u00e1ri Gu\u00f0johnsen"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          116.6,
+          29.6
+        ],
+        "player": {
+          "id": 26219,
+          "name": "Timo Hildebrand"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.2,
+          20.5
+        ],
+        "player": {
+          "id": 20070,
+          "name": "Lu\u00eds Miguel Brito Garcia Monteiro"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.4,
+          29.3
+        ],
+        "player": {
+          "id": 7030,
+          "name": "Ra\u00fal Albiol Tortajada"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.8,
+          44.2
+        ],
+        "player": {
+          "id": 6614,
+          "name": "Alexis Ruano Delgado"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.9,
+          36.8
+        ],
+        "player": {
+          "id": 20127,
+          "name": "Carlos Marchena L\u00f3pez"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

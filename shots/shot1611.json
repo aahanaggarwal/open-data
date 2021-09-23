@@ -1,0 +1,143 @@
+{
+  "id": "dd5915a8-a130-4dc8-bba2-2511d8f5a4ae",
+  "index": 2521,
+  "period": 2,
+  "timestamp": "00:15:58.477",
+  "minute": 60,
+  "second": 58,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 126,
+  "possession_team": {
+    "id": 746,
+    "name": "Manchester City WFC"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 2647,
+    "name": "Aston Villa"
+  },
+  "player": {
+    "id": 15557,
+    "name": "Emma Follis"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    101.9,
+    49.4
+  ],
+  "duration": 0.24123,
+  "related_events": [
+    "dfc2d597-2995-488c-9e61-abb0585ff19f"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.34612495,
+    "end_location": [
+      106.6,
+      47.2,
+      1.3
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          107.1,
+          47.4
+        ],
+        "player": {
+          "id": 4637,
+          "name": "Ellie Roebuck"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.9,
+          44.8
+        ],
+        "player": {
+          "id": 15554,
+          "name": "Gemma Bonner"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          42.3
+        ],
+        "player": {
+          "id": 10185,
+          "name": "Stephanie Houghton"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.9,
+          48.5
+        ],
+        "player": {
+          "id": 4651,
+          "name": "Demi Stokes"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.1,
+          35.5
+        ],
+        "player": {
+          "id": 10102,
+          "name": "Stine Larsen"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

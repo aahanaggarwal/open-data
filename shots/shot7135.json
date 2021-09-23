@@ -1,0 +1,114 @@
+{
+  "id": "88422a6b-231a-42cf-9691-abc35d9bbcef",
+  "index": 1974,
+  "period": 2,
+  "timestamp": "00:28:12.805",
+  "minute": 73,
+  "second": 12,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 151,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    112.4,
+    46.1
+  ],
+  "duration": 0.11324,
+  "related_events": [
+    "c6daeb4e-f2cd-4c73-b754-e77fbe4634f3"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.48423856,
+    "end_location": [
+      114.7,
+      43.2,
+      0.2
+    ],
+    "key_pass_id": "d10df1c9-7c3b-4434-95e5-20fa5e601260",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          111.3,
+          37.7
+        ],
+        "player": {
+          "id": 40318,
+          "name": "Stephen Carr"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.8,
+          47.6
+        ],
+        "player": {
+          "id": 40275,
+          "name": "Mauricio Taricco"
+        },
+        "position": {
+          "id": 8,
+          "name": "Left Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          44.0
+        ],
+        "player": {
+          "id": 40274,
+          "name": "Kasey Keller"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

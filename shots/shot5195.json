@@ -1,0 +1,161 @@
+{
+  "id": "59297fe1-e23d-40d2-8be7-96d226d76ae9",
+  "index": 78,
+  "period": 1,
+  "timestamp": "00:00:55.380",
+  "minute": 0,
+  "second": 55,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 5,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5246,
+    "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    110.9,
+    49.7
+  ],
+  "duration": 0.519767,
+  "under_pressure": true,
+  "related_events": [
+    "17680519-cc98-49a6-8861-faa6adfc42aa",
+    "fcab4ada-d4e5-4ee3-a87d-ba477037d8d1"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.2436539,
+    "end_location": [
+      120.0,
+      39.3,
+      0.2
+    ],
+    "key_pass_id": "98eccde5-d88c-4c7d-bd7f-453cf72a711e",
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          98.0,
+          46.6
+        ],
+        "player": {
+          "id": 6751,
+          "name": "Javier Fuego Mart\u00ednez"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.8,
+          31.9
+        ],
+        "player": {
+          "id": 4320,
+          "name": "Neymar da Silva Santos Junior"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.3,
+          41.3
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.2,
+          40.7
+        ],
+        "player": {
+          "id": 3638,
+          "name": "Shkodran Mustafi"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.8,
+          47.2
+        ],
+        "player": {
+          "id": 3090,
+          "name": "Nicol\u00e1s Hern\u00e1n Otamendi"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.4,
+          43.1
+        ],
+        "player": {
+          "id": 25144,
+          "name": "Diego Alves Carreira"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

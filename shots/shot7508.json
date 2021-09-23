@@ -1,0 +1,158 @@
+{
+  "id": "aba05ddb-b880-4920-92de-1033c38bc84a",
+  "index": 1314,
+  "period": 1,
+  "timestamp": "00:36:57.659",
+  "minute": 36,
+  "second": 57,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 98,
+  "possession_team": {
+    "id": 760,
+    "name": "Seattle Reign"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 760,
+    "name": "Seattle Reign"
+  },
+  "player": {
+    "id": 5002,
+    "name": "Jodie Taylor"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    108.0,
+    29.0
+  ],
+  "duration": 2.831,
+  "related_events": [
+    "d5a2cf5a-258f-43ac-9c91-6fe8b7ad0499"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.10957893,
+    "end_location": [
+      119.0,
+      42.4,
+      1.1
+    ],
+    "key_pass_id": "bc29e477-9696-491b-8434-ce42f1146b18",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          116.0,
+          34.0
+        ],
+        "player": {
+          "id": 5056,
+          "name": "Jane Campbell"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          42.0
+        ],
+        "player": {
+          "id": 5038,
+          "name": "Allysha Chapman"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          33.0
+        ],
+        "player": {
+          "id": 5054,
+          "name": "Janine van Wyk"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.0,
+          37.0
+        ],
+        "player": {
+          "id": 5075,
+          "name": "Elizabeth Addo"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          89.0,
+          31.0
+        ],
+        "player": {
+          "id": 5006,
+          "name": "Beverly Yanez"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.0,
+          27.0
+        ],
+        "player": {
+          "id": 5045,
+          "name": "Amber Brooks"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

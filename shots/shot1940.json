@@ -1,0 +1,145 @@
+{
+  "id": "7f5cc7b8-8371-46aa-8712-e41f9ab65653",
+  "index": 401,
+  "period": 1,
+  "timestamp": "00:08:40.200",
+  "minute": 8,
+  "second": 40,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 28,
+  "possession_team": {
+    "id": 762,
+    "name": "Houston Dash"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 762,
+    "name": "Houston Dash"
+  },
+  "player": {
+    "id": 5058,
+    "name": "Rachel Daly"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    111.0,
+    34.0
+  ],
+  "duration": 0.973,
+  "under_pressure": true,
+  "related_events": [
+    "b5e591d8-9094-493a-8f04-20587a87476e",
+    "f12d8e6e-aac5-44c3-ae1a-9d41aa7e875b"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.28276742,
+    "end_location": [
+      120.0,
+      45.2,
+      0.4
+    ],
+    "key_pass_id": "abd7a478-4f29-4e68-921d-e907c337c351",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          93.0,
+          37.0
+        ],
+        "player": {
+          "id": 5033,
+          "name": "Yuri Kawamura"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          38.0
+        ],
+        "player": {
+          "id": 5037,
+          "name": "Abby Erceg"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          35.0
+        ],
+        "player": {
+          "id": 5057,
+          "name": "Kaleigh Kurtz"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.0,
+          22.0
+        ],
+        "player": {
+          "id": 5046,
+          "name": "Elizabeth Eddy"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          39.0
+        ],
+        "player": {
+          "id": 5048,
+          "name": "Katelyn Rowland"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

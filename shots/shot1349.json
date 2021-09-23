@@ -1,0 +1,161 @@
+{
+  "id": "aa0dc8e0-3734-44bd-bf4e-29eeca5ccdde",
+  "index": 3738,
+  "period": 2,
+  "timestamp": "00:41:39.917",
+  "minute": 86,
+  "second": 39,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 199,
+  "possession_team": {
+    "id": 219,
+    "name": "Deportivo La Coruna"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 219,
+    "name": "Deportivo La Coruna"
+  },
+  "player": {
+    "id": 25881,
+    "name": "Juan Antonio Rodr\u00edguez Villamuela"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    110.5,
+    23.0
+  ],
+  "duration": 0.7652,
+  "under_pressure": true,
+  "related_events": [
+    "61ca2b2f-24af-4d8b-aa6f-3298213bc4a4",
+    "d8278541-b12c-4e9f-bc4e-ce84eb4aaa30"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.031275664,
+    "end_location": [
+      117.5,
+      36.4,
+      0.0
+    ],
+    "key_pass_id": "4614d4ad-666a-4bfd-b218-09a80962a330",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.2,
+          24.0
+        ],
+        "player": {
+          "id": 5558,
+          "name": "Rafael M\u00e1rquez \u00c1lvarez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.1,
+          42.8
+        ],
+        "player": {
+          "id": 26613,
+          "name": "Maxwell Scherrer Cabelino Andrade"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.7,
+          31.0
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          35.6
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.8,
+          32.3
+        ],
+        "player": {
+          "id": 24234,
+          "name": "Juan Dom\u00ednguez Lamas"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          94.8,
+          49.9
+        ],
+        "player": {
+          "id": 26634,
+          "name": "Iv\u00e1n Santiago P\u00e9rez Maceira"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

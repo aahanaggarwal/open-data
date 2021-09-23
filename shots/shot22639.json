@@ -1,0 +1,97 @@
+{
+  "id": "f52c821c-4b54-4a70-a582-24619d19f5a3",
+  "index": 2387,
+  "period": 2,
+  "timestamp": "00:28:02.560",
+  "minute": 73,
+  "second": 2,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 163,
+  "possession_team": {
+    "id": 765,
+    "name": "Portland Thorns"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 760,
+    "name": "Seattle Reign"
+  },
+  "player": {
+    "id": 5002,
+    "name": "Jodie Taylor"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    106.0,
+    50.0
+  ],
+  "duration": 0.88,
+  "related_events": [
+    "eeeb5d9b-1030-4f9a-9b2e-4c7483fbc725"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.19858448,
+    "end_location": [
+      118.0,
+      42.4,
+      2.0
+    ],
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          106.0,
+          45.0
+        ],
+        "player": {
+          "id": 5012,
+          "name": "Katherine Reynolds"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          42.0
+        ],
+        "player": {
+          "id": 5005,
+          "name": "Britt Eckerstrom"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

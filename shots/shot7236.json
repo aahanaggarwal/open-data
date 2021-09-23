@@ -1,0 +1,252 @@
+{
+  "id": "8fa6cc0c-ecfd-4ba1-86f8-35a2fc88c465",
+  "index": 2162,
+  "period": 2,
+  "timestamp": "00:00:51.464",
+  "minute": 45,
+  "second": 51,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 87,
+  "possession_team": {
+    "id": 1217,
+    "name": "Racing Santander"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1217,
+    "name": "Racing Santander"
+  },
+  "player": {
+    "id": 16567,
+    "name": "Markus Rosenberg"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    113.8,
+    30.2
+  ],
+  "duration": 1.376184,
+  "under_pressure": true,
+  "related_events": [
+    "f1ff42a5-ee65-4c44-b30e-d87c3a95f4b3",
+    "fa60d0b4-6108-43c0-8806-18c48817572e"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.055151932,
+    "end_location": [
+      120.0,
+      46.8,
+      1.6
+    ],
+    "key_pass_id": "c5f166cd-29b3-45a6-a682-4c5e0edef375",
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "aerial_won": true,
+    "freeze_frame": [
+      {
+        "location": [
+          119.2,
+          36.5
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.7,
+          30.8
+        ],
+        "player": {
+          "id": 20177,
+          "name": "Eric-Sylvain Bilal Abidal"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.2,
+          41.3
+        ],
+        "player": {
+          "id": 26613,
+          "name": "Maxwell Scherrer Cabelino Andrade"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.7,
+          19.5
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.9,
+          27.8
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.8,
+          36.8
+        ],
+        "player": {
+          "id": 5216,
+          "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.7,
+          28.0
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.6,
+          9.2
+        ],
+        "player": {
+          "id": 22102,
+          "name": "Adriano Correia Claro"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          87.8,
+          40.6
+        ],
+        "player": {
+          "id": 26073,
+          "name": "Gonzalo Colsa Albendea"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.1,
+          44.2
+        ],
+        "player": {
+          "id": 26746,
+          "name": "Kennedy Bakircioglu"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.9,
+          3.0
+        ],
+        "player": {
+          "id": 26238,
+          "name": "Domingo Cisma Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          98.3,
+          19.2
+        ],
+        "player": {
+          "id": 6557,
+          "name": "Adri\u00e1n Gonz\u00e1lez Morales"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

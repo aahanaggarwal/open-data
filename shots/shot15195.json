@@ -1,0 +1,159 @@
+{
+  "id": "8d05ea1f-c007-4fe0-ba37-52930c06a0d7",
+  "index": 1852,
+  "period": 1,
+  "timestamp": "00:39:29.229",
+  "minute": 39,
+  "second": 29,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 125,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    107.6,
+    28.2
+  ],
+  "duration": 0.832173,
+  "related_events": [
+    "9be8ba79-2fab-496c-9e1c-0e88704c7ae6"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.15381014,
+    "end_location": [
+      119.9,
+      40.3,
+      0.2
+    ],
+    "key_pass_id": "58e943b2-8e52-41af-8100-c83fe186202a",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          97.7,
+          39.7
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.7,
+          29.6
+        ],
+        "player": {
+          "id": 26801,
+          "name": "Jordi Figueras Montel"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.7,
+          54.7
+        ],
+        "player": {
+          "id": 6709,
+          "name": "Anaitz Arbilla Zabala"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.1,
+          28.5
+        ],
+        "player": {
+          "id": 6914,
+          "name": "Roberto Rom\u00e1n Triguero"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          30.1
+        ],
+        "player": {
+          "id": 6924,
+          "name": "Alejandro G\u00e1lvez Jimena"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.2,
+          32.9
+        ],
+        "player": {
+          "id": 6730,
+          "name": "Rub\u00e9n Iv\u00e1n Mart\u00ednez Andrade"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

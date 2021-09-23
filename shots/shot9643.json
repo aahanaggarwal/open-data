@@ -1,0 +1,160 @@
+{
+  "id": "32f5a994-a7f8-4b3c-ba58-2183a6a6d7b4",
+  "index": 2760,
+  "period": 2,
+  "timestamp": "00:27:34.933",
+  "minute": 72,
+  "second": 34,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 182,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    118.9,
+    34.0
+  ],
+  "duration": 0.2135,
+  "related_events": [
+    "f54eff67-2c20-4205-85e7-7ebeb5b47c48"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "open_goal": true,
+    "statsbomb_xg": 0.40766117,
+    "end_location": [
+      120.0,
+      39.1,
+      0.2
+    ],
+    "key_pass_id": "2cf5e4b3-47a0-4cfe-8c7e-832987cae8a4",
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.8,
+          42.1
+        ],
+        "player": {
+          "id": 26118,
+          "name": "Antonio L\u00f3pez Guerrero"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.1,
+          45.3
+        ],
+        "player": {
+          "id": 26117,
+          "name": "Pablo Ib\u00e1\u00f1ez T\u00e9bar"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.6,
+          38.5
+        ],
+        "player": {
+          "id": 19731,
+          "name": "Tom\u00e1\u0161 Ujfalu\u0161i"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.1,
+          46.1
+        ],
+        "player": {
+          "id": 11270,
+          "name": "Ei\u00f0ur Sm\u00e1ri Gu\u00f0johnsen"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.5,
+          39.8
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.3,
+          39.1
+        ],
+        "player": {
+          "id": 26119,
+          "name": "Leonardo Neoren Franco"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

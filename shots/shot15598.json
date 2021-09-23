@@ -1,0 +1,267 @@
+{
+  "id": "e6ac24e0-db9c-478e-9ef1-29090ea0cdd7",
+  "index": 2275,
+  "period": 2,
+  "timestamp": "00:09:25.285",
+  "minute": 54,
+  "second": 25,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 105,
+  "possession_team": {
+    "id": 767,
+    "name": "Utah Royals"
+  },
+  "play_pattern": {
+    "id": 2,
+    "name": "From Corner"
+  },
+  "team": {
+    "id": 767,
+    "name": "Utah Royals"
+  },
+  "player": {
+    "id": 4975,
+    "name": "Gunnhildur Yrsa J\u00f3nsd\u00f3ttir"
+  },
+  "position": {
+    "id": 9,
+    "name": "Right Defensive Midfield"
+  },
+  "location": [
+    117.0,
+    45.0
+  ],
+  "duration": 1.106,
+  "under_pressure": true,
+  "related_events": [
+    "04a70551-d8ba-49fc-af36-5fcd3a6703ec",
+    "b695c729-9011-406c-b551-d0b8d2d67c4e"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.11350517,
+    "end_location": [
+      120.0,
+      43.6,
+      5.0
+    ],
+    "key_pass_id": "49c1663d-da0a-472f-b2a9-1756461a726c",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "aerial_won": true,
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          120.0,
+          41.0
+        ],
+        "player": {
+          "id": 5056,
+          "name": "Jane Campbell"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          41.0
+        ],
+        "player": {
+          "id": 5058,
+          "name": "Rachel Daly"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          17.0
+        ],
+        "player": {
+          "id": 5038,
+          "name": "Allysha Chapman"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.0,
+          46.0
+        ],
+        "player": {
+          "id": 8382,
+          "name": "Clare Polkinghorne"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          31.0
+        ],
+        "player": {
+          "id": 5053,
+          "name": "Linda Maserame Motlhalo"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          34.0
+        ],
+        "player": {
+          "id": 5059,
+          "name": "Kyah Simon"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          50.0
+        ],
+        "player": {
+          "id": 4959,
+          "name": "Taylor Comeau"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          40.0
+        ],
+        "player": {
+          "id": 5045,
+          "name": "Amber Brooks"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.0,
+          35.0
+        ],
+        "player": {
+          "id": 5105,
+          "name": "Sofia Huerta"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          50.0
+        ],
+        "player": {
+          "id": 4984,
+          "name": "Rachel Corsie"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.0,
+          35.0
+        ],
+        "player": {
+          "id": 5024,
+          "name": "Amy Rodriguez"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.0,
+          33.0
+        ],
+        "player": {
+          "id": 4976,
+          "name": "Lo\u2019eau LaBonta"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.0,
+          39.0
+        ],
+        "player": {
+          "id": 6817,
+          "name": "Christen Press"
+        },
+        "position": {
+          "id": 20,
+          "name": "Left Attacking Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

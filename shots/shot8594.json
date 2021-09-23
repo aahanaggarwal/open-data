@@ -1,0 +1,204 @@
+{
+  "id": "9f45378f-1b0c-446a-aa32-dc21001126cc",
+  "index": 3225,
+  "period": 2,
+  "timestamp": "00:30:21.880",
+  "minute": 75,
+  "second": 21,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 164,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3478,
+    "name": "Francesc F\u00e0bregas i Soler"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    106.7,
+    44.5
+  ],
+  "duration": 0.3913,
+  "related_events": [
+    "5ff49fc1-e146-4915-b6d1-8961d6395ffd",
+    "88b37ec2-e73f-47cb-9d07-c4ff5bc51294"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.38622645,
+    "end_location": [
+      115.3,
+      42.6
+    ],
+    "key_pass_id": "ef5b98f7-613c-4da0-94bd-4701897ecdda",
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          111.4,
+          51.6
+        ],
+        "player": {
+          "id": 3385,
+          "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.8,
+          38.0
+        ],
+        "player": {
+          "id": 4320,
+          "name": "Neymar da Silva Santos Junior"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.4,
+          28.4
+        ],
+        "player": {
+          "id": 6658,
+          "name": "Cristian Tello Herrera"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.0,
+          50.6
+        ],
+        "player": {
+          "id": 5691,
+          "name": "Johan Andr\u00e9s Mojica Palacio"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.1,
+          49.7
+        ],
+        "player": {
+          "id": 6381,
+          "name": "Sa\u00fal \u00d1\u00edguez Esclapez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          41.6
+        ],
+        "player": {
+          "id": 26607,
+          "name": "Jos\u00e9 Ra\u00fal Baena Urdiales"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.3,
+          41.6
+        ],
+        "player": {
+          "id": 26222,
+          "name": "Jos\u00e9 Eduardo Rosa Vale e Castro"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.9,
+          36.1
+        ],
+        "player": {
+          "id": 6914,
+          "name": "Roberto Rom\u00e1n Triguero"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.6,
+          48.7
+        ],
+        "player": {
+          "id": 6730,
+          "name": "Rub\u00e9n Iv\u00e1n Mart\u00ednez Andrade"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

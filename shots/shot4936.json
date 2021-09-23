@@ -1,0 +1,83 @@
+{
+  "id": "2a8656c0-311f-4abc-b097-be10d19c3e0b",
+  "index": 4631,
+  "period": 5,
+  "timestamp": "00:00:01.731",
+  "minute": 120,
+  "second": 1,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 295,
+  "possession_team": {
+    "id": 243,
+    "name": "AC Milan"
+  },
+  "play_pattern": {
+    "id": 5,
+    "name": "Other"
+  },
+  "team": {
+    "id": 243,
+    "name": "AC Milan"
+  },
+  "player": {
+    "id": 34385,
+    "name": "Claudio Santos"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    108.2,
+    40.1
+  ],
+  "duration": 0.677416,
+  "related_events": [
+    "846a08d3-550e-48a1-8a1d-6103477315f7"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.76,
+    "end_location": [
+      120.0,
+      36.4,
+      3.9
+    ],
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "type": {
+      "id": 88,
+      "name": "Penalty"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.1,
+          40.1
+        ],
+        "player": {
+          "id": 34390,
+          "name": "Jerzy Dudek"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

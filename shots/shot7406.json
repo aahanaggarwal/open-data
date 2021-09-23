@@ -1,0 +1,293 @@
+{
+  "id": "6e3bd054-9b51-4bce-a598-5915fc0e1cff",
+  "index": 3317,
+  "period": 2,
+  "timestamp": "00:43:06.810",
+  "minute": 88,
+  "second": 6,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 178,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 4320,
+    "name": "Neymar da Silva Santos Junior"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    103.6,
+    37.3
+  ],
+  "duration": 0.1735,
+  "related_events": [
+    "79bf41c7-c988-4a4d-ab65-bae6d31ad051",
+    "d383cd01-34c3-43fe-9a66-3da0875427e2"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.045949504,
+    "end_location": [
+      104.8,
+      37.6
+    ],
+    "key_pass_id": "53639ae9-acae-4d0a-ae3d-f738fc497355",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          105.2,
+          37.7
+        ],
+        "player": {
+          "id": 16622,
+          "name": "Mikel Gonz\u00e1lez de Mart\u00edn Mart\u00ednez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.2,
+          36.7
+        ],
+        "player": {
+          "id": 6605,
+          "name": "Joseba Zald\u00faa Bengoetxea"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.5,
+          32.0
+        ],
+        "player": {
+          "id": 12191,
+          "name": "Gorka Elustondo Urkola"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.3,
+          30.1
+        ],
+        "player": {
+          "id": 3958,
+          "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.9,
+          33.0
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.3,
+          50.2
+        ],
+        "player": {
+          "id": 6665,
+          "name": "\u00cd\u00f1igo Mart\u00ednez Berridi"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.8,
+          40.8
+        ],
+        "player": {
+          "id": 26764,
+          "name": "Jon Ansotegi Gorostola"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.9,
+          40.1
+        ],
+        "player": {
+          "id": 4691,
+          "name": "Claudio Andr\u00e9s Bravo Mu\u00f1oz"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.4,
+          43.0
+        ],
+        "player": {
+          "id": 5216,
+          "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.2,
+          60.3
+        ],
+        "player": {
+          "id": 3385,
+          "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.6,
+          58.5
+        ],
+        "player": {
+          "id": 3478,
+          "name": "Francesc F\u00e0bregas i Soler"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.2,
+          43.5
+        ],
+        "player": {
+          "id": 6633,
+          "name": "Markel Bergara Larra\u00f1aga"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.2,
+          55.1
+        ],
+        "player": {
+          "id": 6705,
+          "name": "Jos\u00e9 \u00c1ngel Vald\u00e9s D\u00edaz"
+        },
+        "position": {
+          "id": 8,
+          "name": "Left Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.5,
+          56.4
+        ],
+        "player": {
+          "id": 6669,
+          "name": "David Zurutuza Veillet"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.7,
+          45.0
+        ],
+        "player": {
+          "id": 6690,
+          "name": "Xabier Prieto Argarate"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

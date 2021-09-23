@@ -1,0 +1,249 @@
+{
+  "id": "dca45db0-85c9-4984-b14e-28c71446623d",
+  "index": 69,
+  "period": 1,
+  "timestamp": "00:01:00.742",
+  "minute": 1,
+  "second": 0,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 3,
+  "possession_team": {
+    "id": 866,
+    "name": "Scotland Women's"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 866,
+    "name": "Scotland Women's"
+  },
+  "player": {
+    "id": 4660,
+    "name": "Erin Cuthbert"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    100.8,
+    36.5
+  ],
+  "duration": 1.2481,
+  "related_events": [
+    "c7aa70ff-09af-4148-bc77-f3c255a59355"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.078641795,
+    "end_location": [
+      120.0,
+      47.7,
+      1.6
+    ],
+    "key_pass_id": "06bbc74d-ded4-4ca0-a91b-ddbdb548f8f2",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.1,
+          29.4
+        ],
+        "player": {
+          "id": 10188,
+          "name": "Caroline Weir"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.8,
+          14.5
+        ],
+        "player": {
+          "id": 4646,
+          "name": "Claire Emslie"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.8,
+          36.5
+        ],
+        "player": {
+          "id": 10169,
+          "name": "Leanne Crichton"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.9,
+          47.5
+        ],
+        "player": {
+          "id": 10179,
+          "name": "Lisa Evans"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.5,
+          49.1
+        ],
+        "player": {
+          "id": 25640,
+          "name": "Mar\u00eda Florencia Bonsegundo"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.7,
+          34.2
+        ],
+        "player": {
+          "id": 25629,
+          "name": "Agustina Barroso Basualdo"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.1,
+          35.6
+        ],
+        "player": {
+          "id": 25634,
+          "name": "Aldana Cometti"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          34.7
+        ],
+        "player": {
+          "id": 25615,
+          "name": "Flavia Lorena Ben\u00edtez"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.6,
+          39.6
+        ],
+        "player": {
+          "id": 25633,
+          "name": "Eliana Noemi Stabile"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.4,
+          27.3
+        ],
+        "player": {
+          "id": 25606,
+          "name": "Vanesa Santana"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.4,
+          19.8
+        ],
+        "player": {
+          "id": 25625,
+          "name": "Linda Ruth Bravo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.9,
+          38.1
+        ],
+        "player": {
+          "id": 25611,
+          "name": "Vanina Noem\u00ed Correa"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "id": "1f95d287-db5a-48be-8680-f5554aff60e5",
+  "index": 3434,
+  "period": 2,
+  "timestamp": "00:48:34.565",
+  "minute": 93,
+  "second": 34,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 219,
+  "possession_team": {
+    "id": 761,
+    "name": "Chicago Red Stars"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 761,
+    "name": "Chicago Red Stars"
+  },
+  "player": {
+    "id": 33135,
+    "name": "Maria Guadalupe Sanchez Morales"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    110.4,
+    43.1
+  ],
+  "duration": 0.875721,
+  "related_events": [
+    "a58c55c6-448b-446d-a6fc-f7e286b20be2"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.20809865,
+    "end_location": [
+      120.0,
+      45.5,
+      5.6
+    ],
+    "key_pass_id": "be64addb-2622-48c8-a0e2-82daef21821a",
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          111.7,
+          34.0
+        ],
+        "player": {
+          "id": 4982,
+          "name": "Katlyn Johnson"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.2,
+          46.4
+        ],
+        "player": {
+          "id": 4963,
+          "name": "Yuki Nagasato"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.5,
+          53.8
+        ],
+        "player": {
+          "id": 5103,
+          "name": "Michele Vasconcelos"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.9,
+          57.0
+        ],
+        "player": {
+          "id": 5065,
+          "name": "Lauren Barnes"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.1,
+          50.6
+        ],
+        "player": {
+          "id": 32596,
+          "name": "Stephanie Cox"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.9,
+          46.3
+        ],
+        "player": {
+          "id": 5007,
+          "name": "Megan Oyster"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.6,
+          45.4
+        ],
+        "player": {
+          "id": 5006,
+          "name": "Beverly Yanez"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.3,
+          41.1
+        ],
+        "player": {
+          "id": 5069,
+          "name": "Theresa Nielsen"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.9,
+          40.7
+        ],
+        "player": {
+          "id": 30557,
+          "name": "Casey Murphy"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "id": "8b7caffd-1b49-4adb-a073-6c407e84232f",
+  "index": 822,
+  "period": 1,
+  "timestamp": "00:18:30.720",
+  "minute": 18,
+  "second": 30,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 43,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 4324,
+    "name": "Daniel Alves da Silva"
+  },
+  "position": {
+    "id": 2,
+    "name": "Right Back"
+  },
+  "location": [
+    94.1,
+    39.5
+  ],
+  "duration": 1.145436,
+  "related_events": [
+    "079c55d3-404a-4a01-9272-4d038af147e5"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.050666798,
+    "end_location": [
+      119.4,
+      43.2,
+      0.2
+    ],
+    "key_pass_id": "ef8277f1-fa64-4a0b-a4a1-c2d422f6ea74",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.3,
+          41.3
+        ],
+        "player": {
+          "id": 26397,
+          "name": "Renan Brito Soares"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.9,
+          41.1
+        ],
+        "player": {
+          "id": 3294,
+          "name": "Juan Manuel Mata Garc\u00eda"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.3,
+          43.6
+        ],
+        "player": {
+          "id": 20128,
+          "name": "David Albelda Aliqu\u00e9s"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.1,
+          38.3
+        ],
+        "player": {
+          "id": 7030,
+          "name": "Ra\u00fal Albiol Tortajada"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.7,
+          45.0
+        ],
+        "player": {
+          "id": 26396,
+          "name": "Hedwiges Maduro"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.1,
+          45.8
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.0,
+          47.1
+        ],
+        "player": {
+          "id": 26398,
+          "name": "Asier del Horno Cosgaya"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

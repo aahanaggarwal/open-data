@@ -1,0 +1,265 @@
+{
+  "id": "6485f76a-1ee6-4215-b9f7-781f73b7e8cd",
+  "index": 1951,
+  "period": 2,
+  "timestamp": "00:16:05.040",
+  "minute": 61,
+  "second": 5,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 153,
+  "possession_team": {
+    "id": 759,
+    "name": "Washington Spirit"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 759,
+    "name": "Washington Spirit"
+  },
+  "player": {
+    "id": 4940,
+    "name": "Andi Sullivan"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    105.0,
+    24.0
+  ],
+  "duration": 0.429,
+  "under_pressure": true,
+  "related_events": [
+    "b482ce4d-178a-4399-9d24-75ee6ec5ea1d",
+    "bc4740b9-301f-41b7-b7f6-442838ae12d8",
+    "eb95a2de-bc74-47c1-b9f2-dee8f77d8f4d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.033248857,
+    "end_location": [
+      107.0,
+      27.0
+    ],
+    "key_pass_id": "8908e1ea-a7bf-4fe0-98ce-b2e845bdc0ee",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.0,
+          37.0
+        ],
+        "player": {
+          "id": 5100,
+          "name": "Alyssa Naeher"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          26.0
+        ],
+        "player": {
+          "id": 4942,
+          "name": "Arin Gilliland"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          27.0
+        ],
+        "player": {
+          "id": 4953,
+          "name": "Alyssa Mautz"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          31.0
+        ],
+        "player": {
+          "id": 4958,
+          "name": "Kathleen Naughton"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          53.0
+        ],
+        "player": {
+          "id": 7179,
+          "name": "Casey Short"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.0,
+          56.0
+        ],
+        "player": {
+          "id": 4941,
+          "name": "Taylor Smith"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.0,
+          40.0
+        ],
+        "player": {
+          "id": 6811,
+          "name": "Julie Ertz"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          41.0
+        ],
+        "player": {
+          "id": 5026,
+          "name": "Meggie Dougherty Howard"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.0,
+          40.0
+        ],
+        "player": {
+          "id": 6812,
+          "name": "Vanessa DiBernardo"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          55.0
+        ],
+        "player": {
+          "id": 5022,
+          "name": "Francisca Ordega"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.0,
+          42.0
+        ],
+        "player": {
+          "id": 5029,
+          "name": "Tori Huster"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.0,
+          44.0
+        ],
+        "player": {
+          "id": 4947,
+          "name": "Danielle Colaprico"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          30.0
+        ],
+        "player": {
+          "id": 4964,
+          "name": "Ashley Hatch"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "id": "6a23447f-2bf1-44e5-8043-6da75f42cf9c",
+  "index": 2905,
+  "period": 2,
+  "timestamp": "00:35:58.191",
+  "minute": 80,
+  "second": 58,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 149,
+  "possession_team": {
+    "id": 749,
+    "name": "Tottenham Hotspur Women"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 749,
+    "name": "Tottenham Hotspur Women"
+  },
+  "player": {
+    "id": 31551,
+    "name": "Kit Graham"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    100.8,
+    54.0
+  ],
+  "duration": 0.05299,
+  "related_events": [
+    "365867f6-6a45-453b-84b6-f9f7ddf1b896",
+    "c29a80e5-9c6f-4c77-8bb0-f2559af1483f"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.033773866,
+    "end_location": [
+      102.9,
+      52.3
+    ],
+    "key_pass_id": "1605ba49-70d6-44ea-b56a-896ba2cb981e",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.0,
+          42.7
+        ],
+        "player": {
+          "id": 15560,
+          "name": "Ann-Katrin Berger"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.9,
+          52.4
+        ],
+        "player": {
+          "id": 4633,
+          "name": "Magdalena Ericsson"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.9,
+          45.2
+        ],
+        "player": {
+          "id": 4642,
+          "name": "Millie Bright"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          38.3
+        ],
+        "player": {
+          "id": 20061,
+          "name": "Deanna Cooper"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.1,
+          39.0
+        ],
+        "player": {
+          "id": 15706,
+          "name": "Rachel Furness"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.4,
+          49.4
+        ],
+        "player": {
+          "id": 15549,
+          "name": "Sophie Ingle"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.3,
+          58.4
+        ],
+        "player": {
+          "id": 10222,
+          "name": "Jonna Andersson"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          88.0,
+          31.3
+        ],
+        "player": {
+          "id": 4660,
+          "name": "Erin Cuthbert"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          60.3
+        ],
+        "player": {
+          "id": 31550,
+          "name": "Angela Addison"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "id": "1159553a-2a93-4659-b7a7-7b5eb61682d1",
+  "index": 824,
+  "period": 1,
+  "timestamp": "00:19:38.581",
+  "minute": 19,
+  "second": 38,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 50,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    107.6,
+    36.3
+  ],
+  "duration": 0.696788,
+  "related_events": [
+    "24c0eb11-778c-427d-8c44-cb882ba20a13"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.39980355,
+    "end_location": [
+      120.0,
+      38.3,
+      0.3
+    ],
+    "key_pass_id": "3890ece8-b85b-407c-8dc7-72a022864d7f",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.6,
+          47.9
+        ],
+        "player": {
+          "id": 15754,
+          "name": "Fredrik Ljungberg"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.9,
+          34.4
+        ],
+        "player": {
+          "id": 40314,
+          "name": "Jody Craddock"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.5,
+          36.2
+        ],
+        "player": {
+          "id": 40310,
+          "name": "Michael Oakes"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.5,
+          39.1
+        ],
+        "player": {
+          "id": 40304,
+          "name": "Lee Naylor"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.6,
+          33.8
+        ],
+        "player": {
+          "id": 40312,
+          "name": "Paul Butler"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.5,
+          30.8
+        ],
+        "player": {
+          "id": 15515,
+          "name": "Patrick Vieira"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

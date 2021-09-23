@@ -1,0 +1,158 @@
+{
+  "id": "bc274609-e140-4c90-951a-fe79b9e73617",
+  "index": 1158,
+  "period": 1,
+  "timestamp": "00:24:47.607",
+  "minute": 24,
+  "second": 47,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 70,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 15774,
+    "name": "Gianluca Zambrotta"
+  },
+  "position": {
+    "id": 2,
+    "name": "Right Back"
+  },
+  "location": [
+    99.5,
+    60.2
+  ],
+  "duration": 1.929444,
+  "related_events": [
+    "d1de448a-9123-42da-8c81-4060c61b0d73"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.014027705,
+    "end_location": [
+      120.0,
+      45.8,
+      0.2
+    ],
+    "key_pass_id": "6330aa1a-2896-47be-857b-cd69862b394d",
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          105.0,
+          42.4
+        ],
+        "player": {
+          "id": 26218,
+          "name": "Adri\u00e1n L\u00f3pez Rodr\u00edguez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.8,
+          52.2
+        ],
+        "player": {
+          "id": 26207,
+          "name": "Fabricio Coloccini"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.9,
+          59.1
+        ],
+        "player": {
+          "id": 6320,
+          "name": "Filipe Luis Kasmirski"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.8,
+          58.1
+        ],
+        "player": {
+          "id": 5563,
+          "name": "Jos\u00e9 Andr\u00e9s Guardado Hern\u00e1ndez"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.4,
+          42.3
+        ],
+        "player": {
+          "id": 26221,
+          "name": "Gustavo Adolfo Mun\u00faa Vera"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.8,
+          42.0
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

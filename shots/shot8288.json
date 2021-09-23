@@ -1,0 +1,144 @@
+{
+  "id": "505f08cc-d8cd-4753-b1f7-20a2f815b655",
+  "index": 2133,
+  "period": 2,
+  "timestamp": "00:05:29.354",
+  "minute": 50,
+  "second": 29,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 105,
+  "possession_team": {
+    "id": 209,
+    "name": "Celta Vigo"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 209,
+    "name": "Celta Vigo"
+  },
+  "player": {
+    "id": 5217,
+    "name": "Iago Aspas Juncal"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    103.0,
+    45.4
+  ],
+  "duration": 0.502165,
+  "related_events": [
+    "255c2af0-c2e4-4035-90a6-9795c4696a09"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.15965086,
+    "end_location": [
+      119.9,
+      35.0,
+      0.2
+    ],
+    "key_pass_id": "09d8595b-fe36-4c60-ba1c-8078f87ac739",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          94.5,
+          65.6
+        ],
+        "player": {
+          "id": 7105,
+          "name": "Fabi\u00e1n Ariel Orellana Valenzuela"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.6,
+          41.2
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.9,
+          45.1
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.2,
+          44.7
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          90.9,
+          58.5
+        ],
+        "player": {
+          "id": 10609,
+          "name": "J\u00e9r\u00e9my Mathieu"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "id": "71e6389e-ed7b-4169-9e77-2f4a87292581",
+  "index": 843,
+  "period": 1,
+  "timestamp": "00:16:53.041",
+  "minute": 16,
+  "second": 53,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 29,
+  "possession_team": {
+    "id": 223,
+    "name": "M\u00e1laga"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 223,
+    "name": "M\u00e1laga"
+  },
+  "player": {
+    "id": 6847,
+    "name": "Adalberto Pe\u00f1aranda Maestre"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    89.1,
+    32.1
+  ],
+  "duration": 0.4598,
+  "related_events": [
+    "1ae405ef-8b5a-4bee-becb-a864befe9f4d",
+    "cb624f84-2954-4538-b753-70fc0e4b0ced"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.027652167,
+    "end_location": [
+      98.1,
+      32.1
+    ],
+    "key_pass_id": "b7d00e94-4523-4f9f-b400-1555bf413176",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.0,
+          40.0
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.7,
+          48.0
+        ],
+        "player": {
+          "id": 6849,
+          "name": "Lucas Digne"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.6,
+          50.3
+        ],
+        "player": {
+          "id": 6742,
+          "name": "Sergio Gont\u00e1n Gallardo"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          93.3,
+          39.9
+        ],
+        "player": {
+          "id": 6739,
+          "name": "Diego Alejandro Rolan Silva"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          92.9,
+          36.9
+        ],
+        "player": {
+          "id": 5492,
+          "name": "Samuel Yves Umtiti"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.6,
+          20.1
+        ],
+        "player": {
+          "id": 6559,
+          "name": "Juan Carlos P\u00e9rez L\u00f3pez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          98.7,
+          23.6
+        ],
+        "player": {
+          "id": 5470,
+          "name": "Ivan Rakiti\u0107"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.0,
+          31.3
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.1,
+          32.1
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

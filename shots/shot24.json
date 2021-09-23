@@ -1,0 +1,158 @@
+{
+  "id": "06644ba5-d0b1-45b6-8cc0-a25feb8a4acd",
+  "index": 74,
+  "period": 1,
+  "timestamp": "00:01:42.881",
+  "minute": 1,
+  "second": 42,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 7,
+  "possession_team": {
+    "id": 218,
+    "name": "Real Betis"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 218,
+    "name": "Real Betis"
+  },
+  "player": {
+    "id": 26257,
+    "name": "Dorlan Mauricio Pab\u00f3n R\u00edos"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    111.0,
+    51.4
+  ],
+  "duration": 0.810843,
+  "related_events": [
+    "f9467eaa-34da-4e88-bf39-ac9322607848"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.2601706,
+    "end_location": [
+      120.0,
+      37.1,
+      0.0
+    ],
+    "key_pass_id": "f2eeedcd-f146-42a5-b5f5-08ec609877e5",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.6,
+          40.4
+        ],
+        "player": {
+          "id": 6630,
+          "name": "Jorge Molina Vidal"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.6,
+          33.0
+        ],
+        "player": {
+          "id": 6832,
+          "name": "Rub\u00e9n Castro Mart\u00edn"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.2,
+          49.8
+        ],
+        "player": {
+          "id": 5211,
+          "name": "Jordi Alba Ramos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.9,
+          45.9
+        ],
+        "player": {
+          "id": 22102,
+          "name": "Adriano Correia Claro"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.2,
+          38.9
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.7,
+          45.0
+        ],
+        "player": {
+          "id": 26005,
+          "name": "Jos\u00e9 Manuel Pinto Colorado"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

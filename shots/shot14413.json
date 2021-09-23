@@ -1,0 +1,130 @@
+{
+  "id": "8d98570b-dd6b-4097-9d99-0fc175f2302c",
+  "index": 1201,
+  "period": 1,
+  "timestamp": "00:32:43.294",
+  "minute": 32,
+  "second": 43,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 61,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 2,
+    "name": "From Corner"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19298,
+    "name": "Samuel Eto\"o Fils"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    119.2,
+    37.0
+  ],
+  "duration": 0.020412,
+  "related_events": [
+    "6330330e-614c-414e-892b-9f3051691e50"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "open_goal": true,
+    "statsbomb_xg": 0.76183003,
+    "end_location": [
+      120.0,
+      37.6,
+      2.1
+    ],
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "redirect": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          116.5,
+          36.1
+        ],
+        "player": {
+          "id": 25706,
+          "name": "Ra\u00fal Miguel C\u00e1mara"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.7,
+          39.0
+        ],
+        "player": {
+          "id": 26250,
+          "name": "Gerard Autet Serrabasa"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.1,
+          42.5
+        ],
+        "player": {
+          "id": 26229,
+          "name": "Carmelo Jos\u00e9 Gonz\u00e1lez Jim\u00e9nez"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.4,
+          39.2
+        ],
+        "player": {
+          "id": 26245,
+          "name": "Sergio S\u00e1nchez S\u00e1nchez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

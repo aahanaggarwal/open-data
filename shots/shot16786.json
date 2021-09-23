@@ -1,0 +1,128 @@
+{
+  "id": "82a14364-cbae-4a9f-9bd0-5c192d8b3ae3",
+  "index": 1648,
+  "period": 1,
+  "timestamp": "00:44:32.168",
+  "minute": 44,
+  "second": 32,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 95,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 212,
+    "name": "Atl\u00e9tico Madrid"
+  },
+  "player": {
+    "id": 3237,
+    "name": "Sergio Leonel Ag\u00fcero del Castillo"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    107.7,
+    46.1
+  ],
+  "duration": 1.8693,
+  "related_events": [
+    "7ef7739a-5ae9-49bb-89d7-b543e8d67650"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.50696945,
+    "end_location": [
+      120.0,
+      37.8,
+      1.2
+    ],
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          105.2,
+          43.5
+        ],
+        "player": {
+          "id": 18608,
+          "name": "Dmytro Chygrynskiy"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.5,
+          44.7
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.7,
+          30.0
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.8,
+          32.4
+        ],
+        "player": {
+          "id": 26199,
+          "name": "Diego Forl\u00e1n Corazo"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

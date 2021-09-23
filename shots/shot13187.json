@@ -1,0 +1,143 @@
+{
+  "id": "5c95aa21-7878-4110-9061-a46a248d52a3",
+  "index": 2493,
+  "period": 2,
+  "timestamp": "00:14:15.968",
+  "minute": 59,
+  "second": 15,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 132,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 4320,
+    "name": "Neymar da Silva Santos Junior"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    109.7,
+    35.7
+  ],
+  "duration": 0.2815,
+  "related_events": [
+    "30d16def-a87b-4eff-b7a1-d82580c3b674"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.4784076,
+    "end_location": [
+      115.4,
+      37.7,
+      1.0
+    ],
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          115.5,
+          37.6
+        ],
+        "player": {
+          "id": 27202,
+          "name": "Guillermo Sara"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.7,
+          34.8
+        ],
+        "player": {
+          "id": 23985,
+          "name": "Jos\u00e9 Antonio Caro Mart\u00ednez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.6,
+          40.7
+        ],
+        "player": {
+          "id": 26801,
+          "name": "Jordi Figueras Montel"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.2,
+          45.5
+        ],
+        "player": {
+          "id": 25892,
+          "name": "Ignacio P\u00e9rez Santamar\u00eda"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.6,
+          34.7
+        ],
+        "player": {
+          "id": 5216,
+          "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

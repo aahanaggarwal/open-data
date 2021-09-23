@@ -1,0 +1,203 @@
+{
+  "id": "f963849c-c532-4612-9bef-4b3d89e2d59d",
+  "index": 3598,
+  "period": 2,
+  "timestamp": "00:36:14.113",
+  "minute": 81,
+  "second": 14,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 168,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    115.1,
+    44.4
+  ],
+  "duration": 0.408,
+  "related_events": [
+    "04d47dd3-05c6-40bd-af93-70d55e5b27aa"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.48727977,
+    "end_location": [
+      120.0,
+      43.3,
+      0.1
+    ],
+    "key_pass_id": "0a61380e-e290-4b04-af35-7c0c961267c5",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.5,
+          40.6
+        ],
+        "player": {
+          "id": 6609,
+          "name": "Denis Su\u00e1rez Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.8,
+          30.0
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.0,
+          43.2
+        ],
+        "player": {
+          "id": 6730,
+          "name": "Rub\u00e9n Iv\u00e1n Mart\u00ednez Andrade"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.7,
+          40.3
+        ],
+        "player": {
+          "id": 6727,
+          "name": "Ra\u00fal Albentosa Redal"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.2,
+          36.5
+        ],
+        "player": {
+          "id": 6356,
+          "name": "Michael Krohn-Dehli"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          37.8
+        ],
+        "player": {
+          "id": 6779,
+          "name": "Emre \u00c7olak"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.5,
+          40.6
+        ],
+        "player": {
+          "id": 6729,
+          "name": "Guilherme dos Santos Torres"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.5,
+          46.8
+        ],
+        "player": {
+          "id": 6734,
+          "name": "Luis Carlos Correia Pinto"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.2,
+          43.2
+        ],
+        "player": {
+          "id": 5537,
+          "name": "Fabian Lukas Sch\u00e4r"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

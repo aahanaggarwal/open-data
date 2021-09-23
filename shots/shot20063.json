@@ -1,0 +1,144 @@
+{
+  "id": "a515de61-9014-41f7-9c5b-6e96bf406afa",
+  "index": 2767,
+  "period": 2,
+  "timestamp": "00:33:34.489",
+  "minute": 78,
+  "second": 34,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 185,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 19312,
+    "name": "Robert Pir\u00e8s "
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    107.4,
+    49.7
+  ],
+  "duration": 0.628778,
+  "related_events": [
+    "e95a65d7-7425-4ae1-a008-aacc49a21c11"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.36621675,
+    "end_location": [
+      120.0,
+      39.9,
+      2.8
+    ],
+    "key_pass_id": "3da25996-5a5f-4fff-a607-c8411af09125",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 99,
+      "name": "Post"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          86.7,
+          27.6
+        ],
+        "player": {
+          "id": 12529,
+          "name": "Ashley Cole"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.5,
+          44.8
+        ],
+        "player": {
+          "id": 40274,
+          "name": "Kasey Keller"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.3,
+          47.0
+        ],
+        "player": {
+          "id": 20488,
+          "name": "Ledley King"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          42.6
+        ],
+        "player": {
+          "id": 40272,
+          "name": "Stephen Kelly"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          38.9
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

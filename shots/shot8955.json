@@ -1,0 +1,159 @@
+{
+  "id": "8012ddaf-3ab9-4191-8026-9ceace69a538",
+  "index": 1395,
+  "period": 1,
+  "timestamp": "00:31:32.772",
+  "minute": 31,
+  "second": 32,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 76,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3385,
+    "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    114.0,
+    45.9
+  ],
+  "duration": 0.5055,
+  "related_events": [
+    "a26c1682-8523-4d5a-ab6d-2ebdaae55dfe"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.31987646,
+    "end_location": [
+      120.0,
+      39.8,
+      2.8
+    ],
+    "key_pass_id": "a24eba9f-2721-45b8-bd9a-3d9a91efc553",
+    "outcome": {
+      "id": 99,
+      "name": "Post"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          115.7,
+          22.0
+        ],
+        "player": {
+          "id": 3958,
+          "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.9,
+          50.2
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.8,
+          40.3
+        ],
+        "player": {
+          "id": 6576,
+          "name": "Gorka Iraizoz Moreno"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.7,
+          44.1
+        ],
+        "player": {
+          "id": 4353,
+          "name": "Aymeric Laporte"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.5,
+          43.8
+        ],
+        "player": {
+          "id": 6789,
+          "name": "Mikel Balenziaga Oruesagasti"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.3,
+          28.5
+        ],
+        "player": {
+          "id": 6649,
+          "name": "\u00d3scar de Marcos Arana"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

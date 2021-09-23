@@ -1,0 +1,203 @@
+{
+  "id": "3e4e3f71-3df3-4ebc-8efd-0102868ca89b",
+  "index": 3619,
+  "period": 3,
+  "timestamp": "00:02:31.644",
+  "minute": 92,
+  "second": 31,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 221,
+  "possession_team": {
+    "id": 852,
+    "name": "Norway Women's"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 852,
+    "name": "Norway Women's"
+  },
+  "player": {
+    "id": 10386,
+    "name": "Caroline Graham Hansen"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    105.5,
+    37.6
+  ],
+  "duration": 0.010773,
+  "related_events": [
+    "575299f3-2691-4e24-998f-8036b742ef95",
+    "a3bd2b0f-93f8-4718-b985-58b1ba4e927d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.08876637,
+    "end_location": [
+      107.2,
+      38.0
+    ],
+    "key_pass_id": "b65c1980-dd86-4b29-8121-dfc938ed1f09",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.5,
+          38.6
+        ],
+        "player": {
+          "id": 5066,
+          "name": "Lydia Williams"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.7,
+          43.8
+        ],
+        "player": {
+          "id": 10387,
+          "name": "Lisa-Marie Utland"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.8,
+          42.8
+        ],
+        "player": {
+          "id": 5000,
+          "name": "Steph Catley"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.3,
+          43.0
+        ],
+        "player": {
+          "id": 10516,
+          "name": "Frida Maanum"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.1,
+          39.7
+        ],
+        "player": {
+          "id": 25537,
+          "name": "Elise Kellond-Knight"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.9,
+          39.0
+        ],
+        "player": {
+          "id": 5076,
+          "name": "Emily van Egmond"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.6,
+          37.8
+        ],
+        "player": {
+          "id": 5078,
+          "name": "Alanna Kennedy"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.9,
+          31.9
+        ],
+        "player": {
+          "id": 5095,
+          "name": "Ellie Carpenter"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.8,
+          22.4
+        ],
+        "player": {
+          "id": 10514,
+          "name": "Guro Reiten"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

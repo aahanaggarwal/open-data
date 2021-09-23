@@ -1,0 +1,206 @@
+{
+  "id": "d5374af8-5935-4e76-8a97-371dcf5bf3ed",
+  "index": 2282,
+  "period": 2,
+  "timestamp": "00:08:48.155",
+  "minute": 53,
+  "second": 48,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 100,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 30756,
+    "name": "Anssumane Fati"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    107.2,
+    32.0
+  ],
+  "duration": 0.119786,
+  "related_events": [
+    "898a2baa-210f-4b0f-b6c6-b82603e83bee",
+    "9e1aa406-0709-4fe7-b6f0-3a3ed1ed7fc9"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.33170578,
+    "end_location": [
+      116.6,
+      37.5,
+      0.0
+    ],
+    "key_pass_id": "efe30814-c616-4b13-9d69-fbda8b766b59",
+    "deflected": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          108.6,
+          41.5
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.4,
+          49.5
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          86.9,
+          36.2
+        ],
+        "player": {
+          "id": 8118,
+          "name": "Frenkie de Jong"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          95.3,
+          27.2
+        ],
+        "player": {
+          "id": 11292,
+          "name": "Pedro Antonio Porro Sauceda"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          40.1
+        ],
+        "player": {
+          "id": 11304,
+          "name": "Francisco Jos\u00e9 Olivas Alba"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.1,
+          42.0
+        ],
+        "player": {
+          "id": 11301,
+          "name": "Miguel Alfonso Herrero Javaloyas"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.4,
+          36.9
+        ],
+        "player": {
+          "id": 30519,
+          "name": "Mohamed Salisu Abdul Karim"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.7,
+          49.2
+        ],
+        "player": {
+          "id": 17520,
+          "name": "Federico Barba"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.1,
+          38.0
+        ],
+        "player": {
+          "id": 11302,
+          "name": "Jordi Masip L\u00f3pez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

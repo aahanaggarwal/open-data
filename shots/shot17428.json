@@ -1,0 +1,159 @@
+{
+  "id": "7a9c1595-854e-46a6-9c21-3d555fbe316e",
+  "index": 2365,
+  "period": 2,
+  "timestamp": "00:12:35.772",
+  "minute": 57,
+  "second": 35,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 127,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 8,
+    "name": "From Keeper"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    93.0,
+    21.6
+  ],
+  "duration": 2.5221,
+  "related_events": [
+    "522efcc6-bb10-42cb-950d-e284dcc9dcef"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.17132859,
+    "end_location": [
+      120.0,
+      43.4,
+      0.0
+    ],
+    "key_pass_id": "7e053476-d6fd-4efe-8ced-b3d3b65070f0",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          84.4,
+          59.6
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          74.9,
+          48.8
+        ],
+        "player": {
+          "id": 20014,
+          "name": "Christoph Metzelder"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          81.1,
+          53.3
+        ],
+        "player": {
+          "id": 26176,
+          "name": "Iv\u00e1n Gabriel Heinze"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          80.4,
+          26.5
+        ],
+        "player": {
+          "id": 15775,
+          "name": "Fabio Cannavaro"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.2,
+          23.7
+        ],
+        "player": {
+          "id": 5201,
+          "name": "Sergio Ramos Garc\u00eda"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.9,
+          23.5
+        ],
+        "player": {
+          "id": 11179,
+          "name": "Iker Casillas Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

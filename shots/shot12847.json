@@ -1,0 +1,188 @@
+{
+  "id": "4a9959b3-2fc1-43d6-bdd3-d178700d4167",
+  "index": 3684,
+  "period": 2,
+  "timestamp": "00:44:15.209",
+  "minute": 89,
+  "second": 15,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 190,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    103.6,
+    38.8
+  ],
+  "duration": 0.5944,
+  "related_events": [
+    "a66216da-3245-4c27-90fd-2fc0e7126cd6"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.09871524,
+    "end_location": [
+      120.0,
+      36.5,
+      0.2
+    ],
+    "key_pass_id": "56184b04-9a8e-4c8a-b79b-c0341945bbc6",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          106.8,
+          41.8
+        ],
+        "player": {
+          "id": 26023,
+          "name": "Juan Francisco Garc\u00eda Garc\u00eda"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.9,
+          40.0
+        ],
+        "player": {
+          "id": 25824,
+          "name": "\u00c1ngel Trujillo Canorea"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.1,
+          39.7
+        ],
+        "player": {
+          "id": 6647,
+          "name": "Zouhair Feddal"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.7,
+          37.9
+        ],
+        "player": {
+          "id": 5678,
+          "name": "Jefferson Andr\u00e9s Lerma Sol\u00eds"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.4,
+          40.6
+        ],
+        "player": {
+          "id": 6730,
+          "name": "Rub\u00e9n Iv\u00e1n Mart\u00ednez Andrade"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.5,
+          38.3
+        ],
+        "player": {
+          "id": 8801,
+          "name": "Iv\u00e1n L\u00f3pez Mendoza"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.1,
+          23.0
+        ],
+        "player": {
+          "id": 3508,
+          "name": "Sandro Ram\u00edrez Castillo"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.3,
+          32.3
+        ],
+        "player": {
+          "id": 4320,
+          "name": "Neymar da Silva Santos Junior"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

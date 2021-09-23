@@ -1,0 +1,129 @@
+{
+  "id": "0d622785-15d0-42e7-ade2-4dd1f55da46a",
+  "index": 1040,
+  "period": 1,
+  "timestamp": "00:25:24.457",
+  "minute": 25,
+  "second": 24,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 53,
+  "possession_team": {
+    "id": 22,
+    "name": "Leicester City"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 22,
+    "name": "Leicester City"
+  },
+  "player": {
+    "id": 40240,
+    "name": "Paul Dickov"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    117.4,
+    31.8
+  ],
+  "duration": 1.114128,
+  "related_events": [
+    "874948b9-e491-4cde-addc-a7693c654ff7"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.15238927,
+    "end_location": [
+      120.0,
+      38.2,
+      1.6
+    ],
+    "key_pass_id": "26678b20-21fa-4d86-aeb4-81e29469c755",
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          115.6,
+          32.5
+        ],
+        "player": {
+          "id": 40222,
+          "name": "Laureano Bisan-Etame Mayer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.9,
+          40.5
+        ],
+        "player": {
+          "id": 15637,
+          "name": "Sulzeer Jeremiah \"Sol\" Campbell"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.1,
+          20.2
+        ],
+        "player": {
+          "id": 40237,
+          "name": "James Scowcroft"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.3,
+          34.2
+        ],
+        "player": {
+          "id": 20015,
+          "name": "Jens Lehmann"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

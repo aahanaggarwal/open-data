@@ -1,0 +1,188 @@
+{
+  "id": "03e9d73d-0a10-4b7d-84c7-7b0752c10101",
+  "index": 1282,
+  "period": 1,
+  "timestamp": "00:38:28.680",
+  "minute": 38,
+  "second": 28,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 69,
+  "possession_team": {
+    "id": 796,
+    "name": "Russia"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 796,
+    "name": "Russia"
+  },
+  "player": {
+    "id": 5186,
+    "name": "Denis Cheryshev"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    115.0,
+    29.0
+  ],
+  "duration": 0.52,
+  "related_events": [
+    "02d774b5-4220-4175-9622-c90b586ffae2"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.10346184,
+    "end_location": [
+      120.0,
+      35.4,
+      0.6
+    ],
+    "key_pass_id": "7847d104-32ec-4c55-9029-8d7b517b440b",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.0,
+          48.0
+        ],
+        "player": {
+          "id": 5182,
+          "name": "Aleksandr Samedov"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          98.0,
+          32.0
+        ],
+        "player": {
+          "id": 5177,
+          "name": "Aleksandr Golovin"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.0,
+          31.0
+        ],
+        "player": {
+          "id": 5468,
+          "name": "Domagoj Vida"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          29.0
+        ],
+        "player": {
+          "id": 3471,
+          "name": "Dejan Lovren"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          36.0
+        ],
+        "player": {
+          "id": 5470,
+          "name": "Ivan Rakiti\u0107"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          48.0
+        ],
+        "player": {
+          "id": 5457,
+          "name": "Ivan Strini\u0107"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          31.0
+        ],
+        "player": {
+          "id": 5461,
+          "name": "\u0160ime Vrsaljko"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          35.0
+        ],
+        "player": {
+          "id": 3444,
+          "name": "Danijel Suba\u0161i\u0107"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

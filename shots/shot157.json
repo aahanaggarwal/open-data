@@ -1,0 +1,173 @@
+{
+  "id": "08bacbab-f9c7-4fb7-8cb4-c18e5116192b",
+  "index": 2693,
+  "period": 2,
+  "timestamp": "00:37:49.697",
+  "minute": 82,
+  "second": 49,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 184,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15042,
+    "name": "Dennis Bergkamp"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    91.5,
+    34.5
+  ],
+  "duration": 0.1804,
+  "related_events": [
+    "25b12f23-b700-49f9-b115-d7326d7f2218",
+    "d9a8f990-2698-4c2d-9f0d-c0fd6d2e2b8b"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.033679344,
+    "end_location": [
+      98.7,
+      37.0
+    ],
+    "key_pass_id": "3b1670fd-503d-412c-989c-4e778aef663a",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.2,
+          40.2
+        ],
+        "player": {
+          "id": 34390,
+          "name": "Jerzy Dudek"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.8,
+          44.2
+        ],
+        "player": {
+          "id": 34386,
+          "name": "John Arne Semundseth Riise"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.1,
+          30.7
+        ],
+        "player": {
+          "id": 40254,
+          "name": "Igor Bi\u0161\u0107an"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          24.7
+        ],
+        "player": {
+          "id": 34388,
+          "name": "Jamie Carragher"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.7,
+          36.7
+        ],
+        "player": {
+          "id": 34389,
+          "name": "Sami Hyypi\u00e4"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          85.2,
+          31.4
+        ],
+        "player": {
+          "id": 38522,
+          "name": "Dietmar Hamann"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.3,
+          27.6
+        ],
+        "player": {
+          "id": 26014,
+          "name": "Eduardo C\u00e9sar Daude Gaspar"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

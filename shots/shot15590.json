@@ -1,0 +1,203 @@
+{
+  "id": "299fdda2-7839-4b1c-b1b9-4120d3e5c751",
+  "index": 79,
+  "period": 1,
+  "timestamp": "00:01:49.708",
+  "minute": 1,
+  "second": 49,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 6,
+  "possession_team": {
+    "id": 762,
+    "name": "Houston Dash"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 762,
+    "name": "Houston Dash"
+  },
+  "player": {
+    "id": 5058,
+    "name": "Rachel Daly"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    103.0,
+    45.0
+  ],
+  "duration": 0.199,
+  "related_events": [
+    "19e19606-0396-465b-8e79-b38c125598ec",
+    "21d87cf4-65e0-42a2-b83c-cfac4288d713"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.07091287,
+    "end_location": [
+      106.0,
+      45.0
+    ],
+    "key_pass_id": "ff04a566-c05b-42e2-95b8-b7a22b1a7e4e",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          106.0,
+          45.0
+        ],
+        "player": {
+          "id": 4984,
+          "name": "Rachel Corsie"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          39.0
+        ],
+        "player": {
+          "id": 4971,
+          "name": "Rebecca Moros"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          41.0
+        ],
+        "player": {
+          "id": 5030,
+          "name": "Becky Sauerbrunn"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          32.0
+        ],
+        "player": {
+          "id": 5028,
+          "name": "Katie Bowen"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.0,
+          36.0
+        ],
+        "player": {
+          "id": 4976,
+          "name": "Lo\u2019eau LaBonta"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          41.0
+        ],
+        "player": {
+          "id": 4969,
+          "name": "Nicole Barnhart"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          50.0
+        ],
+        "player": {
+          "id": 4975,
+          "name": "Gunnhildur Yrsa J\u00f3nsd\u00f3ttir"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          25.0
+        ],
+        "player": {
+          "id": 5039,
+          "name": "Veronica Latsko"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.0,
+          53.0
+        ],
+        "player": {
+          "id": 5043,
+          "name": "Nichelle Prince"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

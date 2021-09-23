@@ -1,0 +1,158 @@
+{
+  "id": "cc8f4c00-f25c-4029-a632-d2d9b92cd3e2",
+  "index": 1515,
+  "period": 1,
+  "timestamp": "00:33:48.507",
+  "minute": 33,
+  "second": 48,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 73,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    107.2,
+    51.9
+  ],
+  "duration": 0.518201,
+  "related_events": [
+    "1cced023-1d59-43b9-850a-a67f25268b2f"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.30108938,
+    "end_location": [
+      114.8,
+      46.1,
+      0.2
+    ],
+    "key_pass_id": "18b0c84c-84a1-4cf9-b37a-7189d2f89393",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.1,
+          40.0
+        ],
+        "player": {
+          "id": 40330,
+          "name": "Chris Riggott"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.2,
+          37.5
+        ],
+        "player": {
+          "id": 40402,
+          "name": "Stuart Parnaby"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.2,
+          50.1
+        ],
+        "player": {
+          "id": 40404,
+          "name": "Alan Wright"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.2,
+          51.2
+        ],
+        "player": {
+          "id": 15403,
+          "name": "Gareth Southgate"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.9,
+          45.5
+        ],
+        "player": {
+          "id": 40322,
+          "name": "Mark Schwarzer"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.3,
+          29.7
+        ],
+        "player": {
+          "id": 19312,
+          "name": "Robert Pir\u00e8s "
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

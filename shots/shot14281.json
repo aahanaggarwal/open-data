@@ -1,0 +1,114 @@
+{
+  "id": "6b147af4-98ad-4479-b48a-23edf4d8a2a2",
+  "index": 3488,
+  "period": 2,
+  "timestamp": "00:45:02.926",
+  "minute": 90,
+  "second": 2,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 179,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 4320,
+    "name": "Neymar da Silva Santos Junior"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    113.2,
+    30.3
+  ],
+  "duration": 1.791817,
+  "related_events": [
+    "392b0585-25c6-4f40-9b30-d3bf18004dfe"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.21757199,
+    "end_location": [
+      120.0,
+      42.6,
+      0.4
+    ],
+    "key_pass_id": "55b036e5-7df1-484a-9998-e589dea5f979",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          115.2,
+          32.7
+        ],
+        "player": {
+          "id": 6884,
+          "name": "Sergio \u00c1lvarez Conde"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.8,
+          30.5
+        ],
+        "player": {
+          "id": 6794,
+          "name": "Gustavo Daniel Cabral C\u00e1ceres"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.3,
+          32.9
+        ],
+        "player": {
+          "id": 6805,
+          "name": "Hugo Mallo Novegil"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

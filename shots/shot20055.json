@@ -1,0 +1,173 @@
+{
+  "id": "0c923b8d-f940-4e98-a5d6-1c824d8b276a",
+  "index": 1761,
+  "period": 1,
+  "timestamp": "00:43:49.441",
+  "minute": 43,
+  "second": 49,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 117,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    98.4,
+    44.7
+  ],
+  "duration": 0.584473,
+  "related_events": [
+    "b1bd3cae-ea4a-4e51-971b-047b39b60bbf"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.115363106,
+    "end_location": [
+      113.6,
+      40.9,
+      0.0
+    ],
+    "key_pass_id": "7c83a6ab-eafb-4689-87bd-4c7955f7ab23",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.2,
+          34.1
+        ],
+        "player": {
+          "id": 40272,
+          "name": "Stephen Kelly"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.7,
+          46.2
+        ],
+        "player": {
+          "id": 40279,
+          "name": "Anthony Gardner"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.5,
+          43.1
+        ],
+        "player": {
+          "id": 20488,
+          "name": "Ledley King"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.3,
+          49.3
+        ],
+        "player": {
+          "id": 40275,
+          "name": "Mauricio Taricco"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.6,
+          40.9
+        ],
+        "player": {
+          "id": 40274,
+          "name": "Kasey Keller"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.7,
+          34.1
+        ],
+        "player": {
+          "id": 24972,
+          "name": "Ray Parlour"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.4,
+          49.0
+        ],
+        "player": {
+          "id": 15042,
+          "name": "Dennis Bergkamp"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

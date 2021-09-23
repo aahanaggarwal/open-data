@@ -1,0 +1,203 @@
+{
+  "id": "5e5ba368-189b-49b8-9946-029f659e7460",
+  "index": 382,
+  "period": 1,
+  "timestamp": "00:06:58.374",
+  "minute": 6,
+  "second": 58,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 12,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5246,
+    "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    116.4,
+    46.4
+  ],
+  "duration": 0.529,
+  "related_events": [
+    "e488b6d1-9cf6-4fc6-9487-18036866b472"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.37375125,
+    "end_location": [
+      120.0,
+      43.2,
+      4.2
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.2,
+          42.8
+        ],
+        "player": {
+          "id": 27305,
+          "name": "Germ\u00e1n Dar\u00edo Lux"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.4,
+          36.9
+        ],
+        "player": {
+          "id": 6729,
+          "name": "Guilherme dos Santos Torres"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.8,
+          30.9
+        ],
+        "player": {
+          "id": 5582,
+          "name": "Celso Borges Mora"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.1,
+          37.6
+        ],
+        "player": {
+          "id": 23800,
+          "name": "Laureano Sanabria Ruiz"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.5,
+          41.8
+        ],
+        "player": {
+          "id": 6727,
+          "name": "Ra\u00fal Albentosa Redal"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.5,
+          47.2
+        ],
+        "player": {
+          "id": 6777,
+          "name": "Sidnei Rechel da Silva J\u00fanior"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          30.4
+        ],
+        "player": {
+          "id": 4320,
+          "name": "Neymar da Silva Santos Junior"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.9,
+          40.5
+        ],
+        "player": {
+          "id": 5470,
+          "name": "Ivan Rakiti\u0107"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          96.1,
+          27.7
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

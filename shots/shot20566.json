@@ -1,0 +1,129 @@
+{
+  "id": "a4ae68ce-db3b-4758-8c9b-8e94b0702c21",
+  "index": 2406,
+  "period": 2,
+  "timestamp": "00:12:46.177",
+  "minute": 57,
+  "second": 46,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 127,
+  "possession_team": {
+    "id": 971,
+    "name": "Chelsea FCW"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 971,
+    "name": "Chelsea FCW"
+  },
+  "player": {
+    "id": 15550,
+    "name": "Bethany England"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    106.7,
+    32.4
+  ],
+  "duration": 0.735358,
+  "related_events": [
+    "b6798a22-8c40-42e0-8360-54348e78db7f"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.3641552,
+    "end_location": [
+      120.0,
+      37.5,
+      1.3
+    ],
+    "key_pass_id": "c96271db-b8e0-404f-bc2c-4cb28ac19460",
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.4,
+          36.3
+        ],
+        "player": {
+          "id": 22032,
+          "name": "Hannah Hampton"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.8,
+          32.4
+        ],
+        "player": {
+          "id": 19500,
+          "name": "Sarah Emma Mayling"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.2,
+          32.0
+        ],
+        "player": {
+          "id": 15574,
+          "name": "Georgia Brougham"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.7,
+          35.8
+        ],
+        "player": {
+          "id": 31567,
+          "name": "Adrienne Jordan"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

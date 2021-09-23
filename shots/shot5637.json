@@ -1,0 +1,143 @@
+{
+  "id": "14329300-2deb-40c7-89af-9e13abd1d87c",
+  "index": 3032,
+  "period": 2,
+  "timestamp": "00:40:46.173",
+  "minute": 85,
+  "second": 46,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 181,
+  "possession_team": {
+    "id": 765,
+    "name": "Portland Thorns"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 765,
+    "name": "Portland Thorns"
+  },
+  "player": {
+    "id": 5093,
+    "name": "Tyler Lussi"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    103.0,
+    37.0
+  ],
+  "duration": 1.601,
+  "related_events": [
+    "1017a499-0170-44ed-a1df-a14bd43810f5"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.23300032,
+    "end_location": [
+      120.0,
+      34.2,
+      3.0
+    ],
+    "key_pass_id": "473698d3-d344-4598-9585-cd161a569a6a",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          85.0,
+          24.0
+        ],
+        "player": {
+          "id": 5013,
+          "name": "Tobin Heath"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.0,
+          40.0
+        ],
+        "player": {
+          "id": 5056,
+          "name": "Jane Campbell"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.0,
+          20.0
+        ],
+        "player": {
+          "id": 5035,
+          "name": "Haley Hanson"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          39.0
+        ],
+        "player": {
+          "id": 8383,
+          "name": "Lindsay Elizabeth Agnew"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          39.0
+        ],
+        "player": {
+          "id": 5045,
+          "name": "Amber Brooks"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

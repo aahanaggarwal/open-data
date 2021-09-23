@@ -1,0 +1,158 @@
+{
+  "id": "5dfa0638-ffdb-4da3-b35a-5e75ef78d07a",
+  "index": 2096,
+  "period": 2,
+  "timestamp": "00:10:08.313",
+  "minute": 55,
+  "second": 8,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 138,
+  "possession_team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "player": {
+    "id": 5055,
+    "name": "Lynn Williams"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    116.0,
+    41.0
+  ],
+  "duration": 1.485,
+  "related_events": [
+    "12e9be8d-c4cc-49d5-b4e7-38eac8515b37"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.7994163,
+    "end_location": [
+      120.0,
+      41.9,
+      2.3
+    ],
+    "key_pass_id": "01a55934-3f22-4c99-b8cd-f00ff5d47a29",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.0,
+          41.0
+        ],
+        "player": {
+          "id": 4978,
+          "name": "Dominique Richardson"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          45.0
+        ],
+        "player": {
+          "id": 4974,
+          "name": "Mandy Freeman"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          52.0
+        ],
+        "player": {
+          "id": 4981,
+          "name": "Kailen Sheridan"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          38.0
+        ],
+        "player": {
+          "id": 5098,
+          "name": "Erica Skroski"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          50.0
+        ],
+        "player": {
+          "id": 4970,
+          "name": "Amanda Frisbie"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          56.0
+        ],
+        "player": {
+          "id": 5080,
+          "name": "Kristen Hamilton"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

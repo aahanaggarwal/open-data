@@ -1,0 +1,204 @@
+{
+  "id": "d21f3582-9ecc-4008-a50a-2e600b4ed187",
+  "index": 3237,
+  "period": 2,
+  "timestamp": "00:35:36.354",
+  "minute": 80,
+  "second": 36,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 132,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5246,
+    "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    105.4,
+    40.8
+  ],
+  "duration": 0.8525,
+  "related_events": [
+    "456f95b4-e774-4861-9472-cc0314233e89"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.43371785,
+    "end_location": [
+      120.0,
+      37.3,
+      0.5
+    ],
+    "key_pass_id": "3d29704a-6e13-4234-a6da-c55ccf44439f",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          88.6,
+          67.3
+        ],
+        "player": {
+          "id": 6379,
+          "name": "Sergi Roberto Carnicer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.8,
+          39.8
+        ],
+        "player": {
+          "id": 7161,
+          "name": "Germ\u00e1n Alejandro Pezzella"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.2,
+          47.1
+        ],
+        "player": {
+          "id": 6872,
+          "name": "Bruno Gonz\u00e1lez Cabrera"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.4,
+          54.7
+        ],
+        "player": {
+          "id": 6593,
+          "name": "Mart\u00edn Montoya Torralbo"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          39.7
+        ],
+        "player": {
+          "id": 6654,
+          "name": "Antonio Ad\u00e1n Garrido"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.8,
+          26.6
+        ],
+        "player": {
+          "id": 26723,
+          "name": "\u00c1lvaro Cejudo Carmona"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          90.4,
+          37.2
+        ],
+        "player": {
+          "id": 27346,
+          "name": "Petros Matheus dos Santos Ara\u00fajo"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.5,
+          33.5
+        ],
+        "player": {
+          "id": 4320,
+          "name": "Neymar da Silva Santos Junior"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          87.9,
+          49.2
+        ],
+        "player": {
+          "id": 5470,
+          "name": "Ivan Rakiti\u0107"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "id": "6a49b071-02d0-4c84-92d0-9f9b8f18ee12",
+  "index": 3682,
+  "period": 2,
+  "timestamp": "00:35:08.357",
+  "minute": 80,
+  "second": 8,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 197,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 2,
+    "name": "From Corner"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 4324,
+    "name": "Daniel Alves da Silva"
+  },
+  "position": {
+    "id": 2,
+    "name": "Right Back"
+  },
+  "location": [
+    110.0,
+    55.8
+  ],
+  "duration": 0.671601,
+  "related_events": [
+    "1369d732-a354-4edf-8167-60b937a39272"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.04724994,
+    "end_location": [
+      118.5,
+      44.0,
+      0.2
+    ],
+    "key_pass_id": "15f7c188-2e30-4528-b356-2af4cb6ddf4b",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.7,
+          44.0
+        ],
+        "player": {
+          "id": 6576,
+          "name": "Gorka Iraizoz Moreno"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.8,
+          53.7
+        ],
+        "player": {
+          "id": 26736,
+          "name": "Borja Ekiza Imaz"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          49.2
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.3,
+          47.6
+        ],
+        "player": {
+          "id": 5216,
+          "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.4,
+          45.3
+        ],
+        "player": {
+          "id": 6887,
+          "name": "Jon\u00e1s Ramalho Chimeno"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.5,
+          49.0
+        ],
+        "player": {
+          "id": 6617,
+          "name": "Ibai G\u00f3mez P\u00e9rez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.1,
+          48.9
+        ],
+        "player": {
+          "id": 6390,
+          "name": "Markel Susaeta Laskurain"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.6,
+          36.3
+        ],
+        "player": {
+          "id": 26031,
+          "name": "Andoni Iraola Sagarna"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

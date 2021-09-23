@@ -1,0 +1,188 @@
+{
+  "id": "5d94e92e-9abb-4774-b92e-044aea3539ed",
+  "index": 297,
+  "period": 1,
+  "timestamp": "00:07:27.226",
+  "minute": 7,
+  "second": 27,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 19,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5246,
+    "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    118.7,
+    33.6
+  ],
+  "duration": 0.2184,
+  "related_events": [
+    "327cd4e8-ceb2-4c0b-a13f-5252e4372bbd"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.14039053,
+    "end_location": [
+      119.1,
+      35.5,
+      0.2
+    ],
+    "key_pass_id": "f1288fe4-411b-4d12-ad94-70f836832e51",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.4,
+          35.2
+        ],
+        "player": {
+          "id": 25144,
+          "name": "Diego Alves Carreira"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.4,
+          21.0
+        ],
+        "player": {
+          "id": 6593,
+          "name": "Mart\u00edn Montoya Torralbo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.6,
+          23.6
+        ],
+        "player": {
+          "id": 4320,
+          "name": "Neymar da Silva Santos Junior"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.4,
+          36.2
+        ],
+        "player": {
+          "id": 6891,
+          "name": "Ezequiel Marcelo Garay"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.5,
+          46.1
+        ],
+        "player": {
+          "id": 5741,
+          "name": "Enzo Nicol\u00e1s P\u00e9rez"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.3,
+          44.7
+        ],
+        "player": {
+          "id": 6596,
+          "name": "Jos\u00e9 Luis Gay\u00e1 Pe\u00f1a"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.7,
+          44.0
+        ],
+        "player": {
+          "id": 5470,
+          "name": "Ivan Rakiti\u0107"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.8,
+          31.2
+        ],
+        "player": {
+          "id": 3389,
+          "name": "Eliaquim Mangala"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

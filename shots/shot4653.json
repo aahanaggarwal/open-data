@@ -1,0 +1,204 @@
+{
+  "id": "41867fbd-6feb-43e1-b901-82ae2c453891",
+  "index": 380,
+  "period": 1,
+  "timestamp": "00:08:09.208",
+  "minute": 8,
+  "second": 9,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 16,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 2,
+    "name": "From Corner"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5211,
+    "name": "Jordi Alba Ramos"
+  },
+  "position": {
+    "id": 6,
+    "name": "Left Back"
+  },
+  "location": [
+    111.9,
+    34.8
+  ],
+  "duration": 0.38571,
+  "related_events": [
+    "31aa41c5-9960-4413-8871-f2db42a7838b"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.12984705,
+    "end_location": [
+      120.0,
+      33.9,
+      0.9
+    ],
+    "key_pass_id": "48c274bc-01db-41e3-be01-8ed4effbeae0",
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          109.1,
+          41.2
+        ],
+        "player": {
+          "id": 4320,
+          "name": "Neymar da Silva Santos Junior"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.8,
+          49.6
+        ],
+        "player": {
+          "id": 5470,
+          "name": "Ivan Rakiti\u0107"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.0,
+          57.8
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.3,
+          40.5
+        ],
+        "player": {
+          "id": 6792,
+          "name": "Pau L\u00f3pez Sabata"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.3,
+          35.3
+        ],
+        "player": {
+          "id": 6838,
+          "name": "Hern\u00e1n Arsenio P\u00e9rez Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          37.0
+        ],
+        "player": {
+          "id": 6791,
+          "name": "Javier L\u00f3pez Rodr\u00edguez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.8,
+          49.0
+        ],
+        "player": {
+          "id": 6762,
+          "name": "\u00c1lvaro Gonz\u00e1lez Sober\u00f3n"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.8,
+          56.6
+        ],
+        "player": {
+          "id": 16456,
+          "name": "Enzo Pablo Roco Roco"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.7,
+          48.4
+        ],
+        "player": {
+          "id": 6701,
+          "name": "Joan Jord\u00e1n Moreno"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

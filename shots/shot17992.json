@@ -1,0 +1,174 @@
+{
+  "id": "74eb1669-e854-4821-913b-2798c9a9234f",
+  "index": 3136,
+  "period": 2,
+  "timestamp": "00:27:50.670",
+  "minute": 72,
+  "second": 50,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 142,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    97.1,
+    62.1
+  ],
+  "duration": 0.30163,
+  "related_events": [
+    "856af9c0-77ae-476c-86f5-5614bbe756ec"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.25362626,
+    "end_location": [
+      102.6,
+      57.6,
+      1.6
+    ],
+    "key_pass_id": "1c5dd054-ea0c-4b1d-b7de-c4d3164573b1",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.2,
+          57.3
+        ],
+        "player": {
+          "id": 6610,
+          "name": "Iv\u00e1n Cu\u00e9llar Sacrist\u00e1n"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.1,
+          39.1
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          81.2,
+          32.6
+        ],
+        "player": {
+          "id": 3501,
+          "name": "Philippe Coutinho Correia"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          89.0,
+          36.5
+        ],
+        "player": {
+          "id": 6605,
+          "name": "Joseba Zald\u00faa Bengoetxea"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          90.7,
+          45.3
+        ],
+        "player": {
+          "id": 6598,
+          "name": "Unai Bustinza Mart\u00ednez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.9,
+          58.5
+        ],
+        "player": {
+          "id": 6607,
+          "name": "Juli\u00e1n Omar Ramos Su\u00e1rez"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.5,
+          63.6
+        ],
+        "player": {
+          "id": 6601,
+          "name": "Ra\u00fal Garc\u00eda Carnero"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

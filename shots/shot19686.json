@@ -1,0 +1,234 @@
+{
+  "id": "c1997663-4190-45aa-995e-abc92ad3c851",
+  "index": 314,
+  "period": 1,
+  "timestamp": "00:10:26.735",
+  "minute": 10,
+  "second": 26,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 26,
+  "possession_team": {
+    "id": 749,
+    "name": "Tottenham Hotspur Women"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 749,
+    "name": "Tottenham Hotspur Women"
+  },
+  "player": {
+    "id": 31551,
+    "name": "Kit Graham"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    101.5,
+    41.9
+  ],
+  "duration": 0.120402,
+  "related_events": [
+    "0b4fa798-9ca7-4fa5-9f7f-6458375b2a6e",
+    "af2705ad-c5fd-4739-b4a6-974df856417a"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.04041423,
+    "end_location": [
+      103.1,
+      41.8
+    ],
+    "key_pass_id": "4a7571e4-9c68-44cb-9e38-da9f049c95c5",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          118.1,
+          41.4
+        ],
+        "player": {
+          "id": 22032,
+          "name": "Hannah Hampton"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.5,
+          41.2
+        ],
+        "player": {
+          "id": 31568,
+          "name": "Rebecca Holloway"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.2,
+          41.9
+        ],
+        "player": {
+          "id": 31567,
+          "name": "Adrienne Jordan"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.7,
+          42.0
+        ],
+        "player": {
+          "id": 10193,
+          "name": "Chloe Arthur"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.7,
+          33.2
+        ],
+        "player": {
+          "id": 15562,
+          "name": "Lucy Staniforth"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.9,
+          24.2
+        ],
+        "player": {
+          "id": 33009,
+          "name": "Lily Simkin"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.2,
+          37.1
+        ],
+        "player": {
+          "id": 19592,
+          "name": "Harriet Scott"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.6,
+          31.8
+        ],
+        "player": {
+          "id": 15580,
+          "name": "Claudia Walker"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          34.1
+        ],
+        "player": {
+          "id": 4848,
+          "name": "Ashleigh Neville"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.4,
+          39.6
+        ],
+        "player": {
+          "id": 31702,
+          "name": "Rianna Dean"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.6,
+          42.7
+        ],
+        "player": {
+          "id": 21048,
+          "name": "Rosella Ayane"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

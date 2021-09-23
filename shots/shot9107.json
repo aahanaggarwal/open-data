@@ -1,0 +1,128 @@
+{
+  "id": "c8a7d91b-e587-45b4-bae6-0c0a51b6241b",
+  "index": 3497,
+  "period": 2,
+  "timestamp": "00:40:42.600",
+  "minute": 85,
+  "second": 42,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 170,
+  "possession_team": {
+    "id": 403,
+    "name": "Almer\u00eda"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 403,
+    "name": "Almer\u00eda"
+  },
+  "player": {
+    "id": 6763,
+    "name": "Pablo Daniel Piatti"
+  },
+  "position": {
+    "id": 20,
+    "name": "Left Attacking Midfield"
+  },
+  "location": [
+    109.0,
+    19.1
+  ],
+  "duration": 0.2296,
+  "related_events": [
+    "0e04d125-addf-4372-88a4-a563989f84aa",
+    "d3c76489-a048-4bee-9a34-aaf64e65e50d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.02164866,
+    "end_location": [
+      109.6,
+      20.1
+    ],
+    "key_pass_id": "0dffd6fd-dc2e-4c2a-a7c7-8734e7964985",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          109.7,
+          20.2
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.1,
+          35.5
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.8,
+          30.2
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.1,
+          43.0
+        ],
+        "player": {
+          "id": 25919,
+          "name": "Gabriel Alejandro Milito"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

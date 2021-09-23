@@ -1,0 +1,114 @@
+{
+  "id": "cfbb9784-5b19-49a1-b995-410a499986c7",
+  "index": 830,
+  "period": 1,
+  "timestamp": "00:19:31.595",
+  "minute": 19,
+  "second": 31,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 58,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 15743,
+    "name": "Henrik Larsson"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    102.2,
+    45.2
+  ],
+  "duration": 1.473109,
+  "related_events": [
+    "bd8feacd-e8db-4935-8961-920611f05ace"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.31966656,
+    "end_location": [
+      120.0,
+      34.3,
+      0.8
+    ],
+    "key_pass_id": "09e38e44-a1ad-4820-9b33-b98abf9479bd",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          98.4,
+          38.4
+        ],
+        "player": {
+          "id": 25992,
+          "name": "Jos\u00e9 Carlos de Ara\u00fajo Nunes"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.3,
+          43.7
+        ],
+        "player": {
+          "id": 7069,
+          "name": "Miguel \u00c1ngel Moy\u00e0 Rumbo"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.5,
+          44.2
+        ],
+        "player": {
+          "id": 6913,
+          "name": "Fernando Navarro i Corbacho"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "id": "d9220ae8-34a1-487e-8e99-2517faf41981",
+  "index": 1899,
+  "period": 2,
+  "timestamp": "00:09:01.508",
+  "minute": 54,
+  "second": 1,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 110,
+  "possession_team": {
+    "id": 973,
+    "name": "Bristol City WFC"
+  },
+  "play_pattern": {
+    "id": 8,
+    "name": "From Keeper"
+  },
+  "team": {
+    "id": 973,
+    "name": "Bristol City WFC"
+  },
+  "player": {
+    "id": 16386,
+    "name": "Lucy Graham"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    107.0,
+    47.0
+  ],
+  "duration": 0.6111,
+  "under_pressure": true,
+  "related_events": [
+    "0ae0706e-b380-491a-b8c9-c1ba1418681e",
+    "1bbcdcdd-3f5c-458d-9443-0b3875be44bf"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.13378033,
+    "end_location": [
+      120.0,
+      43.2,
+      0.2
+    ],
+    "key_pass_id": "5c01f863-8e2f-437b-835f-8882cbd7a037",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.0,
+          43.0
+        ],
+        "player": {
+          "id": 22032,
+          "name": "Hannah Hampton"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          42.0
+        ],
+        "player": {
+          "id": 19502,
+          "name": "Meaghan Sargeant"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          46.0
+        ],
+        "player": {
+          "id": 15569,
+          "name": "Kerys Harrop"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          53.0
+        ],
+        "player": {
+          "id": 21048,
+          "name": "Rosella Ayane"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.0,
+          51.0
+        ],
+        "player": {
+          "id": 15567,
+          "name": "Paige Williams"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.0,
+          28.0
+        ],
+        "player": {
+          "id": 15563,
+          "name": "Charlie Wellings"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

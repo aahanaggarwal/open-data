@@ -1,0 +1,130 @@
+{
+  "id": "16cf68e3-7ae1-4812-9027-e52b0e9cc7bd",
+  "index": 2622,
+  "period": 2,
+  "timestamp": "00:40:29.264",
+  "minute": 85,
+  "second": 29,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 215,
+  "possession_team": {
+    "id": 967,
+    "name": "Everton LFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 967,
+    "name": "Everton LFC"
+  },
+  "player": {
+    "id": 15559,
+    "name": "Simone Magill"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    107.1,
+    54.4
+  ],
+  "duration": 0.934883,
+  "under_pressure": true,
+  "related_events": [
+    "4767095c-35e8-47c2-97ed-cbcd3e4670f9",
+    "de4af60a-b5b4-494e-aadc-34dac650813d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.07467597,
+    "end_location": [
+      120.0,
+      47.5,
+      4.2
+    ],
+    "key_pass_id": "faad4c9d-c761-4bb0-9a6d-2af9e761ce2b",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          107.2,
+          34.9
+        ],
+        "player": {
+          "id": 10198,
+          "name": "Josanne Potter"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          51.3
+        ],
+        "player": {
+          "id": 21021,
+          "name": "Molly Bartrip"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.1,
+          43.4
+        ],
+        "player": {
+          "id": 33664,
+          "name": "Rachael Laws"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.4,
+          31.0
+        ],
+        "player": {
+          "id": 31564,
+          "name": "Molly Pike"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

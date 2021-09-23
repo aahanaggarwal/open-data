@@ -1,0 +1,99 @@
+{
+  "id": "1b364aed-6ef4-47dd-a826-2fcbf857d5c7",
+  "index": 724,
+  "period": 1,
+  "timestamp": "00:17:37.397",
+  "minute": 17,
+  "second": 37,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 39,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    106.6,
+    52.4
+  ],
+  "duration": 1.160661,
+  "related_events": [
+    "5245691d-1927-4e84-baac-8599c4de70b6"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.15336104,
+    "end_location": [
+      120.0,
+      32.0,
+      0.2
+    ],
+    "key_pass_id": "460a7500-65cd-40db-8ece-354013184505",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          116.0,
+          44.4
+        ],
+        "player": {
+          "id": 26197,
+          "name": "Christian Abbiati"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.2,
+          51.0
+        ],
+        "player": {
+          "id": 26222,
+          "name": "Jos\u00e9 Eduardo Rosa Vale e Castro"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

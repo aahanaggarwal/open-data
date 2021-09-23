@@ -1,0 +1,220 @@
+{
+  "id": "d85e9ebb-a0fc-4b0d-aa4a-3580336e8515",
+  "index": 694,
+  "period": 1,
+  "timestamp": "00:15:44.583",
+  "minute": 15,
+  "second": 44,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 41,
+  "possession_team": {
+    "id": 761,
+    "name": "Chicago Red Stars"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 761,
+    "name": "Chicago Red Stars"
+  },
+  "player": {
+    "id": 4961,
+    "name": "Samantha Kerr"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    112.3,
+    41.4
+  ],
+  "duration": 0.105911,
+  "related_events": [
+    "115f2717-7f19-402f-9fbf-913c58460da1",
+    "c093bdad-bb03-4387-8944-da4408b88406"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.14795624,
+    "end_location": [
+      118.9,
+      41.7,
+      0.3
+    ],
+    "key_pass_id": "27ef4084-8846-446d-a18b-09305d020518",
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "deflected": true,
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          111.3,
+          40.6
+        ],
+        "player": {
+          "id": 32760,
+          "name": "Julie James"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.4,
+          37.8
+        ],
+        "player": {
+          "id": 33318,
+          "name": "Sabrina Flores"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.3,
+          42.1
+        ],
+        "player": {
+          "id": 5098,
+          "name": "Erica Skroski"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.5,
+          42.0
+        ],
+        "player": {
+          "id": 5046,
+          "name": "Elizabeth Eddy"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.5,
+          52.0
+        ],
+        "player": {
+          "id": 16403,
+          "name": "Gina Lewandowski"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.4,
+          47.1
+        ],
+        "player": {
+          "id": 4988,
+          "name": "Sarah Killion"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.5,
+          41.5
+        ],
+        "player": {
+          "id": 4981,
+          "name": "Kailen Sheridan"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.3,
+          30.2
+        ],
+        "player": {
+          "id": 4942,
+          "name": "Arin Gilliland"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.6,
+          39.9
+        ],
+        "player": {
+          "id": 6812,
+          "name": "Vanessa DiBernardo"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.0,
+          52.6
+        ],
+        "player": {
+          "id": 5096,
+          "name": "Savannah McCaskill"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "id": "44cbfe21-f78b-4143-a145-cf1708228eaa",
+  "index": 686,
+  "period": 1,
+  "timestamp": "00:17:10.375",
+  "minute": 17,
+  "second": 10,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 38,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 9,
+    "name": "From Kick Off"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    110.9,
+    38.4
+  ],
+  "duration": 0.815101,
+  "related_events": [
+    "df979b61-6761-4775-abe7-98d885231d95"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.13296652,
+    "end_location": [
+      120.0,
+      46.7,
+      0.5
+    ],
+    "key_pass_id": "80a93678-1d86-42d8-b947-1ec6a6ad300d",
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.1,
+          39.5
+        ],
+        "player": {
+          "id": 3742,
+          "name": "Orestis Karnezis"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.5,
+          38.9
+        ],
+        "player": {
+          "id": 6585,
+          "name": "Jeison Fabi\u00e1n Murillo Cer\u00f3n"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.9,
+          35.2
+        ],
+        "player": {
+          "id": 9542,
+          "name": "Tiago Abiola Delfim Almeida Ilori"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.2,
+          27.2
+        ],
+        "player": {
+          "id": 6743,
+          "name": "Manuel Rolando Iturra Urrutia"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.3,
+          39.9
+        ],
+        "player": {
+          "id": 6580,
+          "name": "Jos\u00e9 Luis Garc\u00eda del Pozo"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.3,
+          55.1
+        ],
+        "player": {
+          "id": 3958,
+          "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          92.9,
+          55.5
+        ],
+        "player": {
+          "id": 11165,
+          "name": "Yacine Brahimi"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.2,
+          48.7
+        ],
+        "player": {
+          "id": 4546,
+          "name": "Dimitri Foulquier"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

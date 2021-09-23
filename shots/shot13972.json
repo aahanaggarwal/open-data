@@ -1,0 +1,187 @@
+{
+  "id": "beeeab72-538b-4645-9fe4-983793c0bf5d",
+  "index": 3043,
+  "period": 2,
+  "timestamp": "00:46:51.102",
+  "minute": 91,
+  "second": 51,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 188,
+  "possession_team": {
+    "id": 767,
+    "name": "Utah Royals"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 760,
+    "name": "Seattle Reign"
+  },
+  "player": {
+    "id": 5077,
+    "name": "Jasmyne Spencer"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    111.0,
+    30.0
+  ],
+  "duration": 0.1,
+  "related_events": [
+    "d450bf27-2f11-4a1c-880e-763ac3f18108",
+    "da4fa5ff-b5d7-407d-b441-5ee1beb7f1d2"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.32115442,
+    "end_location": [
+      116.0,
+      32.0
+    ],
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.0,
+          35.0
+        ],
+        "player": {
+          "id": 8298,
+          "name": "Megan Rapinoe"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.0,
+          37.0
+        ],
+        "player": {
+          "id": 5031,
+          "name": "Abby Smith"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          48.0
+        ],
+        "player": {
+          "id": 4975,
+          "name": "Gunnhildur Yrsa J\u00f3nsd\u00f3ttir"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.50385,
+          30.3359
+        ],
+        "player": {
+          "id": 5028,
+          "name": "Katie Bowen"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          37.0
+        ],
+        "player": {
+          "id": 5101,
+          "name": "Samantha Johnson"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          12.0
+        ],
+        "player": {
+          "id": 4966,
+          "name": "Desiree Scott"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          12.0
+        ],
+        "player": {
+          "id": 4984,
+          "name": "Rachel Corsie"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.0,
+          19.0
+        ],
+        "player": {
+          "id": 4979,
+          "name": "Katrina Gorry"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

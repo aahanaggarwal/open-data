@@ -1,0 +1,206 @@
+{
+  "id": "05d1d3e8-579e-44c2-a56e-1c4eedce15ac",
+  "index": 688,
+  "period": 1,
+  "timestamp": "00:15:01.430",
+  "minute": 15,
+  "second": 1,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 23,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 9,
+    "name": "From Kick Off"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5246,
+    "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    112.9,
+    28.8
+  ],
+  "duration": 0.312074,
+  "under_pressure": true,
+  "related_events": [
+    "215f78e3-ece6-4a54-b102-ad5dfc81eef4",
+    "2633cd6d-6e52-4a91-b828-fb2f00e0fa2e"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.22345066,
+    "end_location": [
+      117.0,
+      35.5,
+      0.2
+    ],
+    "key_pass_id": "f7caec92-3bef-4c43-9de1-ac00548519ef",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          106.5,
+          44.0
+        ],
+        "player": {
+          "id": 3515,
+          "name": "Alberto Moreno P\u00e9rez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.0,
+          31.7
+        ],
+        "player": {
+          "id": 5487,
+          "name": "Antoine Griezmann"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.6,
+          45.3
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.6,
+          35.4
+        ],
+        "player": {
+          "id": 6755,
+          "name": "Sergio Asenjo Andr\u00e9s"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          33.7
+        ],
+        "player": {
+          "id": 3497,
+          "name": "Vicente Iborra De La Fuente"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.3,
+          43.6
+        ],
+        "player": {
+          "id": 11386,
+          "name": "Santiago Cazorla Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.3,
+          27.4
+        ],
+        "player": {
+          "id": 6772,
+          "name": "Mario Gaspar P\u00e9rez Mart\u00ednez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          27.4
+        ],
+        "player": {
+          "id": 6892,
+          "name": "Pau Francisco Torres"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.2,
+          29.8
+        ],
+        "player": {
+          "id": 7030,
+          "name": "Ra\u00fal Albiol Tortajada"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

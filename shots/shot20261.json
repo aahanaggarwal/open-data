@@ -1,0 +1,176 @@
+{
+  "id": "af8c2b05-b6b8-44bc-a94c-b46789a480fe",
+  "index": 1397,
+  "period": 1,
+  "timestamp": "00:28:43.082",
+  "minute": 28,
+  "second": 43,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 58,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5246,
+    "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    106.3,
+    57.1
+  ],
+  "duration": 0.1188,
+  "related_events": [
+    "443e2e25-9263-4346-a7c1-0fab92e7a8a2",
+    "c04080b0-62af-4112-8f22-495551bfffe0"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.029027766,
+    "end_location": [
+      115.7,
+      47.0,
+      0.2
+    ],
+    "key_pass_id": "c74dfbc8-99d1-4543-ac32-abc22d359ad0",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "deflected": true,
+    "freeze_frame": [
+      {
+        "location": [
+          87.4,
+          43.4
+        ],
+        "player": {
+          "id": 5477,
+          "name": "Ousmane Demb\u00e9l\u00e9"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.3,
+          56.4
+        ],
+        "player": {
+          "id": 6923,
+          "name": "Joaqu\u00edn Navarro Jim\u00e9nez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.8,
+          46.8
+        ],
+        "player": {
+          "id": 6629,
+          "name": "Fernando Pacheco Flores"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.6,
+          37.0
+        ],
+        "player": {
+          "id": 6856,
+          "name": "Carlos Mart\u00edn Vigaray"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.3,
+          46.8
+        ],
+        "player": {
+          "id": 6626,
+          "name": "Mubarak Wakaso"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.5,
+          41.1
+        ],
+        "player": {
+          "id": 6615,
+          "name": "V\u00edctor Laguardia Cisneros"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.7,
+          55.4
+        ],
+        "player": {
+          "id": 6636,
+          "name": "Rodrigo Ely"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

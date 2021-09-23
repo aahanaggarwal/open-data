@@ -1,0 +1,158 @@
+{
+  "id": "68593bf3-1512-41fd-a0f5-81b1a73129bd",
+  "index": 1877,
+  "period": 2,
+  "timestamp": "00:04:00.987",
+  "minute": 49,
+  "second": 0,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 128,
+  "possession_team": {
+    "id": 777,
+    "name": "Tunisia"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 777,
+    "name": "Tunisia"
+  },
+  "player": {
+    "id": 3196,
+    "name": "Wahbi Khazri"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    113.0,
+    44.0
+  ],
+  "duration": 3.253,
+  "related_events": [
+    "475c41eb-3516-4f46-ae6b-5c3b2d8bc0fe"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.2933327,
+    "end_location": [
+      109.0,
+      80.0
+    ],
+    "key_pass_id": "2f4e4515-0b46-42fe-b807-4409b81c8367",
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "outcome": {
+      "id": 101,
+      "name": "Wayward"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          105.0,
+          36.0
+        ],
+        "player": {
+          "id": 2974,
+          "name": "Sa\u00eef-Eddine Khaoui"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.0,
+          51.0
+        ],
+        "player": {
+          "id": 5654,
+          "name": "Fakhreddine Ben Youssef"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.0,
+          36.0
+        ],
+        "player": {
+          "id": 5639,
+          "name": "Anga Dedryck Boyata"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          43.0
+        ],
+        "player": {
+          "id": 5633,
+          "name": "Yannick Ferreira Carrasco"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          40.0
+        ],
+        "player": {
+          "id": 3509,
+          "name": "Thibaut Courtois"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          40.0
+        ],
+        "player": {
+          "id": 3077,
+          "name": "Jan Vertonghen"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

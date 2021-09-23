@@ -1,0 +1,175 @@
+{
+  "id": "76f93e07-837b-4c77-9d75-e3b502fe1fd9",
+  "index": 1438,
+  "period": 1,
+  "timestamp": "00:38:08.598",
+  "minute": 38,
+  "second": 8,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 71,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    109.6,
+    30.1
+  ],
+  "duration": 0.39719,
+  "under_pressure": true,
+  "related_events": [
+    "895b90ee-ca60-4968-bd6a-cd736cd604ec",
+    "b905a61c-eb7a-4bf4-bdda-928c3c6597b1"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.13993609,
+    "end_location": [
+      120.0,
+      36.6,
+      2.0
+    ],
+    "key_pass_id": "03f31f28-2ae6-4c39-9afe-c72bf6de9671",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.8,
+          50.6
+        ],
+        "player": {
+          "id": 3385,
+          "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.3,
+          27.3
+        ],
+        "player": {
+          "id": 3478,
+          "name": "Francesc F\u00e0bregas i Soler"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.3,
+          33.0
+        ],
+        "player": {
+          "id": 10815,
+          "name": "\u00c1d\u00e1m Pint\u00e9r"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.4,
+          31.3
+        ],
+        "player": {
+          "id": 26761,
+          "name": "Paulo C\u00e9sar Da Silva Barrios"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          39.2
+        ],
+        "player": {
+          "id": 26429,
+          "name": "Javier Paredes Arango"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.4,
+          36.9
+        ],
+        "player": {
+          "id": 6571,
+          "name": "Roberto Jim\u00e9nez Gago"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.2,
+          28.2
+        ],
+        "player": {
+          "id": 26837,
+          "name": "Pablo Sebasti\u00e1n Valeira \u00c1lvarez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

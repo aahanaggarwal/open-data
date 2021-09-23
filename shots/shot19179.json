@@ -1,0 +1,144 @@
+{
+  "id": "e63a1dff-fe86-4011-b12e-01b95eda50c7",
+  "index": 2173,
+  "period": 2,
+  "timestamp": "00:04:12.057",
+  "minute": 49,
+  "second": 12,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 114,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19298,
+    "name": "Samuel Eto\"o Fils"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    107.6,
+    19.0
+  ],
+  "duration": 0.589642,
+  "related_events": [
+    "682fc1b7-8afa-434c-8e60-f7418dce447d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.031469297,
+    "end_location": [
+      120.0,
+      37.5,
+      5.6
+    ],
+    "key_pass_id": "cfcfe7bc-8a45-4e68-9b2e-a450eacdfdf5",
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          96.7,
+          27.7
+        ],
+        "player": {
+          "id": 25910,
+          "name": "Jos\u00e9 Edm\u00edlson Gomes de Moraes"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.1,
+          37.0
+        ],
+        "player": {
+          "id": 25917,
+          "name": "C\u00e9sar S\u00e1nchez Dom\u00ednguez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.6,
+          23.8
+        ],
+        "player": {
+          "id": 25922,
+          "name": "Leonardo Daniel Ponzio"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.9,
+          26.6
+        ],
+        "player": {
+          "id": 25909,
+          "name": "Albert Celades L\u00f3pez"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.3,
+          32.8
+        ],
+        "player": {
+          "id": 25919,
+          "name": "Gabriel Alejandro Milito"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

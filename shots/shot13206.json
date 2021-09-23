@@ -1,0 +1,160 @@
+{
+  "id": "f6707d15-5834-4d79-919f-26642a8615b0",
+  "index": 998,
+  "period": 1,
+  "timestamp": "00:25:17.236",
+  "minute": 25,
+  "second": 17,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 60,
+  "possession_team": {
+    "id": 37,
+    "name": "Newcastle United"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 37,
+    "name": "Newcastle United"
+  },
+  "player": {
+    "id": 40227,
+    "name": "Laurent Robert"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    116.5,
+    42.5
+  ],
+  "duration": 0.648551,
+  "related_events": [
+    "4a17cfdd-fa27-49b4-8706-c38a4d4ab451"
+  ],
+  "shot": {
+    "open_goal": true,
+    "statsbomb_xg": 0.8065216,
+    "end_location": [
+      120.0,
+      41.2,
+      0.2
+    ],
+    "key_pass_id": "7025e34f-e2de-4377-a132-8806d74400b7",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.9,
+          50.3
+        ],
+        "player": {
+          "id": 20326,
+          "name": "Kieron Dyer"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.6,
+          49.5
+        ],
+        "player": {
+          "id": 15654,
+          "name": "Martin Keown"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.8,
+          43.7
+        ],
+        "player": {
+          "id": 20015,
+          "name": "Jens Lehmann"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.3,
+          42.1
+        ],
+        "player": {
+          "id": 40222,
+          "name": "Laureano Bisan-Etame Mayer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.7,
+          44.2
+        ],
+        "player": {
+          "id": 26014,
+          "name": "Eduardo C\u00e9sar Daude Gaspar"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.5,
+          38.3
+        ],
+        "player": {
+          "id": 40234,
+          "name": "Jermaine Jenas"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

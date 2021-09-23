@@ -1,0 +1,189 @@
+{
+  "id": "38de647b-63be-4a6f-b637-b55dfe46c14a",
+  "index": 723,
+  "period": 1,
+  "timestamp": "00:16:55.770",
+  "minute": 16,
+  "second": 55,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 41,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5487,
+    "name": "Antoine Griezmann"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    111.5,
+    51.5
+  ],
+  "duration": 2.272805,
+  "related_events": [
+    "6c37f79a-f3a7-4dfa-903c-5a0574b84edb"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.4138827,
+    "end_location": [
+      120.0,
+      32.2,
+      0.2
+    ],
+    "key_pass_id": "9deb7f0e-0af2-44c5-9166-f883338992b0",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.5,
+          49.0
+        ],
+        "player": {
+          "id": 6592,
+          "name": "R\u00faben Miguel Nunes Vezo"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.8,
+          55.2
+        ],
+        "player": {
+          "id": 6680,
+          "name": "Rub\u00e9n Rochina Naixes"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.9,
+          36.2
+        ],
+        "player": {
+          "id": 6682,
+          "name": "Sergio Postigo Redondo"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.7,
+          28.8
+        ],
+        "player": {
+          "id": 11676,
+          "name": "Jorge Miram\u00f3n Santagertrudis"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.9,
+          46.8
+        ],
+        "player": {
+          "id": 17303,
+          "name": "Nikola Vuk\u010devi\u0107"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.2,
+          30.2
+        ],
+        "player": {
+          "id": 30756,
+          "name": "Anssumane Fati"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          95.1,
+          49.2
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.9,
+          45.8
+        ],
+        "player": {
+          "id": 23344,
+          "name": "Aitor Fern\u00e1ndez Abarisketa"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

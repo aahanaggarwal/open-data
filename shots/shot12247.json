@@ -1,0 +1,189 @@
+{
+  "id": "32ec8ffa-6514-44e7-9770-18f94f478648",
+  "index": 4215,
+  "period": 2,
+  "timestamp": "00:47:34.068",
+  "minute": 92,
+  "second": 34,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 167,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    118.1,
+    30.0
+  ],
+  "duration": 0.1136,
+  "related_events": [
+    "c7c77146-ea06-4b71-93f8-062dde07221d"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.06459336,
+    "end_location": [
+      119.3,
+      34.8,
+      1.0
+    ],
+    "key_pass_id": "911c3200-0e07-4b1a-8029-738afb5517c6",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          111.7,
+          35.8
+        ],
+        "player": {
+          "id": 4891,
+          "name": "Ibrahim Afellay"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.4,
+          28.2
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.9,
+          36.6
+        ],
+        "player": {
+          "id": 26479,
+          "name": "Koikili Lertxundi Del Campo"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.8,
+          39.6
+        ],
+        "player": {
+          "id": 25869,
+          "name": "David L\u00f3pez Moreno"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.1,
+          30.6
+        ],
+        "player": {
+          "id": 26031,
+          "name": "Andoni Iraola Sagarna"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.3,
+          29.1
+        ],
+        "player": {
+          "id": 26736,
+          "name": "Borja Ekiza Imaz"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.6,
+          33.6
+        ],
+        "player": {
+          "id": 26028,
+          "name": "Fernando Amorebieta Mardaras"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.6,
+          35.6
+        ],
+        "player": {
+          "id": 6576,
+          "name": "Gorka Iraizoz Moreno"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "id": "4ef3b70f-e410-41d9-9b7a-b6f0844772a6",
+  "index": 1527,
+  "period": 1,
+  "timestamp": "00:43:19.949",
+  "minute": 43,
+  "second": 19,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 95,
+  "possession_team": {
+    "id": 223,
+    "name": "M\u00e1laga"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 223,
+    "name": "M\u00e1laga"
+  },
+  "player": {
+    "id": 25882,
+    "name": "Edgar Patricio De Carvalho Pacheco"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    112.8,
+    44.8
+  ],
+  "duration": 0.51836,
+  "related_events": [
+    "ce7721ec-0663-4b36-8172-9a5f565a3a7f"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.20779166,
+    "end_location": [
+      120.0,
+      47.2,
+      2.1
+    ],
+    "key_pass_id": "2b97c0c5-d300-4c14-98f1-38654e5f77ca",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          111.5,
+          42.0
+        ],
+        "player": {
+          "id": 26246,
+          "name": "Salvador Ballesta Vialcho"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.6,
+          38.0
+        ],
+        "player": {
+          "id": 26461,
+          "name": "Pablo Gonz\u00e1lez Cou\u00f1ago"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.3,
+          41.3
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.6,
+          39.5
+        ],
+        "player": {
+          "id": 5558,
+          "name": "Rafael M\u00e1rquez \u00c1lvarez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.3,
+          42.9
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.8,
+          36.2
+        ],
+        "player": {
+          "id": 25910,
+          "name": "Jos\u00e9 Edm\u00edlson Gomes de Moraes"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

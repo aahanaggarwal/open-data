@@ -1,0 +1,143 @@
+{
+  "id": "f02395fc-24d8-4dde-9556-d665af8c3b70",
+  "index": 815,
+  "period": 1,
+  "timestamp": "00:22:52.933",
+  "minute": 22,
+  "second": 52,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 58,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 15743,
+    "name": "Henrik Larsson"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    113.2,
+    44.1
+  ],
+  "duration": 0.388002,
+  "related_events": [
+    "128f19cc-6613-40d9-a67a-20c4277df766"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.360348,
+    "end_location": [
+      120.0,
+      45.3,
+      0.7
+    ],
+    "key_pass_id": "fbb13849-b2c4-4c6f-89d0-c820c64a8d1c",
+    "technique": {
+      "id": 90,
+      "name": "Diving Header"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.7,
+          47.5
+        ],
+        "player": {
+          "id": 26069,
+          "name": "Luis Fern\u00e1ndez Guti\u00e9rrez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.2,
+          38.7
+        ],
+        "player": {
+          "id": 26484,
+          "name": "Antonio Baltasar Doblas Santana"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          32.9
+        ],
+        "player": {
+          "id": 26453,
+          "name": "Juan Alberto Andreu Alvarado"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.2,
+          41.0
+        ],
+        "player": {
+          "id": 20519,
+          "name": "Juan Guti\u00e9rrez Moreno"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          51.6
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

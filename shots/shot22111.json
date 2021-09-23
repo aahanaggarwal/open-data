@@ -1,0 +1,175 @@
+{
+  "id": "60fc695c-5101-49e7-910a-2c01d8edab53",
+  "index": 183,
+  "period": 1,
+  "timestamp": "00:04:43.612",
+  "minute": 4,
+  "second": 43,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 12,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 2,
+    "name": "From Corner"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19298,
+    "name": "Samuel Eto\"o Fils"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    110.2,
+    45.8
+  ],
+  "duration": 1.024304,
+  "under_pressure": true,
+  "related_events": [
+    "330a07e9-0a34-4de8-b846-6dd3f2ec46e6",
+    "918f7f15-3a83-4c24-80fc-05b326222d21"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.34007743,
+    "end_location": [
+      120.0,
+      43.0,
+      0.7
+    ],
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          112.1,
+          41.4
+        ],
+        "player": {
+          "id": 5216,
+          "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.2,
+          55.9
+        ],
+        "player": {
+          "id": 5558,
+          "name": "Rafael M\u00e1rquez \u00c1lvarez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.8,
+          44.3
+        ],
+        "player": {
+          "id": 25144,
+          "name": "Diego Alves Carreira"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.7,
+          51.4
+        ],
+        "player": {
+          "id": 26650,
+          "name": "Guilherme Oliveira Santos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.2,
+          40.0
+        ],
+        "player": {
+          "id": 26439,
+          "name": "Carlos Garc\u00eda Bad\u00edas"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          41.5
+        ],
+        "player": {
+          "id": 26494,
+          "name": "Hern\u00e1n Dar\u00edo Pellerano"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.7,
+          32.2
+        ],
+        "player": {
+          "id": 3095,
+          "name": "Bruno Saltor Grau"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "159f22a9-0240-4ca6-9e4c-8f2246ff9b83",
+  "index": 1471,
+  "period": 1,
+  "timestamp": "00:36:30.453",
+  "minute": 36,
+  "second": 30,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 85,
+  "possession_team": {
+    "id": 1210,
+    "name": "Japan Women's"
+  },
+  "play_pattern": {
+    "id": 5,
+    "name": "Other"
+  },
+  "team": {
+    "id": 1210,
+    "name": "Japan Women's"
+  },
+  "player": {
+    "id": 25637,
+    "name": "Yuika Sugasawa"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    108.1,
+    40.1
+  ],
+  "duration": 0.7383,
+  "related_events": [
+    "4e64dbb7-e106-4f10-900a-f5c3dede59b5"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.76,
+    "end_location": [
+      120.0,
+      43.1,
+      0.2
+    ],
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 88,
+      "name": "Penalty"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.5,
+          40.1
+        ],
+        "player": {
+          "id": 25570,
+          "name": "Lee Alexander"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

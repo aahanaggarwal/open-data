@@ -1,0 +1,203 @@
+{
+  "id": "302bcf92-6f54-4ca6-9d2e-bc6f5c25cae2",
+  "index": 2508,
+  "period": 2,
+  "timestamp": "00:10:16.483",
+  "minute": 55,
+  "second": 16,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 96,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5246,
+    "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    112.1,
+    40.2
+  ],
+  "duration": 0.540019,
+  "related_events": [
+    "dcb8a9d7-2c25-4f5c-9eff-abb6c3fa6b45"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.22121173,
+    "end_location": [
+      119.1,
+      39.4,
+      0.9
+    ],
+    "key_pass_id": "a330b802-a56c-4290-b73a-56cb4a2a4b7b",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          109.1,
+          42.3
+        ],
+        "player": {
+          "id": 6705,
+          "name": "Jos\u00e9 \u00c1ngel Vald\u00e9s D\u00edaz"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.3,
+          38.6
+        ],
+        "player": {
+          "id": 7907,
+          "name": "Pedro Bigas Rigo"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.1,
+          39.3
+        ],
+        "player": {
+          "id": 10763,
+          "name": "Asier Riesgo Unamuno"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.6,
+          28.5
+        ],
+        "player": {
+          "id": 6867,
+          "name": "Papa Kouly Diop"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.9,
+          20.4
+        ],
+        "player": {
+          "id": 6709,
+          "name": "Anaitz Arbilla Zabala"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.1,
+          28.7
+        ],
+        "player": {
+          "id": 6710,
+          "name": "Rub\u00e9n Pe\u00f1a Jim\u00e9nez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.2,
+          44.6
+        ],
+        "player": {
+          "id": 3501,
+          "name": "Philippe Coutinho Correia"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.6,
+          17.6
+        ],
+        "player": {
+          "id": 5211,
+          "name": "Jordi Alba Ramos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.7,
+          31.0
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

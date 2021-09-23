@@ -1,0 +1,144 @@
+{
+  "id": "7cbe768c-0885-4d47-96c2-31748df46827",
+  "index": 970,
+  "period": 1,
+  "timestamp": "00:27:39.854",
+  "minute": 27,
+  "second": 39,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 66,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5558,
+    "name": "Rafael M\u00e1rquez \u00c1lvarez"
+  },
+  "position": {
+    "id": 10,
+    "name": "Center Defensive Midfield"
+  },
+  "location": [
+    115.1,
+    31.7
+  ],
+  "duration": 0.685466,
+  "related_events": [
+    "a1a80979-24d1-4a3a-8906-2cc563d495c9"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.09599622,
+    "end_location": [
+      120.0,
+      35.7,
+      1.7
+    ],
+    "key_pass_id": "52b7356b-94b1-40ef-9de3-5b015011ac77",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.9,
+          36.6
+        ],
+        "player": {
+          "id": 26410,
+          "name": "Ronald Louis Gaspercic"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          27.9
+        ],
+        "player": {
+          "id": 25873,
+          "name": "Oleguer Presas Renom"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.2,
+          33.6
+        ],
+        "player": {
+          "id": 26411,
+          "name": "\u00d3scar Montiel Mar\u00edn"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.8,
+          41.5
+        ],
+        "player": {
+          "id": 26414,
+          "name": "Gustavo Lionel Siviero"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.9,
+          30.5
+        ],
+        "player": {
+          "id": 26412,
+          "name": "Pablo Redondo Mart\u00ednez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "2c3745b5-945d-4358-af19-a2c02771ad0b",
+  "index": 2686,
+  "period": 2,
+  "timestamp": "00:22:07.526",
+  "minute": 67,
+  "second": 7,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 152,
+  "possession_team": {
+    "id": 966,
+    "name": "Liverpool WFC"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 966,
+    "name": "Liverpool WFC"
+  },
+  "player": {
+    "id": 15611,
+    "name": "Courtney Sweetman-Kirk"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    118.0,
+    39.0
+  ],
+  "duration": 0.332892,
+  "related_events": [
+    "9e1c4155-0613-4e5c-b465-c6f7fb5fe586"
+  ],
+  "shot": {
+    "open_goal": true,
+    "statsbomb_xg": 0.60792613,
+    "end_location": [
+      120.0,
+      37.2,
+      1.0
+    ],
+    "key_pass_id": "280776e9-5dbf-4478-bb29-66251941bbd3",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          120.0,
+          41.0
+        ],
+        "player": {
+          "id": 15719,
+          "name": "Grace Moloney"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          43.0
+        ],
+        "player": {
+          "id": 15725,
+          "name": "Natasha Harding"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

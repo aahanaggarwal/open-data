@@ -1,0 +1,129 @@
+{
+  "id": "01620fa3-8456-4420-8a1f-d1dd1a47d9ef",
+  "index": 564,
+  "period": 1,
+  "timestamp": "00:12:42.894",
+  "minute": 12,
+  "second": 42,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 28,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19298,
+    "name": "Samuel Eto\"o Fils"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    117.1,
+    25.0
+  ],
+  "duration": 0.7332,
+  "related_events": [
+    "098510ce-fb22-4160-8e41-ace1e1b9d4a7"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.028816992,
+    "end_location": [
+      120.0,
+      41.8,
+      4.2
+    ],
+    "key_pass_id": "9c3ed5b4-cbb6-4595-88dd-d6e4eb635cf1",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          107.5,
+          37.8
+        ],
+        "player": {
+          "id": 25973,
+          "name": "Mat\u00edas Emanuel Lequi"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.5,
+          25.6
+        ],
+        "player": {
+          "id": 26007,
+          "name": "Pablo Andr\u00e9s Contreras Fica"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.1,
+          19.7
+        ],
+        "player": {
+          "id": 26008,
+          "name": "George Lucas Coser"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.6,
+          36.3
+        ],
+        "player": {
+          "id": 26005,
+          "name": "Jos\u00e9 Manuel Pinto Colorado"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

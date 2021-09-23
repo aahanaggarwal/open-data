@@ -1,0 +1,83 @@
+{
+  "id": "202048f0-79da-43cb-bec7-22a12e6b5725",
+  "index": 1324,
+  "period": 1,
+  "timestamp": "00:30:03.191",
+  "minute": 30,
+  "second": 3,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 61,
+  "possession_team": {
+    "id": 1043,
+    "name": "Mallorca"
+  },
+  "play_pattern": {
+    "id": 5,
+    "name": "Other"
+  },
+  "team": {
+    "id": 1043,
+    "name": "Mallorca"
+  },
+  "player": {
+    "id": 25997,
+    "name": "Jon\u00e1s Manuel Guti\u00e9rrez"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    108.1,
+    40.1
+  ],
+  "duration": 0.677,
+  "related_events": [
+    "d6e89429-75a1-49b3-8b26-66f5a0e0a777"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.76,
+    "end_location": [
+      118.8,
+      38.1,
+      0.3
+    ],
+    "type": {
+      "id": 88,
+      "name": "Penalty"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.9,
+          39.8
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

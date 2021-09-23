@@ -1,0 +1,188 @@
+{
+  "id": "1ccc84e8-49ad-4c8e-bcf3-45fb130d9b6d",
+  "index": 3177,
+  "period": 2,
+  "timestamp": "00:45:23.209",
+  "minute": 90,
+  "second": 23,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 181,
+  "possession_team": {
+    "id": 216,
+    "name": "Getafe"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 216,
+    "name": "Getafe"
+  },
+  "player": {
+    "id": 26425,
+    "name": "Juan \u00c1ngel Alb\u00edn Leites"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    109.6,
+    32.2
+  ],
+  "duration": 1.159556,
+  "related_events": [
+    "8fab6f69-5f8a-4195-895a-217c345fd6fe"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.175614,
+    "end_location": [
+      120.0,
+      43.7,
+      0.4
+    ],
+    "key_pass_id": "e0323787-79e3-490d-a58d-76a43188a6a2",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          100.3,
+          54.0
+        ],
+        "player": {
+          "id": 3087,
+          "name": "Gn\u00e9gn\u00e9ri Yaya Tour\u00e9"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.2,
+          63.8
+        ],
+        "player": {
+          "id": 6770,
+          "name": "Esteban F\u00e9lix Granero Molina"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          98.3,
+          44.3
+        ],
+        "player": {
+          "id": 26144,
+          "name": "Francisco Javier Casquero Paredes"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.9,
+          46.3
+        ],
+        "player": {
+          "id": 25919,
+          "name": "Gabriel Alejandro Milito"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.8,
+          47.1
+        ],
+        "player": {
+          "id": 23930,
+          "name": "Ikechukwu Uche"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.2,
+          42.9
+        ],
+        "player": {
+          "id": 20177,
+          "name": "Eric-Sylvain Bilal Abidal"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.9,
+          33.9
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.1,
+          36.2
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

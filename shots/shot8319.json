@@ -1,0 +1,203 @@
+{
+  "id": "170e1945-cc07-47c3-8c4a-7726dafef221",
+  "index": 1685,
+  "period": 1,
+  "timestamp": "00:45:22.976",
+  "minute": 45,
+  "second": 22,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 104,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5216,
+    "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    111.2,
+    51.1
+  ],
+  "duration": 0.4111,
+  "related_events": [
+    "383f9b2f-0d30-400b-8d5e-56a2873a7180"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.21997736,
+    "end_location": [
+      120.0,
+      43.8,
+      1.9
+    ],
+    "key_pass_id": "67868092-e4f2-4a7d-90f1-050295795100",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 99,
+      "name": "Post"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.4,
+          37.6
+        ],
+        "player": {
+          "id": 26068,
+          "name": "Rub\u00e9n Gonz\u00e1lez Rocha"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.1,
+          38.8
+        ],
+        "player": {
+          "id": 25889,
+          "name": "Pablo Pinillos Caro"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          49.1
+        ],
+        "player": {
+          "id": 26067,
+          "name": "Oriol Lozano Farr\u00e1n"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.1,
+          43.2
+        ],
+        "player": {
+          "id": 6891,
+          "name": "Ezequiel Marcelo Garay"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.1,
+          38.6
+        ],
+        "player": {
+          "id": 26071,
+          "name": "V\u00edctor Javier A\u00f1ino Berm\u00fadez"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.7,
+          43.5
+        ],
+        "player": {
+          "id": 25870,
+          "name": "Juan Jes\u00fas Calatayud S\u00e1nchez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.4,
+          27.7
+        ],
+        "player": {
+          "id": 25962,
+          "name": "Javier Pedro Saviola Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.6,
+          40.6
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.0,
+          35.6
+        ],
+        "player": {
+          "id": 25879,
+          "name": "Ronaldo de Assis Moreira"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "id": "b06dc7e0-278d-49fa-8708-86078538eed9",
+  "index": 3696,
+  "period": 2,
+  "timestamp": "00:46:53.653",
+  "minute": 91,
+  "second": 53,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 251,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 19312,
+    "name": "Robert Pir\u00e8s "
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    113.6,
+    42.9
+  ],
+  "duration": 0.076267,
+  "related_events": [
+    "1b93ac0a-4905-448f-b6ab-c75c171f5ba0",
+    "8da1749b-6065-452f-8c02-2e0dbffb41a3"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.56204,
+    "end_location": [
+      114.1,
+      42.4
+    ],
+    "key_pass_id": "a5b3cef0-5db1-4f67-b2ee-c14e1433269c",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          97.2,
+          26.5
+        ],
+        "player": {
+          "id": 40355,
+          "name": "Andy Todd"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.6,
+          41.6
+        ],
+        "player": {
+          "id": 40354,
+          "name": "Lucas Neill"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.1,
+          29.1
+        ],
+        "player": {
+          "id": 40356,
+          "name": "Craig Short"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          120.0,
+          41.3
+        ],
+        "player": {
+          "id": 38464,
+          "name": "Brad Friedel"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

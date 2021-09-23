@@ -1,0 +1,189 @@
+{
+  "id": "0b4ef883-910e-4488-b9ea-7536d08a780c",
+  "index": 2600,
+  "period": 2,
+  "timestamp": "00:21:48.666",
+  "minute": 66,
+  "second": 48,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 151,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 12737,
+    "name": "David Villa S\u00e1nchez"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    111.0,
+    56.4
+  ],
+  "duration": 0.137795,
+  "related_events": [
+    "875af15a-941b-4665-8c24-f598a17b7bdc",
+    "e7218a9e-007c-4abb-932f-1ecb5c6a5520"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.031939015,
+    "end_location": [
+      112.9,
+      52.9
+    ],
+    "key_pass_id": "0882630d-ba9d-4a0d-979c-5467cbb9e204",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          93.2,
+          57.3
+        ],
+        "player": {
+          "id": 26502,
+          "name": "Paulo Assun\u00e7\u00e3o da Silva"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.3,
+          40.9
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.7,
+          45.7
+        ],
+        "player": {
+          "id": 5216,
+          "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.3,
+          46.4
+        ],
+        "player": {
+          "id": 5249,
+          "name": "Diego Roberto God\u00edn Leal"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.1,
+          38.6
+        ],
+        "player": {
+          "id": 19731,
+          "name": "Tom\u00e1\u0161 Ujfalu\u0161i"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.4,
+          44.8
+        ],
+        "player": {
+          "id": 26120,
+          "name": "Luis Amaranto Perea Mosquera"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.7,
+          42.6
+        ],
+        "player": {
+          "id": 3333,
+          "name": "David de Gea Quintana"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.7,
+          52.8
+        ],
+        "player": {
+          "id": 26677,
+          "name": "\u00c1lvaro Dom\u00ednguez Soto"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

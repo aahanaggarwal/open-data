@@ -1,0 +1,205 @@
+{
+  "id": "4b7a9ff4-23c5-460f-af05-5a5e79e5f939",
+  "index": 804,
+  "period": 1,
+  "timestamp": "00:20:05.126",
+  "minute": 20,
+  "second": 5,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 42,
+  "possession_team": {
+    "id": 395,
+    "name": "Real Zaragoza"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 395,
+    "name": "Real Zaragoza"
+  },
+  "player": {
+    "id": 25410,
+    "name": "Andr\u00e9s Nicol\u00e1s D\"Alessandro"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    102.5,
+    46.5
+  ],
+  "duration": 0.535144,
+  "under_pressure": true,
+  "related_events": [
+    "144aac0a-0a9b-4be3-aa52-62bae3933d2e",
+    "61026c44-1325-4c6b-8b19-d13c9a508a1d",
+    "d1bd033b-e0b2-454e-ae98-d570ca33f385"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.0590893,
+    "end_location": [
+      105.9,
+      45.5
+    ],
+    "key_pass_id": "6b87fb16-69b9-42ff-bf33-2ac28a17daf4",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.6,
+          27.9
+        ],
+        "player": {
+          "id": 19294,
+          "name": "Diego Alberto Milito"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.3,
+          38.2
+        ],
+        "player": {
+          "id": 25916,
+          "name": "Ewerthon Henrique de Souza"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.4,
+          41.5
+        ],
+        "player": {
+          "id": 26024,
+          "name": "Pablo C\u00e9sar Aimar Giordano"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.9,
+          40.6
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          34.4
+        ],
+        "player": {
+          "id": 15774,
+          "name": "Gianluca Zambrotta"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          46.3
+        ],
+        "player": {
+          "id": 5558,
+          "name": "Rafael M\u00e1rquez \u00c1lvarez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.8,
+          40.1
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          47.7
+        ],
+        "player": {
+          "id": 25910,
+          "name": "Jos\u00e9 Edm\u00edlson Gomes de Moraes"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.9,
+          45.4
+        ],
+        "player": {
+          "id": 25854,
+          "name": "Sylvio Mendes Campos Junior"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

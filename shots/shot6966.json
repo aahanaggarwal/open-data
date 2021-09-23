@@ -1,0 +1,251 @@
+{
+  "id": "9498e576-50d4-4b0b-9979-da3e21bad980",
+  "index": 3405,
+  "period": 2,
+  "timestamp": "00:22:29.481",
+  "minute": 67,
+  "second": 29,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 149,
+  "possession_team": {
+    "id": 901,
+    "name": "Real Valladolid"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 901,
+    "name": "Real Valladolid"
+  },
+  "player": {
+    "id": 17027,
+    "name": "Sergio Guardiola Navarro"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    107.6,
+    57.1
+  ],
+  "duration": 0.136705,
+  "under_pressure": true,
+  "related_events": [
+    "16596366-5f71-463a-9d6d-017fb09507ff",
+    "46400fe0-72ad-46c9-b438-8468710adb53",
+    "d4746f22-524a-4dbe-8eb1-096c5885d779",
+    "f196570b-9701-43d5-859a-f10440ab47bc"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.02112873,
+    "end_location": [
+      108.3,
+      55.9
+    ],
+    "key_pass_id": "60eabe8c-4360-417f-b1a2-821fc2dea8f3",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.7,
+          55.5
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.2,
+          56.7
+        ],
+        "player": {
+          "id": 8206,
+          "name": "Arturo Erasmo Vidal Pardo"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.1,
+          60.5
+        ],
+        "player": {
+          "id": 5211,
+          "name": "Jordi Alba Ramos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.1,
+          39.7
+        ],
+        "player": {
+          "id": 6379,
+          "name": "Sergi Roberto Carnicer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.3,
+          47.5
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.6,
+          46.0
+        ],
+        "player": {
+          "id": 6332,
+          "name": "Thomas Vermaelen"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          88.6,
+          31.1
+        ],
+        "player": {
+          "id": 13599,
+          "name": "Carles Ale\u00f1a Castillo"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.6,
+          42.8
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.2,
+          50.6
+        ],
+        "player": {
+          "id": 6760,
+          "name": "Enes \u00dcnal"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          84.9,
+          65.2
+        ],
+        "player": {
+          "id": 18164,
+          "name": "Antonio Jes\u00fas Regal Angulo"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          95.4,
+          27.1
+        ],
+        "player": {
+          "id": 11298,
+          "name": "Jos\u00e9 Ignacio Mart\u00ednez Garc\u00eda"
+        },
+        "position": {
+          "id": 8,
+          "name": "Left Wing Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          93.6,
+          43.8
+        ],
+        "player": {
+          "id": 11291,
+          "name": "Laureano Antonio Villa Su\u00e1rez"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "id": "c09e4716-5b12-4f02-a8cd-26a6736e67ef",
+  "index": 2530,
+  "period": 2,
+  "timestamp": "00:14:17.275",
+  "minute": 59,
+  "second": 17,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 146,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15512,
+    "name": "Sylvain Wiltord"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    115.4,
+    39.7
+  ],
+  "duration": 0.383921,
+  "related_events": [
+    "c01e2eff-bb67-405f-ae17-1ea7cecf6b03"
+  ],
+  "shot": {
+    "open_goal": true,
+    "statsbomb_xg": 0.90684265,
+    "end_location": [
+      120.0,
+      43.8,
+      2.4
+    ],
+    "key_pass_id": "e6656276-bb6f-43c3-8626-49d101d4e2e0",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.6,
+          41.0
+        ],
+        "player": {
+          "id": 40330,
+          "name": "Chris Riggott"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.4,
+          46.5
+        ],
+        "player": {
+          "id": 40404,
+          "name": "Alan Wright"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.4,
+          45.0
+        ],
+        "player": {
+          "id": 40322,
+          "name": "Mark Schwarzer"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.4,
+          47.3
+        ],
+        "player": {
+          "id": 15754,
+          "name": "Fredrik Ljungberg"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.9,
+          50.5
+        ],
+        "player": {
+          "id": 19312,
+          "name": "Robert Pir\u00e8s "
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

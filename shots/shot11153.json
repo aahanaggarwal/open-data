@@ -1,0 +1,191 @@
+{
+  "id": "9b327d60-7694-43db-8d3e-ac950b1b761b",
+  "index": 3518,
+  "period": 2,
+  "timestamp": "00:41:13.598",
+  "minute": 86,
+  "second": 13,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 209,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    108.6,
+    52.8
+  ],
+  "duration": 0.512632,
+  "under_pressure": true,
+  "related_events": [
+    "89a905e5-f6ca-4f50-b8b7-f7e1a239370c",
+    "d3a0e012-d313-498c-a9b2-6dfcdd9ba8dd"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.101212285,
+    "end_location": [
+      117.5,
+      42.6,
+      0.6
+    ],
+    "key_pass_id": "4ce6e083-a867-4ef6-8f8c-6fee9d5f641f",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.9,
+          29.3
+        ],
+        "player": {
+          "id": 40354,
+          "name": "Lucas Neill"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.5,
+          42.0
+        ],
+        "player": {
+          "id": 40397,
+          "name": "Martin Andresen"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.7,
+          39.6
+        ],
+        "player": {
+          "id": 40356,
+          "name": "Craig Short"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.6,
+          49.3
+        ],
+        "player": {
+          "id": 40353,
+          "name": "Vratislav Gre\u0161ko"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          42.5
+        ],
+        "player": {
+          "id": 38464,
+          "name": "Brad Friedel"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.5,
+          28.6
+        ],
+        "player": {
+          "id": 19312,
+          "name": "Robert Pir\u00e8s "
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.0,
+          38.2
+        ],
+        "player": {
+          "id": 15515,
+          "name": "Patrick Vieira"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.2,
+          39.3
+        ],
+        "player": {
+          "id": 26014,
+          "name": "Eduardo C\u00e9sar Daude Gaspar"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "id": "21a8a2b8-09a3-40cb-9c35-c199eded69b4",
+  "index": 1139,
+  "period": 1,
+  "timestamp": "00:32:17.194",
+  "minute": 32,
+  "second": 17,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 78,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19298,
+    "name": "Samuel Eto\"o Fils"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    109.4,
+    28.9
+  ],
+  "duration": 0.2458,
+  "related_events": [
+    "23102aac-7b6b-4325-aaee-90184004d0ec",
+    "9d5ad759-ea5d-44e7-93eb-86e03162839c"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.1635488,
+    "end_location": [
+      111.7,
+      32.2
+    ],
+    "key_pass_id": "da04ee75-57d5-45d4-834f-84796f0b4097",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.8,
+          28.1
+        ],
+        "player": {
+          "id": 20519,
+          "name": "Juan Guti\u00e9rrez Moreno"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.3,
+          32.9
+        ],
+        "player": {
+          "id": 26453,
+          "name": "Juan Alberto Andreu Alvarado"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.6,
+          41.1
+        ],
+        "player": {
+          "id": 26069,
+          "name": "Luis Fern\u00e1ndez Guti\u00e9rrez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.2,
+          42.2
+        ],
+        "player": {
+          "id": 15743,
+          "name": "Henrik Larsson"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          116.3,
+          36.6
+        ],
+        "player": {
+          "id": 26484,
+          "name": "Antonio Baltasar Doblas Santana"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

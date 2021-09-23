@@ -1,0 +1,116 @@
+{
+  "id": "3fce803e-6a50-4d4e-aa29-aa554a008a10",
+  "index": 2248,
+  "period": 2,
+  "timestamp": "00:10:15.286",
+  "minute": 55,
+  "second": 15,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 142,
+  "possession_team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "player": {
+    "id": 5055,
+    "name": "Lynn Williams"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    101.6,
+    27.8
+  ],
+  "duration": 0.90102,
+  "under_pressure": true,
+  "related_events": [
+    "0ba6459d-58a4-4b6e-a5cc-c9f8bef15588",
+    "220da670-a798-4cc3-aa63-05bbb6f3d191"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.08429079,
+    "end_location": [
+      113.9,
+      36.9,
+      0.2
+    ],
+    "key_pass_id": "cf2c6c10-fd85-4096-a58b-1612524f8f1c",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          101.3,
+          28.6
+        ],
+        "player": {
+          "id": 5045,
+          "name": "Amber Brooks"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.6,
+          23.1
+        ],
+        "player": {
+          "id": 8382,
+          "name": "Clare Polkinghorne"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.2,
+          37.1
+        ],
+        "player": {
+          "id": 5056,
+          "name": "Jane Campbell"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

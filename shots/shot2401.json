@@ -1,0 +1,159 @@
+{
+  "id": "84db8232-9c12-4980-a6cc-734d1213aa02",
+  "index": 2219,
+  "period": 2,
+  "timestamp": "00:17:03.861",
+  "minute": 62,
+  "second": 3,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 145,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 2,
+    "name": "From Corner"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 38412,
+    "name": "Kolo Habib Tour\u00e9"
+  },
+  "position": {
+    "id": 3,
+    "name": "Right Center Back"
+  },
+  "location": [
+    117.6,
+    39.3
+  ],
+  "duration": 0.35584,
+  "related_events": [
+    "e5aa997a-2cce-40bd-b411-8016f54ede02"
+  ],
+  "shot": {
+    "open_goal": true,
+    "statsbomb_xg": 0.7232792,
+    "end_location": [
+      120.0,
+      39.4,
+      1.0
+    ],
+    "key_pass_id": "585efd19-ad04-45ca-9c28-d99a4a141fba",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.1,
+          31.1
+        ],
+        "player": {
+          "id": 40314,
+          "name": "Jody Craddock"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.4,
+          40.8
+        ],
+        "player": {
+          "id": 15637,
+          "name": "Sulzeer Jeremiah \"Sol\" Campbell"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          120.0,
+          30.3
+        ],
+        "player": {
+          "id": 15515,
+          "name": "Patrick Vieira"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.2,
+          41.8
+        ],
+        "player": {
+          "id": 40312,
+          "name": "Paul Butler"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.9,
+          38.4
+        ],
+        "player": {
+          "id": 40320,
+          "name": "Carl Cort"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.4,
+          36.4
+        ],
+        "player": {
+          "id": 40319,
+          "name": "Paul Jones"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

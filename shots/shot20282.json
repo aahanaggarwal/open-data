@@ -1,0 +1,188 @@
+{
+  "id": "e32e91d7-4fff-47d2-ac4a-9b4298fc8d6b",
+  "index": 1027,
+  "period": 1,
+  "timestamp": "00:25:57.286",
+  "minute": 25,
+  "second": 57,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 39,
+  "possession_team": {
+    "id": 218,
+    "name": "Real Betis"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 218,
+    "name": "Real Betis"
+  },
+  "player": {
+    "id": 2948,
+    "name": "Nabil Fekir"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    102.1,
+    31.9
+  ],
+  "duration": 0.726185,
+  "related_events": [
+    "c6d29e7d-d19e-4c6e-b01e-d4c47a47715d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.12249276,
+    "end_location": [
+      120.0,
+      43.4,
+      0.2
+    ],
+    "key_pass_id": "a386fb8e-9497-459c-b28a-3ad98f6eae01",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          99.8,
+          32.8
+        ],
+        "player": {
+          "id": 6374,
+          "name": "N\u00e9lson Cabral Semedo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.0,
+          40.8
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          86.9,
+          58.6
+        ],
+        "player": {
+          "id": 17304,
+          "name": "H\u00e9ctor Junior Firpo Adames"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.2,
+          34.5
+        ],
+        "player": {
+          "id": 5492,
+          "name": "Samuel Yves Umtiti"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.8,
+          40.9
+        ],
+        "player": {
+          "id": 6826,
+          "name": "Cl\u00e9ment Lenglet"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.1,
+          37.7
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.6,
+          52.6
+        ],
+        "player": {
+          "id": 11391,
+          "name": "Borja Iglesias Quintas"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          96.3,
+          40.5
+        ],
+        "player": {
+          "id": 26404,
+          "name": "Guido Rodr\u00edguez"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

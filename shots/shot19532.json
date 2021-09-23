@@ -1,0 +1,143 @@
+{
+  "id": "220eb683-e3fd-45b0-84c4-917714f6665d",
+  "index": 3499,
+  "period": 2,
+  "timestamp": "00:47:03.545",
+  "minute": 92,
+  "second": 3,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 189,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    96.3,
+    39.8
+  ],
+  "duration": 1.460673,
+  "related_events": [
+    "ea3f423c-fc0f-438f-8837-68e5544cf045"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.19153312,
+    "end_location": [
+      120.0,
+      38.2,
+      4.4
+    ],
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.3,
+          45.8
+        ],
+        "player": {
+          "id": 4913,
+          "name": "Bojan Krk\u00edc P\u00e9rez"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.5,
+          45.4
+        ],
+        "player": {
+          "id": 20519,
+          "name": "Juan Guti\u00e9rrez Moreno"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.9,
+          39.5
+        ],
+        "player": {
+          "id": 26464,
+          "name": "Arturo Garc\u00eda Mu\u00f1oz"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.0,
+          27.2
+        ],
+        "player": {
+          "id": 20023,
+          "name": "Marco Aur\u00e9lio Brito Dos Prazeres"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.7,
+          39.1
+        ],
+        "player": {
+          "id": 23815,
+          "name": "Casto Espinosa Barriga"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

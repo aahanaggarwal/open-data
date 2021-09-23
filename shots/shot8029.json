@@ -1,0 +1,191 @@
+{
+  "id": "e71939c7-1eca-4d85-8db1-dfb0c273b179",
+  "index": 3118,
+  "period": 2,
+  "timestamp": "00:27:42.215",
+  "minute": 72,
+  "second": 42,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 153,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5216,
+    "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    102.4,
+    44.1
+  ],
+  "duration": 0.528,
+  "under_pressure": true,
+  "related_events": [
+    "97f62b7b-fe2b-45fd-88dd-53698e067058",
+    "aba037e6-9228-4081-bd3c-6282d7178596"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.12646826,
+    "end_location": [
+      117.9,
+      43.3,
+      1.1
+    ],
+    "key_pass_id": "8464e2e0-c000-494b-bafd-4629ba6dd878",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          114.0,
+          58.1
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.4,
+          40.9
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.5,
+          63.9
+        ],
+        "player": {
+          "id": 26436,
+          "name": "Jos\u00e9 Manuel Jim\u00e9nez Ortiz"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.1,
+          60.5
+        ],
+        "player": {
+          "id": 24614,
+          "name": "Rafael L\u00f3pez G\u00f3mez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.4,
+          56.3
+        ],
+        "player": {
+          "id": 26496,
+          "name": "Daniel Alberto D\u00edaz"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.4,
+          51.4
+        ],
+        "player": {
+          "id": 26684,
+          "name": "Derek Owusu Boateng"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.8,
+          41.7
+        ],
+        "player": {
+          "id": 26722,
+          "name": "Pablo C\u00e9sar Pintos Cabral"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.5,
+          41.9
+        ],
+        "player": {
+          "id": 26686,
+          "name": "Jordi Codina Rodr\u00edguez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

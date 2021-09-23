@@ -1,0 +1,160 @@
+{
+  "id": "4034cbc1-99b5-466b-bc7d-401443d186de",
+  "index": 813,
+  "period": 1,
+  "timestamp": "00:20:21.617",
+  "minute": 20,
+  "second": 21,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 45,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19298,
+    "name": "Samuel Eto\"o Fils"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    114.3,
+    43.1
+  ],
+  "duration": 0.756169,
+  "related_events": [
+    "57e62951-d1f0-4256-afcc-c650683d095d"
+  ],
+  "shot": {
+    "open_goal": true,
+    "statsbomb_xg": 0.9108048,
+    "end_location": [
+      120.0,
+      40.9,
+      0.2
+    ],
+    "key_pass_id": "551ba059-2229-423c-b9df-d76d14d297b5",
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          111.9,
+          38.8
+        ],
+        "player": {
+          "id": 25144,
+          "name": "Diego Alves Carreira"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.5,
+          46.8
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.8,
+          34.8
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.3,
+          48.4
+        ],
+        "player": {
+          "id": 26650,
+          "name": "Guilherme Oliveira Santos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.1,
+          39.8
+        ],
+        "player": {
+          "id": 26494,
+          "name": "Hern\u00e1n Dar\u00edo Pellerano"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.7,
+          37.8
+        ],
+        "player": {
+          "id": 26663,
+          "name": "Julio \u00c1lvarez Mosquera"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

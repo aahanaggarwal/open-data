@@ -1,0 +1,128 @@
+{
+  "id": "b24a7935-ee59-48bf-8a31-9065ca4204d1",
+  "index": 310,
+  "period": 1,
+  "timestamp": "00:07:59.244",
+  "minute": 7,
+  "second": 59,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 18,
+  "possession_team": {
+    "id": 322,
+    "name": "Eibar"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5246,
+    "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    105.5,
+    41.1
+  ],
+  "duration": 0.737606,
+  "related_events": [
+    "6e0cfc03-6bd8-4aaf-a45b-9e1791e4bc23"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.49772942,
+    "end_location": [
+      120.0,
+      34.6,
+      0.4
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.6,
+          39.9
+        ],
+        "player": {
+          "id": 6709,
+          "name": "Anaitz Arbilla Zabala"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.5,
+          56.5
+        ],
+        "player": {
+          "id": 3093,
+          "name": "Florian Lejeune"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.9,
+          40.5
+        ],
+        "player": {
+          "id": 10612,
+          "name": "Yoel Rodr\u00edguez Oterino"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          88.4,
+          24.2
+        ],
+        "player": {
+          "id": 4320,
+          "name": "Neymar da Silva Santos Junior"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

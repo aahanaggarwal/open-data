@@ -1,0 +1,172 @@
+{
+  "id": "5483ebc9-fb95-44e8-96f4-c921b52488cf",
+  "index": 2437,
+  "period": 2,
+  "timestamp": "00:21:23.259",
+  "minute": 66,
+  "second": 23,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 129,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 6400,
+    "name": "Aleix Vidal Parreu"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    106.4,
+    30.5
+  ],
+  "duration": 1.0643,
+  "related_events": [
+    "858b7615-977e-4730-918a-820b4e6a2335"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.12328159,
+    "end_location": [
+      120.0,
+      43.0,
+      0.5
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.7,
+          33.1
+        ],
+        "player": {
+          "id": 6877,
+          "name": "Yeray \u00c1lvarez L\u00f3pez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.9,
+          32.6
+        ],
+        "player": {
+          "id": 6649,
+          "name": "\u00d3scar de Marcos Arana"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.1,
+          42.6
+        ],
+        "player": {
+          "id": 4353,
+          "name": "Aymeric Laporte"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.3,
+          46.3
+        ],
+        "player": {
+          "id": 6789,
+          "name": "Mikel Balenziaga Oruesagasti"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.9,
+          38.0
+        ],
+        "player": {
+          "id": 4320,
+          "name": "Neymar da Silva Santos Junior"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.9,
+          46.3
+        ],
+        "player": {
+          "id": 6402,
+          "name": "Francisco Alc\u00e1cer Garc\u00eda"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.3,
+          38.4
+        ],
+        "player": {
+          "id": 6576,
+          "name": "Gorka Iraizoz Moreno"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

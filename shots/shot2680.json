@@ -1,0 +1,173 @@
+{
+  "id": "49dcfb1f-dc5b-438f-8db7-9b5afa7f86a6",
+  "index": 815,
+  "period": 1,
+  "timestamp": "00:19:42.002",
+  "minute": 19,
+  "second": 42,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 42,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    107.7,
+    26.4
+  ],
+  "duration": 0.613975,
+  "related_events": [
+    "72fa4aa1-4533-4023-b153-28141e0a4e55"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.04227377,
+    "end_location": [
+      120.0,
+      43.8,
+      0.2
+    ],
+    "key_pass_id": "fc84b844-3cd7-42cc-88ab-466b6f486078",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          109.4,
+          27.4
+        ],
+        "player": {
+          "id": 26222,
+          "name": "Jos\u00e9 Eduardo Rosa Vale e Castro"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.2,
+          36.4
+        ],
+        "player": {
+          "id": 26197,
+          "name": "Christian Abbiati"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.9,
+          36.3
+        ],
+        "player": {
+          "id": 26057,
+          "name": "Mariano Andr\u00e9s Pern\u00eda"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.5,
+          41.4
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.6,
+          49.4
+        ],
+        "player": {
+          "id": 19765,
+          "name": "Sim\u00e3o Pedro Fonseca Sabrosa"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.3,
+          25.0
+        ],
+        "player": {
+          "id": 23816,
+          "name": "Jos\u00e9 Antonio Reyes Calder\u00f3n"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          29.1
+        ],
+        "player": {
+          "id": 26117,
+          "name": "Pablo Ib\u00e1\u00f1ez T\u00e9bar"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

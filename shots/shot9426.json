@@ -1,0 +1,159 @@
+{
+  "id": "e9361687-6b0e-4e58-adca-e35d2e750244",
+  "index": 745,
+  "period": 1,
+  "timestamp": "00:14:49.109",
+  "minute": 14,
+  "second": 49,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 32,
+  "possession_team": {
+    "id": 206,
+    "name": "Deportivo Alav\u00e9s"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 206,
+    "name": "Deportivo Alav\u00e9s"
+  },
+  "player": {
+    "id": 6617,
+    "name": "Ibai G\u00f3mez P\u00e9rez"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    107.3,
+    27.9
+  ],
+  "duration": 0.342239,
+  "related_events": [
+    "4c2e62f8-c458-4078-976e-f64d71c49162"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.21652165,
+    "end_location": [
+      108.3,
+      28.9,
+      0.4
+    ],
+    "key_pass_id": "2f0a78f4-7c0a-48b0-a8e0-7843595baae4",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.1,
+          58.2
+        ],
+        "player": {
+          "id": 6838,
+          "name": "Hern\u00e1n Arsenio P\u00e9rez Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.7,
+          57.1
+        ],
+        "player": {
+          "id": 6374,
+          "name": "N\u00e9lson Cabral Semedo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          43.7
+        ],
+        "player": {
+          "id": 6849,
+          "name": "Lucas Digne"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.3,
+          40.8
+        ],
+        "player": {
+          "id": 6613,
+          "name": "Rub\u00e9n Sobrino Pozuelo"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.2,
+          40.8
+        ],
+        "player": {
+          "id": 5470,
+          "name": "Ivan Rakiti\u0107"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          29.4
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

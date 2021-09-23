@@ -1,0 +1,174 @@
+{
+  "id": "510b7587-f306-45c9-9fbe-6e5f887286ad",
+  "index": 3189,
+  "period": 2,
+  "timestamp": "00:37:43.588",
+  "minute": 82,
+  "second": 43,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 189,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    112.8,
+    27.0
+  ],
+  "duration": 0.2631,
+  "related_events": [
+    "785a5484-0ae1-442f-b4b4-52301624147f"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.12060426,
+    "end_location": [
+      113.7,
+      28.6,
+      0.5
+    ],
+    "key_pass_id": "049a8836-56e5-4ee0-ac56-035de3e671a2",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.8,
+          29.0
+        ],
+        "player": {
+          "id": 26627,
+          "name": "Sergio Aragoneses Almeida"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.4,
+          28.6
+        ],
+        "player": {
+          "id": 26631,
+          "name": "Ezequiel Luna"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.9,
+          32.2
+        ],
+        "player": {
+          "id": 26626,
+          "name": "Ricardo Le\u00f3n Brito"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.7,
+          36.8
+        ],
+        "player": {
+          "id": 26630,
+          "name": "Pablo Sicilia Roig"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.2,
+          44.6
+        ],
+        "player": {
+          "id": 23793,
+          "name": "Carlos Bellv\u00eds LLorens"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.1,
+          38.4
+        ],
+        "player": {
+          "id": 25888,
+          "name": "Jose Antonio Culebras Arenas"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.9,
+          36.6
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

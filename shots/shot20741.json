@@ -1,0 +1,188 @@
+{
+  "id": "4b9b495e-3f49-4a01-931b-84b21818ba9f",
+  "index": 1010,
+  "period": 1,
+  "timestamp": "00:19:41.884",
+  "minute": 19,
+  "second": 41,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 45,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    104.2,
+    29.5
+  ],
+  "duration": 0.123,
+  "related_events": [
+    "41f083c4-e1c4-4c6a-ba11-3091d08953b4",
+    "e3e5ac3f-3a35-4fdf-95a5-6b6b010f50d8"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.02833785,
+    "end_location": [
+      105.8,
+      30.2
+    ],
+    "key_pass_id": "54240f32-ebd0-4fce-8132-f2d09d66ef60",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.4,
+          36.7
+        ],
+        "player": {
+          "id": 6576,
+          "name": "Gorka Iraizoz Moreno"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.6,
+          45.2
+        ],
+        "player": {
+          "id": 26624,
+          "name": "Jeffren Isaac Su\u00e1rez Berm\u00fadez"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.1,
+          24.7
+        ],
+        "player": {
+          "id": 4913,
+          "name": "Bojan Krk\u00edc P\u00e9rez"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          96.6,
+          26.0
+        ],
+        "player": {
+          "id": 26031,
+          "name": "Andoni Iraola Sagarna"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.2,
+          40.0
+        ],
+        "player": {
+          "id": 26479,
+          "name": "Koikili Lertxundi Del Campo"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.3,
+          36.9
+        ],
+        "player": {
+          "id": 26028,
+          "name": "Fernando Amorebieta Mardaras"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.9,
+          30.9
+        ],
+        "player": {
+          "id": 6389,
+          "name": "Mikel San Jos\u00e9 Dom\u00ednguez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.1,
+          30.1
+        ],
+        "player": {
+          "id": 9399,
+          "name": "Javier Mart\u00ednez Aginaga"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

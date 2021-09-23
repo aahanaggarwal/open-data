@@ -1,0 +1,187 @@
+{
+  "id": "0468a6ab-5e7c-4e72-aaac-5431016ce9db",
+  "index": 553,
+  "period": 1,
+  "timestamp": "00:16:45.882",
+  "minute": 16,
+  "second": 45,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 42,
+  "possession_team": {
+    "id": 765,
+    "name": "Portland Thorns"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 765,
+    "name": "Portland Thorns"
+  },
+  "player": {
+    "id": 6818,
+    "name": "Hayley Raso"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    118.0,
+    29.0
+  ],
+  "duration": 0.529,
+  "related_events": [
+    "8cff4ee1-2f2b-411d-8553-b1680d7e85a2"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.056586586,
+    "end_location": [
+      120.0,
+      35.8,
+      0.9
+    ],
+    "outcome": {
+      "id": 99,
+      "name": "Post"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.0,
+          26.0
+        ],
+        "player": {
+          "id": 5078,
+          "name": "Alanna Kennedy"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          18.0
+        ],
+        "player": {
+          "id": 5089,
+          "name": "Ali Krieger"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          3.0
+        ],
+        "player": {
+          "id": 5068,
+          "name": "Kristen Edmonds"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.0,
+          24.0
+        ],
+        "player": {
+          "id": 5074,
+          "name": "Shelina Zadorsky"
+        },
+        "position": {
+          "id": 14,
+          "name": "Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.0,
+          22.0
+        ],
+        "player": {
+          "id": 5020,
+          "name": "Christine Sinclair"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.0,
+          38.0
+        ],
+        "player": {
+          "id": 8199,
+          "name": "Toni Pressley"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          32.0
+        ],
+        "player": {
+          "id": 5090,
+          "name": "Ashlyn Harris"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          28.0
+        ],
+        "player": {
+          "id": 10408,
+          "name": "Ana-Maria Crnogorcevic"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

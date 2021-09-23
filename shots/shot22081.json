@@ -1,0 +1,129 @@
+{
+  "id": "650f5197-9831-4dcf-81e3-227f3e0de62f",
+  "index": 3256,
+  "period": 2,
+  "timestamp": "00:24:12.507",
+  "minute": 69,
+  "second": 12,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 129,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    107.0,
+    28.2
+  ],
+  "duration": 0.32,
+  "related_events": [
+    "14ade424-95bd-492b-9a8c-b856611db67a"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.3515079,
+    "end_location": [
+      112.9,
+      34.3,
+      0.5
+    ],
+    "key_pass_id": "83e95151-3897-473e-8b04-95ea8b43a8b6",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          88.8,
+          46.2
+        ],
+        "player": {
+          "id": 5542,
+          "name": "Jos\u00e9 Paulo Bezzera Maciel J\u00fanior"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.1,
+          31.2
+        ],
+        "player": {
+          "id": 5201,
+          "name": "Sergio Ramos Garc\u00eda"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.1,
+          33.5
+        ],
+        "player": {
+          "id": 5597,
+          "name": "Keylor Navas Gamboa"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          82.1,
+          34.7
+        ],
+        "player": {
+          "id": 5485,
+          "name": "Rapha\u00ebl Varane"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

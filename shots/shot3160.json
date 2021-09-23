@@ -1,0 +1,114 @@
+{
+  "id": "e2df9bbf-5be5-4d70-a518-f1ac716de047",
+  "index": 1635,
+  "period": 1,
+  "timestamp": "00:41:35.555",
+  "minute": 41,
+  "second": 35,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 78,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    103.9,
+    37.5
+  ],
+  "duration": 0.080002,
+  "related_events": [
+    "7c3a2c44-9c1e-4733-ac6c-99a8a6014934"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.5041417,
+    "end_location": [
+      120.0,
+      35.2,
+      0.3
+    ],
+    "key_pass_id": "7ec07b3a-57cc-4b8b-a162-6fb3e25db13b",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.1,
+          37.6
+        ],
+        "player": {
+          "id": 26225,
+          "name": "I\u00f1aki Goitia Pe\u00f1a"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          42.8
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.2,
+          46.5
+        ],
+        "player": {
+          "id": 25892,
+          "name": "Ignacio P\u00e9rez Santamar\u00eda"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

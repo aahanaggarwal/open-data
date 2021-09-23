@@ -1,0 +1,159 @@
+{
+  "id": "632e5439-7871-44f3-b1da-1c363b8754cc",
+  "index": 262,
+  "period": 1,
+  "timestamp": "00:06:17.322",
+  "minute": 6,
+  "second": 17,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 21,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19757,
+    "name": "Anderson Lu\u00eds de Souza"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    113.5,
+    45.8
+  ],
+  "duration": 0.5664,
+  "under_pressure": true,
+  "related_events": [
+    "7a021d32-f0a3-4e9c-9068-7e88075c7630",
+    "90f09bfc-a652-4efe-a2d5-f5fc4b356f35",
+    "f3d363ae-b186-44c1-8f86-e433bff8a71d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.14158341,
+    "end_location": [
+      114.3,
+      45.4
+    ],
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.7,
+          40.0
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.8,
+          44.3
+        ],
+        "player": {
+          "id": 20321,
+          "name": "Fabio Celestini"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.5,
+          45.1
+        ],
+        "player": {
+          "id": 25894,
+          "name": "I\u00f1aki Descarga Retegi"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.9,
+          44.0
+        ],
+        "player": {
+          "id": 25891,
+          "name": "Juan Luis Mora Palacios"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.5,
+          39.0
+        ],
+        "player": {
+          "id": 25893,
+          "name": "Alberto Rivera Pizarro"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          40.2
+        ],
+        "player": {
+          "id": 25887,
+          "name": "Jos\u00e9 Alejandro Su\u00e1rez Mart\u00edn"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "id": "3401569d-741e-4d73-bbe8-2e24962f3cd1",
+  "index": 2594,
+  "period": 2,
+  "timestamp": "00:23:45.025",
+  "minute": 68,
+  "second": 45,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 151,
+  "possession_team": {
+    "id": 749,
+    "name": "Tottenham Hotspur Women"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 749,
+    "name": "Tottenham Hotspur Women"
+  },
+  "player": {
+    "id": 31702,
+    "name": "Rianna Dean"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    110.9,
+    28.1
+  ],
+  "duration": 0.569585,
+  "under_pressure": true,
+  "related_events": [
+    "0b9b0c7d-934b-4441-acd9-b33178b3ed44",
+    "5a93478b-aebe-43eb-8625-ae2c35398607"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.119965695,
+    "end_location": [
+      120.0,
+      36.1,
+      1.4
+    ],
+    "key_pass_id": "7931364c-4c06-439b-bf5e-9b2c311bf872",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 99,
+      "name": "Post"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          91.3,
+          55.1
+        ],
+        "player": {
+          "id": 31551,
+          "name": "Kit Graham"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.2,
+          39.5
+        ],
+        "player": {
+          "id": 31536,
+          "name": "Millie Turner"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.9,
+          39.9
+        ],
+        "player": {
+          "id": 10196,
+          "name": "Kirsty Smith"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.9,
+          33.4
+        ],
+        "player": {
+          "id": 4648,
+          "name": "Abbie McManus"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.1,
+          29.7
+        ],
+        "player": {
+          "id": 31538,
+          "name": "Mary Alexandra Earps"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "id": "7917922b-fc96-4ed4-9af7-e90fcc87fe8a",
+  "index": 3169,
+  "period": 2,
+  "timestamp": "00:27:26.156",
+  "minute": 72,
+  "second": 26,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 152,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    106.5,
+    41.4
+  ],
+  "duration": 1.0989,
+  "related_events": [
+    "9fe66fa6-6508-4854-b42a-9acf72f93890"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.34627062,
+    "end_location": [
+      120.0,
+      37.3,
+      0.5
+    ],
+    "key_pass_id": "459194ed-57d2-4455-9ce0-5a5a33eafabb",
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.8,
+          32.5
+        ],
+        "player": {
+          "id": 4320,
+          "name": "Neymar da Silva Santos Junior"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.2,
+          53.4
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.3,
+          34.9
+        ],
+        "player": {
+          "id": 6998,
+          "name": "Rafael Alc\u00e2ntara do Nascimento"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.8,
+          44.5
+        ],
+        "player": {
+          "id": 27457,
+          "name": "Manuel Fern\u00e1ndez Mu\u00f1\u00edz"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.2,
+          38.1
+        ],
+        "player": {
+          "id": 23800,
+          "name": "Laureano Sanabria Ruiz"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.7,
+          42.0
+        ],
+        "player": {
+          "id": 23806,
+          "name": "Alejandro Berganti\u00f1os Garc\u00eda"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.3,
+          51.6
+        ],
+        "player": {
+          "id": 6777,
+          "name": "Sidnei Rechel da Silva J\u00fanior"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.1,
+          41.9
+        ],
+        "player": {
+          "id": 5724,
+          "name": "Fay\u00e7al Fajr"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          31.2
+        ],
+        "player": {
+          "id": 6728,
+          "name": "Federico Nicol\u00e1s Cartabia"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

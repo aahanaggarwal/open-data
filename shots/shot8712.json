@@ -1,0 +1,221 @@
+{
+  "id": "67e88009-f425-4ef0-aa05-e719b2576d1c",
+  "index": 3449,
+  "period": 2,
+  "timestamp": "00:37:13.601",
+  "minute": 82,
+  "second": 13,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 179,
+  "possession_team": {
+    "id": 969,
+    "name": "Birmingham City WFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 969,
+    "name": "Birmingham City WFC"
+  },
+  "player": {
+    "id": 19500,
+    "name": "Sarah Emma Mayling"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    112.9,
+    35.9
+  ],
+  "duration": 0.031706,
+  "under_pressure": true,
+  "related_events": [
+    "29c617f8-8b10-4684-b2fd-c5f00052e296",
+    "6fe5bf0e-c01f-4530-a6ff-6cd52d5b4f59",
+    "bb72eb19-3b31-42ee-8834-7c7318fd6e38"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.08754308,
+    "end_location": [
+      113.4,
+      35.1
+    ],
+    "key_pass_id": "56ba4169-7e73-4a47-9b3f-d7e79a4c9ae2",
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "aerial_won": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.8,
+          34.8
+        ],
+        "player": {
+          "id": 19503,
+          "name": "Aoife Mannion"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.6,
+          39.9
+        ],
+        "player": {
+          "id": 4637,
+          "name": "Ellie Roebuck"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          37.4
+        ],
+        "player": {
+          "id": 21556,
+          "name": "Connie Scofield"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.8,
+          39.7
+        ],
+        "player": {
+          "id": 4658,
+          "name": "Keira Walsh"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.7,
+          42.3
+        ],
+        "player": {
+          "id": 10185,
+          "name": "Stephanie Houghton"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.8,
+          46.9
+        ],
+        "player": {
+          "id": 15554,
+          "name": "Gemma Bonner"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.1,
+          50.0
+        ],
+        "player": {
+          "id": 31566,
+          "name": "Lucy Whipp"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.7,
+          43.9
+        ],
+        "player": {
+          "id": 10099,
+          "name": "Tessa Wullaert"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.8,
+          34.9
+        ],
+        "player": {
+          "id": 25453,
+          "name": "Geum-Min Lee"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          46.8
+        ],
+        "player": {
+          "id": 31565,
+          "name": "Abbi Grant"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": "d1a42827-17e4-46f2-83f9-339f197488ab",
+  "index": 439,
+  "period": 1,
+  "timestamp": "00:08:56.530",
+  "minute": 8,
+  "second": 56,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 25,
+  "possession_team": {
+    "id": 207,
+    "name": "Valencia"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    111.7,
+    43.8
+  ],
+  "duration": 0.2367,
+  "related_events": [
+    "591d449c-f616-4c83-ba9a-bd1a9bc6dc24",
+    "f0d4e208-5c0a-4cfb-b6ed-fff330569952"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.62114453,
+    "end_location": [
+      116.0,
+      40.8
+    ],
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          114.0,
+          41.5
+        ],
+        "player": {
+          "id": 6625,
+          "name": "Vicente Guaita Panadero"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.3,
+          40.2
+        ],
+        "player": {
+          "id": 19454,
+          "name": "Ricardo Miguel Moreira da Costa"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.9,
+          42.2
+        ],
+        "player": {
+          "id": 26645,
+          "name": "\u00c1ngel Dealbert Ib\u00e1\u00f1ez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.2,
+          27.1
+        ],
+        "player": {
+          "id": 26681,
+          "name": "Marius Stankevi\u010dius"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

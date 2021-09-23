@@ -1,0 +1,116 @@
+{
+  "id": "3d476985-35c6-410c-83df-f8f70e8fae8d",
+  "index": 1157,
+  "period": 1,
+  "timestamp": "00:25:19.219",
+  "minute": 25,
+  "second": 19,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 63,
+  "possession_team": {
+    "id": 967,
+    "name": "Everton LFC"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 967,
+    "name": "Everton LFC"
+  },
+  "player": {
+    "id": 15580,
+    "name": "Claudia Walker"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    110.0,
+    53.0
+  ],
+  "duration": 0.6934,
+  "under_pressure": true,
+  "related_events": [
+    "6d280923-9726-420d-970b-1a4a7d7aa3fc",
+    "cff5b889-bfb4-41bf-a021-244f335bb277"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.14136867,
+    "end_location": [
+      116.0,
+      44.0,
+      0.7
+    ],
+    "key_pass_id": "88cb4887-910f-4eba-8089-b1b33885fccc",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          109.0,
+          51.0
+        ],
+        "player": {
+          "id": 10185,
+          "name": "Stephanie Houghton"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.0,
+          47.0
+        ],
+        "player": {
+          "id": 17524,
+          "name": "Jennifer Beattie"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.0,
+          41.0
+        ],
+        "player": {
+          "id": 10170,
+          "name": "Karen Bardsley"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

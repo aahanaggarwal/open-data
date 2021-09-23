@@ -1,0 +1,281 @@
+{
+  "id": "9afb116d-8004-426b-aa13-b21a5b14dded",
+  "index": 271,
+  "period": 1,
+  "timestamp": "00:05:12.522",
+  "minute": 5,
+  "second": 12,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 13,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5211,
+    "name": "Jordi Alba Ramos"
+  },
+  "position": {
+    "id": 6,
+    "name": "Left Back"
+  },
+  "location": [
+    109.5,
+    31.3
+  ],
+  "duration": 0.1089,
+  "under_pressure": true,
+  "related_events": [
+    "27b25860-fff1-4dd1-a422-d580fb189812",
+    "318bd0f6-5f8b-4ef8-bf4c-1c744f5cf888",
+    "6c96a4a8-8f73-4bfe-a1e8-dfbb9d2244b3"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.21487473,
+    "end_location": [
+      112.6,
+      33.1
+    ],
+    "key_pass_id": "3d6fb407-b9ef-4076-8342-ce924ebf12c0",
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.6,
+          36.8
+        ],
+        "player": {
+          "id": 6778,
+          "name": "Iv\u00e1n Ramis Barrios"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.4,
+          34.4
+        ],
+        "player": {
+          "id": 5542,
+          "name": "Jos\u00e9 Paulo Bezzera Maciel J\u00fanior"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          96.2,
+          26.5
+        ],
+        "player": {
+          "id": 5216,
+          "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.9,
+          25.7
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.5,
+          37.7
+        ],
+        "player": {
+          "id": 6379,
+          "name": "Sergi Roberto Carnicer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.4,
+          36.0
+        ],
+        "player": {
+          "id": 6709,
+          "name": "Anaitz Arbilla Zabala"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.6,
+          28.8
+        ],
+        "player": {
+          "id": 6698,
+          "name": "Marko Dmitrovi\u0107"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.6,
+          41.8
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.7,
+          48.2
+        ],
+        "player": {
+          "id": 6705,
+          "name": "Jos\u00e9 \u00c1ngel Vald\u00e9s D\u00edaz"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          54.7
+        ],
+        "player": {
+          "id": 5470,
+          "name": "Ivan Rakiti\u0107"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          92.0,
+          31.1
+        ],
+        "player": {
+          "id": 6701,
+          "name": "Joan Jord\u00e1n Moreno"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.7,
+          42.3
+        ],
+        "player": {
+          "id": 6867,
+          "name": "Papa Kouly Diop"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.1,
+          47.4
+        ],
+        "player": {
+          "id": 6775,
+          "name": "Daniel Garc\u00eda Carrillo"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.5,
+          33.1
+        ],
+        "player": {
+          "id": 6710,
+          "name": "Rub\u00e9n Pe\u00f1a Jim\u00e9nez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

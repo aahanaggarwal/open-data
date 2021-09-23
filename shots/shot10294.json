@@ -1,0 +1,128 @@
+{
+  "id": "00063980-fd46-4b06-8eff-58916206ae80",
+  "index": 1979,
+  "period": 2,
+  "timestamp": "00:08:05.041",
+  "minute": 53,
+  "second": 5,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 102,
+  "possession_team": {
+    "id": 974,
+    "name": "Reading WFC"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 974,
+    "name": "Reading WFC"
+  },
+  "player": {
+    "id": 15726,
+    "name": "Lauren Bruton"
+  },
+  "position": {
+    "id": 11,
+    "name": "Left Defensive Midfield"
+  },
+  "location": [
+    107.5,
+    54.0
+  ],
+  "duration": 1.209067,
+  "related_events": [
+    "bbc499cd-88c5-44bf-b508-e620820da10c"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.122504294,
+    "end_location": [
+      120.0,
+      37.1,
+      1.7
+    ],
+    "key_pass_id": "ae0297c2-b6e9-4bfa-a510-74b7dd0a7672",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          97.7,
+          51.0
+        ],
+        "player": {
+          "id": 15703,
+          "name": "Charlotte Estcourt"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.1,
+          46.2
+        ],
+        "player": {
+          "id": 15721,
+          "name": "Gemma Suzanne Davison"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.2,
+          55.2
+        ],
+        "player": {
+          "id": 21854,
+          "name": "Jade Bailey"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.1,
+          39.8
+        ],
+        "player": {
+          "id": 10251,
+          "name": "Fara Williams"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

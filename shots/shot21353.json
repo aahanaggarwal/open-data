@@ -1,0 +1,144 @@
+{
+  "id": "336b3c73-6329-448d-bff6-bafee0d82262",
+  "index": 922,
+  "period": 1,
+  "timestamp": "00:25:19.930",
+  "minute": 25,
+  "second": 19,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 54,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19298,
+    "name": "Samuel Eto\"o Fils"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    103.9,
+    34.5
+  ],
+  "duration": 0.0772,
+  "related_events": [
+    "992b6fd5-494f-4f73-823d-126fdbaf6652"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.30155867,
+    "end_location": [
+      105.4,
+      35.3,
+      0.3
+    ],
+    "key_pass_id": "fc3121eb-017d-4de1-bab9-1ec3513b0734",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          106.3,
+          35.5
+        ],
+        "player": {
+          "id": 6755,
+          "name": "Sergio Asenjo Andr\u00e9s"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.5,
+          39.8
+        ],
+        "player": {
+          "id": 12358,
+          "name": "Haris Medunjanin"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.4,
+          38.3
+        ],
+        "player": {
+          "id": 6787,
+          "name": "Pedro L\u00f3pez Mu\u00f1oz"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.1,
+          49.3
+        ],
+        "player": {
+          "id": 26188,
+          "name": "Alberto Marcos Rey"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.5,
+          32.1
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

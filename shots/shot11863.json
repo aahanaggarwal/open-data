@@ -1,0 +1,174 @@
+{
+  "id": "2e2ef40c-50a1-492f-8902-7caeb3a9c461",
+  "index": 2294,
+  "period": 2,
+  "timestamp": "00:12:33.925",
+  "minute": 57,
+  "second": 33,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 106,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5213,
+    "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+  },
+  "position": {
+    "id": 3,
+    "name": "Right Center Back"
+  },
+  "location": [
+    114.2,
+    48.8
+  ],
+  "duration": 0.249,
+  "related_events": [
+    "fb97eb0e-fa92-47af-9e1f-06b5fb18e5cf"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.2998899,
+    "end_location": [
+      116.3,
+      46.8,
+      2.3
+    ],
+    "key_pass_id": "5fb52703-0e6d-44e0-abd3-dfb5b8c94b7d",
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          99.1,
+          33.6
+        ],
+        "player": {
+          "id": 27123,
+          "name": "Jordi Xumetra Feliu"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.1,
+          46.5
+        ],
+        "player": {
+          "id": 26012,
+          "name": "David Navarro Pedr\u00f3s"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.4,
+          40.1
+        ],
+        "player": {
+          "id": 24860,
+          "name": "H\u00e9ctor Rodas Ram\u00edrez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.9,
+          45.6
+        ],
+        "player": {
+          "id": 26026,
+          "name": "Miguel Pallard\u00f3 Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.5,
+          45.3
+        ],
+        "player": {
+          "id": 5597,
+          "name": "Keylor Navas Gamboa"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.3,
+          37.4
+        ],
+        "player": {
+          "id": 6787,
+          "name": "Pedro L\u00f3pez Mu\u00f1oz"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.7,
+          33.7
+        ],
+        "player": {
+          "id": 3958,
+          "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

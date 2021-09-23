@@ -1,0 +1,172 @@
+{
+  "id": "055fe6ef-c3b0-4061-88c9-d2a77c87b27b",
+  "index": 4090,
+  "period": 2,
+  "timestamp": "00:47:50.648",
+  "minute": 92,
+  "second": 50,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 193,
+  "possession_team": {
+    "id": 222,
+    "name": "Villarreal"
+  },
+  "play_pattern": {
+    "id": 2,
+    "name": "From Corner"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5477,
+    "name": "Ousmane Demb\u00e9l\u00e9"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    102.4,
+    37.6
+  ],
+  "duration": 1.015,
+  "related_events": [
+    "e82b9edc-c536-4cbd-9438-94776adda3a1"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.2750173,
+    "end_location": [
+      120.0,
+      37.8,
+      1.9
+    ],
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          98.4,
+          49.1
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          86.3,
+          23.8
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.4,
+          37.7
+        ],
+        "player": {
+          "id": 6755,
+          "name": "Sergio Asenjo Andr\u00e9s"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.1,
+          37.6
+        ],
+        "player": {
+          "id": 6764,
+          "name": "Pablo Fornals Malla"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.9,
+          42.7
+        ],
+        "player": {
+          "id": 6762,
+          "name": "\u00c1lvaro Gonz\u00e1lez Sober\u00f3n"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.8,
+          38.3
+        ],
+        "player": {
+          "id": 6828,
+          "name": "Jaume Vicent Costa Jord\u00e1"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          85.6,
+          38.8
+        ],
+        "player": {
+          "id": 6751,
+          "name": "Javier Fuego Mart\u00ednez"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

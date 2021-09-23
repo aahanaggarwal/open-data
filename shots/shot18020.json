@@ -1,0 +1,191 @@
+{
+  "id": "ee0719d0-f8b8-40bd-b0cb-ca14ebb4b092",
+  "index": 653,
+  "period": 1,
+  "timestamp": "00:12:12.385",
+  "minute": 12,
+  "second": 12,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 29,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 8,
+    "name": "From Keeper"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5246,
+    "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    108.6,
+    52.9
+  ],
+  "duration": 0.4091,
+  "under_pressure": true,
+  "related_events": [
+    "3a43e1eb-9f11-4530-bd63-c13db9c74bd6",
+    "f65f2033-3a3e-4a65-a44e-c2f631dde8fc"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.04929022,
+    "end_location": [
+      119.2,
+      42.9,
+      1.6
+    ],
+    "key_pass_id": "ef9f22bb-4ae7-4e2f-9e19-46b12357c146",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          109.6,
+          52.0
+        ],
+        "player": {
+          "id": 3253,
+          "name": "Adil Rami"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.7,
+          52.1
+        ],
+        "player": {
+          "id": 10476,
+          "name": "Timoth\u00e9e Kolodziejczak"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          57.7
+        ],
+        "player": {
+          "id": 5737,
+          "name": "Steven N\"Kemboanza Mike Christopher Nzonzi"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.2,
+          32.8
+        ],
+        "player": {
+          "id": 6672,
+          "name": "Jorge And\u00fajar Moreno"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.7,
+          46.0
+        ],
+        "player": {
+          "id": 7154,
+          "name": "Sebasti\u00e1n Carlos Crist\u00f3foro Pepe"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          88.8,
+          59.0
+        ],
+        "player": {
+          "id": 6400,
+          "name": "Aleix Vidal Parreu"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          95.5,
+          62.9
+        ],
+        "player": {
+          "id": 27483,
+          "name": "Beno\u00eet Tr\u00e9moulinas"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          43.6
+        ],
+        "player": {
+          "id": 6823,
+          "name": "Sergio Rico Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

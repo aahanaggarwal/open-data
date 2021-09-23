@@ -1,0 +1,144 @@
+{
+  "id": "46b1303e-4b86-4a90-8a91-bcb1f1397d80",
+  "index": 3549,
+  "period": 2,
+  "timestamp": "00:44:48.253",
+  "minute": 89,
+  "second": 48,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 189,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 20131,
+    "name": "Xavier Hern\u00e1ndez Creus"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    112.2,
+    42.0
+  ],
+  "duration": 0.3756,
+  "related_events": [
+    "068dbed0-6160-4a49-aaf1-dccdbc42907d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.34246823,
+    "end_location": [
+      120.0,
+      41.4,
+      0.8
+    ],
+    "key_pass_id": "4e73b535-e4f0-4bbe-b106-3a9697616aef",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          109.2,
+          31.1
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.3,
+          40.7
+        ],
+        "player": {
+          "id": 26392,
+          "name": "Fabiano Eler dos Santos"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.7,
+          40.0
+        ],
+        "player": {
+          "id": 26197,
+          "name": "Christian Abbiati"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.8,
+          45.2
+        ],
+        "player": {
+          "id": 26057,
+          "name": "Mariano Andr\u00e9s Pern\u00eda"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.2,
+          32.7
+        ],
+        "player": {
+          "id": 26117,
+          "name": "Pablo Ib\u00e1\u00f1ez T\u00e9bar"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

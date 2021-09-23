@@ -1,0 +1,177 @@
+{
+  "id": "7ae01e94-9e5d-4328-8648-5cccdaabc7fd",
+  "index": 1660,
+  "period": 2,
+  "timestamp": "00:01:35.071",
+  "minute": 46,
+  "second": 35,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 115,
+  "possession_team": {
+    "id": 1215,
+    "name": "New Zealand Women's"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1215,
+    "name": "New Zealand Women's"
+  },
+  "player": {
+    "id": 4948,
+    "name": "Rosie White"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    109.1,
+    44.2
+  ],
+  "duration": 0.8901,
+  "under_pressure": true,
+  "related_events": [
+    "0411d0d7-8950-45b1-a3e5-d7c1b37c1cf5",
+    "87a42bf9-83ff-46b6-8ac1-a1ea1a2e485d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.028401814,
+    "end_location": [
+      119.2,
+      45.1,
+      2.2
+    ],
+    "key_pass_id": "d60c95ff-fdb5-4da8-aca3-90b92b38eb96",
+    "aerial_won": true,
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "saved_off_target": true,
+    "outcome": {
+      "id": 115,
+      "name": "Saved Off Target"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.3,
+          43.2
+        ],
+        "player": {
+          "id": 4943,
+          "name": "Estelle Johnson"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.6,
+          43.2
+        ],
+        "player": {
+          "id": 25623,
+          "name": "Yvonne Patrice Leuko"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.2,
+          42.1
+        ],
+        "player": {
+          "id": 25620,
+          "name": "Annette Ngo"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.5,
+          50.2
+        ],
+        "player": {
+          "id": 25616,
+          "name": "Gabrielle Onguene"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.2,
+          29.9
+        ],
+        "player": {
+          "id": 25614,
+          "name": "Marie Aurelle Awona"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          32.1
+        ],
+        "player": {
+          "id": 24925,
+          "name": "Olivia Chance"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          93.1,
+          61.1
+        ],
+        "player": {
+          "id": 5028,
+          "name": "Katie Bowen"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

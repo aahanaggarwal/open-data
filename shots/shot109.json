@@ -1,0 +1,263 @@
+{
+  "id": "088ffa07-f6ea-436d-a8e8-e8ce681e7cc8",
+  "index": 101,
+  "period": 1,
+  "timestamp": "00:02:28.900",
+  "minute": 2,
+  "second": 28,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 5,
+  "possession_team": {
+    "id": 780,
+    "name": "Portugal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 780,
+    "name": "Portugal"
+  },
+  "player": {
+    "id": 5207,
+    "name": "Cristiano Ronaldo dos Santos Aveiro"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    112.0,
+    27.0
+  ],
+  "duration": 1.093,
+  "related_events": [
+    "91c44148-2e3c-4b52-b8b5-becd4a608815"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.035294347,
+    "end_location": [
+      119.0,
+      37.0,
+      0.4
+    ],
+    "key_pass_id": "4f892d05-2a52-4a89-a1cf-6ee1ecebada1",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.0,
+          39.0
+        ],
+        "player": {
+          "id": 5227,
+          "name": "Alireza Safar Beiranvand"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          23.0
+        ],
+        "player": {
+          "id": 4272,
+          "name": "Jo\u00e3o M\u00e1rio Naval da Costa Eduardo"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.0,
+          17.0
+        ],
+        "player": {
+          "id": 5239,
+          "name": "Alireza Jahanbakhsh"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.0,
+          19.0
+        ],
+        "player": {
+          "id": 5209,
+          "name": "Rapha\u00ebl Adelino Jos\u00e9 Guerreiro"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.0,
+          26.0
+        ],
+        "player": {
+          "id": 5225,
+          "name": "Omid Ebrahimi"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          27.0
+        ],
+        "player": {
+          "id": 5235,
+          "name": "Ramin Rezaeian"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          27.0
+        ],
+        "player": {
+          "id": 5722,
+          "name": "Saeid Ezatolahi Afagh"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.0,
+          33.0
+        ],
+        "player": {
+          "id": 3707,
+          "name": "Adrien Sebastian Perruchet Silva"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.0,
+          31.0
+        ],
+        "player": {
+          "id": 5220,
+          "name": "Morteza Pouraliganji"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          38.0
+        ],
+        "player": {
+          "id": 5228,
+          "name": "Seyed Majid Hosseini"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          41.0
+        ],
+        "player": {
+          "id": 5218,
+          "name": "Andr\u00e9 Miguel Valente Silva"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.0,
+          36.0
+        ],
+        "player": {
+          "id": 5241,
+          "name": "Vahid Amiri"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          45.0
+        ],
+        "player": {
+          "id": 5230,
+          "name": "Ehsan Hajsafi"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

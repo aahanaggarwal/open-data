@@ -1,0 +1,191 @@
+{
+  "id": "99e3a3de-5784-4b26-8c64-c30296425f71",
+  "index": 1392,
+  "period": 1,
+  "timestamp": "00:33:41.613",
+  "minute": 33,
+  "second": 41,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 80,
+  "possession_team": {
+    "id": 763,
+    "name": "Sky Blue FC"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 763,
+    "name": "Sky Blue FC"
+  },
+  "player": {
+    "id": 7180,
+    "name": "Imani Dorsey"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    106.6,
+    29.5
+  ],
+  "duration": 1.600712,
+  "under_pressure": true,
+  "related_events": [
+    "4dce49f0-1669-4dde-8999-d62f5cb0e9ef",
+    "f371be1b-ab4e-4260-90ea-5deb50dfed15"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.0634724,
+    "end_location": [
+      120.0,
+      43.4,
+      7.0
+    ],
+    "key_pass_id": "06199058-a4c6-4ba8-9b62-12c744a88610",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          105.3,
+          31.1
+        ],
+        "player": {
+          "id": 7179,
+          "name": "Casey Short"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.7,
+          27.7
+        ],
+        "player": {
+          "id": 4963,
+          "name": "Yuki Nagasato"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.7,
+          39.0
+        ],
+        "player": {
+          "id": 4958,
+          "name": "Kathleen Naughton"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.5,
+          43.2
+        ],
+        "player": {
+          "id": 30558,
+          "name": "Paige Monaghan"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.7,
+          37.0
+        ],
+        "player": {
+          "id": 4952,
+          "name": "Emily Boyd"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.9,
+          45.5
+        ],
+        "player": {
+          "id": 4967,
+          "name": "Raquel Rodriguez"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.9,
+          54.2
+        ],
+        "player": {
+          "id": 5096,
+          "name": "Savannah McCaskill"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.3,
+          56.4
+        ],
+        "player": {
+          "id": 4955,
+          "name": "Sarah Gorden"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

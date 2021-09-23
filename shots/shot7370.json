@@ -1,0 +1,116 @@
+{
+  "id": "4f429087-aff2-45bb-ae58-7ccc39eab9ad",
+  "index": 2062,
+  "period": 2,
+  "timestamp": "00:04:36.282",
+  "minute": 49,
+  "second": 36,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 93,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 4320,
+    "name": "Neymar da Silva Santos Junior"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    109.7,
+    27.9
+  ],
+  "duration": 0.5245,
+  "under_pressure": true,
+  "related_events": [
+    "0f2dad50-a27d-4807-bc52-77b255bdfccc",
+    "74816ef8-0c5a-45e9-831a-22a4b01e27f6"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.13488507,
+    "end_location": [
+      118.3,
+      36.2,
+      0.2
+    ],
+    "key_pass_id": "a32cbb97-bdb3-4c7c-8262-8a4998ef28f3",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.8,
+          36.7
+        ],
+        "player": {
+          "id": 25971,
+          "name": "Esteban Andr\u00e9s Su\u00e1rez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.7,
+          42.8
+        ],
+        "player": {
+          "id": 25824,
+          "name": "\u00c1ngel Trujillo Canorea"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.2,
+          29.0
+        ],
+        "player": {
+          "id": 27515,
+          "name": "Marco Natanel Torsiglieri"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

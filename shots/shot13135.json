@@ -1,0 +1,158 @@
+{
+  "id": "ef3041a2-c830-4238-9d77-41cfb3c63a6b",
+  "index": 3091,
+  "period": 2,
+  "timestamp": "00:17:34.579",
+  "minute": 62,
+  "second": 34,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 157,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 2,
+    "name": "From Corner"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    112.6,
+    49.1
+  ],
+  "duration": 0.014244,
+  "related_events": [
+    "2eadeb8d-cc36-4437-a75f-7135a882f4dd",
+    "9e76e972-7832-4331-818d-34d9f45474c7"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.23302844,
+    "end_location": [
+      113.6,
+      47.9
+    ],
+    "key_pass_id": "8ea79e37-6e95-4ec1-b750-4b055d2e7197",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          114.2,
+          47.2
+        ],
+        "player": {
+          "id": 6665,
+          "name": "\u00cd\u00f1igo Mart\u00ednez Berridi"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.8,
+          46.2
+        ],
+        "player": {
+          "id": 4691,
+          "name": "Claudio Andr\u00e9s Bravo Mu\u00f1oz"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.7,
+          41.1
+        ],
+        "player": {
+          "id": 16622,
+          "name": "Mikel Gonz\u00e1lez de Mart\u00edn Mart\u00ednez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.5,
+          44.4
+        ],
+        "player": {
+          "id": 7321,
+          "name": "Liassine Cadamuro-Benta\u00efba"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.6,
+          32.5
+        ],
+        "player": {
+          "id": 8724,
+          "name": "Carlos Mart\u00ednez D\u00edez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.5,
+          31.2
+        ],
+        "player": {
+          "id": 6658,
+          "name": "Cristian Tello Herrera"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

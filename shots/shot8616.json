@@ -1,0 +1,175 @@
+{
+  "id": "9708f840-f6f1-4440-b0c0-25516c62b8da",
+  "index": 1707,
+  "period": 2,
+  "timestamp": "00:04:11.368",
+  "minute": 49,
+  "second": 11,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 115,
+  "possession_team": {
+    "id": 1203,
+    "name": "Brazil Women's"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1203,
+    "name": "Brazil Women's"
+  },
+  "player": {
+    "id": 15293,
+    "name": "Cristiane Rozeira de Souza Silva"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    118.3,
+    34.1
+  ],
+  "duration": 0.4325,
+  "related_events": [
+    "4116b08e-f2eb-4867-98fb-c0cdaf323a6d"
+  ],
+  "shot": {
+    "open_goal": true,
+    "statsbomb_xg": 0.44485334,
+    "end_location": [
+      120.0,
+      40.2,
+      0.2
+    ],
+    "key_pass_id": "ee0353b9-0af7-4a0e-b437-833ef9f27cff",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.5,
+          43.3
+        ],
+        "player": {
+          "id": 25548,
+          "name": "Konya Plummer"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.9,
+          42.9
+        ],
+        "player": {
+          "id": 25550,
+          "name": "Sydney Schneider"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.1,
+          43.5
+        ],
+        "player": {
+          "id": 25551,
+          "name": "Marlo Carmen Sweatman"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.9,
+          47.4
+        ],
+        "player": {
+          "id": 25545,
+          "name": "Allyson Swaby"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          43.2
+        ],
+        "player": {
+          "id": 25552,
+          "name": "Dominique Bond-Flasza"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.5,
+          42.4
+        ],
+        "player": {
+          "id": 25561,
+          "name": "Beatriz Zaneratto Jo\u00e3o"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          116.8,
+          45.1
+        ],
+        "player": {
+          "id": 5044,
+          "name": "D\u00e9bora Cristiane de Oliveira"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

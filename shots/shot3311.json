@@ -1,0 +1,205 @@
+{
+  "id": "8e096b05-5590-48a0-a0d6-02479c8289ab",
+  "index": 3289,
+  "period": 2,
+  "timestamp": "00:47:54.242",
+  "minute": 92,
+  "second": 54,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 221,
+  "possession_team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "player": {
+    "id": 5087,
+    "name": "Samantha Mewis"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    99.1,
+    54.8
+  ],
+  "duration": 0.866737,
+  "under_pressure": true,
+  "related_events": [
+    "8324e01b-259a-4b02-bdce-514343ead85b",
+    "b00da828-c57f-44a5-817a-6fd26ea5d897"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.028683942,
+    "end_location": [
+      120.0,
+      47.7,
+      2.9
+    ],
+    "key_pass_id": "b1f98693-d4c3-45e0-a80d-285ef5621e4b",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          99.2,
+          53.2
+        ],
+        "player": {
+          "id": 5076,
+          "name": "Emily van Egmond"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.5,
+          56.1
+        ],
+        "player": {
+          "id": 5064,
+          "name": "Carson Pickett"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.5,
+          51.3
+        ],
+        "player": {
+          "id": 5074,
+          "name": "Shelina Zadorsky"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.2,
+          40.7
+        ],
+        "player": {
+          "id": 5078,
+          "name": "Alanna Kennedy"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.6,
+          39.9
+        ],
+        "player": {
+          "id": 5089,
+          "name": "Ali Krieger"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.9,
+          42.1
+        ],
+        "player": {
+          "id": 33350,
+          "name": "Leah Pruitt"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          93.9,
+          54.0
+        ],
+        "player": {
+          "id": 5082,
+          "name": "Marta Vieira da Silva"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.1,
+          63.4
+        ],
+        "player": {
+          "id": 5080,
+          "name": "Kristen Hamilton"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.5,
+          40.7
+        ],
+        "player": {
+          "id": 5090,
+          "name": "Ashlyn Harris"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

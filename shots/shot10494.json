@@ -1,0 +1,145 @@
+{
+  "id": "9f44169a-1f80-4e23-9456-52caf9a6c17d",
+  "index": 3790,
+  "period": 2,
+  "timestamp": "00:45:59.799",
+  "minute": 90,
+  "second": 59,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 170,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3501,
+    "name": "Philippe Coutinho Correia"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    114.5,
+    52.9
+  ],
+  "duration": 0.605894,
+  "under_pressure": true,
+  "related_events": [
+    "c09b0233-6f17-4ec9-8578-a6cbc9e31ec5",
+    "cbf1edd1-9617-49d2-8133-0e8e34e97fd2",
+    "fc543c3c-80d4-4a14-ba77-4f71cefd0133"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.17202371,
+    "end_location": [
+      118.1,
+      44.3
+    ],
+    "key_pass_id": "7a9ecabf-644b-482a-b3b5-4f0bab72367f",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.7,
+          44.6
+        ],
+        "player": {
+          "id": 6579,
+          "name": "Pedro Alcal\u00e1 Guirado"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.5,
+          40.2
+        ],
+        "player": {
+          "id": 11292,
+          "name": "Pedro Antonio Porro Sauceda"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.6,
+          44.9
+        ],
+        "player": {
+          "id": 6572,
+          "name": "Juan Pedro Ram\u00edrez L\u00f3pez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.7,
+          40.0
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.7,
+          51.0
+        ],
+        "player": {
+          "id": 6785,
+          "name": "Yassine Bounou"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

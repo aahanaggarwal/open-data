@@ -1,0 +1,145 @@
+{
+  "id": "3a11e3a3-38b9-447d-8a1a-4bc8f2b5e08e",
+  "index": 1818,
+  "period": 1,
+  "timestamp": "00:42:08.593",
+  "minute": 42,
+  "second": 8,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 92,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    109.9,
+    50.1
+  ],
+  "duration": 0.965041,
+  "under_pressure": true,
+  "related_events": [
+    "9319abe0-2a84-439c-bcd7-7dc36522ce2f",
+    "c6b2617e-87fc-459f-a0c7-c772b8205437"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.1877257,
+    "end_location": [
+      120.0,
+      38.2,
+      0.2
+    ],
+    "key_pass_id": "06dba771-7e47-4fcb-b292-1e55080a9602",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          114.5,
+          44.7
+        ],
+        "player": {
+          "id": 6692,
+          "name": "Oier Olaz\u00e1bal Paredes"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.5,
+          36.9
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.8,
+          33.5
+        ],
+        "player": {
+          "id": 6809,
+          "name": "Erick Cathriel Cabaco Almada"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.3,
+          42.6
+        ],
+        "player": {
+          "id": 6807,
+          "name": "Roberto Su\u00e1rez Pier"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.2,
+          49.7
+        ],
+        "player": {
+          "id": 6682,
+          "name": "Sergio Postigo Redondo"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

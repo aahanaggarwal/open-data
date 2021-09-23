@@ -1,0 +1,281 @@
+{
+  "id": "d9370ea6-861d-4923-ad15-ec2d1a50abcc",
+  "index": 1598,
+  "period": 1,
+  "timestamp": "00:37:00.200",
+  "minute": 37,
+  "second": 0,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 71,
+  "possession_team": {
+    "id": 782,
+    "name": "Belgium"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 782,
+    "name": "Belgium"
+  },
+  "player": {
+    "id": 5632,
+    "name": "Thorgan Hazard"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    99.0,
+    34.0
+  ],
+  "duration": 0.96,
+  "under_pressure": true,
+  "related_events": [
+    "0fc145a8-ef46-4779-a4b1-50cc66226d1f",
+    "54b37532-d674-45c4-9fa0-82582cc1be54"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.049286656,
+    "end_location": [
+      120.0,
+      45.4,
+      5.7
+    ],
+    "key_pass_id": "10728a73-30f4-4483-afcf-18a6da8893bd",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "first_time": true,
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          101.0,
+          35.0
+        ],
+        "player": {
+          "id": 3504,
+          "name": "Ruben Loftus-Cheek"
+        },
+        "position": {
+          "id": 18,
+          "name": "Right Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.0,
+          31.0
+        ],
+        "player": {
+          "id": 3318,
+          "name": "Marcus Rashford"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          41.0
+        ],
+        "player": {
+          "id": 4597,
+          "name": "Fabian Delph"
+        },
+        "position": {
+          "id": 20,
+          "name": "Left Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          120.0,
+          41.0
+        ],
+        "player": {
+          "id": 3468,
+          "name": "Jordan Pickford"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          31.0
+        ],
+        "player": {
+          "id": 3664,
+          "name": "Trent Alexander-Arnold"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          29.0
+        ],
+        "player": {
+          "id": 3296,
+          "name": "Marouane Fellaini-Bakkioui"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.0,
+          33.0
+        ],
+        "player": {
+          "id": 3457,
+          "name": "Michy Batshuayi Tunga"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.0,
+          36.0
+        ],
+        "player": {
+          "id": 3314,
+          "name": "Phil Jones"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          38.0
+        ],
+        "player": {
+          "id": 3645,
+          "name": "Gary Cahill"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          44.0
+        ],
+        "player": {
+          "id": 3244,
+          "name": "John Stones"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          48.0
+        ],
+        "player": {
+          "id": 3594,
+          "name": "Danny Rose"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.0,
+          48.0
+        ],
+        "player": {
+          "id": 4831,
+          "name": "Nacer Chadli"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.0,
+          53.0
+        ],
+        "player": {
+          "id": 6330,
+          "name": "Adnan Januzaj"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.0,
+          33.0
+        ],
+        "player": {
+          "id": 10956,
+          "name": "Eric Dier"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

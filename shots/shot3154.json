@@ -1,0 +1,188 @@
+{
+  "id": "dc705762-ebac-4c1d-92be-7162a180f9c2",
+  "index": 833,
+  "period": 1,
+  "timestamp": "00:18:09.742",
+  "minute": 18,
+  "second": 9,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 37,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 20131,
+    "name": "Xavier Hern\u00e1ndez Creus"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    106.0,
+    37.7
+  ],
+  "duration": 0.6447,
+  "related_events": [
+    "f7cb3ab9-3332-440e-9eb2-8b9695737360"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.33791807,
+    "end_location": [
+      120.0,
+      37.7,
+      0.0
+    ],
+    "key_pass_id": "7327678a-bd3b-4cf5-9b48-46f731ef831b",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.6,
+          39.0
+        ],
+        "player": {
+          "id": 26225,
+          "name": "I\u00f1aki Goitia Pe\u00f1a"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          88.3,
+          55.9
+        ],
+        "player": {
+          "id": 10798,
+          "name": "Eliseu Pereira dos Santos"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.7,
+          65.2
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.8,
+          29.1
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.6,
+          38.7
+        ],
+        "player": {
+          "id": 25892,
+          "name": "Ignacio P\u00e9rez Santamar\u00eda"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.8,
+          41.0
+        ],
+        "player": {
+          "id": 26224,
+          "name": "H\u00e9lder Miguel Do Rosario Data"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.8,
+          30.7
+        ],
+        "player": {
+          "id": 26232,
+          "name": "Ib\u00e1n Javier Cuadrado Alonso"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          21.4
+        ],
+        "player": {
+          "id": 4788,
+          "name": "Jes\u00fas G\u00e1mez Duarte"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

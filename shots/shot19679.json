@@ -1,0 +1,158 @@
+{
+  "id": "5fdf27ea-bbfb-46fb-a29f-bf2fa5b757cd",
+  "index": 3284,
+  "period": 2,
+  "timestamp": "00:40:40.642",
+  "minute": 85,
+  "second": 40,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 181,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 26014,
+    "name": "Eduardo C\u00e9sar Daude Gaspar"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    92.5,
+    41.9
+  ],
+  "duration": 0.036626,
+  "related_events": [
+    "10ec50dd-8cf3-4ffd-b61f-84acfef1f2c0",
+    "1688ebe7-6ec5-4d0f-a010-277eadd3da92"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.026706755,
+    "end_location": [
+      95.4,
+      41.4
+    ],
+    "key_pass_id": "5f147d17-6a52-457d-9989-888abe267416",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.8,
+          39.7
+        ],
+        "player": {
+          "id": 40310,
+          "name": "Michael Oakes"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.2,
+          55.1
+        ],
+        "player": {
+          "id": 40305,
+          "name": "Mark Kennedy"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.6,
+          47.9
+        ],
+        "player": {
+          "id": 40312,
+          "name": "Paul Butler"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.1,
+          49.5
+        ],
+        "player": {
+          "id": 40304,
+          "name": "Lee Naylor"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.0,
+          41.2
+        ],
+        "player": {
+          "id": 40314,
+          "name": "Jody Craddock"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.2,
+          51.1
+        ],
+        "player": {
+          "id": 40255,
+          "name": "J\u00e9r\u00e9mie Aliadi\u00e8re"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

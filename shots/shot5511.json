@@ -1,0 +1,115 @@
+{
+  "id": "4ba116de-a3c3-4880-aacf-6ac931a50c37",
+  "index": 238,
+  "period": 1,
+  "timestamp": "00:09:27.114",
+  "minute": 9,
+  "second": 27,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 19,
+  "possession_team": {
+    "id": 1049,
+    "name": "Granada"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 1049,
+    "name": "Granada"
+  },
+  "player": {
+    "id": 27109,
+    "name": "Youssef El-Arabi"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    90.4,
+    25.7
+  ],
+  "duration": 0.3761,
+  "under_pressure": true,
+  "related_events": [
+    "5daaf562-901c-4421-9654-1437a563156c",
+    "b4e5f97c-c7fd-4284-af5a-23a7ff377987",
+    "e7786ad3-9992-49aa-9ebe-6f477014c3bc"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.024863211,
+    "end_location": [
+      91.5,
+      26.9
+    ],
+    "key_pass_id": "20d791a6-07ed-49f2-a8c9-36dd54cd4406",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          114.8,
+          37.7
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.5,
+          33.7
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.2,
+          27.3
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

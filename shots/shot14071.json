@@ -1,0 +1,173 @@
+{
+  "id": "dc32ab4e-04c0-4e9b-bdaf-1454807836e8",
+  "index": 1131,
+  "period": 1,
+  "timestamp": "00:24:46.235",
+  "minute": 24,
+  "second": 46,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 44,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5246,
+    "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    109.3,
+    30.5
+  ],
+  "duration": 0.127943,
+  "related_events": [
+    "1dfe9bbb-b85f-4bdb-9a75-35830bd5bf37",
+    "46ec886a-77be-46f8-be10-a1b1a089a2e5"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.19909957,
+    "end_location": [
+      110.0,
+      31.3
+    ],
+    "key_pass_id": "63a65722-8a63-4a21-a909-d6f924774765",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          91.7,
+          46.2
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.2,
+          46.9
+        ],
+        "player": {
+          "id": 6573,
+          "name": "Bernardo Jos\u00e9 Espinosa Z\u00fa\u00f1iga"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.7,
+          31.8
+        ],
+        "player": {
+          "id": 11293,
+          "name": "Fernando Calero Villa"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          38.5
+        ],
+        "player": {
+          "id": 32670,
+          "name": "V\u00edctor G\u00f3mez Perea"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.9,
+          40.3
+        ],
+        "player": {
+          "id": 6635,
+          "name": "Leandro Daniel Cabrera Sas\u00eda"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.8,
+          41.5
+        ],
+        "player": {
+          "id": 6754,
+          "name": "David L\u00f3pez Silva"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.8,
+          34.4
+        ],
+        "player": {
+          "id": 6768,
+          "name": "Diego L\u00f3pez Rodr\u00edguez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

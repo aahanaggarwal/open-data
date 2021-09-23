@@ -1,0 +1,144 @@
+{
+  "id": "e4c7c53d-0bfd-41af-a5f4-9f7d735e93b9",
+  "index": 621,
+  "period": 1,
+  "timestamp": "00:12:43.955",
+  "minute": 12,
+  "second": 43,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 39,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 12737,
+    "name": "David Villa S\u00e1nchez"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    98.2,
+    39.1
+  ],
+  "duration": 0.8611,
+  "related_events": [
+    "7be511cf-c3db-46d1-9c04-470278e920db"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.20491919,
+    "end_location": [
+      120.0,
+      44.1,
+      0.3
+    ],
+    "key_pass_id": "6b3961f7-57b7-4836-9769-4e21a1e05845",
+    "outcome": {
+      "id": 99,
+      "name": "Post"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          97.1,
+          39.3
+        ],
+        "player": {
+          "id": 26120,
+          "name": "Luis Amaranto Perea Mosquera"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          41.5
+        ],
+        "player": {
+          "id": 3333,
+          "name": "David de Gea Quintana"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.2,
+          42.5
+        ],
+        "player": {
+          "id": 5249,
+          "name": "Diego Roberto God\u00edn Leal"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          88.6,
+          50.4
+        ],
+        "player": {
+          "id": 26677,
+          "name": "\u00c1lvaro Dom\u00ednguez Soto"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          88.8,
+          29.3
+        ],
+        "player": {
+          "id": 19731,
+          "name": "Tom\u00e1\u0161 Ujfalu\u0161i"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

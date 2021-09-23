@@ -1,0 +1,205 @@
+{
+  "id": "9a40c52c-e4dd-4ba6-9d87-e3e36e054233",
+  "index": 3782,
+  "period": 2,
+  "timestamp": "00:41:32.689",
+  "minute": 86,
+  "second": 32,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 195,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 6658,
+    "name": "Cristian Tello Herrera"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    111.3,
+    54.0
+  ],
+  "duration": 0.1538,
+  "under_pressure": true,
+  "related_events": [
+    "1dec4811-dc8e-454b-83a6-d4217cc3d538",
+    "ccb03c74-45bb-46ad-8562-6b2e4a5e055b",
+    "d8a17ba2-b43f-4cec-9459-0381393b5f14"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.07153873,
+    "end_location": [
+      112.6,
+      51.5
+    ],
+    "key_pass_id": "a7a68884-6fb3-4625-b332-1f9cae0ad0a0",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.8,
+          41.0
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.0,
+          44.2
+        ],
+        "player": {
+          "id": 25144,
+          "name": "Diego Alves Carreira"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          52.7
+        ],
+        "player": {
+          "id": 5563,
+          "name": "Jos\u00e9 Andr\u00e9s Guardado Hern\u00e1ndez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.8,
+          51.1
+        ],
+        "player": {
+          "id": 19454,
+          "name": "Ricardo Miguel Moreira da Costa"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.3,
+          40.4
+        ],
+        "player": {
+          "id": 3253,
+          "name": "Adil Rami"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.1,
+          35.1
+        ],
+        "player": {
+          "id": 20138,
+          "name": "Jo\u00e3o Pedro da Silva Pereira"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.2,
+          44.8
+        ],
+        "player": {
+          "id": 17083,
+          "name": "Jonas Gon\u00e7alves Oliveira"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.7,
+          52.2
+        ],
+        "player": {
+          "id": 6751,
+          "name": "Javier Fuego Mart\u00ednez"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.2,
+          45.7
+        ],
+        "player": {
+          "id": 6595,
+          "name": "Daniel Parejo Mu\u00f1oz"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

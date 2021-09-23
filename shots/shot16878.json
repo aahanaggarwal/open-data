@@ -1,0 +1,144 @@
+{
+  "id": "3027935d-5202-4b62-88b7-efac696bb538",
+  "index": 130,
+  "period": 1,
+  "timestamp": "00:02:11.080",
+  "minute": 2,
+  "second": 11,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 6,
+  "possession_team": {
+    "id": 767,
+    "name": "Utah Royals"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 767,
+    "name": "Utah Royals"
+  },
+  "player": {
+    "id": 4973,
+    "name": "Diana Matheson"
+  },
+  "position": {
+    "id": 18,
+    "name": "Right Attacking Midfield"
+  },
+  "location": [
+    117.0,
+    46.0
+  ],
+  "duration": 1.013,
+  "related_events": [
+    "1c2bbca8-ff04-4eae-b3e1-2c4f79c12a71"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.24230368,
+    "end_location": [
+      120.0,
+      42.4,
+      2.3
+    ],
+    "key_pass_id": "a56ea434-3b07-42dd-ab7b-1166b0009223",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          114.0,
+          38.0
+        ],
+        "player": {
+          "id": 4972,
+          "name": "Katie Stengel"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.0,
+          29.0
+        ],
+        "player": {
+          "id": 4974,
+          "name": "Mandy Freeman"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          41.0
+        ],
+        "player": {
+          "id": 4989,
+          "name": "Rebekah Stott"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.0,
+          44.0
+        ],
+        "player": {
+          "id": 4970,
+          "name": "Amanda Frisbie"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          43.0
+        ],
+        "player": {
+          "id": 4981,
+          "name": "Kailen Sheridan"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "id": "a34f7814-6d94-4927-a7ec-1af0cd2dd756",
+  "index": 2740,
+  "period": 2,
+  "timestamp": "00:29:37.828",
+  "minute": 74,
+  "second": 37,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 180,
+  "possession_team": {
+    "id": 761,
+    "name": "Chicago Red Stars"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 761,
+    "name": "Chicago Red Stars"
+  },
+  "player": {
+    "id": 33135,
+    "name": "Maria Guadalupe Sanchez Morales"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    91.0,
+    33.2
+  ],
+  "duration": 0.582308,
+  "related_events": [
+    "f9e5bf08-61d4-4653-a221-db3eb934555f"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.16842148,
+    "end_location": [
+      102.4,
+      34.5,
+      0.3
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "first_time": true,
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          96.1,
+          33.4
+        ],
+        "player": {
+          "id": 33318,
+          "name": "Sabrina Flores"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.6,
+          35.4
+        ],
+        "player": {
+          "id": 4981,
+          "name": "Kailen Sheridan"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.1,
+          32.4
+        ],
+        "player": {
+          "id": 4963,
+          "name": "Yuki Nagasato"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          96.1,
+          45.3
+        ],
+        "player": {
+          "id": 16403,
+          "name": "Gina Lewandowski"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          40.6
+        ],
+        "player": {
+          "id": 5098,
+          "name": "Erica Skroski"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

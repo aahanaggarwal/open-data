@@ -1,0 +1,129 @@
+{
+  "id": "1a68e7a1-f44c-4bd0-8c8a-2b76c7e9561b",
+  "index": 307,
+  "period": 1,
+  "timestamp": "00:08:28.180",
+  "minute": 8,
+  "second": 28,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 14,
+  "possession_team": {
+    "id": 793,
+    "name": "Iceland"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 793,
+    "name": "Iceland"
+  },
+  "player": {
+    "id": 5514,
+    "name": "Alfre\u00f0 Finnbogason"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    115.0,
+    57.0
+  ],
+  "duration": 1.013,
+  "related_events": [
+    "c1869430-7f35-4b7e-af38-f071d2a77dfb"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.049077753,
+    "end_location": [
+      120.0,
+      44.4,
+      4.0
+    ],
+    "key_pass_id": "37716c21-8dd8-453a-8ba1-fa07b4d685b5",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.0,
+          48.0
+        ],
+        "player": {
+          "id": 3659,
+          "name": "Wilfredo Daniel Caballero"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          37.0
+        ],
+        "player": {
+          "id": 5513,
+          "name": "Eduardo Antonio Salvio"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          54.0
+        ],
+        "player": {
+          "id": 3090,
+          "name": "Nicol\u00e1s Hern\u00e1n Otamendi"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          58.0
+        ],
+        "player": {
+          "id": 3602,
+          "name": "Faustino Marcos Alberto Rojo"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

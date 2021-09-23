@@ -1,0 +1,204 @@
+{
+  "id": "a9dfeb5a-0d55-43e2-84ef-cc53e3c86f47",
+  "index": 2148,
+  "period": 2,
+  "timestamp": "00:11:54.140",
+  "minute": 56,
+  "second": 54,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 112,
+  "possession_team": {
+    "id": 444,
+    "name": "Numancia"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 444,
+    "name": "Numancia"
+  },
+  "player": {
+    "id": 26394,
+    "name": "Javier Del Pino Gonz\u00e1lez"
+  },
+  "position": {
+    "id": 20,
+    "name": "Left Attacking Midfield"
+  },
+  "location": [
+    110.5,
+    53.7
+  ],
+  "duration": 0.1694,
+  "related_events": [
+    "ac27a317-a598-46c3-bcc8-2e69508caa0d",
+    "f38eec48-536e-4849-ba5b-ffd47bc1cb81"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.027781125,
+    "end_location": [
+      111.3,
+      52.7
+    ],
+    "key_pass_id": "82ce9295-c7d0-457b-a501-a7e39556f9b7",
+    "first_time": true,
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          94.4,
+          55.4
+        ],
+        "player": {
+          "id": 26247,
+          "name": "Domingo Nagore Arbizu"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          96.2,
+          50.5
+        ],
+        "player": {
+          "id": 3087,
+          "name": "Gn\u00e9gn\u00e9ri Yaya Tour\u00e9"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.9,
+          47.9
+        ],
+        "player": {
+          "id": 26525,
+          "name": "Asier Goiria Etxebarria"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.7,
+          48.3
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.4,
+          51.0
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.1,
+          51.3
+        ],
+        "player": {
+          "id": 20177,
+          "name": "Eric-Sylvain Bilal Abidal"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.3,
+          52.3
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.2,
+          41.2
+        ],
+        "player": {
+          "id": 26226,
+          "name": "Jos\u00e9 Javier Barkero Saludes"
+        },
+        "position": {
+          "id": 18,
+          "name": "Right Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.8,
+          42.8
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

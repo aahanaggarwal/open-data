@@ -1,0 +1,145 @@
+{
+  "id": "4f0d01a7-657d-4104-8341-757a2684d1f4",
+  "index": 1766,
+  "period": 1,
+  "timestamp": "00:42:30.531",
+  "minute": 42,
+  "second": 30,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 111,
+  "possession_team": {
+    "id": 762,
+    "name": "Houston Dash"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 762,
+    "name": "Houston Dash"
+  },
+  "player": {
+    "id": 5059,
+    "name": "Kyah Simon"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    98.6,
+    42.5
+  ],
+  "duration": 1.254825,
+  "under_pressure": true,
+  "related_events": [
+    "719b5f5e-bd84-4b93-88d9-59452d1fd476",
+    "d0c4c791-f397-4d78-b4f8-1e1c5e744448"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.1146222,
+    "end_location": [
+      120.0,
+      43.0,
+      0.2
+    ],
+    "key_pass_id": "5271fcf6-29d7-4367-bd6d-ba2c6b7a2a08",
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          77.0,
+          15.7
+        ],
+        "player": {
+          "id": 5051,
+          "name": "Kealia Ohai"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          94.4,
+          46.1
+        ],
+        "player": {
+          "id": 5057,
+          "name": "Kaleigh Kurtz"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          41.8
+        ],
+        "player": {
+          "id": 5041,
+          "name": "Cari Roccaro"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.9,
+          22.6
+        ],
+        "player": {
+          "id": 5083,
+          "name": "Merritt Mathias"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.2,
+          41.5
+        ],
+        "player": {
+          "id": 5048,
+          "name": "Katelyn Rowland"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

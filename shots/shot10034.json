@@ -1,0 +1,174 @@
+{
+  "id": "5d63f903-08ad-4d4c-9c1f-2bba52df7ff1",
+  "index": 2333,
+  "period": 2,
+  "timestamp": "00:03:26.531",
+  "minute": 48,
+  "second": 26,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 84,
+  "possession_team": {
+    "id": 1043,
+    "name": "Mallorca"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 1043,
+    "name": "Mallorca"
+  },
+  "player": {
+    "id": 24191,
+    "name": "Alejandro Alfaro Ligero"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    115.2,
+    43.8
+  ],
+  "duration": 0.886907,
+  "related_events": [
+    "7b22e7e6-8342-43fc-a080-72e3595f668d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.24936448,
+    "end_location": [
+      120.0,
+      45.5,
+      1.3
+    ],
+    "key_pass_id": "c72211d5-8d2b-4c00-bfb0-ba240a70b97a",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.1,
+          29.8
+        ],
+        "player": {
+          "id": 26671,
+          "name": "Micha\u00ebl Pereira"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.9,
+          36.5
+        ],
+        "player": {
+          "id": 23791,
+          "name": "V\u00edctor Casades\u00fas Casta\u00f1o"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.5,
+          50.2
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.2,
+          32.7
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.1,
+          37.4
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          43.1
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          42.2
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

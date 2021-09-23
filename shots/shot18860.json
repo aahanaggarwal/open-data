@@ -1,0 +1,158 @@
+{
+  "id": "469cc7b3-62c7-4440-80d0-4e7709c0b236",
+  "index": 1074,
+  "period": 1,
+  "timestamp": "00:25:39.331",
+  "minute": 25,
+  "second": 39,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 54,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 20131,
+    "name": "Xavier Hern\u00e1ndez Creus"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    112.9,
+    45.7
+  ],
+  "duration": 0.925525,
+  "related_events": [
+    "0c55c135-afe2-4d54-9610-ef1d96989bbe"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.15746245,
+    "end_location": [
+      120.0,
+      43.9,
+      3.5
+    ],
+    "key_pass_id": "e880dbb5-ad34-4bb0-a26b-936a45053d50",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.6,
+          37.3
+        ],
+        "player": {
+          "id": 26163,
+          "name": "Marc Torrej\u00f3n Moya"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.4,
+          36.2
+        ],
+        "player": {
+          "id": 26110,
+          "name": "Daniel Jarque Gonzalez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.9,
+          42.3
+        ],
+        "player": {
+          "id": 26084,
+          "name": "I\u00f1aki Lafuente Sancha"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.1,
+          46.9
+        ],
+        "player": {
+          "id": 26170,
+          "name": "Francisco Javier Chica Torres"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.3,
+          38.0
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.3,
+          46.4
+        ],
+        "player": {
+          "id": 5987,
+          "name": "Giovani dos Santos Ram\u00edrez"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

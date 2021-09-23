@@ -1,0 +1,142 @@
+{
+  "id": "fc3c697c-6a57-44e3-a638-97489b637906",
+  "index": 1179,
+  "period": 1,
+  "timestamp": "00:25:27.031",
+  "minute": 25,
+  "second": 27,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 56,
+  "possession_team": {
+    "id": 208,
+    "name": "Las Palmas"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 208,
+    "name": "Las Palmas"
+  },
+  "player": {
+    "id": 6930,
+    "name": "Jonathan Calleri"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    108.1,
+    53.1
+  ],
+  "duration": 0.14089,
+  "related_events": [
+    "e45e3bb8-e15d-41ab-bced-15b876c1ac75",
+    "ef5577e4-8e33-4e93-88f0-84d12c355563"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.022207895,
+    "end_location": [
+      109.5,
+      51.9
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          93.2,
+          31.8
+        ],
+        "player": {
+          "id": 10755,
+          "name": "Jonathan Viera Ramos"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.5,
+          51.8
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.5,
+          46.8
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.9,
+          33.2
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.8,
+          43.4
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

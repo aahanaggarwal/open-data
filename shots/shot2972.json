@@ -1,0 +1,191 @@
+{
+  "id": "153153c0-a017-4e93-ae50-531401a4ad9f",
+  "index": 2823,
+  "period": 2,
+  "timestamp": "00:28:41.558",
+  "minute": 73,
+  "second": 41,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 170,
+  "possession_team": {
+    "id": 858,
+    "name": "Sweden Women's"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 858,
+    "name": "Sweden Women's"
+  },
+  "player": {
+    "id": 25696,
+    "name": "Madelen Janogy"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    112.6,
+    45.2
+  ],
+  "duration": 1.863708,
+  "under_pressure": true,
+  "related_events": [
+    "3b403e7c-d60b-43a3-b2af-3e62357cf42d",
+    "c0f31c47-df5b-4ef1-8204-00a1b94bc1e0"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.09616675,
+    "end_location": [
+      118.7,
+      42.1,
+      1.7
+    ],
+    "key_pass_id": "bd9fd3a7-8160-4502-859a-327d64417853",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "aerial_won": true,
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.9,
+          42.0
+        ],
+        "player": {
+          "id": 25813,
+          "name": "Waraporn Boonsing"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.3,
+          39.2
+        ],
+        "player": {
+          "id": 25697,
+          "name": "Lina Hurtig"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.6,
+          37.7
+        ],
+        "player": {
+          "id": 10205,
+          "name": "Olivia Alma Charlotta Schough"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.0,
+          38.2
+        ],
+        "player": {
+          "id": 25673,
+          "name": "Suchawadee Nildhamrong"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.9,
+          40.9
+        ],
+        "player": {
+          "id": 25670,
+          "name": "Pikul Khueanpet"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.4,
+          41.4
+        ],
+        "player": {
+          "id": 25812,
+          "name": "Pitsamai Sornsai"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          53.3
+        ],
+        "player": {
+          "id": 25676,
+          "name": "Silawan Intamee"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.6,
+          44.7
+        ],
+        "player": {
+          "id": 25675,
+          "name": "Sunisa Srangthaisong"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

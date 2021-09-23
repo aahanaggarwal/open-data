@@ -1,0 +1,161 @@
+{
+  "id": "ada155bd-aaa7-491a-ab70-7e2511f4a7b5",
+  "index": 773,
+  "period": 1,
+  "timestamp": "00:17:17.235",
+  "minute": 17,
+  "second": 17,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 40,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5246,
+    "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    107.9,
+    47.3
+  ],
+  "duration": 1.050399,
+  "under_pressure": true,
+  "related_events": [
+    "463f0aa8-3c31-459b-a138-66f6bf5c3a13",
+    "5ed838af-ade4-434a-a89d-d43f15298670"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.4601916,
+    "end_location": [
+      120.0,
+      36.9,
+      0.1
+    ],
+    "key_pass_id": "b2f4fb9f-0948-4de7-b0a4-2cc6b10b5fea",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.5,
+          43.5
+        ],
+        "player": {
+          "id": 6768,
+          "name": "Diego L\u00f3pez Rodr\u00edguez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.4,
+          46.6
+        ],
+        "player": {
+          "id": 16539,
+          "name": "Diego Antonio Reyes Rosales"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.9,
+          47.3
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.2,
+          26.5
+        ],
+        "player": {
+          "id": 4320,
+          "name": "Neymar da Silva Santos Junior"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          92.4,
+          48.2
+        ],
+        "player": {
+          "id": 6757,
+          "name": "Aar\u00f3n Mart\u00edn Caricol"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          37.2
+        ],
+        "player": {
+          "id": 6754,
+          "name": "David L\u00f3pez Silva"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

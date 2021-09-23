@@ -1,0 +1,188 @@
+{
+  "id": "878471e5-2324-4599-9ddf-7de3cb439748",
+  "index": 935,
+  "period": 1,
+  "timestamp": "00:15:00.931",
+  "minute": 15,
+  "second": 0,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 32,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3958,
+    "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    103.6,
+    56.2
+  ],
+  "duration": 0.7471,
+  "related_events": [
+    "f8c94bf1-0a4f-4970-a48b-d20f31d5bef6"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.037996076,
+    "end_location": [
+      116.4,
+      42.2,
+      1.1
+    ],
+    "key_pass_id": "fe94635f-a1af-4e09-b465-8043dc612ca6",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.0,
+          41.9
+        ],
+        "player": {
+          "id": 6755,
+          "name": "Sergio Asenjo Andr\u00e9s"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.8,
+          54.8
+        ],
+        "player": {
+          "id": 26731,
+          "name": "Patrick Jan Mtiliga"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          52.9
+        ],
+        "player": {
+          "id": 26669,
+          "name": "Weligton R\u00f3bson Pena de Oliveira"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.5,
+          38.7
+        ],
+        "player": {
+          "id": 19288,
+          "name": "Mart\u00edn Gast\u00f3n Demichelis"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.2,
+          29.4
+        ],
+        "player": {
+          "id": 26233,
+          "name": "Manuel Gaspar Haro"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.3,
+          41.8
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          96.6,
+          27.3
+        ],
+        "player": {
+          "id": 12737,
+          "name": "David Villa S\u00e1nchez"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          95.6,
+          40.7
+        ],
+        "player": {
+          "id": 8234,
+          "name": "Ignacio Camacho Barnola"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

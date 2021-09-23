@@ -1,0 +1,128 @@
+{
+  "id": "7c179f07-8044-488f-ab02-e5b8debcf38a",
+  "index": 2902,
+  "period": 2,
+  "timestamp": "00:39:28.037",
+  "minute": 84,
+  "second": 28,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 201,
+  "possession_team": {
+    "id": 760,
+    "name": "Seattle Reign"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 760,
+    "name": "Seattle Reign"
+  },
+  "player": {
+    "id": 5001,
+    "name": "Allie Long"
+  },
+  "position": {
+    "id": 9,
+    "name": "Right Defensive Midfield"
+  },
+  "location": [
+    110.0,
+    36.0
+  ],
+  "duration": 1.363,
+  "related_events": [
+    "b8721458-7774-4dc1-b32f-eb42bd805c7b"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.38728505,
+    "end_location": [
+      120.0,
+      43.8,
+      0.9
+    ],
+    "key_pass_id": "b05f46c1-8a31-4186-9f9b-b4045f9e3cef",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          114.0,
+          37.0
+        ],
+        "player": {
+          "id": 5056,
+          "name": "Jane Campbell"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          28.0
+        ],
+        "player": {
+          "id": 4959,
+          "name": "Taylor Comeau"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          38.0
+        ],
+        "player": {
+          "id": 5045,
+          "name": "Amber Brooks"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          17.0
+        ],
+        "player": {
+          "id": 5077,
+          "name": "Jasmyne Spencer"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

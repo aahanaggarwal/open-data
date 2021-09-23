@@ -1,0 +1,144 @@
+{
+  "id": "82a7e579-168a-4242-85e7-d8588c678478",
+  "index": 1176,
+  "period": 1,
+  "timestamp": "00:24:43.680",
+  "minute": 24,
+  "second": 43,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 44,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3478,
+    "name": "Francesc F\u00e0bregas i Soler"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    102.2,
+    39.0
+  ],
+  "duration": 0.3044,
+  "related_events": [
+    "e2300a45-59e5-4fd6-a1b8-f35c5d19388b"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.49908817,
+    "end_location": [
+      106.2,
+      39.6,
+      0.9
+    ],
+    "key_pass_id": "7fd27d3a-1123-4262-82ad-4a8bd5a1af3e",
+    "first_time": true,
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          107.5,
+          39.7
+        ],
+        "player": {
+          "id": 8697,
+          "name": "Andr\u00e9s Eduardo Fern\u00e1ndez Moreno"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          87.4,
+          48.6
+        ],
+        "player": {
+          "id": 25874,
+          "name": "Francisco Pu\u00f1al Mart\u00ednez"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.3,
+          35.1
+        ],
+        "player": {
+          "id": 26807,
+          "name": "Marc Bertr\u00e1n Vilanova"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          40.4
+        ],
+        "player": {
+          "id": 26068,
+          "name": "Rub\u00e9n Gonz\u00e1lez Rocha"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.5,
+          22.0
+        ],
+        "player": {
+          "id": 12737,
+          "name": "David Villa S\u00e1nchez"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

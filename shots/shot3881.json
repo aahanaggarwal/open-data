@@ -1,0 +1,114 @@
+{
+  "id": "07eeb9bb-dd06-4cdf-bb4c-6ceb51a7f0a6",
+  "index": 2907,
+  "period": 2,
+  "timestamp": "00:32:53.564",
+  "minute": 77,
+  "second": 53,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 169,
+  "possession_team": {
+    "id": 974,
+    "name": "Reading WFC"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 974,
+    "name": "Reading WFC"
+  },
+  "player": {
+    "id": 15725,
+    "name": "Natasha Harding"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    103.9,
+    34.6
+  ],
+  "duration": 0.136235,
+  "related_events": [
+    "99f34ee7-54db-4416-8729-500ee035f785",
+    "aefcacb5-c47a-41df-92de-783a6d70e096"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.084310465,
+    "end_location": [
+      104.6,
+      34.8
+    ],
+    "key_pass_id": "730d6a77-58ca-4caf-b23d-e1261c95178b",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          114.9,
+          37.4
+        ],
+        "player": {
+          "id": 15626,
+          "name": "Anke Preu\u00df"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.4,
+          25.9
+        ],
+        "player": {
+          "id": 15614,
+          "name": "Sophie Elizabeth Bradley-Auckland"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.8,
+          34.9
+        ],
+        "player": {
+          "id": 15630,
+          "name": "Leigh-Anne Robe"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

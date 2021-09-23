@@ -1,0 +1,143 @@
+{
+  "id": "875c002e-59f9-4053-a2c1-a35369f42bcb",
+  "index": 3220,
+  "period": 2,
+  "timestamp": "00:34:22.601",
+  "minute": 79,
+  "second": 22,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 156,
+  "possession_team": {
+    "id": 213,
+    "name": "Sevilla"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 213,
+    "name": "Sevilla"
+  },
+  "player": {
+    "id": 24507,
+    "name": "Manuel del Moral Fern\u00e1ndez"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    94.9,
+    22.8
+  ],
+  "duration": 1.122568,
+  "related_events": [
+    "3349d332-cee0-44a4-9c81-50d0db3b2dca"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.01680612,
+    "end_location": [
+      120.0,
+      34.2,
+      0.7
+    ],
+    "key_pass_id": "5b08b487-6d68-4fc6-8a7e-51cc235d801e",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          83.2,
+          44.6
+        ],
+        "player": {
+          "id": 6821,
+          "name": "Jes\u00fas Navas Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          93.3,
+          40.1
+        ],
+        "player": {
+          "id": 5211,
+          "name": "Jordi Alba Ramos"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.2,
+          14.8
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.3,
+          22.3
+        ],
+        "player": {
+          "id": 27053,
+          "name": "Alexandre Dimitri Song-Billong"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.2,
+          38.8
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

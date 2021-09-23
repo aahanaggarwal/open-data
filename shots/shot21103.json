@@ -1,0 +1,188 @@
+{
+  "id": "a489dbb0-1a59-4138-90ff-0d4cf640666d",
+  "index": 2308,
+  "period": 2,
+  "timestamp": "00:15:57.027",
+  "minute": 60,
+  "second": 57,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 155,
+  "possession_team": {
+    "id": 782,
+    "name": "Belgium"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 782,
+    "name": "Belgium"
+  },
+  "player": {
+    "id": 5633,
+    "name": "Yannick Ferreira Carrasco"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    102.0,
+    29.0
+  ],
+  "duration": 1.213,
+  "related_events": [
+    "38171a7c-394c-4503-bfe5-3706a7e8a868"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.041763276,
+    "end_location": [
+      120.0,
+      45.0,
+      2.1
+    ],
+    "key_pass_id": "e2784861-4582-4efc-a3c5-10c566d99204",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.0,
+          29.0
+        ],
+        "player": {
+          "id": 5936,
+          "name": "Hamdi Nagguez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          38.0
+        ],
+        "player": {
+          "id": 4826,
+          "name": "Yohan Benalouane"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          45.0
+        ],
+        "player": {
+          "id": 5651,
+          "name": "Yassine Meriah"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          41.0
+        ],
+        "player": {
+          "id": 5648,
+          "name": "Farouk Ben Mustapha"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.0,
+          36.0
+        ],
+        "player": {
+          "id": 2974,
+          "name": "Sa\u00eef-Eddine Khaoui"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.0,
+          46.0
+        ],
+        "player": {
+          "id": 3767,
+          "name": "Ellyes Skhiri"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          34.0
+        ],
+        "player": {
+          "id": 3621,
+          "name": "Eden Hazard"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.0,
+          44.0
+        ],
+        "player": {
+          "id": 5630,
+          "name": "Dries Mertens"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

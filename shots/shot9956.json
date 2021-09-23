@@ -1,0 +1,189 @@
+{
+  "id": "47c6b188-1dd8-4011-a189-5a8388ba6003",
+  "index": 2083,
+  "period": 2,
+  "timestamp": "00:23:23.615",
+  "minute": 68,
+  "second": 23,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 144,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19298,
+    "name": "Samuel Eto\"o Fils"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    108.3,
+    39.8
+  ],
+  "duration": 1.165053,
+  "related_events": [
+    "5c5fe307-d1a2-41e0-a1fe-888b5449a7c0"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.09636381,
+    "end_location": [
+      120.0,
+      39.5,
+      7.4
+    ],
+    "key_pass_id": "5dbfc74c-e63f-4630-8715-44fc6f45a23e",
+    "first_time": true,
+    "technique": {
+      "id": 94,
+      "name": "Overhead Kick"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          107.4,
+          47.9
+        ],
+        "player": {
+          "id": 19296,
+          "name": "Mark van Bommel"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.3,
+          45.4
+        ],
+        "player": {
+          "id": 26102,
+          "name": "Ferr\u00e1n Corominas Telechea"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.1,
+          39.2
+        ],
+        "player": {
+          "id": 24797,
+          "name": "Didier Domi"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.6,
+          40.1
+        ],
+        "player": {
+          "id": 26103,
+          "name": "Idriss Carlos Kameni"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          31.0
+        ],
+        "player": {
+          "id": 26110,
+          "name": "Daniel Jarque Gonzalez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.8,
+          27.8
+        ],
+        "player": {
+          "id": 26107,
+          "name": "Alberto Lopo Garc\u00eda"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.9,
+          18.1
+        ],
+        "player": {
+          "id": 26106,
+          "name": "Armando Miguel Correia de Sa"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.9,
+          15.0
+        ],
+        "player": {
+          "id": 17797,
+          "name": "Giovanni van Bronckhorst"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

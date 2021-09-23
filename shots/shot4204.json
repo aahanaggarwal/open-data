@@ -1,0 +1,204 @@
+{
+  "id": "251d27f9-f259-4edf-ba21-4a2abf9869b6",
+  "index": 1321,
+  "period": 1,
+  "timestamp": "00:27:20.879",
+  "minute": 27,
+  "second": 20,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 62,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "out": true,
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    115.3,
+    52.3
+  ],
+  "duration": 0.343812,
+  "related_events": [
+    "8acde499-ecd4-4148-abac-154c81356c1c"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.058095574,
+    "end_location": [
+      117.5,
+      0.1
+    ],
+    "key_pass_id": "ada1a42d-2bf6-4ff7-92b9-a5e9e50192a4",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 101,
+      "name": "Wayward"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          115.0,
+          50.7
+        ],
+        "player": {
+          "id": 6652,
+          "name": "Jordi Amat Maas"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.6,
+          51.5
+        ],
+        "player": {
+          "id": 26170,
+          "name": "Francisco Javier Chica Torres"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.1,
+          52.2
+        ],
+        "player": {
+          "id": 26667,
+          "name": "Ra\u00fal Rodr\u00edguez Navarro"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.6,
+          44.0
+        ],
+        "player": {
+          "id": 26103,
+          "name": "Idriss Carlos Kameni"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.7,
+          45.6
+        ],
+        "player": {
+          "id": 6791,
+          "name": "Javier L\u00f3pez Rodr\u00edguez"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.4,
+          38.9
+        ],
+        "player": {
+          "id": 24147,
+          "name": "Ernesto Gal\u00e1n I\u00f1igo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.8,
+          56.2
+        ],
+        "player": {
+          "id": 24783,
+          "name": "Javier M\u00e1rquez Moreno"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.6,
+          56.6
+        ],
+        "player": {
+          "id": 4324,
+          "name": "Daniel Alves da Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.9,
+          42.5
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

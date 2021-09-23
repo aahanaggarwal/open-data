@@ -1,0 +1,173 @@
+{
+  "id": "ccf177ac-cb13-4c21-b814-3152befcbfa7",
+  "index": 2769,
+  "period": 2,
+  "timestamp": "00:25:39.416",
+  "minute": 70,
+  "second": 39,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 167,
+  "possession_team": {
+    "id": 1205,
+    "name": "Australia Women's"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1205,
+    "name": "Australia Women's"
+  },
+  "player": {
+    "id": 6818,
+    "name": "Hayley Raso"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    107.6,
+    41.8
+  ],
+  "duration": 0.2482,
+  "related_events": [
+    "269058cf-c0b8-4e49-a6a7-add26166b1b1",
+    "fd07162f-a0fa-4618-a00b-9acd0d7fe415"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.14534415,
+    "end_location": [
+      108.6,
+      41.6
+    ],
+    "key_pass_id": "fdfe1eff-532d-4df1-8b0f-8a6f066cb7cc",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          116.7,
+          41.0
+        ],
+        "player": {
+          "id": 10394,
+          "name": "Ingrid Hjelmseth"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.1,
+          46.3
+        ],
+        "player": {
+          "id": 10393,
+          "name": "Kristine Minde"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.7,
+          42.4
+        ],
+        "player": {
+          "id": 24374,
+          "name": "Ingrid Syrstad Engen"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.6,
+          39.7
+        ],
+        "player": {
+          "id": 25466,
+          "name": "Vilde B\u00f8e Risa"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          36.5
+        ],
+        "player": {
+          "id": 10395,
+          "name": "Maren N\u00e6vdal Mjelde"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.7,
+          41.5
+        ],
+        "player": {
+          "id": 4636,
+          "name": "Maria Thorisdottir"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.4,
+          47.4
+        ],
+        "player": {
+          "id": 25549,
+          "name": "Tameka Butt"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

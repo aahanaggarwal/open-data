@@ -1,0 +1,174 @@
+{
+  "id": "b7af90a3-6b36-4c0f-8042-029aad271a68",
+  "index": 2177,
+  "period": 2,
+  "timestamp": "00:18:52.744",
+  "minute": 63,
+  "second": 52,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 144,
+  "possession_team": {
+    "id": 972,
+    "name": "West Ham United LFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 972,
+    "name": "West Ham United LFC"
+  },
+  "player": {
+    "id": 4653,
+    "name": "Jane Ross"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    104.1,
+    52.3
+  ],
+  "duration": 0.1058,
+  "related_events": [
+    "c0fbd07f-acd4-4f47-9e1b-1dfc8d645dc0",
+    "c6134f78-4edc-423e-a59a-a0a783384136"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.082572415,
+    "end_location": [
+      105.9,
+      49.1
+    ],
+    "key_pass_id": "3fc32676-9ffa-4ee5-b701-1c985ff433c6",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.0,
+          36.2
+        ],
+        "player": {
+          "id": 4642,
+          "name": "Millie Bright"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.5,
+          40.3
+        ],
+        "player": {
+          "id": 4633,
+          "name": "Magdalena Ericsson"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.4,
+          45.3
+        ],
+        "player": {
+          "id": 21062,
+          "name": "Alexandra Riley"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.3,
+          48.3
+        ],
+        "player": {
+          "id": 4638,
+          "name": "Drew Spence"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.1,
+          40.3
+        ],
+        "player": {
+          "id": 19421,
+          "name": "Carly Mitchell Telford"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.9,
+          38.3
+        ],
+        "player": {
+          "id": 18153,
+          "name": "Alisha Lehmann"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          95.5,
+          42.2
+        ],
+        "player": {
+          "id": 18147,
+          "name": "Kate Longhurst"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

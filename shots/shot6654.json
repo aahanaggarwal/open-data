@@ -1,0 +1,188 @@
+{
+  "id": "0458b135-c2f2-4ae5-813e-e182023add16",
+  "index": 1851,
+  "period": 2,
+  "timestamp": "00:07:58.324",
+  "minute": 52,
+  "second": 58,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 109,
+  "possession_team": {
+    "id": 863,
+    "name": "Spain Women's"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 863,
+    "name": "Spain Women's"
+  },
+  "player": {
+    "id": 25513,
+    "name": "Luc\u00eda Garc\u00eda C\u00f3rdoba"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    100.3,
+    52.5
+  ],
+  "duration": 0.1139,
+  "related_events": [
+    "5cb6d089-cea8-498b-ac28-0c286030c408",
+    "ba158e06-5d38-47c3-8913-8adee9799119"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.016494803,
+    "end_location": [
+      101.1,
+      52.1
+    ],
+    "key_pass_id": "7bf9f3cb-4ca9-4cbf-b66b-b080676f2fb2",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          101.6,
+          52.0
+        ],
+        "player": {
+          "id": 5030,
+          "name": "Becky Sauerbrunn"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          40.9
+        ],
+        "player": {
+          "id": 5081,
+          "name": "Abby Dahlkemper"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.3,
+          39.5
+        ],
+        "player": {
+          "id": 25510,
+          "name": "Nahikari Garc\u00eda P\u00e9rez"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          83.9,
+          33.2
+        ],
+        "player": {
+          "id": 10143,
+          "name": "Alexia Putellas Segura"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.4,
+          34.2
+        ],
+        "player": {
+          "id": 5021,
+          "name": "Kelley O\"Hara"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.5,
+          51.2
+        ],
+        "player": {
+          "id": 5013,
+          "name": "Tobin Heath"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.5,
+          52.9
+        ],
+        "player": {
+          "id": 5088,
+          "name": "Crystal Alyssia Dunn"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.4,
+          43.2
+        ],
+        "player": {
+          "id": 5100,
+          "name": "Alyssa Naeher"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

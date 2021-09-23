@@ -1,0 +1,293 @@
+{
+  "id": "6ae325fe-08fe-4620-9fc6-3c95e571db04",
+  "index": 1226,
+  "period": 1,
+  "timestamp": "00:30:16.350",
+  "minute": 30,
+  "second": 16,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 66,
+  "possession_team": {
+    "id": 784,
+    "name": "Peru"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 784,
+    "name": "Peru"
+  },
+  "player": {
+    "id": 5535,
+    "name": "Jos\u00e9 Paolo Guerrero Gonz\u00e1lez"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    110.0,
+    33.0
+  ],
+  "duration": 0.493,
+  "related_events": [
+    "ad902811-4255-4872-8840-eb5ae43a785c"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.13734727,
+    "end_location": [
+      119.0,
+      38.5,
+      0.2
+    ],
+    "key_pass_id": "75b49f24-5a31-4905-a005-da3063c9d271",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.0,
+          24.0
+        ],
+        "player": {
+          "id": 5476,
+          "name": "Benjamin Pavard"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          19.0
+        ],
+        "player": {
+          "id": 3961,
+          "name": "N\"Golo Kant\u00e9"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          36.0
+        ],
+        "player": {
+          "id": 5492,
+          "name": "Samuel Yves Umtiti"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          40.0
+        ],
+        "player": {
+          "id": 3099,
+          "name": "Hugo Lloris"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          46.0
+        ],
+        "player": {
+          "id": 5484,
+          "name": "Lucas Hern\u00e1ndez Pi"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          33.0
+        ],
+        "player": {
+          "id": 5487,
+          "name": "Antoine Griezmann"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          48.0
+        ],
+        "player": {
+          "id": 4375,
+          "name": "Blaise Matuidi"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          87.0,
+          10.0
+        ],
+        "player": {
+          "id": 3009,
+          "name": "Kylian Mbapp\u00e9 Lottin"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          26.0
+        ],
+        "player": {
+          "id": 5525,
+          "name": "\u00c9dison Michael Flores Peralta"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          84.0,
+          14.0
+        ],
+        "player": {
+          "id": 5518,
+          "name": "Miguel \u00c1ngel Trauco Saavedra"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.0,
+          21.0
+        ],
+        "player": {
+          "id": 5519,
+          "name": "Christian Alberto Cueva Bravo"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          96.0,
+          26.0
+        ],
+        "player": {
+          "id": 5529,
+          "name": "V\u00edctor Yoshimar Yot\u00fan Flores"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.0,
+          52.0
+        ],
+        "player": {
+          "id": 3632,
+          "name": "Andr\u00e9 Mart\u00edn Carrillo D\u00edaz"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.0,
+          30.0
+        ],
+        "player": {
+          "id": 20004,
+          "name": "Paul Pogba"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          31.0
+        ],
+        "player": {
+          "id": 5485,
+          "name": "Rapha\u00ebl Varane"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

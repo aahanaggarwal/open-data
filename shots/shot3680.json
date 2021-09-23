@@ -1,0 +1,143 @@
+{
+  "id": "0418a9b5-ac80-4110-880a-f8aa30c2bb93",
+  "index": 1867,
+  "period": 1,
+  "timestamp": "00:39:21.294",
+  "minute": 39,
+  "second": 21,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 98,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5216,
+    "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    113.2,
+    47.1
+  ],
+  "duration": 0.524,
+  "related_events": [
+    "92cefe3a-45fa-4684-80e1-843775ea5be7"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.2017039,
+    "end_location": [
+      120.0,
+      42.2,
+      2.4
+    ],
+    "key_pass_id": "2f05216e-dbff-4728-9e41-cdd6b539bab8",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.5,
+          37.1
+        ],
+        "player": {
+          "id": 3385,
+          "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.0,
+          41.2
+        ],
+        "player": {
+          "id": 6617,
+          "name": "Ibai G\u00f3mez P\u00e9rez"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.2,
+          46.0
+        ],
+        "player": {
+          "id": 26736,
+          "name": "Borja Ekiza Imaz"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.4,
+          49.2
+        ],
+        "player": {
+          "id": 26788,
+          "name": "Jon Aurtenetxe Borde"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          42.9
+        ],
+        "player": {
+          "id": 6576,
+          "name": "Gorka Iraizoz Moreno"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

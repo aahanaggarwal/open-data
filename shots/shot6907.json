@@ -1,0 +1,236 @@
+{
+  "id": "4c3d0925-915c-4636-9ad8-e6df8988e9a4",
+  "index": 1868,
+  "period": 2,
+  "timestamp": "00:01:34.307",
+  "minute": 46,
+  "second": 34,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 92,
+  "possession_team": {
+    "id": 790,
+    "name": "Sweden"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 790,
+    "name": "Sweden"
+  },
+  "player": {
+    "id": 11098,
+    "name": "Marcus Berg"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    113.0,
+    48.0
+  ],
+  "duration": 0.6,
+  "under_pressure": true,
+  "related_events": [
+    "4f791a44-990b-4174-b8ee-1a7298944d06",
+    "e453e95d-ae6c-4988-9ef5-9fcffd14f3c8"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.027764944,
+    "end_location": [
+      120.0,
+      43.2,
+      0.6
+    ],
+    "key_pass_id": "294650d3-a996-4f21-b012-913733ba7887",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "aerial_won": true,
+    "freeze_frame": [
+      {
+        "location": [
+          113.0,
+          47.0
+        ],
+        "player": {
+          "id": 3612,
+          "name": "Ashley Young"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          37.0
+        ],
+        "player": {
+          "id": 3094,
+          "name": "Bamidele Alli"
+        },
+        "position": {
+          "id": 20,
+          "name": "Left Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          44.0
+        ],
+        "player": {
+          "id": 3336,
+          "name": "Harry Maguire"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          37.0
+        ],
+        "player": {
+          "id": 3244,
+          "name": "John Stones"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          29.0
+        ],
+        "player": {
+          "id": 3205,
+          "name": "Kyle Walker"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          21.0
+        ],
+        "player": {
+          "id": 3532,
+          "name": "Jordan Brian Henderson"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          19.0
+        ],
+        "player": {
+          "id": 5613,
+          "name": "Viktor Claesson"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.0,
+          25.0
+        ],
+        "player": {
+          "id": 5624,
+          "name": "Albin Ekdal"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.0,
+          31.0
+        ],
+        "player": {
+          "id": 5625,
+          "name": "Emil Forsberg"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.0,
+          34.0
+        ],
+        "player": {
+          "id": 4417,
+          "name": "Ola Toivonen"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          120.0,
+          42.0
+        ],
+        "player": {
+          "id": 3468,
+          "name": "Jordan Pickford"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

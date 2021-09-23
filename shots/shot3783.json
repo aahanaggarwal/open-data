@@ -1,0 +1,143 @@
+{
+  "id": "5a16672d-ea51-46cd-b490-559a54ae14c1",
+  "index": 1700,
+  "period": 1,
+  "timestamp": "00:36:42.247",
+  "minute": 36,
+  "second": 42,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 91,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    106.5,
+    27.4
+  ],
+  "duration": 0.0916,
+  "related_events": [
+    "17140cc6-6afb-44b6-bbd1-009450501b1a",
+    "79b80e41-e831-4b11-945a-f8f0e0462dd2"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.04714247,
+    "end_location": [
+      107.9,
+      28.6
+    ],
+    "key_pass_id": "d9b24d5c-d1b7-4004-90cb-78e328623a08",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          107.5,
+          28.8
+        ],
+        "player": {
+          "id": 26784,
+          "name": "Paulo Afonso Santos J\u00fanior"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.2,
+          35.4
+        ],
+        "player": {
+          "id": 6396,
+          "name": "Be\u00f1at Etxebarria Urkiaga"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.2,
+          36.1
+        ],
+        "player": {
+          "id": 11543,
+          "name": "Jos\u00e9 Antonio Dorado Ram\u00edrez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.1,
+          44.9
+        ],
+        "player": {
+          "id": 25892,
+          "name": "Ignacio P\u00e9rez Santamar\u00eda"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.7,
+          36.9
+        ],
+        "player": {
+          "id": 23815,
+          "name": "Casto Espinosa Barriga"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

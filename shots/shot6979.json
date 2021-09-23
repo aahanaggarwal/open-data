@@ -1,0 +1,191 @@
+{
+  "id": "def49e2b-7067-4267-ae7c-1517caf0e3ad",
+  "index": 344,
+  "period": 1,
+  "timestamp": "00:11:51.120",
+  "minute": 11,
+  "second": 51,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 22,
+  "possession_team": {
+    "id": 796,
+    "name": "Russia"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 796,
+    "name": "Russia"
+  },
+  "player": {
+    "id": 5186,
+    "name": "Denis Cheryshev"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    103.0,
+    32.0
+  ],
+  "duration": 0.84,
+  "under_pressure": true,
+  "related_events": [
+    "6e79f5d9-e733-4982-8da7-96b717112acb",
+    "bc1bff0e-15ae-40b1-8d00-c538070fe228"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.06471651,
+    "end_location": [
+      116.0,
+      39.3,
+      0.9
+    ],
+    "key_pass_id": "bedfb27b-b7a3-42a0-ad66-b8275b10fae5",
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          106.0,
+          21.0
+        ],
+        "player": {
+          "id": 5248,
+          "name": "Jos\u00e9 Mart\u00edn C\u00e1ceres Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          40.0
+        ],
+        "player": {
+          "id": 5267,
+          "name": "N\u00e9stor Fernando Muslera Micol"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          31.0
+        ],
+        "player": {
+          "id": 6300,
+          "name": "Sebasti\u00e1n Coates Ni\u00f3n"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          34.0
+        ],
+        "player": {
+          "id": 5249,
+          "name": "Diego Roberto God\u00edn Leal"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          33.0
+        ],
+        "player": {
+          "id": 5266,
+          "name": "Lucas Torreira Di Pascua"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.0,
+          28.0
+        ],
+        "player": {
+          "id": 6299,
+          "name": "Aleksey Miranchuk"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          98.0,
+          61.0
+        ],
+        "player": {
+          "id": 5717,
+          "name": "Diego Sebasti\u00e1n Laxalt Su\u00e1rez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          27.0
+        ],
+        "player": {
+          "id": 5247,
+          "name": "Nahitan Michel N\u00e1ndez Acosta"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

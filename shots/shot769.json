@@ -1,0 +1,264 @@
+{
+  "id": "b4e1aa55-5901-4ddd-ac12-610ab70f8a96",
+  "index": 339,
+  "period": 1,
+  "timestamp": "00:06:46.680",
+  "minute": 6,
+  "second": 46,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 17,
+  "possession_team": {
+    "id": 796,
+    "name": "Russia"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 796,
+    "name": "Russia"
+  },
+  "player": {
+    "id": 5182,
+    "name": "Aleksandr Samedov"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    111.0,
+    52.0
+  ],
+  "duration": 0.2,
+  "related_events": [
+    "2825466d-3348-4d18-9a03-a6e1bd8df9e6",
+    "70e2b54c-e3cc-4d96-9ab8-67546d327d29"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.04499048,
+    "end_location": [
+      113.0,
+      50.0
+    ],
+    "key_pass_id": "f45b1064-1d06-4c7e-98e1-195f700bd748",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "first_time": true,
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          120.0,
+          55.0
+        ],
+        "player": {
+          "id": 5170,
+          "name": "M\u00e1rio Figueira Fernandes"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.0,
+          46.0
+        ],
+        "player": {
+          "id": 5194,
+          "name": "Fyodor Smolov"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.0,
+          34.0
+        ],
+        "player": {
+          "id": 5177,
+          "name": "Aleksandr Golovin"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.0,
+          28.0
+        ],
+        "player": {
+          "id": 5192,
+          "name": "Yehya Sulaiman Al Shehri"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          40.0
+        ],
+        "player": {
+          "id": 5191,
+          "name": "Mohammed Al Burayk"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          120.0,
+          44.0
+        ],
+        "player": {
+          "id": 5189,
+          "name": "Abdullah Ibrahim Al Maiouf"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          47.0
+        ],
+        "player": {
+          "id": 5178,
+          "name": "Salman Mohammed Al Faraj"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          48.0
+        ],
+        "player": {
+          "id": 5183,
+          "name": "Yasir Gharsan Al Shahrani"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          45.0
+        ],
+        "player": {
+          "id": 5180,
+          "name": "Alan Dzagoev"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.0,
+          51.0
+        ],
+        "player": {
+          "id": 5184,
+          "name": "Osama Abdulrezag Hawsawi"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          53.0
+        ],
+        "player": {
+          "id": 5197,
+          "name": "Omar Ibrahim Omar Othman Hawsawi"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          49.0
+        ],
+        "player": {
+          "id": 5173,
+          "name": "Abdullah Ibrahim Otayf"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          61.0
+        ],
+        "player": {
+          "id": 5187,
+          "name": "Salem Mohammed Al Dawsari"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

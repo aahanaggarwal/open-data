@@ -1,0 +1,220 @@
+{
+  "id": "e97a3a97-5d35-4e2c-9e9b-6c998fc63940",
+  "index": 144,
+  "period": 1,
+  "timestamp": "00:03:36.755",
+  "minute": 3,
+  "second": 36,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 9,
+  "possession_team": {
+    "id": 214,
+    "name": "Espanyol"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 214,
+    "name": "Espanyol"
+  },
+  "player": {
+    "id": 26109,
+    "name": "Ra\u00fal Tamudo Montero"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    87.2,
+    30.4
+  ],
+  "duration": 1.650969,
+  "related_events": [
+    "58cf19cd-e6b5-4fe5-a3f0-b4248e977bec"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.016341507,
+    "end_location": [
+      119.2,
+      33.4,
+      0.2
+    ],
+    "key_pass_id": "872189bc-a350-4547-ac97-cd74168d5a07",
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "saved_off_target": true,
+    "outcome": {
+      "id": 115,
+      "name": "Saved Off Target"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          119.3,
+          36.9
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.1,
+          27.5
+        ],
+        "player": {
+          "id": 5558,
+          "name": "Rafael M\u00e1rquez \u00c1lvarez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          90.6,
+          33.1
+        ],
+        "player": {
+          "id": 25919,
+          "name": "Gabriel Alejandro Milito"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          87.9,
+          42.3
+        ],
+        "player": {
+          "id": 20177,
+          "name": "Eric-Sylvain Bilal Abidal"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          84.7,
+          20.8
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          77.5,
+          25.2
+        ],
+        "player": {
+          "id": 3087,
+          "name": "Gn\u00e9gn\u00e9ri Yaya Tour\u00e9"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          80.0,
+          19.8
+        ],
+        "player": {
+          "id": 26159,
+          "name": "Albert Riera Ortega"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          80.6,
+          27.3
+        ],
+        "player": {
+          "id": 26162,
+          "name": "Mois\u00e9s Hurtado P\u00e9rez"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          81.3,
+          34.5
+        ],
+        "player": {
+          "id": 25872,
+          "name": "Valmiro L\u00f3pes Rocha"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          83.9,
+          46.2
+        ],
+        "player": {
+          "id": 23916,
+          "name": "Luis Garc\u00eda Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

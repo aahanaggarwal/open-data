@@ -1,0 +1,204 @@
+{
+  "id": "435ca2e1-77e7-43db-bd08-30b6ab27fda9",
+  "index": 3358,
+  "period": 2,
+  "timestamp": "00:28:54.119",
+  "minute": 73,
+  "second": 54,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 153,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    115.0,
+    41.6
+  ],
+  "duration": 0.280514,
+  "related_events": [
+    "fc501ac9-7801-45a4-b563-ae7ad3821449"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.50890344,
+    "end_location": [
+      120.0,
+      40.8,
+      0.2
+    ],
+    "key_pass_id": "586a78d5-4433-4fe9-ab3e-916f35c834bd",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          115.4,
+          49.8
+        ],
+        "player": {
+          "id": 26721,
+          "name": "Joan Oriol i Gr\u00e0cia"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.5,
+          42.9
+        ],
+        "player": {
+          "id": 25931,
+          "name": "Gonzalo Javier Rodr\u00edguez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          54.8
+        ],
+        "player": {
+          "id": 3385,
+          "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.2,
+          53.7
+        ],
+        "player": {
+          "id": 5208,
+          "name": "Thiago Alc\u00e2ntara do Nascimento"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.7,
+          48.9
+        ],
+        "player": {
+          "id": 22819,
+          "name": "Bruno Soriano Llido"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.9,
+          47.4
+        ],
+        "player": {
+          "id": 20127,
+          "name": "Carlos Marchena L\u00f3pez"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.3,
+          32.2
+        ],
+        "player": {
+          "id": 6360,
+          "name": "Cristian Eduardo Zapata Valencia"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.9,
+          41.9
+        ],
+        "player": {
+          "id": 6768,
+          "name": "Diego L\u00f3pez Rodr\u00edguez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.1,
+          62.1
+        ],
+        "player": {
+          "id": 6626,
+          "name": "Mubarak Wakaso"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

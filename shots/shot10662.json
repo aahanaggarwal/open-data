@@ -1,0 +1,188 @@
+{
+  "id": "dce55e71-2449-4449-b568-018ef87c3527",
+  "index": 2588,
+  "period": 2,
+  "timestamp": "00:20:36.302",
+  "minute": 65,
+  "second": 36,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 116,
+  "possession_team": {
+    "id": 1049,
+    "name": "Granada"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 1049,
+    "name": "Granada"
+  },
+  "player": {
+    "id": 4909,
+    "name": "Jeremie Boga"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    112.2,
+    24.3
+  ],
+  "duration": 0.2061,
+  "related_events": [
+    "001fa6bf-5e71-4b48-b4f8-ca6aa6bfaf49",
+    "564f9399-d9ae-4969-b02c-7fdb1f0b949d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.02256926,
+    "end_location": [
+      112.9,
+      25.8
+    ],
+    "key_pass_id": "033be9c3-da8b-4d1a-827e-252b543fe86a",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.0,
+          40.2
+        ],
+        "player": {
+          "id": 27639,
+          "name": "Artem Kravets"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.5,
+          33.2
+        ],
+        "player": {
+          "id": 5725,
+          "name": "Mehdi Carcela-Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.6,
+          35.3
+        ],
+        "player": {
+          "id": 5492,
+          "name": "Samuel Yves Umtiti"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.9,
+          36.1
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          40.3
+        ],
+        "player": {
+          "id": 6849,
+          "name": "Lucas Digne"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.4,
+          35.5
+        ],
+        "player": {
+          "id": 6998,
+          "name": "Rafael Alc\u00e2ntara do Nascimento"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.9,
+          30.5
+        ],
+        "player": {
+          "id": 6379,
+          "name": "Sergi Roberto Carnicer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.1,
+          26.1
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "id": "2796f6ca-85c3-481c-8ab4-9d61cfbc1cfa",
+  "index": 2542,
+  "period": 2,
+  "timestamp": "00:11:09.697",
+  "minute": 56,
+  "second": 9,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 113,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "out": true,
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    105.4,
+    29.8
+  ],
+  "duration": 1.171912,
+  "related_events": [
+    "0b028ef8-78e6-4bfa-8aa2-ea6a1610875a"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.13437751,
+    "end_location": [
+      120.0,
+      36.1,
+      0.2
+    ],
+    "key_pass_id": "c31a040f-846c-4463-b58a-8f86e61965ae",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 99,
+      "name": "Post"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          105.4,
+          30.8
+        ],
+        "player": {
+          "id": 5573,
+          "name": "H\u00e9ctor Alfredo Moreno Herrera"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.4,
+          39.0
+        ],
+        "player": {
+          "id": 6612,
+          "name": "Rub\u00e9n Duarte S\u00e1nchez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.8,
+          46.9
+        ],
+        "player": {
+          "id": 27241,
+          "name": "V\u00edctor Guillermo \u00c1lvarez Delgado"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.3,
+          46.3
+        ],
+        "player": {
+          "id": 4320,
+          "name": "Neymar da Silva Santos Junior"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.4,
+          44.7
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.7,
+          37.0
+        ],
+        "player": {
+          "id": 6706,
+          "name": "Francisco Casilla Cort\u00e9s"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

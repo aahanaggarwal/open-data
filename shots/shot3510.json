@@ -1,0 +1,206 @@
+{
+  "id": "d23d5dfa-980d-45e6-b2db-2ef35d51eb1f",
+  "index": 895,
+  "period": 1,
+  "timestamp": "00:23:17.661",
+  "minute": 23,
+  "second": 17,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 60,
+  "possession_team": {
+    "id": 328,
+    "name": "Bolton Wanderers"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 328,
+    "name": "Bolton Wanderers"
+  },
+  "player": {
+    "id": 15073,
+    "name": "Youri Djorkaeff"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    107.7,
+    41.1
+  ],
+  "duration": 0.554472,
+  "under_pressure": true,
+  "related_events": [
+    "47cb6e1b-88df-43ff-b89b-13fa6693215b",
+    "6ef62a48-bb7e-4e3b-ac45-5f2938c013d1"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.19365402,
+    "end_location": [
+      120.0,
+      42.9,
+      5.8
+    ],
+    "key_pass_id": "0f4e81d1-a7e4-441a-a819-5ffd23fa6b26",
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          109.9,
+          42.7
+        ],
+        "player": {
+          "id": 40388,
+          "name": "Kevin Cyril Davies"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.2,
+          52.0
+        ],
+        "player": {
+          "id": 21540,
+          "name": "Kevin Nolan"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.6,
+          58.8
+        ],
+        "player": {
+          "id": 40389,
+          "name": "Per Frandsen"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.6,
+          46.8
+        ],
+        "player": {
+          "id": 40221,
+          "name": "Gilberto Aparecido da Silva"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.4,
+          45.0
+        ],
+        "player": {
+          "id": 15637,
+          "name": "Sulzeer Jeremiah \"Sol\" Campbell"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.2,
+          60.0
+        ],
+        "player": {
+          "id": 20302,
+          "name": "Ga\u00ebl Clichy"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.2,
+          54.2
+        ],
+        "player": {
+          "id": 26194,
+          "name": "Pascal Cygan"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.7,
+          41.9
+        ],
+        "player": {
+          "id": 20015,
+          "name": "Jens Lehmann"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.6,
+          40.3
+        ],
+        "player": {
+          "id": 38412,
+          "name": "Kolo Habib Tour\u00e9"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

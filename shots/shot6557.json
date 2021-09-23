@@ -1,0 +1,99 @@
+{
+  "id": "0551b8e1-39f5-42d4-b588-0fd554c1becd",
+  "index": 219,
+  "period": 1,
+  "timestamp": "00:05:03.003",
+  "minute": 5,
+  "second": 3,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 12,
+  "possession_team": {
+    "id": 395,
+    "name": "Real Zaragoza"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "off_camera": true,
+  "team": {
+    "id": 395,
+    "name": "Real Zaragoza"
+  },
+  "player": {
+    "id": 19294,
+    "name": "Diego Alberto Milito"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    99.4,
+    28.0
+  ],
+  "duration": 2.2983,
+  "related_events": [
+    "1169ece7-6987-4037-88cb-8ba529e0257f"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.035698425,
+    "end_location": [
+      117.9,
+      37.8,
+      0.9
+    ],
+    "key_pass_id": "cb1c3983-d033-441c-95f1-96ef3e8da3cd",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.2,
+          38.7
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.7,
+          28.8
+        ],
+        "player": {
+          "id": 5558,
+          "name": "Rafael M\u00e1rquez \u00c1lvarez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

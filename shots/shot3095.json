@@ -1,0 +1,158 @@
+{
+  "id": "3e79556c-6845-4b15-9d0d-dabc1559fd69",
+  "index": 3349,
+  "period": 2,
+  "timestamp": "00:33:52.733",
+  "minute": 78,
+  "second": 52,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 152,
+  "possession_team": {
+    "id": 222,
+    "name": "Villarreal"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 222,
+    "name": "Villarreal"
+  },
+  "player": {
+    "id": 26192,
+    "name": "Mat\u00edas Ariel Fern\u00e1ndez Fern\u00e1ndez"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    102.6,
+    52.5
+  ],
+  "duration": 1.709602,
+  "related_events": [
+    "e5a9424c-6547-4062-935f-6f98047ca72e"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.08066343,
+    "end_location": [
+      120.0,
+      23.0,
+      0.2
+    ],
+    "key_pass_id": "b72a1c62-3b5a-4429-91d7-f573622f345e",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          97.5,
+          29.9
+        ],
+        "player": {
+          "id": 26198,
+          "name": "Guillermo Luis Franco Farquarson"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.2,
+          47.8
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.7,
+          56.3
+        ],
+        "player": {
+          "id": 20177,
+          "name": "Eric-Sylvain Bilal Abidal"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.1,
+          52.2
+        ],
+        "player": {
+          "id": 25919,
+          "name": "Gabriel Alejandro Milito"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.1,
+          28.4
+        ],
+        "player": {
+          "id": 5987,
+          "name": "Giovani dos Santos Ram\u00edrez"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.2,
+          43.1
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

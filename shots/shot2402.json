@@ -1,0 +1,190 @@
+{
+  "id": "2b9e3da9-95ee-4d56-8083-2b730cce672c",
+  "index": 2341,
+  "period": 2,
+  "timestamp": "00:19:53.511",
+  "minute": 64,
+  "second": 53,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 153,
+  "possession_team": {
+    "id": 46,
+    "name": "Wolverhampton Wanderers"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 46,
+    "name": "Wolverhampton Wanderers"
+  },
+  "player": {
+    "id": 40305,
+    "name": "Mark Kennedy"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    99.6,
+    29.9
+  ],
+  "duration": 0.098188,
+  "under_pressure": true,
+  "related_events": [
+    "1e516e49-4ef0-41b1-b03f-8c1887ac658b",
+    "5e0f42b4-f507-4d58-8c7d-e38b7f84d7ef",
+    "c8d6dc28-267f-4f2b-b53d-d27d32b093a8"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.033437088,
+    "end_location": [
+      101.4,
+      30.9
+    ],
+    "key_pass_id": "c7be2e12-49c5-48c2-805a-211d3482b7e5",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          100.3,
+          50.1
+        ],
+        "player": {
+          "id": 17727,
+          "name": "Ioan Viorel Ganea"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.3,
+          44.2
+        ],
+        "player": {
+          "id": 40320,
+          "name": "Carl Cort"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          92.3,
+          39.6
+        ],
+        "player": {
+          "id": 19312,
+          "name": "Robert Pir\u00e8s "
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.5,
+          46.7
+        ],
+        "player": {
+          "id": 12529,
+          "name": "Ashley Cole"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.4,
+          40.2
+        ],
+        "player": {
+          "id": 15637,
+          "name": "Sulzeer Jeremiah \"Sol\" Campbell"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.3,
+          30.8
+        ],
+        "player": {
+          "id": 38412,
+          "name": "Kolo Habib Tour\u00e9"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.8,
+          28.1
+        ],
+        "player": {
+          "id": 40222,
+          "name": "Laureano Bisan-Etame Mayer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.9,
+          39.7
+        ],
+        "player": {
+          "id": 20015,
+          "name": "Jens Lehmann"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

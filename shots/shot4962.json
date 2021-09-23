@@ -1,0 +1,115 @@
+{
+  "id": "a6cf1234-7d03-4d58-8e65-4b9e8b9f467d",
+  "index": 3548,
+  "period": 2,
+  "timestamp": "00:31:53.465",
+  "minute": 76,
+  "second": 53,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 181,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "out": true,
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    118.1,
+    51.2
+  ],
+  "duration": 0.2736,
+  "related_events": [
+    "2b1b0290-d240-4e61-b5ea-7f8322a10892"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.03937333,
+    "end_location": [
+      120.0,
+      44.1,
+      0.2
+    ],
+    "key_pass_id": "ff4e075f-c52b-4599-8ec0-69afa832f00e",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 99,
+      "name": "Post"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.3,
+          42.9
+        ],
+        "player": {
+          "id": 24040,
+          "name": "Cristian Dar\u00edo \u00c1lvarez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.7,
+          40.7
+        ],
+        "player": {
+          "id": 5573,
+          "name": "H\u00e9ctor Alfredo Moreno Herrera"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.9,
+          48.8
+        ],
+        "player": {
+          "id": 6886,
+          "name": "D\u00eddac Vil\u00e1 Rossell\u00f3"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

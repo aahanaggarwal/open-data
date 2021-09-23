@@ -1,0 +1,173 @@
+{
+  "id": "b2e1d17b-5726-476f-a2c7-d545c9342682",
+  "index": 2432,
+  "period": 2,
+  "timestamp": "00:28:56.293",
+  "minute": 73,
+  "second": 56,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 166,
+  "possession_team": {
+    "id": 760,
+    "name": "Seattle Reign"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 760,
+    "name": "Seattle Reign"
+  },
+  "player": {
+    "id": 5002,
+    "name": "Jodie Taylor"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    113.0,
+    44.0
+  ],
+  "duration": 0.507,
+  "related_events": [
+    "9aa4223c-b287-4ef8-acbd-f26b69d3dc70",
+    "f8487697-1311-4ddb-b49b-18544ec3869f"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.14186089,
+    "end_location": [
+      119.0,
+      42.0
+    ],
+    "key_pass_id": "77200f19-2bee-4cf9-804c-cd50692cf8cb",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.0,
+          41.0
+        ],
+        "player": {
+          "id": 5015,
+          "name": "Kelli Hubly"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          44.0
+        ],
+        "player": {
+          "id": 5012,
+          "name": "Katherine Reynolds"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          43.0
+        ],
+        "player": {
+          "id": 5011,
+          "name": "Meghan Klingenberg"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          39.0
+        ],
+        "player": {
+          "id": 5003,
+          "name": "Emily Sonnett"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          42.0
+        ],
+        "player": {
+          "id": 5018,
+          "name": "Andressa Cavalari Machry"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          50.0
+        ],
+        "player": {
+          "id": 4997,
+          "name": "Alyssa Kleiner"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          116.0,
+          46.0
+        ],
+        "player": {
+          "id": 5005,
+          "name": "Britt Eckerstrom"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "id": "3afee698-5102-466a-ab5c-84a42a2e1acc",
+  "index": 3762,
+  "period": 2,
+  "timestamp": "00:32:15.735",
+  "minute": 77,
+  "second": 15,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 162,
+  "possession_team": {
+    "id": 395,
+    "name": "Real Zaragoza"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 395,
+    "name": "Real Zaragoza"
+  },
+  "player": {
+    "id": 25916,
+    "name": "Ewerthon Henrique de Souza"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    104.4,
+    34.3
+  ],
+  "duration": 0.4782,
+  "under_pressure": true,
+  "related_events": [
+    "57fdde3c-486a-4e2d-9e2e-cf323cbd86e7",
+    "b8e8ff5a-9e75-4f4c-8069-72159a360775"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.30706418,
+    "end_location": [
+      113.3,
+      39.4,
+      1.8
+    ],
+    "key_pass_id": "4f073942-cc5d-49f1-a840-b3239dc0f2f6",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.1,
+          42.6
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.6,
+          38.6
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.1,
+          36.8
+        ],
+        "player": {
+          "id": 5558,
+          "name": "Rafael M\u00e1rquez \u00c1lvarez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.8,
+          53.4
+        ],
+        "player": {
+          "id": 26613,
+          "name": "Maxwell Scherrer Cabelino Andrade"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.8,
+          48.2
+        ],
+        "player": {
+          "id": 26020,
+          "name": "\u00c1ngel Lafita Castillo"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

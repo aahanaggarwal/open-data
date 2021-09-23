@@ -1,0 +1,263 @@
+{
+  "id": "5c6ea67b-9998-40ac-b8a8-b6ded765e7b4",
+  "index": 1127,
+  "period": 1,
+  "timestamp": "00:33:31.920",
+  "minute": 33,
+  "second": 31,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 81,
+  "possession_team": {
+    "id": 760,
+    "name": "Seattle Reign"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 760,
+    "name": "Seattle Reign"
+  },
+  "player": {
+    "id": 5001,
+    "name": "Allie Long"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    113.0,
+    39.0
+  ],
+  "duration": 1.0,
+  "related_events": [
+    "c0612708-0e8c-4761-8a89-a70c6115dbbd"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.11514565,
+    "end_location": [
+      120.0,
+      37.6,
+      2.4
+    ],
+    "key_pass_id": "c0c23d49-2d80-416e-846b-08587e1e5f58",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          106.0,
+          51.0
+        ],
+        "player": {
+          "id": 5020,
+          "name": "Christine Sinclair"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          42.0
+        ],
+        "player": {
+          "id": 5002,
+          "name": "Jodie Taylor"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          93.0,
+          38.0
+        ],
+        "player": {
+          "id": 5011,
+          "name": "Meghan Klingenberg"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          57.0
+        ],
+        "player": {
+          "id": 4995,
+          "name": "Celeste Boureille"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          51.0
+        ],
+        "player": {
+          "id": 5006,
+          "name": "Beverly Yanez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.0,
+          45.0
+        ],
+        "player": {
+          "id": 5008,
+          "name": "Kristen McNabb"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.0,
+          42.0
+        ],
+        "player": {
+          "id": 5015,
+          "name": "Kelli Hubly"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          37.0
+        ],
+        "player": {
+          "id": 4998,
+          "name": "Rumi Utsugi"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          94.0,
+          27.0
+        ],
+        "player": {
+          "id": 5000,
+          "name": "Steph Catley"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.0,
+          38.0
+        ],
+        "player": {
+          "id": 5009,
+          "name": "Margaret Purce"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          38.0
+        ],
+        "player": {
+          "id": 5003,
+          "name": "Emily Sonnett"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          24.0
+        ],
+        "player": {
+          "id": 5010,
+          "name": "Mallory Weber"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          41.0
+        ],
+        "player": {
+          "id": 5005,
+          "name": "Britt Eckerstrom"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

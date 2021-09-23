@@ -1,0 +1,202 @@
+{
+  "id": "62f4c16f-a4d0-42a5-bdd1-81cf2e70a694",
+  "index": 110,
+  "period": 1,
+  "timestamp": "00:01:45.581",
+  "minute": 1,
+  "second": 45,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 6,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    108.5,
+    33.5
+  ],
+  "duration": 0.967292,
+  "related_events": [
+    "837b89e8-41ac-4436-ac41-b3a61866e367"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.059341166,
+    "end_location": [
+      107.7,
+      44.1
+    ],
+    "key_pass_id": "fac3af39-4639-476a-a2fc-3d48bd72afa4",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 101,
+      "name": "Wayward"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          98.6,
+          49.0
+        ],
+        "player": {
+          "id": 24972,
+          "name": "Ray Parlour"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.7,
+          45.3
+        ],
+        "player": {
+          "id": 40258,
+          "name": "Wayne Bridge"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.3,
+          33.7
+        ],
+        "player": {
+          "id": 40123,
+          "name": "Robert Huth"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.6,
+          27.5
+        ],
+        "player": {
+          "id": 20281,
+          "name": "Mario Melchiot"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.8,
+          28.6
+        ],
+        "player": {
+          "id": 20254,
+          "name": "Claude Mak\u00e9l\u00e9l\u00e9"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.2,
+          30.6
+        ],
+        "player": {
+          "id": 4724,
+          "name": "Glen Johnson"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.9,
+          25.4
+        ],
+        "player": {
+          "id": 15512,
+          "name": "Sylvain Wiltord"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.8,
+          36.8
+        ],
+        "player": {
+          "id": 40260,
+          "name": "Carlo Cudicini"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.2,
+          35.1
+        ],
+        "player": {
+          "id": 20330,
+          "name": "Frank Lampard"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

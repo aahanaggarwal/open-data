@@ -1,0 +1,130 @@
+{
+  "id": "95feaff7-ccb7-405b-bfc2-a75e844e9e6c",
+  "index": 1755,
+  "period": 2,
+  "timestamp": "00:01:13.176",
+  "minute": 46,
+  "second": 13,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 123,
+  "possession_team": {
+    "id": 212,
+    "name": "Atl\u00e9tico Madrid"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 212,
+    "name": "Atl\u00e9tico Madrid"
+  },
+  "player": {
+    "id": 26124,
+    "name": "Maximiliano Rub\u00e9n Rodr\u00edguez"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    114.2,
+    40.5
+  ],
+  "duration": 0.474305,
+  "related_events": [
+    "af1d1221-6ee4-46ee-9589-e88d5b1df39d"
+  ],
+  "shot": {
+    "open_goal": true,
+    "statsbomb_xg": 0.9260236,
+    "end_location": [
+      120.0,
+      39.5,
+      0.2
+    ],
+    "key_pass_id": "f8a8c7a1-0f77-4bed-a6a9-29adff0b56ff",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          114.5,
+          34.0
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          30.5
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.7,
+          40.4
+        ],
+        "player": {
+          "id": 25854,
+          "name": "Sylvio Mendes Campos Junior"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.6,
+          53.3
+        ],
+        "player": {
+          "id": 26122,
+          "name": "Luciano Mart\u00edn Galletti"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

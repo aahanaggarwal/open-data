@@ -1,0 +1,204 @@
+{
+  "id": "1117a990-5bcf-4161-b972-20723fcc180a",
+  "index": 291,
+  "period": 1,
+  "timestamp": "00:06:39.940",
+  "minute": 6,
+  "second": 39,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 17,
+  "possession_team": {
+    "id": 783,
+    "name": "Uruguay"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 783,
+    "name": "Uruguay"
+  },
+  "player": {
+    "id": 4319,
+    "name": "Edinson Roberto Cavani G\u00f3mez"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    114.0,
+    46.0
+  ],
+  "duration": 0.56,
+  "related_events": [
+    "f7e6267c-3c47-42e6-8bf0-31d5c9b950eb"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.15044495,
+    "end_location": [
+      120.0,
+      44.0,
+      2.0
+    ],
+    "key_pass_id": "834c301f-caf7-4457-aa8f-68a95d3ab8d7",
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.0,
+          37.0
+        ],
+        "player": {
+          "id": 20016,
+          "name": "Kl\u00e9per Laveran Lima Ferreira"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          50.0
+        ],
+        "player": {
+          "id": 5248,
+          "name": "Jos\u00e9 Mart\u00edn C\u00e1ceres Silva"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.0,
+          39.0
+        ],
+        "player": {
+          "id": 5255,
+          "name": "Mat\u00edas Vecino Falero"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          94.0,
+          42.0
+        ],
+        "player": {
+          "id": 5260,
+          "name": "Rodrigo Bentancur Colm\u00e1n"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.0,
+          35.0
+        ],
+        "player": {
+          "id": 5214,
+          "name": "William Silva de Carvalho"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          51.0
+        ],
+        "player": {
+          "id": 6352,
+          "name": "Ricardo Domingos Barbosa Pereira"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          46.0
+        ],
+        "player": {
+          "id": 5209,
+          "name": "Rapha\u00ebl Adelino Jos\u00e9 Guerreiro"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          42.0
+        ],
+        "player": {
+          "id": 3960,
+          "name": "Jos\u00e9 Miguel da Rocha Fonte"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          41.0
+        ],
+        "player": {
+          "id": 5205,
+          "name": "Rui Pedro dos Santos Patr\u00edcio"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

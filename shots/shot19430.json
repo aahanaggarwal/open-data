@@ -1,0 +1,176 @@
+{
+  "id": "6871f91c-d3a8-4608-a295-2e60ea746ef3",
+  "index": 3255,
+  "period": 2,
+  "timestamp": "00:33:39.317",
+  "minute": 78,
+  "second": 39,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 145,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5211,
+    "name": "Jordi Alba Ramos"
+  },
+  "position": {
+    "id": 6,
+    "name": "Left Back"
+  },
+  "location": [
+    109.3,
+    29.6
+  ],
+  "duration": 0.591101,
+  "under_pressure": true,
+  "related_events": [
+    "eb279e19-146e-4520-9f02-1bee3f1115eb",
+    "f8d72832-fa6c-4a38-8b39-ee9425c3e62c"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.27156594,
+    "end_location": [
+      120.0,
+      36.7,
+      0.3
+    ],
+    "key_pass_id": "315c4229-99d1-44b7-a180-3e867f3a7596",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.7,
+          41.1
+        ],
+        "player": {
+          "id": 24576,
+          "name": "Francisco G\u00e1mez L\u00f3pez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.3,
+          35.8
+        ],
+        "player": {
+          "id": 24086,
+          "name": "Antonio Jos\u00e9 Raillo Arenas"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.8,
+          28.2
+        ],
+        "player": {
+          "id": 24613,
+          "name": "Alejandro Pozo Pozo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.9,
+          31.1
+        ],
+        "player": {
+          "id": 24084,
+          "name": "Martin Valjent"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.9,
+          36.3
+        ],
+        "player": {
+          "id": 24083,
+          "name": "Manuel Reina Rodr\u00edguez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.4,
+          38.4
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.3,
+          30.1
+        ],
+        "player": {
+          "id": 4447,
+          "name": "Martin Braithwaite Christensen"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

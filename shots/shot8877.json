@@ -1,0 +1,173 @@
+{
+  "id": "f4238657-ee8a-4a81-b458-80fcc1803536",
+  "index": 3280,
+  "period": 2,
+  "timestamp": "00:43:29.750",
+  "minute": 88,
+  "second": 29,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 205,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    103.5,
+    30.1
+  ],
+  "duration": 0.5913,
+  "related_events": [
+    "cc939b7d-960c-4f74-bf2a-4a715d3d73f4"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.1477227,
+    "end_location": [
+      113.8,
+      37.4,
+      0.2
+    ],
+    "key_pass_id": "36b774d9-9834-4562-a6c5-a810f3777a9e",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          116.1,
+          37.3
+        ],
+        "player": {
+          "id": 26438,
+          "name": "David Cobe\u00f1o Iglesias"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.8,
+          47.7
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.4,
+          23.7
+        ],
+        "player": {
+          "id": 5987,
+          "name": "Giovani dos Santos Ram\u00edrez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.2,
+          21.5
+        ],
+        "player": {
+          "id": 3095,
+          "name": "Bruno Saltor Grau"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.4,
+          25.4
+        ],
+        "player": {
+          "id": 25883,
+          "name": "Juan Jes\u00fas Guti\u00e9rrez Robles"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.3,
+          29.5
+        ],
+        "player": {
+          "id": 26439,
+          "name": "Carlos Garc\u00eda Bad\u00edas"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.9,
+          33.8
+        ],
+        "player": {
+          "id": 26434,
+          "name": "Santiago Wilmer Acasiete Ariadela"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

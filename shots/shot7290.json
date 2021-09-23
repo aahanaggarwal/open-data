@@ -1,0 +1,176 @@
+{
+  "id": "02c870a6-0807-4d0f-b249-6890c7864a75",
+  "index": 2065,
+  "period": 2,
+  "timestamp": "00:05:15.886",
+  "minute": 50,
+  "second": 15,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 91,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5246,
+    "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    112.6,
+    28.0
+  ],
+  "duration": 0.2522,
+  "under_pressure": true,
+  "related_events": [
+    "7b122330-cc9c-4ace-895f-7a2bfd4f0550",
+    "90cc7fc8-2eb1-4bb1-96d4-6b2204f21664"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.30951345,
+    "end_location": [
+      117.1,
+      34.1,
+      0.2
+    ],
+    "key_pass_id": "4ca8e9b8-04ad-4826-ba9a-522f33270cd0",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          95.5,
+          30.7
+        ],
+        "player": {
+          "id": 5477,
+          "name": "Ousmane Demb\u00e9l\u00e9"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          92.4,
+          38.4
+        ],
+        "player": {
+          "id": 5211,
+          "name": "Jordi Alba Ramos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          95.6,
+          40.7
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          88.6,
+          21.4
+        ],
+        "player": {
+          "id": 11676,
+          "name": "Jorge Miram\u00f3n Santagertrudis"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.5,
+          34.1
+        ],
+        "player": {
+          "id": 9747,
+          "name": "Axel Werner"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.5,
+          40.2
+        ],
+        "player": {
+          "id": 6788,
+          "name": "Xabier Etxeita Gorritxategi"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.7,
+          29.1
+        ],
+        "player": {
+          "id": 11677,
+          "name": "Jorge Pulido Mayoral"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

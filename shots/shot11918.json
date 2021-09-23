@@ -1,0 +1,114 @@
+{
+  "id": "6d84c353-e525-4147-988f-6f98fbeb4829",
+  "index": 1449,
+  "period": 2,
+  "timestamp": "00:01:31.543",
+  "minute": 46,
+  "second": 31,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 108,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19298,
+    "name": "Samuel Eto\"o Fils"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    111.2,
+    49.2
+  ],
+  "duration": 1.321334,
+  "related_events": [
+    "0641e24b-6460-4b38-ac42-84bd583179b6"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.20930973,
+    "end_location": [
+      120.0,
+      37.9,
+      3.6
+    ],
+    "key_pass_id": "324a857d-aa1f-4a8f-bd8c-f88a2cb8b855",
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          100.3,
+          53.3
+        ],
+        "player": {
+          "id": 26136,
+          "name": "Mauricio Roberto Pochettino Trossero"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.5,
+          48.1
+        ],
+        "player": {
+          "id": 26107,
+          "name": "Alberto Lopo Garc\u00eda"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.8,
+          46.8
+        ],
+        "player": {
+          "id": 26103,
+          "name": "Idriss Carlos Kameni"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

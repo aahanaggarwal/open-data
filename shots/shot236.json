@@ -1,0 +1,188 @@
+{
+  "id": "fb7ca4cd-2a1b-4231-91d0-e13f3790d34f",
+  "index": 1417,
+  "period": 1,
+  "timestamp": "00:40:30.920",
+  "minute": 40,
+  "second": 30,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 91,
+  "possession_team": {
+    "id": 1214,
+    "name": "United States Women's"
+  },
+  "play_pattern": {
+    "id": 2,
+    "name": "From Corner"
+  },
+  "team": {
+    "id": 1214,
+    "name": "United States Women's"
+  },
+  "player": {
+    "id": 8298,
+    "name": "Megan Rapinoe"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    105.5,
+    22.2
+  ],
+  "duration": 0.2578,
+  "related_events": [
+    "7e64d8ce-3795-4c60-be32-1895fde8015e",
+    "e1f6667d-9356-417f-a357-155c310434a1"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.03562745,
+    "end_location": [
+      109.0,
+      26.3
+    ],
+    "key_pass_id": "6f25a14e-3700-4735-8d46-6d1869d77ed3",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.0,
+          47.5
+        ],
+        "player": {
+          "id": 5085,
+          "name": "Alex Morgan"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          91.4,
+          33.5
+        ],
+        "player": {
+          "id": 4949,
+          "name": "Rose Lavelle"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.2,
+          25.6
+        ],
+        "player": {
+          "id": 10657,
+          "name": "Desiree van Lunteren"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.1,
+          37.3
+        ],
+        "player": {
+          "id": 10645,
+          "name": "Sherida Spitse"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.4,
+          38.5
+        ],
+        "player": {
+          "id": 10646,
+          "name": "Sari van Veenendaal"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.5,
+          46.9
+        ],
+        "player": {
+          "id": 10666,
+          "name": "Dominique Johanna Anna Bloodworth"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.1,
+          39.5
+        ],
+        "player": {
+          "id": 10647,
+          "name": "Stephanie van der Gragt"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.1,
+          27.0
+        ],
+        "player": {
+          "id": 10652,
+          "name": "Anouk Dekker"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

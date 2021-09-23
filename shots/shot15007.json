@@ -1,0 +1,159 @@
+{
+  "id": "02b232a9-4755-4d69-b3e3-657052343acc",
+  "index": 2455,
+  "period": 2,
+  "timestamp": "00:20:50.637",
+  "minute": 65,
+  "second": 50,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 175,
+  "possession_team": {
+    "id": 36,
+    "name": "Manchester City"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 36,
+    "name": "Manchester City"
+  },
+  "player": {
+    "id": 40223,
+    "name": "Antoine Sibierski"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    107.2,
+    43.2
+  ],
+  "duration": 0.510326,
+  "related_events": [
+    "c5c9a7ea-ab9e-473b-8f27-1942fb8503b3"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.25715515,
+    "end_location": [
+      118.2,
+      41.3,
+      0.2
+    ],
+    "key_pass_id": "ab9304aa-81e3-4f58-b422-afbcd9083ad1",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          100.3,
+          54.9
+        ],
+        "player": {
+          "id": 38551,
+          "name": "Shaun Wright-Phillips"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.8,
+          29.1
+        ],
+        "player": {
+          "id": 15519,
+          "name": "Nicolas Anelka"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.1,
+          41.7
+        ],
+        "player": {
+          "id": 40222,
+          "name": "Laureano Bisan-Etame Mayer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.9,
+          44.8
+        ],
+        "player": {
+          "id": 15654,
+          "name": "Martin Keown"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.4,
+          54.1
+        ],
+        "player": {
+          "id": 38412,
+          "name": "Kolo Habib Tour\u00e9"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.6,
+          40.9
+        ],
+        "player": {
+          "id": 20015,
+          "name": "Jens Lehmann"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

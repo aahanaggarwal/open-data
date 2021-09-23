@@ -1,0 +1,143 @@
+{
+  "id": "84d37074-f775-4b0a-9b68-e5785e55227e",
+  "index": 782,
+  "period": 1,
+  "timestamp": "00:21:14.220",
+  "minute": 21,
+  "second": 14,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 50,
+  "possession_team": {
+    "id": 791,
+    "name": "South Korea"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 791,
+    "name": "South Korea"
+  },
+  "player": {
+    "id": 3083,
+    "name": "Heung-Min Son"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    111.0,
+    49.0
+  ],
+  "duration": 0.293,
+  "related_events": [
+    "df752624-62fd-413d-87bc-82c049e00627",
+    "ff7eead4-f1b6-4d51-b9bf-e5101f83e047"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.15338257,
+    "end_location": [
+      112.0,
+      48.0
+    ],
+    "first_time": true,
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          114.0,
+          47.0
+        ],
+        "player": {
+          "id": 5564,
+          "name": "Carlos Joel Salcedo Hern\u00e1ndez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.0,
+          42.0
+        ],
+        "player": {
+          "id": 5577,
+          "name": "Francisco Guillermo Ochoa Maga\u00f1a"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          48.0
+        ],
+        "player": {
+          "id": 5573,
+          "name": "H\u00e9ctor Alfredo Moreno Herrera"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          45.0
+        ],
+        "player": {
+          "id": 5576,
+          "name": "Jes\u00fas Daniel Gallardo Vasconcelos"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          37.0
+        ],
+        "player": {
+          "id": 5567,
+          "name": "Edson Omar \u00c1lvarez Vel\u00e1zquez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

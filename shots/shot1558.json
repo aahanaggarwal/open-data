@@ -1,0 +1,203 @@
+{
+  "id": "7bd6e710-8ced-488d-9b8e-96a32e5d99d6",
+  "index": 1458,
+  "period": 1,
+  "timestamp": "00:38:07.067",
+  "minute": 38,
+  "second": 7,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 65,
+  "possession_team": {
+    "id": 770,
+    "name": "Germany"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 770,
+    "name": "Germany"
+  },
+  "player": {
+    "id": 5557,
+    "name": "Timo Werner"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    108.0,
+    51.0
+  ],
+  "duration": 0.293,
+  "related_events": [
+    "a56e32b5-0466-40c9-b5ae-ed4e72d5bfa5",
+    "e51d8556-e69d-4a8c-a6cb-ebb845b0e1e9"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.11420574,
+    "end_location": [
+      109.0,
+      53.0
+    ],
+    "key_pass_id": "f73099ae-171d-44f7-9c95-133c5948eced",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          109.0,
+          50.0
+        ],
+        "player": {
+          "id": 5604,
+          "name": "Young-Gwon Kim"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          42.0
+        ],
+        "player": {
+          "id": 6323,
+          "name": "Young-Sun Yun"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          37.0
+        ],
+        "player": {
+          "id": 5608,
+          "name": "Yong Lee"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          39.0
+        ],
+        "player": {
+          "id": 5559,
+          "name": "Marco Reus"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          116.0,
+          44.0
+        ],
+        "player": {
+          "id": 5619,
+          "name": "Hyun-Woo Cho"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          39.0
+        ],
+        "player": {
+          "id": 5606,
+          "name": "Hyun-Soo Jang"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          33.0
+        ],
+        "player": {
+          "id": 3496,
+          "name": "Mesut \u00d6zil"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.0,
+          45.0
+        ],
+        "player": {
+          "id": 5618,
+          "name": "Woo-Young Jung"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          47.0
+        ],
+        "player": {
+          "id": 5986,
+          "name": "Chul Hong"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "id": "b5494b59-3dd6-4635-abaf-22e306727550",
+  "index": 2511,
+  "period": 2,
+  "timestamp": "00:08:56.801",
+  "minute": 53,
+  "second": 56,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 100,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 4320,
+    "name": "Neymar da Silva Santos Junior"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    114.3,
+    28.6
+  ],
+  "duration": 0.5494,
+  "related_events": [
+    "01868cb9-f1b7-4c87-b356-b2327a9248ce"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.18386792,
+    "end_location": [
+      118.4,
+      35.4,
+      0.2
+    ],
+    "key_pass_id": "ed2445fb-5e8c-4941-8ff5-e504e1cd9416",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.6,
+          36.1
+        ],
+        "player": {
+          "id": 4691,
+          "name": "Claudio Andr\u00e9s Bravo Mu\u00f1oz"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.9,
+          29.5
+        ],
+        "player": {
+          "id": 7321,
+          "name": "Liassine Cadamuro-Benta\u00efba"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.3,
+          33.4
+        ],
+        "player": {
+          "id": 26764,
+          "name": "Jon Ansotegi Gorostola"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.5,
+          40.9
+        ],
+        "player": {
+          "id": 6633,
+          "name": "Markel Bergara Larra\u00f1aga"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.7,
+          46.4
+        ],
+        "player": {
+          "id": 3385,
+          "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.1,
+          35.0
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

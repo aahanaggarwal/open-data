@@ -1,0 +1,236 @@
+{
+  "id": "3142fa20-2b5b-4396-8039-077ebfc6d205",
+  "index": 1183,
+  "period": 1,
+  "timestamp": "00:22:31.258",
+  "minute": 22,
+  "second": 31,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 40,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5246,
+    "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    110.9,
+    47.9
+  ],
+  "duration": 0.85,
+  "under_pressure": true,
+  "related_events": [
+    "04c42410-10f8-4cfa-a3a5-b64c90a48299",
+    "e4d11d7f-fb9b-4103-8b27-b35759f02a92"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.12634799,
+    "end_location": [
+      120.0,
+      50.8,
+      0.6
+    ],
+    "key_pass_id": "28f68efe-78c0-4fef-9bea-8593da71c4ed",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          105.6,
+          50.2
+        ],
+        "player": {
+          "id": 5477,
+          "name": "Ousmane Demb\u00e9l\u00e9"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.6,
+          41.6
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.3,
+          30.9
+        ],
+        "player": {
+          "id": 3501,
+          "name": "Philippe Coutinho Correia"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.6,
+          43.5
+        ],
+        "player": {
+          "id": 6730,
+          "name": "Rub\u00e9n Iv\u00e1n Mart\u00ednez Andrade"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.2,
+          51.3
+        ],
+        "player": {
+          "id": 5582,
+          "name": "Celso Borges Mora"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.2,
+          47.1
+        ],
+        "player": {
+          "id": 6729,
+          "name": "Guilherme dos Santos Torres"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.5,
+          47.6
+        ],
+        "player": {
+          "id": 5537,
+          "name": "Fabian Lukas Sch\u00e4r"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.8,
+          49.0
+        ],
+        "player": {
+          "id": 6734,
+          "name": "Luis Carlos Correia Pinto"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.4,
+          47.1
+        ],
+        "player": {
+          "id": 6727,
+          "name": "Ra\u00fal Albentosa Redal"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.8,
+          35.8
+        ],
+        "player": {
+          "id": 6738,
+          "name": "Juan Francisco Moreno Fuertes"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.1,
+          35.4
+        ],
+        "player": {
+          "id": 6356,
+          "name": "Michael Krohn-Dehli"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

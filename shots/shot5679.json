@@ -1,0 +1,113 @@
+{
+  "id": "6fe8580c-e017-46a5-9379-eb8fe4a4ab18",
+  "index": 2325,
+  "period": 2,
+  "timestamp": "00:11:00.681",
+  "minute": 56,
+  "second": 0,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 157,
+  "possession_team": {
+    "id": 974,
+    "name": "Reading WFC"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 974,
+    "name": "Reading WFC"
+  },
+  "player": {
+    "id": 18149,
+    "name": "Remi Allen"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    115.4,
+    31.6
+  ],
+  "duration": 0.650583,
+  "related_events": [
+    "23ae2a6c-2e59-4166-ab02-e9b1711368be"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.120885886,
+    "end_location": [
+      119.5,
+      36.2,
+      0.8
+    ],
+    "key_pass_id": "93efffe0-73da-4a2f-9e3e-6406622f4eec",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.6,
+          36.6
+        ],
+        "player": {
+          "id": 22032,
+          "name": "Hannah Hampton"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.6,
+          35.0
+        ],
+        "player": {
+          "id": 19500,
+          "name": "Sarah Emma Mayling"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.9,
+          43.4
+        ],
+        "player": {
+          "id": 15723,
+          "name": "Brooke Chaplen"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

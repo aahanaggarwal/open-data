@@ -1,0 +1,204 @@
+{
+  "id": "4e3680d2-9728-4679-ad06-c9838ad829ce",
+  "index": 3017,
+  "period": 2,
+  "timestamp": "00:37:48.970",
+  "minute": 82,
+  "second": 48,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 164,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    111.6,
+    38.4
+  ],
+  "duration": 1.530612,
+  "related_events": [
+    "869ea3fe-3fe5-4ea8-9878-3f84d6b26aa5"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.16889066,
+    "end_location": [
+      120.0,
+      39.8,
+      5.6
+    ],
+    "key_pass_id": "f7957b89-573a-4ab1-bbef-c2cee366c154",
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.3,
+          39.4
+        ],
+        "player": {
+          "id": 26228,
+          "name": "Juan Pablo Colinas Ferreras"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.7,
+          29.8
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.7,
+          46.2
+        ],
+        "player": {
+          "id": 20169,
+          "name": "Seydou K\u00e9ita"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.1,
+          52.1
+        ],
+        "player": {
+          "id": 4913,
+          "name": "Bojan Krk\u00edc P\u00e9rez"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.9,
+          50.7
+        ],
+        "player": {
+          "id": 26241,
+          "name": "Sergio Boris Gonz\u00e1lez Monteagudo"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.2,
+          45.0
+        ],
+        "player": {
+          "id": 26230,
+          "name": "C\u00e9sar Palacios Chocarro"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.9,
+          36.2
+        ],
+        "player": {
+          "id": 26231,
+          "name": "Juan Ram\u00f3n Cabrero Obrer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.5,
+          39.5
+        ],
+        "player": {
+          "id": 26394,
+          "name": "Javier Del Pino Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.2,
+          29.4
+        ],
+        "player": {
+          "id": 26235,
+          "name": "Mario Mart\u00ednez Rubio"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

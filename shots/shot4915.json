@@ -1,0 +1,83 @@
+{
+  "id": "76002b10-608c-41ea-8b4c-7ed986c190a6",
+  "index": 2369,
+  "period": 2,
+  "timestamp": "00:14:50.535",
+  "minute": 59,
+  "second": 50,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 145,
+  "possession_team": {
+    "id": 24,
+    "name": "Liverpool"
+  },
+  "play_pattern": {
+    "id": 5,
+    "name": "Other"
+  },
+  "team": {
+    "id": 24,
+    "name": "Liverpool"
+  },
+  "player": {
+    "id": 20133,
+    "name": "Xabier Alonso Olano"
+  },
+  "position": {
+    "id": 11,
+    "name": "Left Defensive Midfield"
+  },
+  "location": [
+    107.9,
+    39.9
+  ],
+  "duration": 0.587327,
+  "related_events": [
+    "9f017d17-6e06-4b23-be39-daca43a1c834"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.76,
+    "end_location": [
+      120.0,
+      37.4,
+      0.0
+    ],
+    "type": {
+      "id": 88,
+      "name": "Penalty"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.5,
+          40.3
+        ],
+        "player": {
+          "id": 34393,
+          "name": "Nelson de Jesus da Silva"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

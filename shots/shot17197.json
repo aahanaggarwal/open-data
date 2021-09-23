@@ -1,0 +1,189 @@
+{
+  "id": "6a3acb91-af5d-4738-9899-770644510b6c",
+  "index": 111,
+  "period": 1,
+  "timestamp": "00:02:45.207",
+  "minute": 2,
+  "second": 45,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 12,
+  "possession_team": {
+    "id": 1205,
+    "name": "Australia Women's"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 1205,
+    "name": "Australia Women's"
+  },
+  "player": {
+    "id": 4961,
+    "name": "Samantha Kerr"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    111.7,
+    38.1
+  ],
+  "duration": 0.803,
+  "related_events": [
+    "93b922f0-1f12-4ca8-ac0f-5bd9e2141947"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.16530359,
+    "end_location": [
+      120.0,
+      42.2,
+      3.7
+    ],
+    "key_pass_id": "8daf8a87-e760-452d-a4b6-6fa66ca4c5b6",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.8,
+          39.6
+        ],
+        "player": {
+          "id": 10218,
+          "name": "Laura Giuliani"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          38.2
+        ],
+        "player": {
+          "id": 10366,
+          "name": "Sara Gama"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.8,
+          39.8
+        ],
+        "player": {
+          "id": 10208,
+          "name": "Elena Linari"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.6,
+          47.3
+        ],
+        "player": {
+          "id": 10213,
+          "name": "Alia Guagni"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.8,
+          48.6
+        ],
+        "player": {
+          "id": 6818,
+          "name": "Hayley Raso"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.0,
+          41.2
+        ],
+        "player": {
+          "id": 11338,
+          "name": "Caitlin Foord"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.9,
+          5.2
+        ],
+        "player": {
+          "id": 25544,
+          "name": "Valentina Bergamaschi"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.4,
+          32.9
+        ],
+        "player": {
+          "id": 10398,
+          "name": "Valentina Cernoia"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

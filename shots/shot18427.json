@@ -1,0 +1,173 @@
+{
+  "id": "9f3aee81-3b68-4091-8419-59f9f61b6036",
+  "index": 1423,
+  "period": 1,
+  "timestamp": "00:42:19.160",
+  "minute": 42,
+  "second": 19,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 80,
+  "possession_team": {
+    "id": 797,
+    "name": "Iran"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 797,
+    "name": "Iran"
+  },
+  "player": {
+    "id": 5224,
+    "name": "Sardar Azmoun"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    109.0,
+    51.0
+  ],
+  "duration": 0.28,
+  "related_events": [
+    "39fa559a-cef3-46ca-9c5f-adfe91e87250"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.2719615,
+    "end_location": [
+      114.0,
+      41.7,
+      0.5
+    ],
+    "key_pass_id": "fc744bf0-05c6-4d01-bc07-52c52f12fa9c",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.0,
+          47.0
+        ],
+        "player": {
+          "id": 5233,
+          "name": "Munir Mohand Mohamedi"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          48.0
+        ],
+        "player": {
+          "id": 3302,
+          "name": "Nordin Amrabat"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.0,
+          29.0
+        ],
+        "player": {
+          "id": 5231,
+          "name": "Karim Ansarifard"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.0,
+          50.0
+        ],
+        "player": {
+          "id": 5245,
+          "name": "Achraf Hakimi Mouh"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          53.0
+        ],
+        "player": {
+          "id": 5244,
+          "name": "Medhi Amine El Mouttaqi Benatia"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          47.0
+        ],
+        "player": {
+          "id": 5219,
+          "name": "Romain Sa\u00efss"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          41.0
+        ],
+        "player": {
+          "id": 5241,
+          "name": "Vahid Amiri"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "id": "856f709d-46ee-4a51-90b7-a6eb924b9ed4",
+  "index": 2582,
+  "period": 2,
+  "timestamp": "00:17:34.184",
+  "minute": 62,
+  "second": 34,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 114,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 8,
+    "name": "From Keeper"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 4320,
+    "name": "Neymar da Silva Santos Junior"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    92.7,
+    45.8
+  ],
+  "duration": 1.52832,
+  "related_events": [
+    "be46b680-8908-4f04-a201-610d0c69ee24"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.0690692,
+    "end_location": [
+      119.0,
+      42.7,
+      1.6
+    ],
+    "key_pass_id": "971784f6-cc85-4a20-8026-061ca33b6a0f",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          92.4,
+          41.7
+        ],
+        "player": {
+          "id": 24136,
+          "name": "Federico Vico Villegas"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          86.0,
+          29.9
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          87.9,
+          48.9
+        ],
+        "player": {
+          "id": 27237,
+          "name": "Adri\u00e1n Javier Gunino Duque"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          75.6,
+          53.3
+        ],
+        "player": {
+          "id": 27236,
+          "name": "Patrick Claude Ekeng Ekeng"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.2,
+          41.2
+        ],
+        "player": {
+          "id": 24255,
+          "name": "Juan Carlos Mart\u00edn Corral"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

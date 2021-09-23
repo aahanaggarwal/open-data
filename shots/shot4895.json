@@ -1,0 +1,339 @@
+{
+  "id": "08eb8fb6-02d1-4124-92e7-2fed285e9b81",
+  "index": 40,
+  "period": 1,
+  "timestamp": "00:00:51.155",
+  "minute": 0,
+  "second": 51,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 4,
+  "possession_team": {
+    "id": 243,
+    "name": "AC Milan"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 243,
+    "name": "AC Milan"
+  },
+  "player": {
+    "id": 15116,
+    "name": "Paolo Maldini"
+  },
+  "position": {
+    "id": 6,
+    "name": "Left Back"
+  },
+  "location": [
+    107.6,
+    42.1
+  ],
+  "duration": 0.678002,
+  "related_events": [
+    "8eb9cbe7-df18-41e5-a7bd-9f902c39f587"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.05919499,
+    "end_location": [
+      120.0,
+      37.6,
+      2.2
+    ],
+    "key_pass_id": "0cdab0d4-29f6-48ec-a5a0-21dc85cd268c",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "first_time": true,
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.7,
+          34.7
+        ],
+        "player": {
+          "id": 34394,
+          "name": "Hern\u00e1n Jorge Crespo"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.4,
+          38.0
+        ],
+        "player": {
+          "id": 19634,
+          "name": "Jaap Stam"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.2,
+          33.3
+        ],
+        "player": {
+          "id": 20295,
+          "name": "Andriy Shevchenko"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.8,
+          61.9
+        ],
+        "player": {
+          "id": 19735,
+          "name": "Milan Baro\u0161"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.6,
+          35.7
+        ],
+        "player": {
+          "id": 34389,
+          "name": "Sami Hyypi\u00e4"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.6,
+          34.8
+        ],
+        "player": {
+          "id": 34392,
+          "name": "Steve Finnan"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.9,
+          42.6
+        ],
+        "player": {
+          "id": 34386,
+          "name": "John Arne Semundseth Riise"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.4,
+          41.0
+        ],
+        "player": {
+          "id": 34388,
+          "name": "Jamie Carragher"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.3,
+          39.4
+        ],
+        "player": {
+          "id": 20133,
+          "name": "Xabier Alonso Olano"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.8,
+          32.1
+        ],
+        "player": {
+          "id": 34387,
+          "name": "Djimi Traor\u00e9"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.2,
+          45.1
+        ],
+        "player": {
+          "id": 19109,
+          "name": "Steven Gerrard"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          41.1
+        ],
+        "player": {
+          "id": 34390,
+          "name": "Jerzy Dudek"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.3,
+          60.9
+        ],
+        "player": {
+          "id": 34391,
+          "name": "Harry Kewell"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.7,
+          42.3
+        ],
+        "player": {
+          "id": 26391,
+          "name": "Luis Javier Garc\u00eda Sanz"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.7,
+          65.4
+        ],
+        "player": {
+          "id": 19849,
+          "name": "Andrea Pirlo"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          98.6,
+          31.9
+        ],
+        "player": {
+          "id": 15046,
+          "name": "Clarence Seedorf"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          98.7,
+          45.7
+        ],
+        "player": {
+          "id": 20142,
+          "name": "Ivan Gennaro Gattuso"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.3,
+          43.0
+        ],
+        "player": {
+          "id": 26712,
+          "name": "Ricardo Izecson dos Santos Leite"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

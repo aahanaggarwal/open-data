@@ -1,0 +1,189 @@
+{
+  "id": "07381661-1bd0-464e-bded-c6feb4be5ed9",
+  "index": 2389,
+  "period": 2,
+  "timestamp": "00:10:05.469",
+  "minute": 55,
+  "second": 5,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 126,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 4320,
+    "name": "Neymar da Silva Santos Junior"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    115.5,
+    32.7
+  ],
+  "duration": 0.176,
+  "related_events": [
+    "659614da-15a2-410c-9d48-74acfd77b8ed",
+    "a67d6521-984e-4b9b-88b6-6e418ec911f8"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.13077071,
+    "end_location": [
+      120.0,
+      38.2,
+      0.2
+    ],
+    "deflected": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.2,
+          44.3
+        ],
+        "player": {
+          "id": 26023,
+          "name": "Juan Francisco Garc\u00eda Garc\u00eda"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          39.4
+        ],
+        "player": {
+          "id": 6647,
+          "name": "Zouhair Feddal"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.6,
+          35.7
+        ],
+        "player": {
+          "id": 24149,
+          "name": "Jos\u00e9 Antonio Garc\u00eda Rabasco"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          37.0
+        ],
+        "player": {
+          "id": 6730,
+          "name": "Rub\u00e9n Iv\u00e1n Mart\u00ednez Andrade"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.6,
+          36.7
+        ],
+        "player": {
+          "id": 25824,
+          "name": "\u00c1ngel Trujillo Canorea"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.1,
+          35.7
+        ],
+        "player": {
+          "id": 8801,
+          "name": "Iv\u00e1n L\u00f3pez Mendoza"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.9,
+          42.1
+        ],
+        "player": {
+          "id": 6616,
+          "name": "Munir El Haddadi Mohamed"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          120.0,
+          34.7
+        ],
+        "player": {
+          "id": 3508,
+          "name": "Sandro Ram\u00edrez Castillo"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

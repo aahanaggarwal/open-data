@@ -1,0 +1,161 @@
+{
+  "id": "65b8ade8-b559-4b38-b939-9b58408e9b58",
+  "index": 1365,
+  "period": 1,
+  "timestamp": "00:36:43.009",
+  "minute": 36,
+  "second": 43,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 81,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19298,
+    "name": "Samuel Eto\"o Fils"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    112.3,
+    35.5
+  ],
+  "duration": 0.3183,
+  "under_pressure": true,
+  "related_events": [
+    "93710c39-7c2e-4a5d-b932-795c44ae6bf6",
+    "dd1123c8-545e-4fe6-92f4-2f9c0e7e0b30"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.37359318,
+    "end_location": [
+      114.1,
+      36.1,
+      0.2
+    ],
+    "key_pass_id": "0e57e4f7-8bb1-48ab-9e88-9bd9fe96f34b",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.1,
+          35.9
+        ],
+        "player": {
+          "id": 26072,
+          "name": "Cristian Osvaldo \u00c1lvarez"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.4,
+          42.0
+        ],
+        "player": {
+          "id": 26069,
+          "name": "Luis Fern\u00e1ndez Guti\u00e9rrez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          36.5
+        ],
+        "player": {
+          "id": 25889,
+          "name": "Pablo Pinillos Caro"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.7,
+          36.3
+        ],
+        "player": {
+          "id": 26070,
+          "name": "Antonio Rodr\u00edguez Mart\u00ednez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.7,
+          38.1
+        ],
+        "player": {
+          "id": 26068,
+          "name": "Rub\u00e9n Gonz\u00e1lez Rocha"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.3,
+          44.9
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

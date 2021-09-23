@@ -1,0 +1,143 @@
+{
+  "id": "f0b509ee-c5b0-41dc-a6b8-1b87bd17c32d",
+  "index": 253,
+  "period": 1,
+  "timestamp": "00:04:25.456",
+  "minute": 4,
+  "second": 25,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 13,
+  "possession_team": {
+    "id": 328,
+    "name": "Bolton Wanderers"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "out": true,
+  "team": {
+    "id": 328,
+    "name": "Bolton Wanderers"
+  },
+  "player": {
+    "id": 21540,
+    "name": "Kevin Nolan"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    109.7,
+    27.1
+  ],
+  "duration": 0.994165,
+  "related_events": [
+    "46afd5c4-fc2a-4c1c-b8ee-d7490f8c05b7"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.033002324,
+    "end_location": [
+      109.9,
+      0.1
+    ],
+    "first_time": true,
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 101,
+      "name": "Wayward"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          114.3,
+          39.0
+        ],
+        "player": {
+          "id": 15515,
+          "name": "Patrick Vieira"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.6,
+          38.1
+        ],
+        "player": {
+          "id": 38412,
+          "name": "Kolo Habib Tour\u00e9"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.9,
+          32.3
+        ],
+        "player": {
+          "id": 40222,
+          "name": "Laureano Bisan-Etame Mayer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.4,
+          33.7
+        ],
+        "player": {
+          "id": 40388,
+          "name": "Kevin Cyril Davies"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.6,
+          37.6
+        ],
+        "player": {
+          "id": 20015,
+          "name": "Jens Lehmann"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

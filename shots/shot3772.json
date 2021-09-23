@@ -1,0 +1,159 @@
+{
+  "id": "c5163ecf-8632-4176-b899-ae3934ea4fb9",
+  "index": 3448,
+  "period": 2,
+  "timestamp": "00:37:26.539",
+  "minute": 82,
+  "second": 26,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 178,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 2,
+    "name": "From Corner"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    96.1,
+    22.9
+  ],
+  "duration": 0.1748,
+  "related_events": [
+    "b6c953ed-8e84-42d9-a62e-b3dd3619618a"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.12729648,
+    "end_location": [
+      100.0,
+      25.3,
+      1.4
+    ],
+    "key_pass_id": "adbb12d2-bb5c-4230-96df-c0e7d444cfb9",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          95.9,
+          39.0
+        ],
+        "player": {
+          "id": 3385,
+          "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.5,
+          41.0
+        ],
+        "player": {
+          "id": 4741,
+          "name": "Juan Rafael Fuentes Hern\u00e1ndez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.1,
+          30.9
+        ],
+        "player": {
+          "id": 6777,
+          "name": "Sidnei Rechel da Silva J\u00fanior"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          90.0,
+          22.4
+        ],
+        "player": {
+          "id": 6791,
+          "name": "Javier L\u00f3pez Rodr\u00edguez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.7,
+          23.1
+        ],
+        "player": {
+          "id": 26623,
+          "name": "Diego Daniel Colotto"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.1,
+          25.4
+        ],
+        "player": {
+          "id": 6706,
+          "name": "Francisco Casilla Cort\u00e9s"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "id": "e0d0d63f-1ff2-4ec3-b752-a7d75e438121",
+  "index": 2549,
+  "period": 2,
+  "timestamp": "00:22:15.520",
+  "minute": 67,
+  "second": 15,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 145,
+  "possession_team": {
+    "id": 796,
+    "name": "Russia"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 796,
+    "name": "Russia"
+  },
+  "player": {
+    "id": 5171,
+    "name": "Roman Zobnin"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    104.0,
+    56.0
+  ],
+  "duration": 0.613,
+  "under_pressure": true,
+  "related_events": [
+    "6b85bf17-39b7-44ce-96cc-9b702acc824a",
+    "7d035816-cb1e-4b87-ad11-ebfa943f7092"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.02501437,
+    "end_location": [
+      116.0,
+      40.7,
+      0.6
+    ],
+    "key_pass_id": "b98bbea1-08ed-476e-a015-5bfdfabc4fdf",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.0,
+          55.0
+        ],
+        "player": {
+          "id": 5183,
+          "name": "Yasir Gharsan Al Shahrani"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          53.0
+        ],
+        "player": {
+          "id": 5197,
+          "name": "Omar Ibrahim Omar Othman Hawsawi"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          55.0
+        ],
+        "player": {
+          "id": 5178,
+          "name": "Salman Mohammed Al Faraj"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.0,
+          38.0
+        ],
+        "player": {
+          "id": 5185,
+          "name": "Taisir Jabir Al Jassim"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          40.0
+        ],
+        "player": {
+          "id": 5184,
+          "name": "Osama Abdulrezag Hawsawi"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          35.0
+        ],
+        "player": {
+          "id": 5191,
+          "name": "Mohammed Al Burayk"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          41.0
+        ],
+        "player": {
+          "id": 5189,
+          "name": "Abdullah Ibrahim Al Maiouf"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          60.0
+        ],
+        "player": {
+          "id": 5170,
+          "name": "M\u00e1rio Figueira Fernandes"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          89.0,
+          53.0
+        ],
+        "player": {
+          "id": 5179,
+          "name": "Daler Kuzyaev"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.0,
+          37.0
+        ],
+        "player": {
+          "id": 5194,
+          "name": "Fyodor Smolov"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

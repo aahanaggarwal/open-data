@@ -1,0 +1,144 @@
+{
+  "id": "8dce8667-5cea-4ecb-9e3a-7d9ff2084f11",
+  "index": 2892,
+  "period": 2,
+  "timestamp": "00:32:07.632",
+  "minute": 77,
+  "second": 7,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 199,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 25879,
+    "name": "Ronaldo de Assis Moreira"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    109.4,
+    33.9
+  ],
+  "duration": 1.208278,
+  "related_events": [
+    "60fdb39d-43d8-4acb-9d33-5f5193e112f0"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.5510584,
+    "end_location": [
+      120.0,
+      37.8,
+      4.8
+    ],
+    "key_pass_id": "bb593bf2-89f3-4ada-8b38-d9c26b76700f",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          96.1,
+          51.4
+        ],
+        "player": {
+          "id": 6913,
+          "name": "Fernando Navarro i Corbacho"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.2,
+          38.1
+        ],
+        "player": {
+          "id": 25994,
+          "name": "David Cort\u00e9s Caballero"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.8,
+          37.5
+        ],
+        "player": {
+          "id": 7069,
+          "name": "Miguel \u00c1ngel Moy\u00e0 Rumbo"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.4,
+          42.5
+        ],
+        "player": {
+          "id": 25992,
+          "name": "Jos\u00e9 Carlos de Ara\u00fajo Nunes"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.3,
+          43.1
+        ],
+        "player": {
+          "id": 25878,
+          "name": "Ludovic Giuly"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

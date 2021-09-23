@@ -1,0 +1,203 @@
+{
+  "id": "57cd8ed2-8f0d-4863-903d-e210ca30e42a",
+  "index": 1287,
+  "period": 1,
+  "timestamp": "00:38:58.200",
+  "minute": 38,
+  "second": 58,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 70,
+  "possession_team": {
+    "id": 785,
+    "name": "Croatia"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 785,
+    "name": "Croatia"
+  },
+  "player": {
+    "id": 5460,
+    "name": "Andrej Kramari\u0107"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    113.0,
+    38.0
+  ],
+  "duration": 0.773,
+  "related_events": [
+    "0db2353a-8c89-4779-b043-e264e37f191d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.17762586,
+    "end_location": [
+      120.0,
+      42.2,
+      0.6
+    ],
+    "key_pass_id": "a2572fdc-0e45-4997-96de-9413225cb7c8",
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.0,
+          29.0
+        ],
+        "player": {
+          "id": 5472,
+          "name": "Mario Mand\u017euki\u0107"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.0,
+          26.0
+        ],
+        "player": {
+          "id": 5474,
+          "name": "Ivan Peri\u0161i\u0107"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          120.0,
+          40.0
+        ],
+        "player": {
+          "id": 5172,
+          "name": "Igor Akinfeev"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          37.0
+        ],
+        "player": {
+          "id": 5179,
+          "name": "Daler Kuzyaev"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          41.0
+        ],
+        "player": {
+          "id": 5677,
+          "name": "Fedor Kudryashov"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          41.0
+        ],
+        "player": {
+          "id": 5171,
+          "name": "Roman Zobnin"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          34.0
+        ],
+        "player": {
+          "id": 5174,
+          "name": "Sergei Ignashevich"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          31.0
+        ],
+        "player": {
+          "id": 5175,
+          "name": "Ilya Kutepov"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          56.0
+        ],
+        "player": {
+          "id": 5465,
+          "name": "Ante Rebi\u0107"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

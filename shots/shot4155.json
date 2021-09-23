@@ -1,0 +1,220 @@
+{
+  "id": "9f2a174a-8d4b-44fb-9083-2e9d731b875c",
+  "index": 1008,
+  "period": 1,
+  "timestamp": "00:19:56.856",
+  "minute": 19,
+  "second": 56,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 57,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3672,
+    "name": "Zlatan Ibrahimovi\u0107"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    105.3,
+    21.6
+  ],
+  "duration": 0.718099,
+  "under_pressure": true,
+  "related_events": [
+    "51178ec2-9722-4a16-90a0-f9ea21261fc5",
+    "7e500ae5-68f3-46b3-b564-76eeaa3e9792"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.02136828,
+    "end_location": [
+      118.8,
+      39.2,
+      1.2
+    ],
+    "key_pass_id": "8f83b00b-65ed-4829-afa0-a84960567aab",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          91.2,
+          73.8
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          94.6,
+          11.0
+        ],
+        "player": {
+          "id": 5216,
+          "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.2,
+          38.0
+        ],
+        "player": {
+          "id": 26707,
+          "name": "Juan Pablo Carrizo"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.3,
+          61.5
+        ],
+        "player": {
+          "id": 26429,
+          "name": "Javier Paredes Arango"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.6,
+          18.7
+        ],
+        "player": {
+          "id": 26062,
+          "name": "Rub\u00e9n Mart\u00edn Pulido"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.7,
+          22.1
+        ],
+        "player": {
+          "id": 26708,
+          "name": "Pablo Amo Aguado"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.2,
+          34.5
+        ],
+        "player": {
+          "id": 26215,
+          "name": "Francisco Pav\u00f3n Barahona"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          74.9,
+          54.7
+        ],
+        "player": {
+          "id": 26025,
+          "name": "Jorge L\u00f3pez Monta\u00f1a"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          85.8,
+          20.1
+        ],
+        "player": {
+          "id": 26649,
+          "name": "Jermaine Pennant"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.6,
+          24.7
+        ],
+        "player": {
+          "id": 6384,
+          "name": "Gabriel Fern\u00e1ndez Arenas"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

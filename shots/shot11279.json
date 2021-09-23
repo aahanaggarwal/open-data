@@ -1,0 +1,130 @@
+{
+  "id": "8dd79824-238d-4530-acb9-8d2b586f287a",
+  "index": 2156,
+  "period": 2,
+  "timestamp": "00:13:20.962",
+  "minute": 58,
+  "second": 20,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 139,
+  "possession_team": {
+    "id": 971,
+    "name": "Chelsea FCW"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 971,
+    "name": "Chelsea FCW"
+  },
+  "player": {
+    "id": 4961,
+    "name": "Samantha Kerr"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    110.0,
+    51.9
+  ],
+  "duration": 0.071477,
+  "under_pressure": true,
+  "related_events": [
+    "5c6b0946-e536-419b-82d7-89f1b4e644eb",
+    "b46ad152-1f2c-4243-8afe-7f45449b11b9",
+    "e9b87611-71b6-42c2-ad20-26c57bfb84c1"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.11162243,
+    "end_location": [
+      111.3,
+      50.5
+    ],
+    "key_pass_id": "abefb304-c3f7-46cc-a343-c6894f97fdf5",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          92.1,
+          49.3
+        ],
+        "player": {
+          "id": 10405,
+          "name": "Lia W\u00e4lti"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.9,
+          43.7
+        ],
+        "player": {
+          "id": 10237,
+          "name": "Manuela Zinsberger"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.9,
+          48.1
+        ],
+        "player": {
+          "id": 10235,
+          "name": "Viktoria Schnaderbeck"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.1,
+          50.1
+        ],
+        "player": {
+          "id": 18999,
+          "name": "Leah Williamson"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

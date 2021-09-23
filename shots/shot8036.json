@@ -1,0 +1,98 @@
+{
+  "id": "2e758581-02bb-4b59-b969-1e65b00f7bfb",
+  "index": 3512,
+  "period": 2,
+  "timestamp": "00:38:58.019",
+  "minute": 83,
+  "second": 58,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 180,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 216,
+    "name": "Getafe"
+  },
+  "player": {
+    "id": 26217,
+    "name": "\u00c1ngel Javier Arizmendi de Lucas"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    101.9,
+    29.5
+  ],
+  "duration": 0.4488,
+  "related_events": [
+    "a163dc3d-1ea1-4adb-b455-3d372b02abbe"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.39917722,
+    "end_location": [
+      109.3,
+      33.2,
+      0.1
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          109.4,
+          34.2
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.4,
+          35.6
+        ],
+        "player": {
+          "id": 25919,
+          "name": "Gabriel Alejandro Milito"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

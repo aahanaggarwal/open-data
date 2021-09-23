@@ -1,0 +1,202 @@
+{
+  "id": "1b4db7ed-cbef-4e35-858d-26d15d5a79f8",
+  "index": 504,
+  "period": 1,
+  "timestamp": "00:11:26.893",
+  "minute": 11,
+  "second": 26,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 26,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 2,
+    "name": "From Corner"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    113.9,
+    38.3
+  ],
+  "duration": 0.4566,
+  "related_events": [
+    "93021d7c-c9d6-41c3-b565-bf9c3b7675fe"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.3031345,
+    "end_location": [
+      119.0,
+      37.6,
+      1.7
+    ],
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          114.0,
+          41.8
+        ],
+        "player": {
+          "id": 5248,
+          "name": "Jos\u00e9 Mart\u00edn C\u00e1ceres Silva"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.4,
+          31.9
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.7,
+          39.0
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.7,
+          37.6
+        ],
+        "player": {
+          "id": 26255,
+          "name": "Sergio Matabuena Delgado"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.8,
+          39.3
+        ],
+        "player": {
+          "id": 26084,
+          "name": "I\u00f1aki Lafuente Sancha"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.7,
+          40.4
+        ],
+        "player": {
+          "id": 26244,
+          "name": "Rafael Sastre Reus"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.7,
+          48.6
+        ],
+        "player": {
+          "id": 25706,
+          "name": "Ra\u00fal Miguel C\u00e1mara"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.8,
+          39.9
+        ],
+        "player": {
+          "id": 26250,
+          "name": "Gerard Autet Serrabasa"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.9,
+          47.0
+        ],
+        "player": {
+          "id": 26661,
+          "name": "Iv\u00e1n Hern\u00e1ndez Soto"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

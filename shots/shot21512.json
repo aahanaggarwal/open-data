@@ -1,0 +1,174 @@
+{
+  "id": "79e0c6d1-9640-420a-8ba8-d0304b1f24fa",
+  "index": 1577,
+  "period": 1,
+  "timestamp": "00:50:54.516",
+  "minute": 50,
+  "second": 54,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 88,
+  "possession_team": {
+    "id": 865,
+    "name": "England Women's"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 865,
+    "name": "England Women's"
+  },
+  "player": {
+    "id": 10180,
+    "name": "Ellen White"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    108.4,
+    53.3
+  ],
+  "duration": 0.4542,
+  "related_events": [
+    "496c8670-9025-4844-96f4-8bd99c574910"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.1980423,
+    "end_location": [
+      113.9,
+      46.9,
+      0.5
+    ],
+    "key_pass_id": "c7ae517d-939c-4b81-a4fd-5f28a8c0eecd",
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.6,
+          50.6
+        ],
+        "player": {
+          "id": 10230,
+          "name": "Linda Brigitta Sembrant"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.9,
+          46.8
+        ],
+        "player": {
+          "id": 4640,
+          "name": "Rut Hedvig Lindahl"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.6,
+          45.0
+        ],
+        "player": {
+          "id": 10375,
+          "name": "Nilla Fischer"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.7,
+          45.1
+        ],
+        "player": {
+          "id": 10224,
+          "name": "Sara Caroline Seger"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.6,
+          55.3
+        ],
+        "player": {
+          "id": 4633,
+          "name": "Magdalena Ericsson"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.6,
+          46.9
+        ],
+        "player": {
+          "id": 4654,
+          "name": "Nikita Parris"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          93.3,
+          60.4
+        ],
+        "player": {
+          "id": 15619,
+          "name": "Bethany Mead"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

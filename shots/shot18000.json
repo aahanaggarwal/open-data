@@ -1,0 +1,173 @@
+{
+  "id": "272e6f63-823c-456c-911d-affb7729d5df",
+  "index": 863,
+  "period": 1,
+  "timestamp": "00:21:35.223",
+  "minute": 21,
+  "second": 35,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 37,
+  "possession_team": {
+    "id": 216,
+    "name": "Getafe"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 216,
+    "name": "Getafe"
+  },
+  "player": {
+    "id": 6630,
+    "name": "Jorge Molina Vidal"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    110.1,
+    28.0
+  ],
+  "duration": 0.114147,
+  "related_events": [
+    "82ddeedf-91aa-490f-a664-f7bcfc8114a4",
+    "966ade0d-cffb-4b08-b74e-14baf22db73a"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.15490848,
+    "end_location": [
+      110.7,
+      28.8
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          100.3,
+          47.6
+        ],
+        "player": {
+          "id": 5466,
+          "name": "Oghenekaro Etebo"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.8,
+          34.8
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.3,
+          40.7
+        ],
+        "player": {
+          "id": 17304,
+          "name": "H\u00e9ctor Junior Firpo Adames"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.8,
+          29.1
+        ],
+        "player": {
+          "id": 5492,
+          "name": "Samuel Yves Umtiti"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.9,
+          23.8
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.5,
+          18.3
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          90.9,
+          42.1
+        ],
+        "player": {
+          "id": 30756,
+          "name": "Anssumane Fati"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

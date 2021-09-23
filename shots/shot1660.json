@@ -1,0 +1,281 @@
+{
+  "id": "ef90f815-f71c-4731-add0-7bd52c276616",
+  "index": 198,
+  "period": 1,
+  "timestamp": "00:04:08.265",
+  "minute": 4,
+  "second": 8,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 12,
+  "possession_team": {
+    "id": 1230,
+    "name": "Real Murcia"
+  },
+  "play_pattern": {
+    "id": 2,
+    "name": "From Corner"
+  },
+  "team": {
+    "id": 1230,
+    "name": "Real Murcia"
+  },
+  "player": {
+    "id": 26513,
+    "name": "Juan Cruz Ochoa L\u00f3pez"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    108.8,
+    39.0
+  ],
+  "duration": 1.634946,
+  "under_pressure": true,
+  "related_events": [
+    "4409090a-cefd-4ab7-82ee-ebda0324d4d1",
+    "65277822-e56d-4fc7-8763-3b1006aee0ab"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.019604309,
+    "end_location": [
+      120.0,
+      27.9,
+      0.6
+    ],
+    "key_pass_id": "efcb7f5c-0d25-4714-936d-3d1f486bc63f",
+    "aerial_won": true,
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          99.8,
+          47.4
+        ],
+        "player": {
+          "id": 26511,
+          "name": "Enrique de Lucas Mart\u00ednez"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.7,
+          39.1
+        ],
+        "player": {
+          "id": 26515,
+          "name": "\u00cd\u00f1igo V\u00e9lez De Mendiz\u00e1bal Fern\u00e1ndez De Garc\u00eda"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.0,
+          38.3
+        ],
+        "player": {
+          "id": 26243,
+          "name": "Iv\u00e1n Daniel Alonso Vallejo"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.6,
+          39.0
+        ],
+        "player": {
+          "id": 15071,
+          "name": "Lilian Thuram"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.2,
+          40.0
+        ],
+        "player": {
+          "id": 26005,
+          "name": "Jos\u00e9 Manuel Pinto Colorado"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.1,
+          33.2
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.1,
+          33.4
+        ],
+        "player": {
+          "id": 26512,
+          "name": "\u00c1lvaro Mej\u00eda P\u00e9rez"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.9,
+          41.0
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.8,
+          40.4
+        ],
+        "player": {
+          "id": 11270,
+          "name": "Ei\u00f0ur Sm\u00e1ri Gu\u00f0johnsen"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.8,
+          40.0
+        ],
+        "player": {
+          "id": 25873,
+          "name": "Oleguer Presas Renom"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          37.1
+        ],
+        "player": {
+          "id": 20177,
+          "name": "Eric-Sylvain Bilal Abidal"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.2,
+          36.7
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.7,
+          35.1
+        ],
+        "player": {
+          "id": 5987,
+          "name": "Giovani dos Santos Ram\u00edrez"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          32.8
+        ],
+        "player": {
+          "id": 26514,
+          "name": "Alejandro Mara\u00f1\u00f3n P\u00e9rez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

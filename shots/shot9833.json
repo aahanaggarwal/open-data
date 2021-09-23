@@ -1,0 +1,144 @@
+{
+  "id": "7864c177-abfb-473c-9904-8869e76905de",
+  "index": 2437,
+  "period": 2,
+  "timestamp": "00:17:30.638",
+  "minute": 62,
+  "second": 30,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 145,
+  "possession_team": {
+    "id": 101,
+    "name": "Leeds United"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 101,
+    "name": "Leeds United"
+  },
+  "player": {
+    "id": 40267,
+    "name": "Alan Smith"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    112.0,
+    33.1
+  ],
+  "duration": 1.116522,
+  "related_events": [
+    "0d57186b-dabe-4839-a2b5-8bb0e4a8dd5f"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.19664016,
+    "end_location": [
+      120.0,
+      43.5,
+      0.8
+    ],
+    "key_pass_id": "a76e791c-4438-45ce-b563-6616029e687c",
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.9,
+          38.8
+        ],
+        "player": {
+          "id": 20015,
+          "name": "Jens Lehmann"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.7,
+          36.1
+        ],
+        "player": {
+          "id": 15637,
+          "name": "Sulzeer Jeremiah \"Sol\" Campbell"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.9,
+          48.6
+        ],
+        "player": {
+          "id": 26649,
+          "name": "Jermaine Pennant"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.5,
+          41.9
+        ],
+        "player": {
+          "id": 12529,
+          "name": "Ashley Cole"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.3,
+          32.5
+        ],
+        "player": {
+          "id": 38412,
+          "name": "Kolo Habib Tour\u00e9"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

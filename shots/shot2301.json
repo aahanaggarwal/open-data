@@ -1,0 +1,145 @@
+{
+  "id": "40a9b19f-c907-4bdc-9d5a-c46cc49f1a8a",
+  "index": 1736,
+  "period": 1,
+  "timestamp": "00:39:55.597",
+  "minute": 39,
+  "second": 55,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 103,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    105.7,
+    35.7
+  ],
+  "duration": 0.412029,
+  "under_pressure": true,
+  "related_events": [
+    "2373b517-718b-42c4-84b6-bacfbf3f45de",
+    "274ab890-00a5-4f38-ae1c-b7cb669f62c1"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.29637697,
+    "end_location": [
+      113.6,
+      38.4,
+      0.2
+    ],
+    "key_pass_id": "f275652c-f0a6-435e-bf88-8dc2e0d64383",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          94.5,
+          55.1
+        ],
+        "player": {
+          "id": 15515,
+          "name": "Patrick Vieira"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.4,
+          37.2
+        ],
+        "player": {
+          "id": 40356,
+          "name": "Craig Short"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.6,
+          38.8
+        ],
+        "player": {
+          "id": 40355,
+          "name": "Andy Todd"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          85.7,
+          56.2
+        ],
+        "player": {
+          "id": 15042,
+          "name": "Dennis Bergkamp"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.0,
+          38.4
+        ],
+        "player": {
+          "id": 38464,
+          "name": "Brad Friedel"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

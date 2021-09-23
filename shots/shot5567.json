@@ -1,0 +1,159 @@
+{
+  "id": "abe37a99-02ef-4589-9dab-81514f4d1a2f",
+  "index": 1466,
+  "period": 1,
+  "timestamp": "00:39:13.118",
+  "minute": 39,
+  "second": 13,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 72,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19298,
+    "name": "Samuel Eto\"o Fils"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    114.8,
+    30.7
+  ],
+  "duration": 0.498351,
+  "related_events": [
+    "da861c0f-5f9e-4b03-b266-aada40fab73c"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.17924626,
+    "end_location": [
+      120.0,
+      35.3,
+      1.9
+    ],
+    "key_pass_id": "5b3c01dc-9c8c-415d-ace6-a5e24432a5d2",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.0,
+          36.5
+        ],
+        "player": {
+          "id": 25912,
+          "name": "Ricardo L\u00f3pez Felipe"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.9,
+          30.0
+        ],
+        "player": {
+          "id": 26004,
+          "name": "Carlos Javier Cu\u00e9llar Jim\u00e9nez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.9,
+          33.6
+        ],
+        "player": {
+          "id": 25865,
+          "name": "Jos\u00e9 Romero Urtasun"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.1,
+          49.5
+        ],
+        "player": {
+          "id": 25860,
+          "name": "Enrique Corrales Mart\u00edn"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.6,
+          34.2
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.3,
+          57.4
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

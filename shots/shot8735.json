@@ -1,0 +1,114 @@
+{
+  "id": "24e7de5c-176f-4954-a330-873839083aa9",
+  "index": 3208,
+  "period": 2,
+  "timestamp": "00:42:22.851",
+  "minute": 87,
+  "second": 22,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 198,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19298,
+    "name": "Samuel Eto\"o Fils"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    101.1,
+    32.9
+  ],
+  "duration": 0.7788,
+  "related_events": [
+    "0896fe4b-ff59-49c9-a884-eed4c36a126d"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.36754194,
+    "end_location": [
+      120.0,
+      41.1,
+      0.2
+    ],
+    "key_pass_id": "87b1b676-8413-4340-b04c-f1ff1d3e5e1e",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          109.5,
+          35.6
+        ],
+        "player": {
+          "id": 4691,
+          "name": "Claudio Andr\u00e9s Bravo Mu\u00f1oz"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.6,
+          32.2
+        ],
+        "player": {
+          "id": 16622,
+          "name": "Mikel Gonz\u00e1lez de Mart\u00edn Mart\u00ednez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.6,
+          34.2
+        ],
+        "player": {
+          "id": 25883,
+          "name": "Juan Jes\u00fas Guti\u00e9rrez Robles"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

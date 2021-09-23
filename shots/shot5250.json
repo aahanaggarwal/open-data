@@ -1,0 +1,188 @@
+{
+  "id": "1e9789f3-ad1b-4b8f-a2b5-d51491045f6e",
+  "index": 3600,
+  "period": 2,
+  "timestamp": "00:47:03.239",
+  "minute": 92,
+  "second": 3,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 212,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 40221,
+    "name": "Gilberto Aparecido da Silva"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    112.9,
+    51.6
+  ],
+  "duration": 1.805539,
+  "related_events": [
+    "603285ca-0bad-41d5-a77f-d834294e69d7"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.043339178,
+    "end_location": [
+      120.0,
+      34.0,
+      1.1
+    ],
+    "key_pass_id": "f899ec4a-d568-4347-916c-e29d69eec8db",
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.7,
+          27.6
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.6,
+          37.3
+        ],
+        "player": {
+          "id": 40380,
+          "name": "Mark Fish"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.5,
+          45.5
+        ],
+        "player": {
+          "id": 12529,
+          "name": "Ashley Cole"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.6,
+          48.8
+        ],
+        "player": {
+          "id": 20153,
+          "name": "Claus Jensen"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.7,
+          41.5
+        ],
+        "player": {
+          "id": 40378,
+          "name": "Dean Kiely"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.4,
+          33.9
+        ],
+        "player": {
+          "id": 40379,
+          "name": "Matt Holland"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.3,
+          36.9
+        ],
+        "player": {
+          "id": 40376,
+          "name": "Graham Stuart"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.2,
+          33.5
+        ],
+        "player": {
+          "id": 40416,
+          "name": "Luke Young"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

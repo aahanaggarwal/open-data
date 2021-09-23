@@ -1,0 +1,203 @@
+{
+  "id": "d8b9e96b-b28b-4ede-97d1-7e481e8ef7f0",
+  "index": 912,
+  "period": 1,
+  "timestamp": "00:24:11.493",
+  "minute": 24,
+  "second": 11,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 47,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 4320,
+    "name": "Neymar da Silva Santos Junior"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    109.2,
+    38.0
+  ],
+  "duration": 0.6102,
+  "related_events": [
+    "4f77bc1d-7bef-4832-9243-a4413fdcd58d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.12265932,
+    "end_location": [
+      119.0,
+      38.8,
+      1.4
+    ],
+    "key_pass_id": "2057bfb4-ed52-4a19-afea-7cbab6d89684",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.1,
+          39.5
+        ],
+        "player": {
+          "id": 6654,
+          "name": "Antonio Ad\u00e1n Garrido"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.2,
+          40.3
+        ],
+        "player": {
+          "id": 27349,
+          "name": "Heiko Westermann"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.4,
+          43.7
+        ],
+        "player": {
+          "id": 6379,
+          "name": "Sergi Roberto Carnicer"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.3,
+          46.1
+        ],
+        "player": {
+          "id": 27347,
+          "name": "Juan Manuel Vargas Risco"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.4,
+          35.0
+        ],
+        "player": {
+          "id": 6865,
+          "name": "Francisco Jos\u00e9 Molinero Calder\u00f3n"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.4,
+          27.1
+        ],
+        "player": {
+          "id": 7161,
+          "name": "Germ\u00e1n Alejandro Pezzella"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.1,
+          28.3
+        ],
+        "player": {
+          "id": 5671,
+          "name": "Alfred John Momar N\"Diaye"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.7,
+          23.2
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          92.7,
+          35.7
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

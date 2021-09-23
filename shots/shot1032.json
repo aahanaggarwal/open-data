@@ -1,0 +1,175 @@
+{
+  "id": "4c596607-620a-4acc-ab5b-5463f700cf9d",
+  "index": 3364,
+  "period": 2,
+  "timestamp": "00:42:29.375",
+  "minute": 87,
+  "second": 29,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 198,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 19312,
+    "name": "Robert Pir\u00e8s "
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    112.6,
+    35.7
+  ],
+  "duration": 1.372023,
+  "under_pressure": true,
+  "related_events": [
+    "d84af521-4b22-4968-9c1d-f04d40264519",
+    "e640f82e-fde2-4b39-9ab2-80d66a51b5df"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.3149496,
+    "end_location": [
+      120.0,
+      43.7,
+      0.2
+    ],
+    "key_pass_id": "8dcf158a-c021-414f-88a7-8464a208f0f3",
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.5,
+          40.1
+        ],
+        "player": {
+          "id": 40298,
+          "name": "Jamie Clapham"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.8,
+          33.9
+        ],
+        "player": {
+          "id": 40296,
+          "name": "Kenny Cunningham"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.7,
+          43.8
+        ],
+        "player": {
+          "id": 40297,
+          "name": "Stephen Clemence"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.8,
+          36.0
+        ],
+        "player": {
+          "id": 40300,
+          "name": "Matthew Upson"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.2,
+          37.0
+        ],
+        "player": {
+          "id": 40292,
+          "name": "Maik Taylor"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          48.7
+        ],
+        "player": {
+          "id": 15754,
+          "name": "Fredrik Ljungberg"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.6,
+          39.6
+        ],
+        "player": {
+          "id": 15042,
+          "name": "Dennis Bergkamp"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

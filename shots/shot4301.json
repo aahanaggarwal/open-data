@@ -1,0 +1,161 @@
+{
+  "id": "1528ce94-8337-4f62-a39a-d47e84bfaf1a",
+  "index": 4062,
+  "period": 2,
+  "timestamp": "00:40:59.978",
+  "minute": 85,
+  "second": 59,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 148,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 24976,
+    "name": "Abel Ruiz Ortega"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    110.8,
+    30.1
+  ],
+  "duration": 0.167978,
+  "under_pressure": true,
+  "related_events": [
+    "e0ea5730-57df-436d-832d-7c3526a53188",
+    "ee54b8f0-75f7-432b-bbef-5309f01363f1"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.16687901,
+    "end_location": [
+      112.2,
+      31.7,
+      0.3
+    ],
+    "key_pass_id": "7230be24-3dc8-430d-b289-1870d7872884",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          98.8,
+          37.3
+        ],
+        "player": {
+          "id": 6863,
+          "name": "Mauro Wilney Arambarri Rosa"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.3,
+          50.3
+        ],
+        "player": {
+          "id": 6635,
+          "name": "Leandro Daniel Cabrera Sas\u00eda"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.3,
+          35.3
+        ],
+        "player": {
+          "id": 6873,
+          "name": "Francisco Portillo Soler"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.4,
+          31.3
+        ],
+        "player": {
+          "id": 6627,
+          "name": "Dami\u00e1n Nicol\u00e1s Su\u00e1rez Su\u00e1rez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.9,
+          40.1
+        ],
+        "player": {
+          "id": 6634,
+          "name": "Djen\u00e9 Dakonam Ortega"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.7,
+          32.2
+        ],
+        "player": {
+          "id": 6722,
+          "name": "David Soria Sol\u00eds"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

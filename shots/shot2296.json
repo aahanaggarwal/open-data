@@ -1,0 +1,174 @@
+{
+  "id": "e5ccf00c-1f68-431f-a8e5-c96437f57f64",
+  "index": 920,
+  "period": 1,
+  "timestamp": "00:20:57.836",
+  "minute": 20,
+  "second": 57,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 52,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15515,
+    "name": "Patrick Vieira"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    104.8,
+    36.0
+  ],
+  "duration": 0.618707,
+  "related_events": [
+    "7dcef72d-5ae1-4090-92e8-2b4700de48c3"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.10563295,
+    "end_location": [
+      120.0,
+      34.3,
+      0.2
+    ],
+    "key_pass_id": "a59ca1c3-46f1-40d5-90be-6db2a1588174",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.8,
+          37.9
+        ],
+        "player": {
+          "id": 38464,
+          "name": "Brad Friedel"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          50.4
+        ],
+        "player": {
+          "id": 15272,
+          "name": "Markus Babbel"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.3,
+          53.4
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          84.7,
+          56.6
+        ],
+        "player": {
+          "id": 15754,
+          "name": "Fredrik Ljungberg"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.4,
+          46.0
+        ],
+        "player": {
+          "id": 40356,
+          "name": "Craig Short"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.2,
+          57.0
+        ],
+        "player": {
+          "id": 15095,
+          "name": "Tugay Kerimo\u011flu"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.6,
+          39.0
+        ],
+        "player": {
+          "id": 40355,
+          "name": "Andy Todd"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

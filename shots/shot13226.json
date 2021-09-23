@@ -1,0 +1,188 @@
+{
+  "id": "09342f5a-82e2-4fd8-9487-09b1aed195af",
+  "index": 520,
+  "period": 1,
+  "timestamp": "00:12:01.361",
+  "minute": 12,
+  "second": 1,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 30,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    101.0,
+    47.7
+  ],
+  "duration": 0.976663,
+  "related_events": [
+    "afa0a8d6-3511-491d-844b-e9f39bdbf3ca"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.099935345,
+    "end_location": [
+      120.0,
+      36.6,
+      0.2
+    ],
+    "key_pass_id": "50a4acd2-ec49-4238-beeb-9ae4efa943fe",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.9,
+          47.7
+        ],
+        "player": {
+          "id": 6804,
+          "name": "Sergi G\u00f3mez Sol\u00e0"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.8,
+          41.7
+        ],
+        "player": {
+          "id": 11541,
+          "name": "Tom\u00e1\u0161 Vacl\u00edk"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.9,
+          42.0
+        ],
+        "player": {
+          "id": 5534,
+          "name": "Simon Thorup Kj\u00e6r"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.5,
+          45.1
+        ],
+        "player": {
+          "id": 6919,
+          "name": "Guilherme Antonio Arana Lopes"
+        },
+        "position": {
+          "id": 8,
+          "name": "Left Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          34.6
+        ],
+        "player": {
+          "id": 6825,
+          "name": "Daniel Filipe Martins Carri\u00e7o"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.1,
+          29.6
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.2,
+          34.1
+        ],
+        "player": {
+          "id": 3501,
+          "name": "Philippe Coutinho Correia"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          87.3,
+          46.6
+        ],
+        "player": {
+          "id": 6719,
+          "name": "Franco Dami\u00e1n V\u00e1zquez"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

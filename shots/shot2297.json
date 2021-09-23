@@ -1,0 +1,233 @@
+{
+  "id": "24d6683e-d379-48fb-aebc-c33fcf79f834",
+  "index": 1138,
+  "period": 1,
+  "timestamp": "00:25:05.648",
+  "minute": 25,
+  "second": 5,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 66,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    85.1,
+    40.7
+  ],
+  "duration": 1.450758,
+  "related_events": [
+    "59d48e68-fd9f-42f4-9312-579134f52899"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.011518389,
+    "end_location": [
+      117.8,
+      36.3,
+      0.2
+    ],
+    "key_pass_id": "4bebf6b6-6e84-409e-a9f0-0610818de1df",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          79.1,
+          50.5
+        ],
+        "player": {
+          "id": 40354,
+          "name": "Lucas Neill"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.6,
+          3.5
+        ],
+        "player": {
+          "id": 19312,
+          "name": "Robert Pir\u00e8s "
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          93.3,
+          35.5
+        ],
+        "player": {
+          "id": 15754,
+          "name": "Fredrik Ljungberg"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          85.1,
+          47.4
+        ],
+        "player": {
+          "id": 15042,
+          "name": "Dennis Bergkamp"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          86.8,
+          46.7
+        ],
+        "player": {
+          "id": 15095,
+          "name": "Tugay Kerimo\u011flu"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          88.1,
+          37.2
+        ],
+        "player": {
+          "id": 40352,
+          "name": "Barry Ferguson"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.1,
+          39.0
+        ],
+        "player": {
+          "id": 38464,
+          "name": "Brad Friedel"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.4,
+          46.2
+        ],
+        "player": {
+          "id": 40353,
+          "name": "Vratislav Gre\u0161ko"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.2,
+          21.5
+        ],
+        "player": {
+          "id": 15272,
+          "name": "Markus Babbel"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.8,
+          34.8
+        ],
+        "player": {
+          "id": 40355,
+          "name": "Andy Todd"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.8,
+          40.8
+        ],
+        "player": {
+          "id": 40356,
+          "name": "Craig Short"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

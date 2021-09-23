@@ -1,0 +1,116 @@
+{
+  "id": "52465f8a-6464-45da-9252-d432adf3ac20",
+  "index": 1058,
+  "period": 1,
+  "timestamp": "00:29:38.164",
+  "minute": 29,
+  "second": 38,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 74,
+  "possession_team": {
+    "id": 218,
+    "name": "Real Betis"
+  },
+  "play_pattern": {
+    "id": 9,
+    "name": "From Kick Off"
+  },
+  "team": {
+    "id": 218,
+    "name": "Real Betis"
+  },
+  "player": {
+    "id": 26485,
+    "name": "Daniel Mart\u00edn Alexandre"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    105.2,
+    41.7
+  ],
+  "duration": 0.4533,
+  "under_pressure": true,
+  "related_events": [
+    "5d2812b8-3744-43c6-8641-a76088154bd6",
+    "b3a27159-d68a-4212-a59f-5fb0cbc14681",
+    "c05c525d-9a45-4ce6-baa2-c9761affbbb3"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.24787994,
+    "end_location": [
+      112.7,
+      40.5,
+      0.9
+    ],
+    "key_pass_id": "921874c9-b9c4-4878-aa32-48248190de4f",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.5,
+          40.2
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.8,
+          41.1
+        ],
+        "player": {
+          "id": 25873,
+          "name": "Oleguer Presas Renom"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.2,
+          40.5
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

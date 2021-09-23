@@ -1,0 +1,235 @@
+{
+  "id": "470f4adc-38e3-41f2-99d0-f118f8f5647e",
+  "index": 329,
+  "period": 1,
+  "timestamp": "00:05:55.168",
+  "minute": 5,
+  "second": 55,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 14,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 2,
+    "name": "From Corner"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    112.2,
+    28.4
+  ],
+  "duration": 0.1108,
+  "under_pressure": true,
+  "related_events": [
+    "2329d2ad-239c-4234-9cd5-f3d7d457eea1",
+    "3e9750d2-61fa-4250-ab94-dbf0430f0a1d",
+    "6d97d1b5-31fb-4659-8108-95b34f4b49f1"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.090590954,
+    "end_location": [
+      113.4,
+      30.2
+    ],
+    "key_pass_id": "1b851936-20ae-4824-b955-29b68b544b7c",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.7,
+          30.7
+        ],
+        "player": {
+          "id": 26573,
+          "name": "\u00cd\u00f1igo L\u00f3pez Monta\u00f1a"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.7,
+          36.4
+        ],
+        "player": {
+          "id": 26070,
+          "name": "Antonio Rodr\u00edguez Mart\u00ednez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.5,
+          28.8
+        ],
+        "player": {
+          "id": 3991,
+          "name": "Allan Romeo Nyom"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.4,
+          22.6
+        ],
+        "player": {
+          "id": 12737,
+          "name": "David Villa S\u00e1nchez"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.2,
+          32.6
+        ],
+        "player": {
+          "id": 3478,
+          "name": "Francesc F\u00e0bregas i Soler"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.2,
+          40.8
+        ],
+        "player": {
+          "id": 27053,
+          "name": "Alexandre Dimitri Song-Billong"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.5,
+          45.1
+        ],
+        "player": {
+          "id": 6656,
+          "name": "Mikel Rico Moreno"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.4,
+          52.9
+        ],
+        "player": {
+          "id": 26780,
+          "name": "Guilherme Magdalena Siqueira"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.2,
+          38.6
+        ],
+        "player": {
+          "id": 25978,
+          "name": "Iriney Santos Da Silva"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.5,
+          28.9
+        ],
+        "player": {
+          "id": 10731,
+          "name": "Gabriel Andrei Torje"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.3,
+          40.5
+        ],
+        "player": {
+          "id": 26851,
+          "name": "Borja G\u00f3mez P\u00e9rez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

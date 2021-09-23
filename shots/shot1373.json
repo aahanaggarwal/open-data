@@ -1,0 +1,115 @@
+{
+  "id": "e6b2e116-7443-4242-a339-c3e3003be44b",
+  "index": 626,
+  "period": 1,
+  "timestamp": "00:15:18.687",
+  "minute": 15,
+  "second": 18,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 37,
+  "possession_team": {
+    "id": 1049,
+    "name": "Granada"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1049,
+    "name": "Granada"
+  },
+  "player": {
+    "id": 11165,
+    "name": "Yacine Brahimi"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    111.0,
+    50.6
+  ],
+  "duration": 0.6908,
+  "under_pressure": true,
+  "related_events": [
+    "adebb790-0a2b-4494-b687-42eded5bff45",
+    "ef096e96-3848-4f81-ac70-93191ef85a2c"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.18130489,
+    "end_location": [
+      120.0,
+      42.5,
+      0.9
+    ],
+    "key_pass_id": "b47cb1d2-357f-4303-8df5-2af3f5437670",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          111.3,
+          49.8
+        ],
+        "player": {
+          "id": 6593,
+          "name": "Mart\u00edn Montoya Torralbo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.2,
+          46.4
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.9,
+          47.2
+        ],
+        "player": {
+          "id": 26005,
+          "name": "Jos\u00e9 Manuel Pinto Colorado"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": "986f47db-df93-488c-a8e9-6cca0379fd51",
+  "index": 2114,
+  "period": 2,
+  "timestamp": "00:17:01.313",
+  "minute": 62,
+  "second": 1,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 151,
+  "possession_team": {
+    "id": 243,
+    "name": "AC Milan"
+  },
+  "play_pattern": {
+    "id": 8,
+    "name": "From Keeper"
+  },
+  "team": {
+    "id": 24,
+    "name": "Liverpool"
+  },
+  "player": {
+    "id": 19109,
+    "name": "Steven Gerrard"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    111.0,
+    27.9
+  ],
+  "duration": 0.433503,
+  "related_events": [
+    "62d6fd02-09d4-4b9e-8360-330f0f32ea23"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.16332448,
+    "end_location": [
+      116.8,
+      37.8,
+      0.2
+    ],
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.4,
+          40.0
+        ],
+        "player": {
+          "id": 20195,
+          "name": "Dirk Kuijt"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.2,
+          39.9
+        ],
+        "player": {
+          "id": 15116,
+          "name": "Paolo Maldini"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.2,
+          52.9
+        ],
+        "player": {
+          "id": 17961,
+          "name": "Marek Jankulovski"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.8,
+          37.4
+        ],
+        "player": {
+          "id": 34393,
+          "name": "Nelson de Jesus da Silva"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.1,
+          30.3
+        ],
+        "player": {
+          "id": 20142,
+          "name": "Ivan Gennaro Gattuso"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.1,
+          28.9
+        ],
+        "player": {
+          "id": 15778,
+          "name": "Alessandro Nesta"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "id": "4832a0e2-4ba8-4f30-bab3-44c0b0427102",
+  "index": 1302,
+  "period": 1,
+  "timestamp": "00:29:17.631",
+  "minute": 29,
+  "second": 17,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 63,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 30756,
+    "name": "Anssumane Fati"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    102.0,
+    34.2
+  ],
+  "duration": 1.107073,
+  "related_events": [
+    "05f4d5da-c2ec-49e8-aa24-9de37c9c8ea2"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.37172124,
+    "end_location": [
+      120.0,
+      38.8,
+      0.2
+    ],
+    "key_pass_id": "bb5cb727-2a01-4f87-970b-cf402f93a3b0",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          107.6,
+          36.1
+        ],
+        "player": {
+          "id": 23344,
+          "name": "Aitor Fern\u00e1ndez Abarisketa"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.7,
+          44.6
+        ],
+        "player": {
+          "id": 5487,
+          "name": "Antoine Griezmann"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.2,
+          29.9
+        ],
+        "player": {
+          "id": 11676,
+          "name": "Jorge Miram\u00f3n Santagertrudis"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.1,
+          38.1
+        ],
+        "player": {
+          "id": 6682,
+          "name": "Sergio Postigo Redondo"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          85.5,
+          42.1
+        ],
+        "player": {
+          "id": 6592,
+          "name": "R\u00faben Miguel Nunes Vezo"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

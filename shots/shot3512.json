@@ -1,0 +1,159 @@
+{
+  "id": "32970ec5-948c-47b3-a1d8-54b520327597",
+  "index": 1176,
+  "period": 1,
+  "timestamp": "00:29:13.745",
+  "minute": 29,
+  "second": 13,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 72,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15042,
+    "name": "Dennis Bergkamp"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    99.9,
+    47.7
+  ],
+  "duration": 1.131451,
+  "related_events": [
+    "6305ff30-3b79-4a41-8293-e91083772f34"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.21116275,
+    "end_location": [
+      120.0,
+      50.2,
+      4.3
+    ],
+    "key_pass_id": "b78320fa-9075-4f28-9d67-e33c2ec8a076",
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          99.3,
+          49.7
+        ],
+        "player": {
+          "id": 40390,
+          "name": "Simon Charlton"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.7,
+          43.1
+        ],
+        "player": {
+          "id": 40385,
+          "name": "Jussi J\u00e4\u00e4skel\u00e4inen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          90.0,
+          40.9
+        ],
+        "player": {
+          "id": 15515,
+          "name": "Patrick Vieira"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.1,
+          32.8
+        ],
+        "player": {
+          "id": 19312,
+          "name": "Robert Pir\u00e8s "
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          93.5,
+          30.7
+        ],
+        "player": {
+          "id": 21540,
+          "name": "Kevin Nolan"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.9,
+          38.7
+        ],
+        "player": {
+          "id": 9353,
+          "name": "Nicky Hunt"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

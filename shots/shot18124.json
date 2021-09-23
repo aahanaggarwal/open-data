@@ -1,0 +1,203 @@
+{
+  "id": "85c93e37-cedd-4fe7-bbbc-9272f030c8ee",
+  "index": 570,
+  "period": 1,
+  "timestamp": "00:12:09.264",
+  "minute": 12,
+  "second": 9,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 19,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    96.8,
+    34.9
+  ],
+  "duration": 0.123,
+  "related_events": [
+    "fa0c8948-d1e6-4a1a-8ab2-35b053fca145",
+    "fcd48987-4e0e-4e82-95c1-4fa05f61714b"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.03139906,
+    "end_location": [
+      99.6,
+      35.4
+    ],
+    "key_pass_id": "e1ea4446-fcfc-4ce2-abe0-1645e5ccf8a5",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          90.9,
+          16.2
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          94.4,
+          38.3
+        ],
+        "player": {
+          "id": 4320,
+          "name": "Neymar da Silva Santos Junior"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          94.4,
+          33.0
+        ],
+        "player": {
+          "id": 6771,
+          "name": "Manuel Trigueros Mu\u00f1oz"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.3,
+          42.6
+        ],
+        "player": {
+          "id": 5588,
+          "name": "Antonio Rukavina"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.1,
+          39.4
+        ],
+        "player": {
+          "id": 6752,
+          "name": "V\u00edctor Ru\u00edz Torre"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.4,
+          32.6
+        ],
+        "player": {
+          "id": 6772,
+          "name": "Mario Gaspar P\u00e9rez Mart\u00ednez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.3,
+          32.9
+        ],
+        "player": {
+          "id": 3324,
+          "name": "Eric Bertrand Bailly"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.3,
+          40.0
+        ],
+        "player": {
+          "id": 6755,
+          "name": "Sergio Asenjo Andr\u00e9s"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.5,
+          35.2
+        ],
+        "player": {
+          "id": 22819,
+          "name": "Bruno Soriano Llido"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

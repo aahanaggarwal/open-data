@@ -1,0 +1,174 @@
+{
+  "id": "c9487b83-53c4-4587-b446-faab6b64ce89",
+  "index": 3926,
+  "period": 2,
+  "timestamp": "00:45:26.739",
+  "minute": 90,
+  "second": 26,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 172,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5246,
+    "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    103.8,
+    49.5
+  ],
+  "duration": 0.36927,
+  "related_events": [
+    "34b313a9-4f9b-4135-a485-ae9f9332ba98"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.20988987,
+    "end_location": [
+      120.0,
+      33.7,
+      0.2
+    ],
+    "key_pass_id": "9b4250cb-f854-4c19-b7a0-7ba2111297ce",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          101.0,
+          47.0
+        ],
+        "player": {
+          "id": 7692,
+          "name": "Mauricio Lemos Merladet"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.0,
+          34.5
+        ],
+        "player": {
+          "id": 6922,
+          "name": "M\u00edchel Macedo Rocha Machado"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          51.6
+        ],
+        "player": {
+          "id": 6923,
+          "name": "Joaqu\u00edn Navarro Jim\u00e9nez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          90.5,
+          50.6
+        ],
+        "player": {
+          "id": 6920,
+          "name": "Alberto Aquilani"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.9,
+          48.5
+        ],
+        "player": {
+          "id": 6609,
+          "name": "Denis Su\u00e1rez Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.8,
+          32.2
+        ],
+        "player": {
+          "id": 10802,
+          "name": "Andr\u00e9 Filipe Tavares Gomes"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.2,
+          43.4
+        ],
+        "player": {
+          "id": 6931,
+          "name": "Leandro Chichizola"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

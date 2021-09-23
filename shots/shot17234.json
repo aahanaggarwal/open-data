@@ -1,0 +1,128 @@
+{
+  "id": "f5879ac5-2e39-44e1-9cdd-0f8f2ee0d3f1",
+  "index": 3973,
+  "period": 2,
+  "timestamp": "00:42:14.784",
+  "minute": 87,
+  "second": 14,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 149,
+  "possession_team": {
+    "id": 212,
+    "name": "Atl\u00e9tico Madrid"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    110.9,
+    45.1
+  ],
+  "duration": 1.368197,
+  "related_events": [
+    "2c2e65de-e2b0-43d3-a229-a805704368d1"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.5141719,
+    "end_location": [
+      120.0,
+      40.5,
+      1.0
+    ],
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.5,
+          48.0
+        ],
+        "player": {
+          "id": 5551,
+          "name": "Jo\u00e3o Miranda de Souza Filho"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.7,
+          45.7
+        ],
+        "player": {
+          "id": 5249,
+          "name": "Diego Roberto God\u00edn Leal"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          25.1
+        ],
+        "player": {
+          "id": 26496,
+          "name": "Daniel Alberto D\u00edaz"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.6,
+          44.4
+        ],
+        "player": {
+          "id": 3509,
+          "name": "Thibaut Courtois"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

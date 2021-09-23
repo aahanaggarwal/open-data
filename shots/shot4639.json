@@ -1,0 +1,127 @@
+{
+  "id": "f4f30d75-7dcb-4609-afcd-616dd508b339",
+  "index": 2146,
+  "period": 2,
+  "timestamp": "00:10:12.667",
+  "minute": 55,
+  "second": 12,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 94,
+  "possession_team": {
+    "id": 771,
+    "name": "France"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 771,
+    "name": "France"
+  },
+  "player": {
+    "id": 5487,
+    "name": "Antoine Griezmann"
+  },
+  "position": {
+    "id": 7,
+    "name": "Right Wing Back"
+  },
+  "location": [
+    116.0,
+    45.0
+  ],
+  "duration": 0.573,
+  "related_events": [
+    "1527aef2-7283-491e-9026-393335fc39db"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.19090676,
+    "end_location": [
+      120.0,
+      46.3,
+      0.1
+    ],
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          115.0,
+          45.0
+        ],
+        "player": {
+          "id": 6312,
+          "name": "Franco Armani"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          44.0
+        ],
+        "player": {
+          "id": 6349,
+          "name": "Federico Juli\u00e1n Fazio"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          47.0
+        ],
+        "player": {
+          "id": 3009,
+          "name": "Kylian Mbapp\u00e9 Lottin"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.0,
+          32.0
+        ],
+        "player": {
+          "id": 5742,
+          "name": "Gabriel Iv\u00e1n Mercado"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

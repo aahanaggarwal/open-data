@@ -1,0 +1,130 @@
+{
+  "id": "e5eb4b42-c782-4417-af8e-74fb206bfb0c",
+  "index": 3011,
+  "period": 2,
+  "timestamp": "00:21:10.969",
+  "minute": 66,
+  "second": 10,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 151,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 4320,
+    "name": "Neymar da Silva Santos Junior"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    111.5,
+    29.0
+  ],
+  "duration": 0.6884,
+  "under_pressure": true,
+  "related_events": [
+    "0aeec8ab-5b74-4db9-b18b-7cbe48afd814",
+    "5a0b383e-fc1d-4c83-9948-18b17e124d2d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.12706542,
+    "end_location": [
+      120.0,
+      43.5,
+      0.4
+    ],
+    "key_pass_id": "e9e59297-d3aa-4021-8344-176e69c7d70b",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          111.2,
+          38.5
+        ],
+        "player": {
+          "id": 6802,
+          "name": "Jonathan Castro Otto"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.6,
+          31.0
+        ],
+        "player": {
+          "id": 6890,
+          "name": "Andreu Font\u00e0s Prat"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.5,
+          29.7
+        ],
+        "player": {
+          "id": 27052,
+          "name": "L\u00e9vy Cl\u00e9ment Madinda"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.5,
+          36.1
+        ],
+        "player": {
+          "id": 10612,
+          "name": "Yoel Rodr\u00edguez Oterino"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

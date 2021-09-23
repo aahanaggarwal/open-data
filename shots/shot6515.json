@@ -1,0 +1,205 @@
+{
+  "id": "6fe07bf0-40df-4319-aa5f-25bea450087e",
+  "index": 89,
+  "period": 1,
+  "timestamp": "00:01:29.840",
+  "minute": 1,
+  "second": 29,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 6,
+  "possession_team": {
+    "id": 796,
+    "name": "Russia"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 796,
+    "name": "Russia"
+  },
+  "player": {
+    "id": 5186,
+    "name": "Denis Cheryshev"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    109.0,
+    56.0
+  ],
+  "duration": 0.6,
+  "under_pressure": true,
+  "related_events": [
+    "02bf7ca7-f6c2-4037-8347-2a585ba90de8",
+    "6033e720-850d-4fc5-b145-439d372882a7",
+    "f3d8f3d2-42b9-4b14-b019-8023f676f341"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.051290978,
+    "end_location": [
+      111.0,
+      54.0
+    ],
+    "key_pass_id": "79d1408e-7d34-484f-ad76-675f354d4e7e",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          96.0,
+          64.0
+        ],
+        "player": {
+          "id": 5195,
+          "name": "Artem Dzyuba"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          92.0,
+          53.0
+        ],
+        "player": {
+          "id": 5177,
+          "name": "Aleksandr Golovin"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          95.0,
+          58.0
+        ],
+        "player": {
+          "id": 5470,
+          "name": "Ivan Rakiti\u0107"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.0,
+          68.0
+        ],
+        "player": {
+          "id": 5457,
+          "name": "Ivan Strini\u0107"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          58.0
+        ],
+        "player": {
+          "id": 3471,
+          "name": "Dejan Lovren"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          53.0
+        ],
+        "player": {
+          "id": 5468,
+          "name": "Domagoj Vida"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          44.0
+        ],
+        "player": {
+          "id": 3444,
+          "name": "Danijel Suba\u0161i\u0107"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          54.0
+        ],
+        "player": {
+          "id": 5461,
+          "name": "\u0160ime Vrsaljko"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          48.0
+        ],
+        "player": {
+          "id": 5463,
+          "name": "Luka Modri\u0107"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

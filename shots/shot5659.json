@@ -1,0 +1,128 @@
+{
+  "id": "d6d4ee81-d296-4c6a-a45e-5c3064379d17",
+  "index": 2544,
+  "period": 2,
+  "timestamp": "00:20:53.409",
+  "minute": 65,
+  "second": 53,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 140,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15515,
+    "name": "Patrick Vieira"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    110.5,
+    40.1
+  ],
+  "duration": 0.567733,
+  "related_events": [
+    "9af5ef76-4876-4b51-b545-ccd4412ee1fa"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.60270625,
+    "end_location": [
+      120.0,
+      41.5,
+      0.0
+    ],
+    "key_pass_id": "f6395241-c80a-4994-8561-15ce8762dd27",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          93.6,
+          15.6
+        ],
+        "player": {
+          "id": 12529,
+          "name": "Ashley Cole"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.2,
+          24.0
+        ],
+        "player": {
+          "id": 40237,
+          "name": "James Scowcroft"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.6,
+          35.9
+        ],
+        "player": {
+          "id": 15173,
+          "name": "Steffen Freund"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.8,
+          39.3
+        ],
+        "player": {
+          "id": 40236,
+          "name": "Ian Walker"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

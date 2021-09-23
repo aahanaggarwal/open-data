@@ -1,0 +1,173 @@
+{
+  "id": "a3627b9f-579c-4fc5-bb6e-e23e70f9ccc8",
+  "index": 1767,
+  "period": 1,
+  "timestamp": "00:46:33.460",
+  "minute": 46,
+  "second": 33,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 85,
+  "possession_team": {
+    "id": 785,
+    "name": "Croatia"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 785,
+    "name": "Croatia"
+  },
+  "player": {
+    "id": 5465,
+    "name": "Ante Rebi\u0107"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    99.0,
+    34.0
+  ],
+  "duration": 0.973,
+  "related_events": [
+    "a0b1ff90-1668-40bf-84be-3edc3e9dae36"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.07235942,
+    "end_location": [
+      120.0,
+      44.2,
+      5.5
+    ],
+    "key_pass_id": "9dfaca7d-b15a-4a96-a613-86c152dcb531",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.0,
+          41.0
+        ],
+        "player": {
+          "id": 3659,
+          "name": "Wilfredo Daniel Caballero"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          31.0
+        ],
+        "player": {
+          "id": 5513,
+          "name": "Eduardo Antonio Salvio"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          37.0
+        ],
+        "player": {
+          "id": 5742,
+          "name": "Gabriel Iv\u00e1n Mercado"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          40.0
+        ],
+        "player": {
+          "id": 3090,
+          "name": "Nicol\u00e1s Hern\u00e1n Otamendi"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          87.0,
+          34.0
+        ],
+        "player": {
+          "id": 5470,
+          "name": "Ivan Rakiti\u0107"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.0,
+          44.0
+        ],
+        "player": {
+          "id": 5741,
+          "name": "Enzo Nicol\u00e1s P\u00e9rez"
+        },
+        "position": {
+          "id": 14,
+          "name": "Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          60.0
+        ],
+        "player": {
+          "id": 5474,
+          "name": "Ivan Peri\u0161i\u0107"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

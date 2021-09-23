@@ -1,0 +1,130 @@
+{
+  "id": "3b64a3bf-0b2d-4cba-966e-9ed3ea26f584",
+  "index": 2185,
+  "period": 2,
+  "timestamp": "00:10:44.570",
+  "minute": 55,
+  "second": 44,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 123,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15042,
+    "name": "Dennis Bergkamp"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    110.4,
+    58.2
+  ],
+  "duration": 0.048076,
+  "under_pressure": true,
+  "related_events": [
+    "8c8685c5-fa17-44e9-bf4c-75d652ceb87a",
+    "a163fa30-34c4-448f-947a-05834e7ceaa7",
+    "ec64f9e7-3ae2-40ec-8cfe-6f1c9f94fbad"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.018011613,
+    "end_location": [
+      110.8,
+      57.1
+    ],
+    "key_pass_id": "e8295eab-1348-4ae9-910a-bf9eed9de5fb",
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.2,
+          41.8
+        ],
+        "player": {
+          "id": 40132,
+          "name": "Paul Robinson"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.4,
+          48.7
+        ],
+        "player": {
+          "id": 40371,
+          "name": "Michael Duberry"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.8,
+          53.3
+        ],
+        "player": {
+          "id": 40368,
+          "name": "Ian Harte"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.1,
+          56.9
+        ],
+        "player": {
+          "id": 40369,
+          "name": "Steven Caldwell"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "id": "be0aabd1-1173-4eaf-9fc5-23ea79277cbb",
+  "index": 1234,
+  "period": 1,
+  "timestamp": "00:24:03.816",
+  "minute": 24,
+  "second": 3,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 46,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    114.2,
+    31.0
+  ],
+  "duration": 0.1979,
+  "related_events": [
+    "01a591f0-4403-4c17-9cd2-cc806d3caadf"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.25274304,
+    "end_location": [
+      116.4,
+      35.4,
+      0.6
+    ],
+    "key_pass_id": "e09d3f08-4e12-43a6-8cde-d359dd08fefb",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.1,
+          30.8
+        ],
+        "player": {
+          "id": 20127,
+          "name": "Carlos Marchena L\u00f3pez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          36.7
+        ],
+        "player": {
+          "id": 26222,
+          "name": "Jos\u00e9 Eduardo Rosa Vale e Castro"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.6,
+          35.3
+        ],
+        "player": {
+          "id": 26029,
+          "name": "Daniel Aranzubia Aguado"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.8,
+          38.2
+        ],
+        "player": {
+          "id": 6593,
+          "name": "Mart\u00edn Montoya Torralbo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.5,
+          39.4
+        ],
+        "player": {
+          "id": 23806,
+          "name": "Alejandro Berganti\u00f1os Garc\u00eda"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.3,
+          47.1
+        ],
+        "player": {
+          "id": 6868,
+          "name": "Bruno Alexandre Vilela Gama"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.2,
+          23.4
+        ],
+        "player": {
+          "id": 23800,
+          "name": "Laureano Sanabria Ruiz"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          31.4
+        ],
+        "player": {
+          "id": 6192,
+          "name": "Abel Enrique Aguilar Tapia"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.6,
+          52.3
+        ],
+        "player": {
+          "id": 6658,
+          "name": "Cristian Tello Herrera"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.7,
+          45.8
+        ],
+        "player": {
+          "id": 26147,
+          "name": "Ayoze D\u00edaz D\u00edaz"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "id": "72d92995-12b4-41f8-9c0d-005c76cff63b",
+  "index": 2657,
+  "period": 2,
+  "timestamp": "00:24:03.955",
+  "minute": 69,
+  "second": 3,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 165,
+  "possession_team": {
+    "id": 47,
+    "name": "Middlesbrough"
+  },
+  "play_pattern": {
+    "id": 9,
+    "name": "From Kick Off"
+  },
+  "team": {
+    "id": 47,
+    "name": "Middlesbrough"
+  },
+  "player": {
+    "id": 17793,
+    "name": "Boudewijn Zenden"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    105.8,
+    16.1
+  ],
+  "duration": 0.614083,
+  "related_events": [
+    "e5610377-f039-40b5-9435-8122f2bc7b98"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.026606526,
+    "end_location": [
+      120.0,
+      36.4,
+      7.5
+    ],
+    "key_pass_id": "639fbb77-4209-40e5-8546-6db94227e330",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          98.5,
+          48.8
+        ],
+        "player": {
+          "id": 12529,
+          "name": "Ashley Cole"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.7,
+          40.5
+        ],
+        "player": {
+          "id": 20015,
+          "name": "Jens Lehmann"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.4,
+          31.0
+        ],
+        "player": {
+          "id": 26194,
+          "name": "Pascal Cygan"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.9,
+          26.9
+        ],
+        "player": {
+          "id": 40252,
+          "name": "Massimo Maccarone"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.3,
+          16.9
+        ],
+        "player": {
+          "id": 15637,
+          "name": "Sulzeer Jeremiah \"Sol\" Campbell"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

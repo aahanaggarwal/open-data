@@ -1,0 +1,173 @@
+{
+  "id": "e22e0a81-5890-488b-9ad0-61bf3c40469c",
+  "index": 3422,
+  "period": 2,
+  "timestamp": "00:31:41.059",
+  "minute": 76,
+  "second": 41,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 139,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3958,
+    "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    107.6,
+    50.6
+  ],
+  "duration": 0.7154,
+  "related_events": [
+    "82a3606d-eb5c-463b-aa79-b93c0edb3be1"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.4396922,
+    "end_location": [
+      120.0,
+      36.6,
+      0.2
+    ],
+    "key_pass_id": "51dd9c0a-c27e-440f-b4d1-f5c71be6c83e",
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.0,
+          42.5
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          92.4,
+          20.3
+        ],
+        "player": {
+          "id": 4320,
+          "name": "Neymar da Silva Santos Junior"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          92.8,
+          25.5
+        ],
+        "player": {
+          "id": 6709,
+          "name": "Anaitz Arbilla Zabala"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.9,
+          45.4
+        ],
+        "player": {
+          "id": 3324,
+          "name": "Eric Bertrand Bailly"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.6,
+          41.4
+        ],
+        "player": {
+          "id": 6762,
+          "name": "\u00c1lvaro Gonz\u00e1lez Sober\u00f3n"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.3,
+          49.9
+        ],
+        "player": {
+          "id": 4741,
+          "name": "Juan Rafael Fuentes Hern\u00e1ndez"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.8,
+          45.8
+        ],
+        "player": {
+          "id": 6706,
+          "name": "Francisco Casilla Cort\u00e9s"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

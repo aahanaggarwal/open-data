@@ -1,0 +1,188 @@
+{
+  "id": "175aaa78-8204-4334-bac0-85ced7c38a4d",
+  "index": 687,
+  "period": 1,
+  "timestamp": "00:16:44.295",
+  "minute": 16,
+  "second": 44,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 41,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15754,
+    "name": "Fredrik Ljungberg"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    107.9,
+    42.7
+  ],
+  "duration": 1.033654,
+  "related_events": [
+    "aa2e74bb-ed16-405a-ac56-84c2c44e0df0"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.061366677,
+    "end_location": [
+      120.0,
+      46.7,
+      0.3
+    ],
+    "key_pass_id": "b94feb09-d641-446e-8108-62b9860c0e94",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.1,
+          51.7
+        ],
+        "player": {
+          "id": 40305,
+          "name": "Mark Kennedy"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          35.5
+        ],
+        "player": {
+          "id": 15405,
+          "name": "Paul Ince"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          27.0
+        ],
+        "player": {
+          "id": 40309,
+          "name": "Oleg Luzhny"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.5,
+          34.7
+        ],
+        "player": {
+          "id": 15042,
+          "name": "Dennis Bergkamp"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.8,
+          35.2
+        ],
+        "player": {
+          "id": 40314,
+          "name": "Jody Craddock"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.4,
+          37.3
+        ],
+        "player": {
+          "id": 40312,
+          "name": "Paul Butler"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.6,
+          38.3
+        ],
+        "player": {
+          "id": 40310,
+          "name": "Michael Oakes"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.6,
+          43.8
+        ],
+        "player": {
+          "id": 40304,
+          "name": "Lee Naylor"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

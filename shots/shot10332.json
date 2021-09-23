@@ -1,0 +1,175 @@
+{
+  "id": "218e56d5-3904-4dc5-8aff-968efc07f74d",
+  "index": 283,
+  "period": 1,
+  "timestamp": "00:05:31.543",
+  "minute": 5,
+  "second": 31,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 16,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "out": true,
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 25879,
+    "name": "Ronaldo de Assis Moreira"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    112.8,
+    22.1
+  ],
+  "duration": 1.4385,
+  "related_events": [
+    "7ba09f12-58cb-4ca7-a56d-0de0b6a551e4"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.030606933,
+    "end_location": [
+      119.9,
+      42.9,
+      2.9
+    ],
+    "key_pass_id": "20644467-dd7f-4bd1-8dc1-918694de3a56",
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 99,
+      "name": "Post"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          110.1,
+          41.3
+        ],
+        "player": {
+          "id": 25985,
+          "name": "David Coromina Pararols"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.3,
+          37.9
+        ],
+        "player": {
+          "id": 25883,
+          "name": "Juan Jes\u00fas Guti\u00e9rrez Robles"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.2,
+          33.4
+        ],
+        "player": {
+          "id": 25983,
+          "name": "Josu Sarriegi Zum\u00e1rraga"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.5,
+          26.6
+        ],
+        "player": {
+          "id": 25979,
+          "name": "Eduardo Alonso \u00c1lvarez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.3,
+          35.4
+        ],
+        "player": {
+          "id": 25974,
+          "name": "Franco Costanzo"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.2,
+          46.2
+        ],
+        "player": {
+          "id": 15743,
+          "name": "Henrik Larsson"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.3,
+          39.1
+        ],
+        "player": {
+          "id": 25878,
+          "name": "Ludovic Giuly"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

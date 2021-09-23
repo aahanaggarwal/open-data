@@ -1,0 +1,160 @@
+{
+  "id": "bc32c62c-ece6-41bd-a8cb-6580e86ac2f6",
+  "index": 1829,
+  "period": 2,
+  "timestamp": "00:00:48.700",
+  "minute": 45,
+  "second": 48,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 111,
+  "possession_team": {
+    "id": 763,
+    "name": "Sky Blue FC"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 763,
+    "name": "Sky Blue FC"
+  },
+  "player": {
+    "id": 30558,
+    "name": "Paige Monaghan"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    106.3,
+    31.6
+  ],
+  "duration": 0.203278,
+  "under_pressure": true,
+  "related_events": [
+    "48d52455-1ab2-430d-ac25-f48e5768a110",
+    "55fd7d0b-97b7-4560-ae1c-8eaa952ce90b",
+    "aa6a3a4a-bdf9-461a-87e1-f9c2cbd21683"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.077070065,
+    "end_location": [
+      107.6,
+      32.1
+    ],
+    "key_pass_id": "b384dd42-297e-41da-88ec-cf412e5a6e79",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          116.7,
+          36.1
+        ],
+        "player": {
+          "id": 4952,
+          "name": "Emily Boyd"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.1,
+          39.6
+        ],
+        "player": {
+          "id": 4955,
+          "name": "Sarah Gorden"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.4,
+          32.0
+        ],
+        "player": {
+          "id": 4942,
+          "name": "Arin Gilliland"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.2,
+          29.9
+        ],
+        "player": {
+          "id": 32760,
+          "name": "Julie James"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          90.9,
+          32.6
+        ],
+        "player": {
+          "id": 4958,
+          "name": "Kathleen Naughton"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.4,
+          31.6
+        ],
+        "player": {
+          "id": 4947,
+          "name": "Danielle Colaprico"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

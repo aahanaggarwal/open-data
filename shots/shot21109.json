@@ -1,0 +1,144 @@
+{
+  "id": "d9d335e9-d538-4823-9fb2-293c9e08cb2f",
+  "index": 2886,
+  "period": 2,
+  "timestamp": "00:30:22.187",
+  "minute": 75,
+  "second": 22,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 185,
+  "possession_team": {
+    "id": 782,
+    "name": "Belgium"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 782,
+    "name": "Belgium"
+  },
+  "player": {
+    "id": 3457,
+    "name": "Michy Batshuayi Tunga"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    114.0,
+    29.0
+  ],
+  "duration": 0.88,
+  "related_events": [
+    "38c66637-1467-4549-b689-9950dc81933a",
+    "bd6663e2-965e-41dd-a14d-820fca8bb43b"
+  ],
+  "shot": {
+    "open_goal": true,
+    "statsbomb_xg": 0.7316597,
+    "end_location": [
+      119.0,
+      41.0
+    ],
+    "key_pass_id": "bb0441d5-8ffb-4eb9-b800-b3e05e539918",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          111.0,
+          32.0
+        ],
+        "player": {
+          "id": 5936,
+          "name": "Hamdi Nagguez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          35.0
+        ],
+        "player": {
+          "id": 5648,
+          "name": "Farouk Ben Mustapha"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          44.0
+        ],
+        "player": {
+          "id": 5651,
+          "name": "Yassine Meriah"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          45.0
+        ],
+        "player": {
+          "id": 4826,
+          "name": "Yohan Benalouane"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          33.0
+        ],
+        "player": {
+          "id": 5633,
+          "name": "Yannick Ferreira Carrasco"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

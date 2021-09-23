@@ -1,0 +1,251 @@
+{
+  "id": "ec0dd28b-9cf1-4587-a9a7-c3a404127124",
+  "index": 2215,
+  "period": 2,
+  "timestamp": "00:12:19.042",
+  "minute": 57,
+  "second": 19,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 146,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5246,
+    "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    111.2,
+    49.3
+  ],
+  "duration": 1.629178,
+  "under_pressure": true,
+  "related_events": [
+    "863e4ccf-518d-4e8a-a8c2-cb7aff39ff6f",
+    "91cba9fe-25a8-4aa9-a710-d8dc7edb3cf6"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.19484615,
+    "end_location": [
+      120.0,
+      20.6,
+      0.2
+    ],
+    "key_pass_id": "8d339578-ecb3-49a6-bb05-3d21915cf876",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          109.8,
+          39.1
+        ],
+        "player": {
+          "id": 5742,
+          "name": "Gabriel Iv\u00e1n Mercado"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.7,
+          34.3
+        ],
+        "player": {
+          "id": 3501,
+          "name": "Philippe Coutinho Correia"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.7,
+          21.9
+        ],
+        "player": {
+          "id": 6821,
+          "name": "Jes\u00fas Navas Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.8,
+          27.6
+        ],
+        "player": {
+          "id": 6720,
+          "name": "Pablo Sarabia Garc\u00eda"
+        },
+        "position": {
+          "id": 18,
+          "name": "Right Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.9,
+          47.4
+        ],
+        "player": {
+          "id": 6804,
+          "name": "Sergi G\u00f3mez Sol\u00e0"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.3,
+          44.7
+        ],
+        "player": {
+          "id": 5477,
+          "name": "Ousmane Demb\u00e9l\u00e9"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.1,
+          46.6
+        ],
+        "player": {
+          "id": 6825,
+          "name": "Daniel Filipe Martins Carri\u00e7o"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.4,
+          41.8
+        ],
+        "player": {
+          "id": 11541,
+          "name": "Tom\u00e1\u0161 Vacl\u00edk"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.1,
+          54.5
+        ],
+        "player": {
+          "id": 5504,
+          "name": "\u00c9ver Maximiliano David Banega"
+        },
+        "position": {
+          "id": 14,
+          "name": "Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.7,
+          52.7
+        ],
+        "player": {
+          "id": 6919,
+          "name": "Guilherme Antonio Arana Lopes"
+        },
+        "position": {
+          "id": 8,
+          "name": "Left Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.3,
+          54.4
+        ],
+        "player": {
+          "id": 6719,
+          "name": "Franco Dami\u00e1n V\u00e1zquez"
+        },
+        "position": {
+          "id": 20,
+          "name": "Left Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.5,
+          49.4
+        ],
+        "player": {
+          "id": 11392,
+          "name": "Arthur Henrique Ramos de Oliveira Melo"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

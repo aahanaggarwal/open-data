@@ -1,0 +1,234 @@
+{
+  "id": "7e86c430-e79c-4b93-999a-f1810a915586",
+  "index": 1220,
+  "period": 1,
+  "timestamp": "00:34:30.158",
+  "minute": 34,
+  "second": 30,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 73,
+  "possession_team": {
+    "id": 760,
+    "name": "Seattle Reign"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 760,
+    "name": "Seattle Reign"
+  },
+  "player": {
+    "id": 5094,
+    "name": "Ifeoma Onumonu"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    111.8,
+    40.8
+  ],
+  "duration": 0.581643,
+  "related_events": [
+    "07553f98-952c-42c9-a7ed-630408a64505"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.5613871,
+    "end_location": [
+      120.0,
+      42.5,
+      1.0
+    ],
+    "key_pass_id": "fc3819ff-acf8-4c79-a467-01c384cf258f",
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          91.2,
+          42.1
+        ],
+        "player": {
+          "id": 5016,
+          "name": "Jessica Fishlock"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          98.6,
+          62.0
+        ],
+        "player": {
+          "id": 4986,
+          "name": "Shea Groom"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          96.0,
+          58.4
+        ],
+        "player": {
+          "id": 30556,
+          "name": "Bethany Balcer"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          91.9,
+          49.1
+        ],
+        "player": {
+          "id": 33319,
+          "name": "Mandy Laddish"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.1,
+          43.4
+        ],
+        "player": {
+          "id": 4976,
+          "name": "Lo\u2019eau LaBonta"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.9,
+          34.7
+        ],
+        "player": {
+          "id": 4987,
+          "name": "Sydney Miramontez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.7,
+          40.2
+        ],
+        "player": {
+          "id": 32018,
+          "name": "Gaby Vincent"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.1,
+          48.7
+        ],
+        "player": {
+          "id": 5101,
+          "name": "Samantha Johnson"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.2,
+          50.0
+        ],
+        "player": {
+          "id": 4971,
+          "name": "Rebecca Moros"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          85.7,
+          26.0
+        ],
+        "player": {
+          "id": 5010,
+          "name": "Mallory Weber"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.7,
+          40.8
+        ],
+        "player": {
+          "id": 4969,
+          "name": "Nicole Barnhart"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

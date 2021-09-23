@@ -1,0 +1,176 @@
+{
+  "id": "7fae7324-590b-4bf4-876e-e30151388794",
+  "index": 1502,
+  "period": 1,
+  "timestamp": "00:38:53.438",
+  "minute": 38,
+  "second": 53,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 82,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 2,
+    "name": "From Corner"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15754,
+    "name": "Fredrik Ljungberg"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    100.8,
+    35.1
+  ],
+  "duration": 0.117588,
+  "under_pressure": true,
+  "related_events": [
+    "1b6b87dd-8f9a-4662-99f8-2e7ac625b0c2",
+    "8ba38bfb-9690-4b17-a364-6e47818a0bab",
+    "b65d1f4d-0f1f-4626-b504-64a20561b4bb"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.07210817,
+    "end_location": [
+      101.6,
+      35.2
+    ],
+    "key_pass_id": "727cd3cb-43b1-4e2e-bd92-92db6c34f2d6",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          113.8,
+          37.0
+        ],
+        "player": {
+          "id": 40236,
+          "name": "Ian Walker"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.1,
+          45.8
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.0,
+          47.9
+        ],
+        "player": {
+          "id": 40239,
+          "name": "Jordan Stewart"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.8,
+          33.7
+        ],
+        "player": {
+          "id": 40241,
+          "name": "Matt Heath"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.9,
+          35.6
+        ],
+        "player": {
+          "id": 15049,
+          "name": "Billy McKinlay"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.4,
+          42.2
+        ],
+        "player": {
+          "id": 24798,
+          "name": "Nikos Dabizas"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.6,
+          35.2
+        ],
+        "player": {
+          "id": 40243,
+          "name": "Frank Mohammed Sinclair"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

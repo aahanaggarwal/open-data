@@ -1,0 +1,114 @@
+{
+  "id": "ba278d23-b77e-4d96-aa70-f056538e9565",
+  "index": 1404,
+  "period": 1,
+  "timestamp": "00:34:59.951",
+  "minute": 34,
+  "second": 59,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 77,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 4320,
+    "name": "Neymar da Silva Santos Junior"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    109.8,
+    37.4
+  ],
+  "duration": 0.596601,
+  "related_events": [
+    "23f3198b-527a-4b1a-bff9-c3150b74478a"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.57887995,
+    "end_location": [
+      120.0,
+      37.1,
+      0.2
+    ],
+    "key_pass_id": "4dd9acae-334f-4ce2-b1c3-7b6d8a9e89b7",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          114.4,
+          39.7
+        ],
+        "player": {
+          "id": 27202,
+          "name": "Guillermo Sara"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.2,
+          34.5
+        ],
+        "player": {
+          "id": 23985,
+          "name": "Jos\u00e9 Antonio Caro Mart\u00ednez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.5,
+          43.6
+        ],
+        "player": {
+          "id": 26801,
+          "name": "Jordi Figueras Montel"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

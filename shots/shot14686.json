@@ -1,0 +1,145 @@
+{
+  "id": "67c3901c-be97-470e-bb25-db5531d67fd2",
+  "index": 3041,
+  "period": 2,
+  "timestamp": "00:31:25.868",
+  "minute": 76,
+  "second": 25,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 189,
+  "possession_team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "player": {
+    "id": 5055,
+    "name": "Lynn Williams"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    107.9,
+    29.4
+  ],
+  "duration": 0.66913,
+  "under_pressure": true,
+  "related_events": [
+    "7fb8d4c2-0e3f-42f9-99fa-3c33c2c7bf61",
+    "de169e38-a799-4bbf-ab0c-5e6833853821"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.16395603,
+    "end_location": [
+      120.0,
+      41.5,
+      6.6
+    ],
+    "key_pass_id": "98b3818e-6b91-41b1-a3bb-7a256aa18187",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          101.0,
+          32.7
+        ],
+        "player": {
+          "id": 4635,
+          "name": "Julia Spetsmark"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          71.2,
+          0.1
+        ],
+        "player": {
+          "id": 15629,
+          "name": "Satara Murray"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.6,
+          26.9
+        ],
+        "player": {
+          "id": 8382,
+          "name": "Clare Polkinghorne"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.5,
+          38.3
+        ],
+        "player": {
+          "id": 5056,
+          "name": "Jane Campbell"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          31.0
+        ],
+        "player": {
+          "id": 5045,
+          "name": "Amber Brooks"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

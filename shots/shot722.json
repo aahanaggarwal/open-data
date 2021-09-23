@@ -1,0 +1,129 @@
+{
+  "id": "76263588-d417-436f-8914-e39829c698b5",
+  "index": 745,
+  "period": 1,
+  "timestamp": "00:19:06.472",
+  "minute": 19,
+  "second": 6,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 55,
+  "possession_team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "player": {
+    "id": 5055,
+    "name": "Lynn Williams"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    114.0,
+    39.0
+  ],
+  "duration": 1.935,
+  "related_events": [
+    "a69dab16-6609-486e-9f8a-913726a84c91"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.41903475,
+    "end_location": [
+      120.0,
+      43.2,
+      3.5
+    ],
+    "key_pass_id": "68b48ba1-fa3e-45e0-8adf-d98cd83d6372",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          117.0,
+          40.0
+        ],
+        "player": {
+          "id": 5100,
+          "name": "Alyssa Naeher"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          45.0
+        ],
+        "player": {
+          "id": 4958,
+          "name": "Kathleen Naughton"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.0,
+          40.0
+        ],
+        "player": {
+          "id": 6813,
+          "name": "Morgan Brian"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          42.0
+        ],
+        "player": {
+          "id": 4983,
+          "name": "Brooke Elby"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

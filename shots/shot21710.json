@@ -1,0 +1,176 @@
+{
+  "id": "b2b406b3-e450-42b4-ba46-3b0967d3e9e6",
+  "index": 157,
+  "period": 1,
+  "timestamp": "00:02:45.160",
+  "minute": 2,
+  "second": 45,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 9,
+  "possession_team": {
+    "id": 778,
+    "name": "Japan"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 778,
+    "name": "Japan"
+  },
+  "player": {
+    "id": 5679,
+    "name": "Y\u016bya \u014csako"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    104.0,
+    48.0
+  ],
+  "duration": 0.427,
+  "under_pressure": true,
+  "related_events": [
+    "2c91f84c-577d-409e-bebe-f0b0c203f3b2",
+    "75accf64-c4a3-4bb1-903d-b0e78299c348",
+    "89f0e40b-7779-4290-98e7-c44c7082888e"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.25592348,
+    "end_location": [
+      111.0,
+      40.7,
+      0.1
+    ],
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.0,
+          49.0
+        ],
+        "player": {
+          "id": 3494,
+          "name": "Davinson S\u00e1nchez Mina"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          51.0
+        ],
+        "player": {
+          "id": 5691,
+          "name": "Johan Andr\u00e9s Mojica Palacio"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          47.0
+        ],
+        "player": {
+          "id": 5685,
+          "name": "Carlos Alberto S\u00e1nchez Moreno"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          44.0
+        ],
+        "player": {
+          "id": 4276,
+          "name": "David Ospina Ram\u00edrez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.0,
+          42.0
+        ],
+        "player": {
+          "id": 5680,
+          "name": "Oscar Fabi\u00e1n Murillo Murillo"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.0,
+          40.0
+        ],
+        "player": {
+          "id": 5684,
+          "name": "Shinji Kagawa"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          90.0,
+          38.0
+        ],
+        "player": {
+          "id": 5678,
+          "name": "Jefferson Andr\u00e9s Lerma Sol\u00eds"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

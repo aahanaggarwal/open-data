@@ -1,0 +1,250 @@
+{
+  "id": "d1f3ae50-76ce-4d80-b860-027cbb73e268",
+  "index": 2288,
+  "period": 2,
+  "timestamp": "00:12:52.240",
+  "minute": 57,
+  "second": 52,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 114,
+  "possession_team": {
+    "id": 768,
+    "name": "England"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 768,
+    "name": "England"
+  },
+  "player": {
+    "id": 3293,
+    "name": "Jesse Lingard"
+  },
+  "position": {
+    "id": 18,
+    "name": "Right Attacking Midfield"
+  },
+  "location": [
+    98.0,
+    48.0
+  ],
+  "duration": 0.107,
+  "under_pressure": true,
+  "related_events": [
+    "2c4a3cdc-d0ac-47d3-bc6f-ba01f64317aa",
+    "5abacd34-f257-4fc8-b45f-6188ac85cd6a",
+    "f73b37fd-6540-48b4-b192-9eab74e2f3e8"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.040244903,
+    "end_location": [
+      101.0,
+      46.0
+    ],
+    "key_pass_id": "ee6341f8-7d64-4ffe-8e67-b12755097793",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          100.0,
+          47.0
+        ],
+        "player": {
+          "id": 5607,
+          "name": "Andreas Granqvist"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          37.0
+        ],
+        "player": {
+          "id": 3702,
+          "name": "Victor Nilsson Lindel\u00f6f"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          39.0
+        ],
+        "player": {
+          "id": 5622,
+          "name": "Robin Olsen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.0,
+          44.0
+        ],
+        "player": {
+          "id": 5625,
+          "name": "Emil Forsberg"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.0,
+          35.0
+        ],
+        "player": {
+          "id": 5624,
+          "name": "Albin Ekdal"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          52.0
+        ],
+        "player": {
+          "id": 5621,
+          "name": "Ludwig Augustinsson"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          30.0
+        ],
+        "player": {
+          "id": 6358,
+          "name": "Emil Krafth"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          34.0
+        ],
+        "player": {
+          "id": 5617,
+          "name": "Sebastian Larsson"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          63.0
+        ],
+        "player": {
+          "id": 3308,
+          "name": "Kieran Trippier"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.0,
+          32.0
+        ],
+        "player": {
+          "id": 3233,
+          "name": "Raheem Shaquille Sterling"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.0,
+          33.0
+        ],
+        "player": {
+          "id": 3094,
+          "name": "Bamidele Alli"
+        },
+        "position": {
+          "id": 20,
+          "name": "Left Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.0,
+          37.0
+        ],
+        "player": {
+          "id": 10955,
+          "name": "Harry Kane"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

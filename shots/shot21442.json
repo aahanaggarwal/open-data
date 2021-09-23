@@ -1,0 +1,99 @@
+{
+  "id": "e75235a3-0d42-416f-9e8f-232d65ecb927",
+  "index": 1854,
+  "period": 2,
+  "timestamp": "00:04:02.146",
+  "minute": 49,
+  "second": 2,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 113,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    102.5,
+    30.4
+  ],
+  "duration": 1.259091,
+  "related_events": [
+    "bafd9584-20ed-4a45-a946-4db9b3a3f907"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.2958964,
+    "end_location": [
+      120.0,
+      42.7,
+      0.0
+    ],
+    "key_pass_id": "4d7bf701-bd10-4ddb-940b-8dcb7dd09c4d",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          101.6,
+          32.6
+        ],
+        "player": {
+          "id": 40371,
+          "name": "Michael Duberry"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.9,
+          35.8
+        ],
+        "player": {
+          "id": 40132,
+          "name": "Paul Robinson"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

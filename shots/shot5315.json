@@ -1,0 +1,160 @@
+{
+  "id": "3a3bb953-892e-474f-b00e-6e430b984999",
+  "index": 3596,
+  "period": 2,
+  "timestamp": "00:39:15.811",
+  "minute": 84,
+  "second": 15,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 185,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 6400,
+    "name": "Aleix Vidal Parreu"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    102.4,
+    46.1
+  ],
+  "duration": 0.4885,
+  "under_pressure": true,
+  "related_events": [
+    "4ad234b6-4e46-4d06-a0dc-f74c8ae76cef",
+    "dbd7c8ce-39db-4cf1-adf3-8d96ffaea35c"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.13517827,
+    "end_location": [
+      113.2,
+      43.1,
+      0.0
+    ],
+    "key_pass_id": "7a120baf-daa6-4576-9036-51d5afbd77c0",
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          101.9,
+          53.1
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          93.8,
+          29.8
+        ],
+        "player": {
+          "id": 3501,
+          "name": "Philippe Coutinho Correia"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          96.4,
+          44.2
+        ],
+        "player": {
+          "id": 6712,
+          "name": "Gonzalo Escalante"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.6,
+          45.2
+        ],
+        "player": {
+          "id": 6702,
+          "name": "David Rodr\u00edguez Lomb\u00e1n"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.1,
+          44.8
+        ],
+        "player": {
+          "id": 6710,
+          "name": "Rub\u00e9n Pe\u00f1a Jim\u00e9nez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.6,
+          43.2
+        ],
+        "player": {
+          "id": 6698,
+          "name": "Marko Dmitrovi\u0107"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

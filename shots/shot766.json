@@ -1,0 +1,188 @@
+{
+  "id": "0f74d831-c28f-4d9a-a2bd-9fb43c7fae05",
+  "index": 4517,
+  "period": 2,
+  "timestamp": "00:45:34.294",
+  "minute": 90,
+  "second": 34,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 175,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    111.6,
+    49.9
+  ],
+  "duration": 0.231813,
+  "related_events": [
+    "b8ba6301-8679-4047-bdac-b087439d9a78"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.38248524,
+    "end_location": [
+      116.6,
+      44.2,
+      0.2
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.4,
+          40.1
+        ],
+        "player": {
+          "id": 3958,
+          "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          116.8,
+          44.1
+        ],
+        "player": {
+          "id": 3659,
+          "name": "Wilfredo Daniel Caballero"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.1,
+          51.1
+        ],
+        "player": {
+          "id": 26776,
+          "name": "Juan Isaac Cuenca L\u00f3pez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.6,
+          37.4
+        ],
+        "player": {
+          "id": 4788,
+          "name": "Jes\u00fas G\u00e1mez Duarte"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.2,
+          41.4
+        ],
+        "player": {
+          "id": 19288,
+          "name": "Mart\u00edn Gast\u00f3n Demichelis"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.4,
+          37.0
+        ],
+        "player": {
+          "id": 8234,
+          "name": "Ignacio Camacho Barnola"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.4,
+          49.6
+        ],
+        "player": {
+          "id": 3498,
+          "name": "Ignacio Monreal Eraso"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.2,
+          47.2
+        ],
+        "player": {
+          "id": 20269,
+          "name": "Joris Mathijsen"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

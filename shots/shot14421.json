@@ -1,0 +1,114 @@
+{
+  "id": "27629863-ec8d-4d90-9db9-6b50e5d66f13",
+  "index": 2403,
+  "period": 2,
+  "timestamp": "00:20:35.137",
+  "minute": 65,
+  "second": 35,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 130,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 20169,
+    "name": "Seydou K\u00e9ita"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    104.1,
+    37.4
+  ],
+  "duration": 0.837641,
+  "related_events": [
+    "90b0477b-3b90-4c48-b30b-957b0f421033"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.07238476,
+    "end_location": [
+      117.0,
+      37.1,
+      0.4
+    ],
+    "key_pass_id": "a4cbe411-6b02-4b27-bcb7-737db7bf7cf2",
+    "first_time": true,
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.1,
+          37.6
+        ],
+        "player": {
+          "id": 26245,
+          "name": "Sergio S\u00e1nchez S\u00e1nchez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.6,
+          36.7
+        ],
+        "player": {
+          "id": 26244,
+          "name": "Rafael Sastre Reus"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.1,
+          41.2
+        ],
+        "player": {
+          "id": 16478,
+          "name": "Miguel Marcos Madera"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

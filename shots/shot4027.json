@@ -1,0 +1,173 @@
+{
+  "id": "e4d51669-3013-4ff6-a662-577aa09b7037",
+  "index": 3205,
+  "period": 2,
+  "timestamp": "00:43:53.582",
+  "minute": 88,
+  "second": 53,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 178,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19298,
+    "name": "Samuel Eto\"o Fils"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    113.1,
+    29.3
+  ],
+  "duration": 0.315647,
+  "related_events": [
+    "ea05cf54-f06e-4555-a578-62bae4c9a336"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.117567204,
+    "end_location": [
+      120.0,
+      35.2,
+      0.3
+    ],
+    "key_pass_id": "1b41d2df-7048-43e7-8d6c-7163cb9ff1b8",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.0,
+          37.3
+        ],
+        "player": {
+          "id": 26228,
+          "name": "Juan Pablo Colinas Ferreras"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.4,
+          28.7
+        ],
+        "player": {
+          "id": 26231,
+          "name": "Juan Ram\u00f3n Cabrero Obrer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.3,
+          33.7
+        ],
+        "player": {
+          "id": 26524,
+          "name": "Sergio Ortega Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.4,
+          41.8
+        ],
+        "player": {
+          "id": 26241,
+          "name": "Sergio Boris Gonz\u00e1lez Monteagudo"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.2,
+          35.0
+        ],
+        "player": {
+          "id": 4913,
+          "name": "Bojan Krk\u00edc P\u00e9rez"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.2,
+          22.9
+        ],
+        "player": {
+          "id": 18882,
+          "name": "Aliaksandr Hleb"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.8,
+          30.3
+        ],
+        "player": {
+          "id": 26394,
+          "name": "Javier Del Pino Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 20,
+          "name": "Left Attacking Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

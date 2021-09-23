@@ -1,0 +1,131 @@
+{
+  "id": "6180f692-0d58-4f1a-9ed1-5160d2a2cefb",
+  "index": 2946,
+  "period": 2,
+  "timestamp": "00:45:37.908",
+  "minute": 90,
+  "second": 37,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 217,
+  "possession_team": {
+    "id": 761,
+    "name": "Chicago Red Stars"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 761,
+    "name": "Chicago Red Stars"
+  },
+  "player": {
+    "id": 4983,
+    "name": "Brooke Elby"
+  },
+  "position": {
+    "id": 2,
+    "name": "Right Back"
+  },
+  "location": [
+    104.0,
+    47.0
+  ],
+  "duration": 0.3,
+  "under_pressure": true,
+  "related_events": [
+    "21413762-6ce7-4f0b-ac79-37c7dbdc4c3e",
+    "7d7f59d9-574b-4dc5-9d59-7767d17fe299"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.3927698,
+    "end_location": [
+      107.0,
+      38.7,
+      0.4
+    ],
+    "key_pass_id": "c6f03b74-bf12-4f53-b9cb-07e997d9f244",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          107.0,
+          47.0
+        ],
+        "player": {
+          "id": 5025,
+          "name": "Aubrey Bledsoe"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.0,
+          45.0
+        ],
+        "player": {
+          "id": 4951,
+          "name": "Rebecca Quinn"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          58.0
+        ],
+        "player": {
+          "id": 4941,
+          "name": "Taylor Smith"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          29.0
+        ],
+        "player": {
+          "id": 4963,
+          "name": "Yuki Nagasato"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

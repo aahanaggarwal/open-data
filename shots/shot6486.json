@@ -1,0 +1,129 @@
+{
+  "id": "d611da1e-49e8-4c3e-8b34-8d1f314b57a1",
+  "index": 608,
+  "period": 1,
+  "timestamp": "00:15:18.999",
+  "minute": 15,
+  "second": 18,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 45,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 2,
+    "name": "From Corner"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15754,
+    "name": "Fredrik Ljungberg"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    108.1,
+    34.3
+  ],
+  "duration": 0.121898,
+  "related_events": [
+    "c745da97-0a32-4b8b-aeab-f9ffee384ac1"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.30881238,
+    "end_location": [
+      113.0,
+      35.7,
+      1.6
+    ],
+    "key_pass_id": "21397467-c825-44b5-b297-cfb5ec1e3259",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          93.9,
+          58.4
+        ],
+        "player": {
+          "id": 40414,
+          "name": "J\u00e9r\u00f4me Bonnissel"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.9,
+          36.5
+        ],
+        "player": {
+          "id": 40413,
+          "name": "Zat Knight"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.9,
+          45.5
+        ],
+        "player": {
+          "id": 40415,
+          "name": "Andy Melville"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.1,
+          35.9
+        ],
+        "player": {
+          "id": 15036,
+          "name": "Edwin van der Sar"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

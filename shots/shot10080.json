@@ -1,0 +1,158 @@
+{
+  "id": "2aa36b44-a3a1-4426-890c-b7e619d78d0c",
+  "index": 3441,
+  "period": 2,
+  "timestamp": "00:44:57.954",
+  "minute": 89,
+  "second": 57,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 207,
+  "possession_team": {
+    "id": 223,
+    "name": "M\u00e1laga"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 223,
+    "name": "M\u00e1laga"
+  },
+  "player": {
+    "id": 6581,
+    "name": "Jonathan Rodr\u00edguez Men\u00e9ndez"
+  },
+  "position": {
+    "id": 8,
+    "name": "Left Wing Back"
+  },
+  "location": [
+    108.2,
+    35.8
+  ],
+  "duration": 0.750016,
+  "related_events": [
+    "e427c7b9-e070-45df-b84f-3162940397db"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.3235537,
+    "end_location": [
+      120.0,
+      38.4,
+      1.2
+    ],
+    "key_pass_id": "ba7c2322-b156-4253-a7e0-2bad4d4c47cd",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          115.8,
+          48.2
+        ],
+        "player": {
+          "id": 6764,
+          "name": "Pablo Fornals Malla"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.8,
+          40.1
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.4,
+          37.4
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          40.2
+        ],
+        "player": {
+          "id": 5211,
+          "name": "Jordi Alba Ramos"
+        },
+        "position": {
+          "id": 8,
+          "name": "Left Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.2,
+          37.2
+        ],
+        "player": {
+          "id": 5492,
+          "name": "Samuel Yves Umtiti"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.3,
+          31.9
+        ],
+        "player": {
+          "id": 6707,
+          "name": "Charles D\u00edas Barbosa de Oliveira"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

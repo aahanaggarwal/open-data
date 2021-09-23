@@ -1,0 +1,189 @@
+{
+  "id": "2d33d32c-a356-477e-8380-38efebcf5fbb",
+  "index": 2051,
+  "period": 2,
+  "timestamp": "00:17:57.470",
+  "minute": 62,
+  "second": 57,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 155,
+  "possession_team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "player": {
+    "id": 5055,
+    "name": "Lynn Williams"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    110.0,
+    44.0
+  ],
+  "duration": 0.76,
+  "related_events": [
+    "7ba068c0-10b2-42bc-9b2b-32ccc28ae2a6"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.25676945,
+    "end_location": [
+      118.0,
+      42.2,
+      0.9
+    ],
+    "key_pass_id": "b3781df1-e107-43be-8feb-8fcf3425caa1",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          109.0,
+          31.0
+        ],
+        "player": {
+          "id": 5034,
+          "name": "Jessica McDonald"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.0,
+          42.0
+        ],
+        "player": {
+          "id": 5015,
+          "name": "Kelli Hubly"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          62.0
+        ],
+        "player": {
+          "id": 5088,
+          "name": "Crystal Alyssia Dunn"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.0,
+          57.0
+        ],
+        "player": {
+          "id": 5012,
+          "name": "Katherine Reynolds"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          56.0
+        ],
+        "player": {
+          "id": 5092,
+          "name": "Emily Menges"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.0,
+          40.0
+        ],
+        "player": {
+          "id": 5018,
+          "name": "Andressa Cavalari Machry"
+        },
+        "position": {
+          "id": 18,
+          "name": "Right Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.0,
+          47.0
+        ],
+        "player": {
+          "id": 4999,
+          "name": "Lindsey Horan"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          40.0
+        ],
+        "player": {
+          "id": 5005,
+          "name": "Britt Eckerstrom"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

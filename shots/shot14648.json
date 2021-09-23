@@ -1,0 +1,159 @@
+{
+  "id": "91bfbe25-e922-4cfc-9734-4a9f609eace0",
+  "index": 1301,
+  "period": 1,
+  "timestamp": "00:31:44.860",
+  "minute": 31,
+  "second": 44,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 51,
+  "possession_team": {
+    "id": 790,
+    "name": "Sweden"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 790,
+    "name": "Sweden"
+  },
+  "player": {
+    "id": 4417,
+    "name": "Ola Toivonen"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    112.0,
+    48.0
+  ],
+  "duration": 2.093,
+  "related_events": [
+    "f104de75-5e81-4e42-b58b-06ee80e54b1c"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.11636221,
+    "end_location": [
+      120.0,
+      37.2,
+      1.6
+    ],
+    "key_pass_id": "30c2e83e-d2d0-4c4f-a17b-4b028cd959bd",
+    "deflected": true,
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.0,
+          43.0
+        ],
+        "player": {
+          "id": 5570,
+          "name": "Manuel Neuer"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          31.0
+        ],
+        "player": {
+          "id": 5579,
+          "name": "Joshua Kimmich"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          44.0
+        ],
+        "player": {
+          "id": 5624,
+          "name": "Albin Ekdal"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          94.0,
+          39.0
+        ],
+        "player": {
+          "id": 5625,
+          "name": "Emil Forsberg"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.0,
+          46.0
+        ],
+        "player": {
+          "id": 3167,
+          "name": "Antonio R\u00fcdiger"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          46.0
+        ],
+        "player": {
+          "id": 5574,
+          "name": "Toni Kroos"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

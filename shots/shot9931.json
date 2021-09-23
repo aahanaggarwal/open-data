@@ -1,0 +1,143 @@
+{
+  "id": "926939c7-d112-472f-be9e-4d6e196706d5",
+  "index": 3111,
+  "period": 2,
+  "timestamp": "00:25:54.429",
+  "minute": 70,
+  "second": 54,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 197,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 20131,
+    "name": "Xavier Hern\u00e1ndez Creus"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    115.9,
+    39.5
+  ],
+  "duration": 0.765321,
+  "related_events": [
+    "beb6d28e-9656-43ec-8355-dd24f1c4b243"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.7773716,
+    "end_location": [
+      120.0,
+      38.3,
+      0.3
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          119.2,
+          45.1
+        ],
+        "player": {
+          "id": 26218,
+          "name": "Adri\u00e1n L\u00f3pez Rodr\u00edguez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.6,
+          36.7
+        ],
+        "player": {
+          "id": 26209,
+          "name": "Manuel Pablo Garc\u00eda D\u00edaz"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.5,
+          48.1
+        ],
+        "player": {
+          "id": 26207,
+          "name": "Fabricio Coloccini"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.7,
+          42.4
+        ],
+        "player": {
+          "id": 26221,
+          "name": "Gustavo Adolfo Mun\u00faa Vera"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          120.0,
+          48.1
+        ],
+        "player": {
+          "id": 4913,
+          "name": "Bojan Krk\u00edc P\u00e9rez"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

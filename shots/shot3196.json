@@ -1,0 +1,159 @@
+{
+  "id": "0da517bf-6efd-4da2-b8c6-2c134ce7bc88",
+  "index": 1332,
+  "period": 1,
+  "timestamp": "00:38:10.858",
+  "minute": 38,
+  "second": 10,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 92,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19298,
+    "name": "Samuel Eto\"o Fils"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    112.2,
+    40.0
+  ],
+  "duration": 0.7606,
+  "related_events": [
+    "f5b39eac-a6af-4f0c-8cdb-3c3dfce5fcd2"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.29088,
+    "end_location": [
+      120.0,
+      43.3,
+      6.9
+    ],
+    "key_pass_id": "ab7f5c98-6650-4934-bd5c-93bdff3b4c3e",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          107.1,
+          39.0
+        ],
+        "player": {
+          "id": 11270,
+          "name": "Ei\u00f0ur Sm\u00e1ri Gu\u00f0johnsen"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.0,
+          40.3
+        ],
+        "player": {
+          "id": 26103,
+          "name": "Idriss Carlos Kameni"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.2,
+          39.6
+        ],
+        "player": {
+          "id": 26163,
+          "name": "Marc Torrej\u00f3n Moya"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.1,
+          38.6
+        ],
+        "player": {
+          "id": 26088,
+          "name": "Jes\u00fas Mar\u00eda Lacruz G\u00f3mez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.6,
+          48.9
+        ],
+        "player": {
+          "id": 26110,
+          "name": "Daniel Jarque Gonzalez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.4,
+          25.0
+        ],
+        "player": {
+          "id": 17797,
+          "name": "Giovanni van Bronckhorst"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

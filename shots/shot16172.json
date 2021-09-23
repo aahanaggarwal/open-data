@@ -1,0 +1,131 @@
+{
+  "id": "dade6a8e-4485-485b-b593-06195d2ffd73",
+  "index": 2995,
+  "period": 2,
+  "timestamp": "00:47:04.036",
+  "minute": 92,
+  "second": 4,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 171,
+  "possession_team": {
+    "id": 759,
+    "name": "Washington Spirit"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 759,
+    "name": "Washington Spirit"
+  },
+  "player": {
+    "id": 4964,
+    "name": "Ashley Hatch"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    112.9,
+    26.6
+  ],
+  "duration": 1.079815,
+  "under_pressure": true,
+  "related_events": [
+    "1454ec8f-8f77-41c4-aa08-8fe7f5c496f4",
+    "75a46e24-a966-49aa-b2f7-6a6fb5e4a8a9"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.055886317,
+    "end_location": [
+      120.0,
+      64.1,
+      2.0
+    ],
+    "key_pass_id": "6d00d6fb-2bbf-4395-b81b-117d40c68e2f",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.1,
+          37.6
+        ],
+        "player": {
+          "id": 5061,
+          "name": "Haley Judith Kopmeyer"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.6,
+          40.7
+        ],
+        "player": {
+          "id": 5064,
+          "name": "Carson Pickett"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.9,
+          42.8
+        ],
+        "player": {
+          "id": 5078,
+          "name": "Alanna Kennedy"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          28.1
+        ],
+        "player": {
+          "id": 8199,
+          "name": "Toni Pressley"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

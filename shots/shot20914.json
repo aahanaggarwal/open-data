@@ -1,0 +1,114 @@
+{
+  "id": "d9ad0270-abe8-4ec6-ae53-6b5f11bc45ae",
+  "index": 1851,
+  "period": 1,
+  "timestamp": "00:44:06.354",
+  "minute": 44,
+  "second": 6,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 79,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    119.0,
+    48.4
+  ],
+  "duration": 0.1648,
+  "related_events": [
+    "12c06279-15d2-416b-9d57-b21e9b02dfa4"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.07537823,
+    "end_location": [
+      119.3,
+      46.6,
+      0.5
+    ],
+    "key_pass_id": "3d29b631-ae02-4deb-8286-9a032176af2c",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.6,
+          45.2
+        ],
+        "player": {
+          "id": 6914,
+          "name": "Roberto Rom\u00e1n Triguero"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.0,
+          47.6
+        ],
+        "player": {
+          "id": 26847,
+          "name": "Aitor N\u00fa\u00f1ez Mart\u00edn"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.3,
+          46.6
+        ],
+        "player": {
+          "id": 26438,
+          "name": "David Cobe\u00f1o Iglesias"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "id": "3cf6e75a-8324-46b8-9f35-ff9c2b43439a",
+  "index": 657,
+  "period": 1,
+  "timestamp": "00:15:22.888",
+  "minute": 15,
+  "second": 22,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 35,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19757,
+    "name": "Anderson Lu\u00eds de Souza"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    114.6,
+    43.2
+  ],
+  "duration": 0.385495,
+  "related_events": [
+    "cd0c3567-b412-4fc2-9580-b4af076c197d"
+  ],
+  "shot": {
+    "open_goal": true,
+    "statsbomb_xg": 0.63791937,
+    "end_location": [
+      120.0,
+      42.7,
+      0.2
+    ],
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          116.0,
+          37.4
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.8,
+          38.4
+        ],
+        "player": {
+          "id": 25879,
+          "name": "Ronaldo de Assis Moreira"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.3,
+          54.9
+        ],
+        "player": {
+          "id": 26057,
+          "name": "Mariano Andr\u00e9s Pern\u00eda"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.8,
+          47.6
+        ],
+        "player": {
+          "id": 19760,
+          "name": "Nuno Ricardo de Oliveira Ribeiro"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.8,
+          56.4
+        ],
+        "player": {
+          "id": 26222,
+          "name": "Jos\u00e9 Eduardo Rosa Vale e Castro"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          43.6
+        ],
+        "player": {
+          "id": 26117,
+          "name": "Pablo Ib\u00e1\u00f1ez T\u00e9bar"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          40.1
+        ],
+        "player": {
+          "id": 19767,
+          "name": "Giorgios Seitaridis"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.8,
+          42.3
+        ],
+        "player": {
+          "id": 26197,
+          "name": "Christian Abbiati"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

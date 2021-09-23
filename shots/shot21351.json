@@ -1,0 +1,128 @@
+{
+  "id": "963fccef-24f4-42c0-a899-d05397f56388",
+  "index": 439,
+  "period": 1,
+  "timestamp": "00:11:42.549",
+  "minute": 11,
+  "second": 42,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 33,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19298,
+    "name": "Samuel Eto\"o Fils"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    108.4,
+    43.6
+  ],
+  "duration": 0.740581,
+  "related_events": [
+    "0b89eda8-7a5d-4636-9c66-fe40c786e940"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.50825286,
+    "end_location": [
+      120.0,
+      40.4,
+      0.1
+    ],
+    "key_pass_id": "c070529c-fda8-4078-a455-41d69f8dc78a",
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.0,
+          36.8
+        ],
+        "player": {
+          "id": 6787,
+          "name": "Pedro L\u00f3pez Mu\u00f1oz"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.6,
+          42.9
+        ],
+        "player": {
+          "id": 6755,
+          "name": "Sergio Asenjo Andr\u00e9s"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.2,
+          47.5
+        ],
+        "player": {
+          "id": 26131,
+          "name": "Victoriano Rivas \u00c1lvaro"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.7,
+          50.6
+        ],
+        "player": {
+          "id": 26116,
+          "name": "Jos\u00e9 Antonio Garc\u00eda Calvo"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "id": "165090cb-dfb7-457c-83de-af55024a2bbf",
+  "index": 1758,
+  "period": 2,
+  "timestamp": "00:00:09.789",
+  "minute": 45,
+  "second": 9,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 97,
+  "possession_team": {
+    "id": 1220,
+    "name": "Recreativo Huelva"
+  },
+  "play_pattern": {
+    "id": 9,
+    "name": "From Kick Off"
+  },
+  "team": {
+    "id": 1220,
+    "name": "Recreativo Huelva"
+  },
+  "player": {
+    "id": 26171,
+    "name": "Carlos Jorge Neto Martins"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    89.7,
+    40.2
+  ],
+  "duration": 1.059109,
+  "under_pressure": true,
+  "related_events": [
+    "051c18a3-1e5f-46b8-ab5a-630a08fe2e7e",
+    "ff3b8aa4-fa3b-480c-b22d-4a039f8492c7"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.022566482,
+    "end_location": [
+      120.0,
+      47.4,
+      5.8
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          99.6,
+          44.5
+        ],
+        "player": {
+          "id": 26169,
+          "name": "Javier Camu\u00f1as Gallego"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.7,
+          27.8
+        ],
+        "player": {
+          "id": 26083,
+          "name": "Florent Sinama-Pongolle"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          94.0,
+          18.0
+        ],
+        "player": {
+          "id": 7669,
+          "name": "Marcos Garc\u00eda Barreno"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          96.3,
+          22.3
+        ],
+        "player": {
+          "id": 15774,
+          "name": "Gianluca Zambrotta"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.5,
+          32.8
+        ],
+        "player": {
+          "id": 25919,
+          "name": "Gabriel Alejandro Milito"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.2,
+          45.6
+        ],
+        "player": {
+          "id": 20177,
+          "name": "Eric-Sylvain Bilal Abidal"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          90.9,
+          39.1
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          40.3
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

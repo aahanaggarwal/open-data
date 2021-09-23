@@ -1,0 +1,235 @@
+{
+  "id": "e40612c9-4a11-4705-9463-8cfbd983c9d2",
+  "index": 664,
+  "period": 1,
+  "timestamp": "00:12:46.810",
+  "minute": 12,
+  "second": 46,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 25,
+  "possession_team": {
+    "id": 778,
+    "name": "Japan"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 778,
+    "name": "Japan"
+  },
+  "player": {
+    "id": 6337,
+    "name": "Yoshinori Muto"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    100.0,
+    28.0
+  ],
+  "duration": 1.08,
+  "under_pressure": true,
+  "related_events": [
+    "40eef3c7-b12d-45ab-b721-081c8d666ce1",
+    "c5bfd953-0ee5-475a-954a-1c7118acdb96"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.07821124,
+    "end_location": [
+      119.0,
+      36.6,
+      0.4
+    ],
+    "key_pass_id": "6bb4168e-a7db-4456-aa1b-3a968039586a",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.0,
+          38.0
+        ],
+        "player": {
+          "id": 6191,
+          "name": "Takashi Usami"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.0,
+          55.0
+        ],
+        "player": {
+          "id": 6339,
+          "name": "Gotoku Sakai"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.0,
+          43.0
+        ],
+        "player": {
+          "id": 3810,
+          "name": "Shinji Okazaki"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.0,
+          45.0
+        ],
+        "player": {
+          "id": 6195,
+          "name": "Jacek G\u00f3ralski"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          34.0
+        ],
+        "player": {
+          "id": 3637,
+          "name": "Grzegorz Krychowiak"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          20.0
+        ],
+        "player": {
+          "id": 5667,
+          "name": "Kamil Grosicki"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          28.0
+        ],
+        "player": {
+          "id": 5673,
+          "name": "Bartosz Bereszy\u0144ski"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          35.0
+        ],
+        "player": {
+          "id": 3034,
+          "name": "Kamil Glik"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          42.0
+        ],
+        "player": {
+          "id": 4626,
+          "name": "Jan Bednarek"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          38.0
+        ],
+        "player": {
+          "id": 3262,
+          "name": "\u0141ukasz Fabia\u0144ski"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          49.0
+        ],
+        "player": {
+          "id": 4685,
+          "name": "Artur J\u0119drzejczyk"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

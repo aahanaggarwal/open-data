@@ -1,0 +1,189 @@
+{
+  "id": "9f9e587e-36c4-49e2-b17e-051a2eac2c89",
+  "index": 1760,
+  "period": 1,
+  "timestamp": "00:44:31.710",
+  "minute": 44,
+  "second": 31,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 87,
+  "possession_team": {
+    "id": 768,
+    "name": "England"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 768,
+    "name": "England"
+  },
+  "player": {
+    "id": 3233,
+    "name": "Raheem Shaquille Sterling"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    111.0,
+    51.0
+  ],
+  "duration": 0.32,
+  "under_pressure": true,
+  "related_events": [
+    "82f37af9-6542-4532-934e-5ce52a2ec3ef",
+    "988297b1-15b5-4c25-b1d8-8ff5e1e4ecf9",
+    "e3f731a9-4413-48af-b3bc-38025c128ada"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.17926262,
+    "end_location": [
+      112.0,
+      51.0
+    ],
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.0,
+          51.0
+        ],
+        "player": {
+          "id": 5607,
+          "name": "Andreas Granqvist"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          46.0
+        ],
+        "player": {
+          "id": 6358,
+          "name": "Emil Krafth"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          38.0
+        ],
+        "player": {
+          "id": 3702,
+          "name": "Victor Nilsson Lindel\u00f6f"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          51.0
+        ],
+        "player": {
+          "id": 5621,
+          "name": "Ludwig Augustinsson"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          36.0
+        ],
+        "player": {
+          "id": 5617,
+          "name": "Sebastian Larsson"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          32.0
+        ],
+        "player": {
+          "id": 3094,
+          "name": "Bamidele Alli"
+        },
+        "position": {
+          "id": 20,
+          "name": "Left Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          120.0,
+          42.0
+        ],
+        "player": {
+          "id": 5622,
+          "name": "Robin Olsen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          42.0
+        ],
+        "player": {
+          "id": 10955,
+          "name": "Harry Kane"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

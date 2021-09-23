@@ -1,0 +1,204 @@
+{
+  "id": "a337d989-289c-40b2-bcc0-eb541fe01903",
+  "index": 2049,
+  "period": 2,
+  "timestamp": "00:08:09.099",
+  "minute": 53,
+  "second": 9,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 125,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 2,
+    "name": "From Corner"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5216,
+    "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    103.8,
+    31.9
+  ],
+  "duration": 0.56026,
+  "related_events": [
+    "0c34ff1e-3b7d-44fd-8f06-90957974c180"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.08549873,
+    "end_location": [
+      115.8,
+      38.8,
+      0.5
+    ],
+    "key_pass_id": "d6a44cb9-e816-479c-85bb-d5755238967f",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          105.0,
+          57.0
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.3,
+          33.3
+        ],
+        "player": {
+          "id": 25904,
+          "name": "Antonio Pacheco D\"Agosti"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.4,
+          38.5
+        ],
+        "player": {
+          "id": 25903,
+          "name": "Laurent Viaud"
+        },
+        "position": {
+          "id": 14,
+          "name": "Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          34.2
+        ],
+        "player": {
+          "id": 25878,
+          "name": "Ludovic Giuly"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.8,
+          35.7
+        ],
+        "player": {
+          "id": 25899,
+          "name": "Gaspar G\u00e1lvez Burgos"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.3,
+          37.9
+        ],
+        "player": {
+          "id": 25902,
+          "name": "Carles Domingo Pladevall"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.7,
+          37.1
+        ],
+        "player": {
+          "id": 24631,
+          "name": "Agust\u00edn Garc\u00eda I\u00f1iguez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.8,
+          35.8
+        ],
+        "player": {
+          "id": 25905,
+          "name": "Santiago Denia S\u00e1nchez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.1,
+          39.0
+        ],
+        "player": {
+          "id": 25901,
+          "name": "Ra\u00fal Valbuena Cano"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

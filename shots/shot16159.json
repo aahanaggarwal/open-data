@@ -1,0 +1,233 @@
+{
+  "id": "b30c1ee0-9ca1-4689-a3bc-9470d3fdccc2",
+  "index": 1886,
+  "period": 2,
+  "timestamp": "00:07:32.029",
+  "minute": 52,
+  "second": 32,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 91,
+  "possession_team": {
+    "id": 759,
+    "name": "Washington Spirit"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 759,
+    "name": "Washington Spirit"
+  },
+  "player": {
+    "id": 32632,
+    "name": "Bayley Feist"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    95.6,
+    48.8
+  ],
+  "duration": 0.152178,
+  "related_events": [
+    "cdc2a2ce-317c-4fee-9075-7f6a16a28325",
+    "d72033ee-399b-40f1-9fee-acac6ac8eb5d"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.03169156,
+    "end_location": [
+      99.4,
+      48.5
+    ],
+    "key_pass_id": "b45bd649-c79f-42de-9ff3-a4ce617db2cc",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.2,
+          52.9
+        ],
+        "player": {
+          "id": 25546,
+          "name": "Cheyna Matthews"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          85.2,
+          51.5
+        ],
+        "player": {
+          "id": 4964,
+          "name": "Ashley Hatch"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          92.8,
+          50.3
+        ],
+        "player": {
+          "id": 30522,
+          "name": "Joanna Boyles"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.2,
+          58.2
+        ],
+        "player": {
+          "id": 5076,
+          "name": "Emily van Egmond"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.4,
+          51.1
+        ],
+        "player": {
+          "id": 8199,
+          "name": "Toni Pressley"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.9,
+          48.4
+        ],
+        "player": {
+          "id": 5074,
+          "name": "Shelina Zadorsky"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.5,
+          45.6
+        ],
+        "player": {
+          "id": 5078,
+          "name": "Alanna Kennedy"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.1,
+          51.7
+        ],
+        "player": {
+          "id": 5064,
+          "name": "Carson Pickett"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.2,
+          38.7
+        ],
+        "player": {
+          "id": 30523,
+          "name": "Erin Greening"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.8,
+          59.4
+        ],
+        "player": {
+          "id": 5029,
+          "name": "Tori Huster"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.6,
+          41.9
+        ],
+        "player": {
+          "id": 5061,
+          "name": "Haley Judith Kopmeyer"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

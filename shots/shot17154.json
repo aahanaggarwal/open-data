@@ -1,0 +1,143 @@
+{
+  "id": "40208414-89a8-471e-b8e6-2c873320be95",
+  "index": 1914,
+  "period": 1,
+  "timestamp": "00:42:49.327",
+  "minute": 42,
+  "second": 49,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 99,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 25879,
+    "name": "Ronaldo de Assis Moreira"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    104.4,
+    34.4
+  ],
+  "duration": 0.3737,
+  "related_events": [
+    "73fb0b06-4c8b-4202-a29e-4ec1b860c0ec"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.343917,
+    "end_location": [
+      113.6,
+      39.0,
+      0.3
+    ],
+    "key_pass_id": "624e6fda-4bea-4509-a80f-ef712adb14c4",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          97.6,
+          20.7
+        ],
+        "player": {
+          "id": 25921,
+          "name": "Rub\u00e9n Gracia Calmache"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.2,
+          39.7
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.2,
+          37.0
+        ],
+        "player": {
+          "id": 26194,
+          "name": "Pascal Cygan"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.4,
+          38.4
+        ],
+        "player": {
+          "id": 25937,
+          "name": "Javier Rodr\u00edguez Venta"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.6,
+          38.9
+        ],
+        "player": {
+          "id": 25936,
+          "name": "Mario Sebasti\u00e1n Viera Galain"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "id": "fc61f2dc-4f72-41df-90a5-22f0ae5d6c03",
+  "index": 2987,
+  "period": 2,
+  "timestamp": "00:30:42.177",
+  "minute": 75,
+  "second": 42,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 146,
+  "possession_team": {
+    "id": 213,
+    "name": "Sevilla"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 213,
+    "name": "Sevilla"
+  },
+  "player": {
+    "id": 20542,
+    "name": "\u00c1lvaro Negredo S\u00e1nchez"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    104.1,
+    21.2
+  ],
+  "duration": 0.1398,
+  "under_pressure": true,
+  "related_events": [
+    "c0a97e52-be14-4679-97ce-b0ef3c20e68b",
+    "c942e328-5247-4cfa-ac6d-e256cfa3d006",
+    "ee672cf2-a17c-411c-8a0b-7f6c748ea581"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.017988147,
+    "end_location": [
+      104.7,
+      21.7
+    ],
+    "key_pass_id": "d7c88308-d4dc-40c0-b609-5afac282498b",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.3,
+          40.2
+        ],
+        "player": {
+          "id": 20177,
+          "name": "Eric-Sylvain Bilal Abidal"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.9,
+          24.9
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.8,
+          21.9
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.3,
+          33.0
+        ],
+        "player": {
+          "id": 26015,
+          "name": "Renato Dirnei Florencio"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.1,
+          49.6
+        ],
+        "player": {
+          "id": 26682,
+          "name": "Alain Didier Zokora-D\u00e9guy"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.5,
+          36.0
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

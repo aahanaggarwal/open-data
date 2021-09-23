@@ -1,0 +1,142 @@
+{
+  "id": "af969bf6-1e28-4921-8b6b-0db8b6c9efad",
+  "index": 2677,
+  "period": 2,
+  "timestamp": "00:22:45.361",
+  "minute": 67,
+  "second": 45,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 147,
+  "possession_team": {
+    "id": 866,
+    "name": "Scotland Women's"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 866,
+    "name": "Scotland Women's"
+  },
+  "player": {
+    "id": 4660,
+    "name": "Erin Cuthbert"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    98.3,
+    44.7
+  ],
+  "duration": 0.6294,
+  "related_events": [
+    "75e06b2c-da6b-4325-832a-ed7bc736ca65"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.13920052,
+    "end_location": [
+      113.4,
+      42.9,
+      0.3
+    ],
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          114.0,
+          41.7
+        ],
+        "player": {
+          "id": 25611,
+          "name": "Vanina Noem\u00ed Correa"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.6,
+          47.1
+        ],
+        "player": {
+          "id": 25629,
+          "name": "Agustina Barroso Basualdo"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          46.5
+        ],
+        "player": {
+          "id": 25634,
+          "name": "Aldana Cometti"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          36.3
+        ],
+        "player": {
+          "id": 25625,
+          "name": "Linda Ruth Bravo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.4,
+          30.1
+        ],
+        "player": {
+          "id": 4646,
+          "name": "Claire Emslie"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

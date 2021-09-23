@@ -1,0 +1,159 @@
+{
+  "id": "7afa362d-de22-4a37-ac93-7d2f7579c593",
+  "index": 3730,
+  "period": 2,
+  "timestamp": "00:36:38.351",
+  "minute": 81,
+  "second": 38,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 204,
+  "possession_team": {
+    "id": 215,
+    "name": "Athletic Bilbao"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 215,
+    "name": "Athletic Bilbao"
+  },
+  "player": {
+    "id": 6390,
+    "name": "Markel Susaeta Laskurain"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    109.4,
+    27.8
+  ],
+  "duration": 0.2937,
+  "related_events": [
+    "524203b6-0ef1-49ba-887f-32e0f17140c2",
+    "d8e8df96-82f2-4d3f-9d3c-2333a3224b3b"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.110398896,
+    "end_location": [
+      111.7,
+      30.2
+    ],
+    "key_pass_id": "73682b35-605e-4c4e-b2c2-7ef95fa22a2b",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.8,
+          37.4
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.0,
+          30.8
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.7,
+          38.8
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.9,
+          40.7
+        ],
+        "player": {
+          "id": 22102,
+          "name": "Adriano Correia Claro"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.3,
+          49.7
+        ],
+        "player": {
+          "id": 6842,
+          "name": "Iker Muniain Go\u00f1i"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.6,
+          39.7
+        ],
+        "player": {
+          "id": 3486,
+          "name": "Fernando Llorente Torres"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

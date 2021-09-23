@@ -1,0 +1,176 @@
+{
+  "id": "c9b42c1c-cba4-459f-8544-35b1f8d05334",
+  "index": 2986,
+  "period": 2,
+  "timestamp": "00:38:46.790",
+  "minute": 83,
+  "second": 46,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 200,
+  "possession_team": {
+    "id": 761,
+    "name": "Chicago Red Stars"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 761,
+    "name": "Chicago Red Stars"
+  },
+  "player": {
+    "id": 4961,
+    "name": "Samantha Kerr"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    112.1,
+    39.8
+  ],
+  "duration": 0.119413,
+  "under_pressure": true,
+  "related_events": [
+    "1492b598-e977-47bd-a011-eaaa49296f34",
+    "70d100db-e3d6-4148-b8dd-3e5a18dfce82",
+    "71abec41-af97-4a50-b195-dfc017b6c754"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.093713775,
+    "end_location": [
+      112.4,
+      40.6
+    ],
+    "key_pass_id": "863bcac7-7a13-49d3-b3d7-abdd1731e94d",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "aerial_won": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.5,
+          40.7
+        ],
+        "player": {
+          "id": 16403,
+          "name": "Gina Lewandowski"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.2,
+          38.6
+        ],
+        "player": {
+          "id": 5098,
+          "name": "Erica Skroski"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.5,
+          37.5
+        ],
+        "player": {
+          "id": 33135,
+          "name": "Maria Guadalupe Sanchez Morales"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          98.9,
+          32.0
+        ],
+        "player": {
+          "id": 4942,
+          "name": "Arin Gilliland"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          109.7,
+          37.7
+        ],
+        "player": {
+          "id": 4967,
+          "name": "Raquel Rodriguez"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          36.8
+        ],
+        "player": {
+          "id": 33318,
+          "name": "Sabrina Flores"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.6,
+          39.6
+        ],
+        "player": {
+          "id": 4981,
+          "name": "Kailen Sheridan"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

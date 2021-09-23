@@ -1,0 +1,115 @@
+{
+  "id": "57558c92-e4ce-48a7-997d-ca0dda29cfc0",
+  "index": 3185,
+  "period": 2,
+  "timestamp": "00:41:13.140",
+  "minute": 86,
+  "second": 13,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 199,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5987,
+    "name": "Giovani dos Santos Ram\u00edrez"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    110.7,
+    27.8
+  ],
+  "duration": 0.888027,
+  "under_pressure": true,
+  "related_events": [
+    "38d32124-ba97-40ef-8aa0-8540b93dc373",
+    "e1fa81e2-377b-4ba1-87f8-746cdadf9464"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.09678111,
+    "end_location": [
+      120.0,
+      46.3,
+      0.2
+    ],
+    "key_pass_id": "0be218ae-0218-4075-bb71-0e62842bdd7c",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.6,
+          36.5
+        ],
+        "player": {
+          "id": 26438,
+          "name": "David Cobe\u00f1o Iglesias"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.2,
+          31.4
+        ],
+        "player": {
+          "id": 3095,
+          "name": "Bruno Saltor Grau"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.8,
+          41.8
+        ],
+        "player": {
+          "id": 26434,
+          "name": "Santiago Wilmer Acasiete Ariadela"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

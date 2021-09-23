@@ -1,0 +1,144 @@
+{
+  "id": "09dedc7c-4809-467d-8160-5cd2a9393532",
+  "index": 3900,
+  "period": 2,
+  "timestamp": "00:47:12.054",
+  "minute": 92,
+  "second": 12,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 195,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    112.8,
+    49.1
+  ],
+  "duration": 0.811136,
+  "related_events": [
+    "2dd4301e-98c0-4a45-a6dd-33f7bf68e0b6"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.2549787,
+    "end_location": [
+      120.0,
+      38.1,
+      1.3
+    ],
+    "key_pass_id": "decc0a30-ac15-42e0-9980-c6f9b858b6b1",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          115.1,
+          46.3
+        ],
+        "player": {
+          "id": 26627,
+          "name": "Sergio Aragoneses Almeida"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.5,
+          44.3
+        ],
+        "player": {
+          "id": 26631,
+          "name": "Ezequiel Luna"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.5,
+          47.5
+        ],
+        "player": {
+          "id": 26630,
+          "name": "Pablo Sicilia Roig"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.4,
+          38.0
+        ],
+        "player": {
+          "id": 25888,
+          "name": "Jose Antonio Culebras Arenas"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.6,
+          33.7
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

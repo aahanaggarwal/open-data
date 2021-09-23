@@ -1,0 +1,145 @@
+{
+  "id": "d2e6d22e-faf9-446c-9abf-87a3bc48a55d",
+  "index": 2355,
+  "period": 2,
+  "timestamp": "00:15:31.127",
+  "minute": 60,
+  "second": 31,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 115,
+  "possession_team": {
+    "id": 852,
+    "name": "Norway Women's"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 852,
+    "name": "Norway Women's"
+  },
+  "player": {
+    "id": 13479,
+    "name": "Isabell Herlovsen"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    104.7,
+    40.5
+  ],
+  "duration": 0.017,
+  "under_pressure": true,
+  "related_events": [
+    "053e6a26-1a24-4f67-ae64-e549d4abe5cc",
+    "889ea5fb-5d61-4f7e-81bd-5f4e3c927b57",
+    "faf229ee-7818-4f60-baff-fa74b1f8d67b"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.15446252,
+    "end_location": [
+      105.6,
+      40.3
+    ],
+    "key_pass_id": "854e3ab1-4c94-4759-8952-f62bfa6d20df",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          95.2,
+          48.4
+        ],
+        "player": {
+          "id": 4642,
+          "name": "Millie Bright"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.6,
+          40.9
+        ],
+        "player": {
+          "id": 10185,
+          "name": "Stephanie Houghton"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.7,
+          28.3
+        ],
+        "player": {
+          "id": 25728,
+          "name": "Karina S\u00e6vik"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.6,
+          42.0
+        ],
+        "player": {
+          "id": 10170,
+          "name": "Karen Bardsley"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.4,
+          40.2
+        ],
+        "player": {
+          "id": 10178,
+          "name": "Lucy Bronze"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "id": "1cbb2180-21d1-4dc8-a9bd-827f6c53bfd7",
+  "index": 1277,
+  "period": 1,
+  "timestamp": "00:31:43.536",
+  "minute": 31,
+  "second": 43,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 75,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 12737,
+    "name": "David Villa S\u00e1nchez"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    113.5,
+    29.6
+  ],
+  "duration": 0.1365,
+  "under_pressure": true,
+  "related_events": [
+    "1f86de82-8795-44a9-be42-9b3279fc35b4",
+    "7133c059-d9c5-48b9-ab8f-2d79df5ae0b5",
+    "ade57f98-a75e-4091-8f25-8538f26f2332"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.0896877,
+    "end_location": [
+      114.1,
+      30.5
+    ],
+    "key_pass_id": "0a89d7ee-9fe1-4627-967b-710587929745",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          102.9,
+          47.3
+        ],
+        "player": {
+          "id": 26002,
+          "name": "Javad Nekounam"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.8,
+          35.4
+        ],
+        "player": {
+          "id": 26660,
+          "name": "Kriszti\u00e1n Vad\u00f3cz"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.6,
+          40.6
+        ],
+        "player": {
+          "id": 3498,
+          "name": "Ignacio Monreal Eraso"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.5,
+          29.3
+        ],
+        "player": {
+          "id": 24313,
+          "name": "Miguel Fla\u00f1o Bezunartea"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.1,
+          30.5
+        ],
+        "player": {
+          "id": 26254,
+          "name": "Manuel Jes\u00fas Ortiz Toribio"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.8,
+          10.1
+        ],
+        "player": {
+          "id": 26589,
+          "name": "N\u00e9lson Augusto Tomar Marcos"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.4,
+          36.4
+        ],
+        "player": {
+          "id": 25912,
+          "name": "Ricardo L\u00f3pez Felipe"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.6,
+          56.8
+        ],
+        "player": {
+          "id": 4891,
+          "name": "Ibrahim Afellay"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.8,
+          30.9
+        ],
+        "player": {
+          "id": 20169,
+          "name": "Seydou K\u00e9ita"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.7,
+          26.9
+        ],
+        "player": {
+          "id": 26624,
+          "name": "Jeffren Isaac Su\u00e1rez Berm\u00fadez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

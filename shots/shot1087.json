@@ -1,0 +1,158 @@
+{
+  "id": "2693c661-190c-4eca-b756-206d926d8239",
+  "index": 4402,
+  "period": 2,
+  "timestamp": "00:46:28.675",
+  "minute": 91,
+  "second": 28,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 163,
+  "possession_team": {
+    "id": 219,
+    "name": "Deportivo La Coruna"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 219,
+    "name": "Deportivo La Coruna"
+  },
+  "player": {
+    "id": 6735,
+    "name": "Adri\u00e1n L\u00f3pez \u00c1lvarez"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    104.6,
+    44.4
+  ],
+  "duration": 0.1437,
+  "related_events": [
+    "9a9694d4-a261-4ffb-aedc-0a722006c6ae"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.3625491,
+    "end_location": [
+      109.1,
+      43.6,
+      0.5
+    ],
+    "key_pass_id": "c196ac5f-6c72-42d5-8fea-2c2fc3ca9f3d",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          92.3,
+          56.8
+        ],
+        "player": {
+          "id": 20177,
+          "name": "Eric-Sylvain Bilal Abidal"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          38.6
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.7,
+          39.1
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.8,
+          43.3
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.8,
+          29.3
+        ],
+        "player": {
+          "id": 26487,
+          "name": "Pablo \u00c1lvarez Nu\u00f1ez"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          98.2,
+          37.5
+        ],
+        "player": {
+          "id": 15602,
+          "name": "Juan Carlos Valer\u00f3n Santana"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

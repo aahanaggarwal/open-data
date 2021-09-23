@@ -1,0 +1,129 @@
+{
+  "id": "0a6c0c72-5911-46db-b44d-b9a009abc506",
+  "index": 732,
+  "period": 1,
+  "timestamp": "00:18:00.337",
+  "minute": 18,
+  "second": 0,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 49,
+  "possession_team": {
+    "id": 1208,
+    "name": "Cameroon Women's"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 1208,
+    "name": "Cameroon Women's"
+  },
+  "player": {
+    "id": 25616,
+    "name": "Gabrielle Onguene"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    99.1,
+    29.3
+  ],
+  "duration": 0.6108,
+  "related_events": [
+    "a9b19e2b-de26-4e81-8f20-8ae808963f92"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.1781923,
+    "end_location": [
+      109.6,
+      35.6,
+      2.2
+    ],
+    "key_pass_id": "baab755b-fb7c-4898-b981-cce42af6ec6c",
+    "technique": {
+      "id": 92,
+      "name": "Lob"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          90.6,
+          28.8
+        ],
+        "player": {
+          "id": 4989,
+          "name": "Rebekah Stott"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.2,
+          32.0
+        ],
+        "player": {
+          "id": 5037,
+          "name": "Abby Erceg"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.5,
+          31.6
+        ],
+        "player": {
+          "id": 25784,
+          "name": "Anna Green"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.7,
+          36.3
+        ],
+        "player": {
+          "id": 25661,
+          "name": "Erin Nayler"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

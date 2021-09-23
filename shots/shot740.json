@@ -1,0 +1,173 @@
+{
+  "id": "a1f2d659-4de4-4ea0-889a-5ac1e195cbad",
+  "index": 2883,
+  "period": 2,
+  "timestamp": "00:38:42.520",
+  "minute": 83,
+  "second": 42,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 187,
+  "possession_team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "player": {
+    "id": 5080,
+    "name": "Kristen Hamilton"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    111.0,
+    41.0
+  ],
+  "duration": 1.163,
+  "related_events": [
+    "dfdd35d1-d63f-4083-a4fd-e9f027241974"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.2514427,
+    "end_location": [
+      114.0,
+      35.0
+    ],
+    "key_pass_id": "7ca3cc70-1434-4ff7-a837-867c3e97300e",
+    "outcome": {
+      "id": 101,
+      "name": "Wayward"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          112.0,
+          46.0
+        ],
+        "player": {
+          "id": 4958,
+          "name": "Kathleen Naughton"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          46.0
+        ],
+        "player": {
+          "id": 4965,
+          "name": "Nikki Stanton"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          66.0
+        ],
+        "player": {
+          "id": 4947,
+          "name": "Danielle Colaprico"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.0,
+          65.0
+        ],
+        "player": {
+          "id": 6814,
+          "name": "Heather O\"Reilly"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          116.0,
+          64.0
+        ],
+        "player": {
+          "id": 4955,
+          "name": "Sarah Gorden"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          43.0
+        ],
+        "player": {
+          "id": 5100,
+          "name": "Alyssa Naeher"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          42.0
+        ],
+        "player": {
+          "id": 4983,
+          "name": "Brooke Elby"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

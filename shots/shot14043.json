@@ -1,0 +1,143 @@
+{
+  "id": "1ddd7e83-f67b-47a6-9ab6-dc897ef7bb87",
+  "index": 526,
+  "period": 1,
+  "timestamp": "00:14:21.610",
+  "minute": 14,
+  "second": 21,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 38,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 23816,
+    "name": "Jos\u00e9 Antonio Reyes Calder\u00f3n"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    107.4,
+    29.9
+  ],
+  "duration": 0.322273,
+  "related_events": [
+    "bc057d66-2af4-41ab-ae9e-6efd3d14e394"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.22699374,
+    "end_location": [
+      113.6,
+      35.0,
+      0.2
+    ],
+    "key_pass_id": "1f82fd44-c8c6-44c4-b2d6-f0d84a71abe8",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          92.9,
+          51.7
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.9,
+          36.2
+        ],
+        "player": {
+          "id": 20341,
+          "name": "Mika\u00ebl Silvestre"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.7,
+          32.0
+        ],
+        "player": {
+          "id": 40366,
+          "name": "Wes Brown"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.1,
+          47.5
+        ],
+        "player": {
+          "id": 16890,
+          "name": "John O\"Shea"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.6,
+          35.6
+        ],
+        "player": {
+          "id": 40364,
+          "name": "Roy Carroll"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

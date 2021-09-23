@@ -1,0 +1,159 @@
+{
+  "id": "19904a24-e4d8-45c2-8882-e873957e9616",
+  "index": 2529,
+  "period": 2,
+  "timestamp": "00:25:13.918",
+  "minute": 70,
+  "second": 13,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 153,
+  "possession_team": {
+    "id": 212,
+    "name": "Atl\u00e9tico Madrid"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 212,
+    "name": "Atl\u00e9tico Madrid"
+  },
+  "player": {
+    "id": 3237,
+    "name": "Sergio Leonel Ag\u00fcero del Castillo"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    105.0,
+    50.5
+  ],
+  "duration": 0.203,
+  "related_events": [
+    "d11cf2c3-b30d-4f15-aa99-dc8081743870",
+    "d4396e6b-2b53-476a-b14f-6fbefe5e1bc5"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.08992369,
+    "end_location": [
+      108.5,
+      48.7
+    ],
+    "key_pass_id": "b71bcd72-095e-482e-95c9-5665e8ab8052",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          104.8,
+          55.0
+        ],
+        "player": {
+          "id": 6382,
+          "name": "Fernando Jos\u00e9 Torres Sanz"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.0,
+          37.5
+        ],
+        "player": {
+          "id": 19767,
+          "name": "Giorgios Seitaridis"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.1,
+          38.7
+        ],
+        "player": {
+          "id": 15774,
+          "name": "Gianluca Zambrotta"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.3,
+          41.4
+        ],
+        "player": {
+          "id": 15071,
+          "name": "Lilian Thuram"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          47.8
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.1,
+          43.2
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

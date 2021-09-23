@@ -1,0 +1,99 @@
+{
+  "id": "d837b84a-75a2-41d2-9e83-a9f35c01e912",
+  "index": 23,
+  "period": 1,
+  "timestamp": "00:00:41.223",
+  "minute": 0,
+  "second": 41,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 3,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 40255,
+    "name": "J\u00e9r\u00e9mie Aliadi\u00e8re"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    107.8,
+    53.2
+  ],
+  "duration": 0.499539,
+  "related_events": [
+    "d9f7b68e-282a-4029-bec8-5035b88101ff"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.11270856,
+    "end_location": [
+      117.7,
+      43.7,
+      0.2
+    ],
+    "key_pass_id": "36b1bba2-6b0a-4d3f-aded-382e91468711",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          107.3,
+          50.1
+        ],
+        "player": {
+          "id": 15403,
+          "name": "Gareth Southgate"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.5,
+          41.6
+        ],
+        "player": {
+          "id": 40322,
+          "name": "Mark Schwarzer"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

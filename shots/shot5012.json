@@ -1,0 +1,175 @@
+{
+  "id": "8f48df5c-e2a6-48f8-a5fa-61a04be8ed82",
+  "index": 3357,
+  "period": 2,
+  "timestamp": "00:45:40.720",
+  "minute": 90,
+  "second": 40,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 187,
+  "possession_team": {
+    "id": 785,
+    "name": "Croatia"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 785,
+    "name": "Croatia"
+  },
+  "player": {
+    "id": 5470,
+    "name": "Ivan Rakiti\u0107"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    98.0,
+    38.0
+  ],
+  "duration": 0.613,
+  "under_pressure": true,
+  "related_events": [
+    "13f33da4-38e2-406d-9a8a-32fcfb0ea187",
+    "a568bb86-e20d-4750-b54a-bc2a3e57d435"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.16665307,
+    "end_location": [
+      114.0,
+      38.3,
+      0.5
+    ],
+    "key_pass_id": "6ff94147-19e0-4e7b-9611-62eaa1091c30",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          114.0,
+          38.0
+        ],
+        "player": {
+          "id": 3659,
+          "name": "Wilfredo Daniel Caballero"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          37.0
+        ],
+        "player": {
+          "id": 5506,
+          "name": "Javier Alejandro Mascherano"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          36.0
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          90.0,
+          38.0
+        ],
+        "player": {
+          "id": 5742,
+          "name": "Gabriel Iv\u00e1n Mercado"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          51.0
+        ],
+        "player": {
+          "id": 5460,
+          "name": "Andrej Kramari\u0107"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.0,
+          31.0
+        ],
+        "player": {
+          "id": 5456,
+          "name": "Mateo Kova\u010di\u0107"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.0,
+          47.0
+        ],
+        "player": {
+          "id": 19597,
+          "name": "Marcos Javier Acu\u00f1a"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

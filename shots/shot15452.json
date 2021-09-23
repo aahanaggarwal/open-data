@@ -1,0 +1,144 @@
+{
+  "id": "121b41d9-961f-4a5c-b37e-b145c45c97a5",
+  "index": 914,
+  "period": 1,
+  "timestamp": "00:22:57.092",
+  "minute": 22,
+  "second": 57,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 54,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19298,
+    "name": "Samuel Eto\"o Fils"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    114.0,
+    40.4
+  ],
+  "duration": 0.549076,
+  "related_events": [
+    "67e3b077-b307-4c28-a17d-b77e9836d368"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.53423804,
+    "end_location": [
+      120.0,
+      41.1,
+      0.4
+    ],
+    "key_pass_id": "ef958de7-da2f-4c02-8e5a-077bbdb14a62",
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.8,
+          39.2
+        ],
+        "player": {
+          "id": 26084,
+          "name": "I\u00f1aki Lafuente Sancha"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.1,
+          25.5
+        ],
+        "player": {
+          "id": 26244,
+          "name": "Rafael Sastre Reus"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.2,
+          38.3
+        ],
+        "player": {
+          "id": 26661,
+          "name": "Iv\u00e1n Hern\u00e1ndez Soto"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.1,
+          42.0
+        ],
+        "player": {
+          "id": 25706,
+          "name": "Ra\u00fal Miguel C\u00e1mara"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          53.6
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

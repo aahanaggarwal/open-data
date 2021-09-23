@@ -1,0 +1,189 @@
+{
+  "id": "9b4e5013-b3ae-47f3-a415-29de8b8009ad",
+  "index": 1850,
+  "period": 2,
+  "timestamp": "00:02:59.957",
+  "minute": 47,
+  "second": 59,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 95,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    114.6,
+    30.1
+  ],
+  "duration": 0.409481,
+  "related_events": [
+    "e4ccdec6-13eb-45a4-af7c-c2ed43b424e3"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.15294285,
+    "end_location": [
+      118.2,
+      35.2,
+      0.3
+    ],
+    "key_pass_id": "7407d133-9e71-4f78-9852-aafed2101f40",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.0,
+          36.4
+        ],
+        "player": {
+          "id": 16890,
+          "name": "John O\"Shea"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.6,
+          51.8
+        ],
+        "player": {
+          "id": 19298,
+          "name": "Samuel Eto\"o Fils"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.9,
+          38.6
+        ],
+        "player": {
+          "id": 20172,
+          "name": "Nemanja Vidi\u0107"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.1,
+          43.1
+        ],
+        "player": {
+          "id": 20008,
+          "name": "Patrice Evra"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.6,
+          35.2
+        ],
+        "player": {
+          "id": 15036,
+          "name": "Edwin van der Sar"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.2,
+          31.2
+        ],
+        "player": {
+          "id": 20171,
+          "name": "Rio Ferdinand"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.3,
+          30.2
+        ],
+        "player": {
+          "id": 4751,
+          "name": "Michael Carrick"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.7,
+          39.9
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

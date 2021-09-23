@@ -1,0 +1,189 @@
+{
+  "id": "b26c5a07-77c7-4d20-8f0f-8fbe2bc7f3ad",
+  "index": 1059,
+  "period": 1,
+  "timestamp": "00:26:11.148",
+  "minute": 26,
+  "second": 11,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 70,
+  "possession_team": {
+    "id": 760,
+    "name": "Seattle Reign"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 760,
+    "name": "Seattle Reign"
+  },
+  "player": {
+    "id": 5016,
+    "name": "Jessica Fishlock"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    94.7,
+    50.0
+  ],
+  "duration": 1.748396,
+  "related_events": [
+    "8f5e2963-27de-4505-9c11-284f58a51f11"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.030722128,
+    "end_location": [
+      118.7,
+      35.5,
+      0.2
+    ],
+    "key_pass_id": "9164e89c-aefa-48c2-8893-073f6d34c786",
+    "saved_off_target": true,
+    "outcome": {
+      "id": 115,
+      "name": "Saved Off Target"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.0,
+          39.7
+        ],
+        "player": {
+          "id": 4952,
+          "name": "Emily Boyd"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.2,
+          65.6
+        ],
+        "player": {
+          "id": 4942,
+          "name": "Arin Gilliland"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.9,
+          55.4
+        ],
+        "player": {
+          "id": 4955,
+          "name": "Sarah Gorden"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.6,
+          48.8
+        ],
+        "player": {
+          "id": 4958,
+          "name": "Kathleen Naughton"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.5,
+          46.1
+        ],
+        "player": {
+          "id": 7179,
+          "name": "Casey Short"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          94.0,
+          56.8
+        ],
+        "player": {
+          "id": 4954,
+          "name": "Morgan Proffitt"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.1,
+          45.0
+        ],
+        "player": {
+          "id": 5094,
+          "name": "Ifeoma Onumonu"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          93.5,
+          47.8
+        ],
+        "player": {
+          "id": 6812,
+          "name": "Vanessa DiBernardo"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

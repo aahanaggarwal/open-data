@@ -1,0 +1,174 @@
+{
+  "id": "892f97a6-6676-44e1-9521-ff2c7aeed9f6",
+  "index": 1709,
+  "period": 2,
+  "timestamp": "00:01:39.188",
+  "minute": 46,
+  "second": 39,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 93,
+  "possession_team": {
+    "id": 444,
+    "name": "Numancia"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 444,
+    "name": "Numancia"
+  },
+  "player": {
+    "id": 26235,
+    "name": "Mario Mart\u00ednez Rubio"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    113.4,
+    53.1
+  ],
+  "duration": 0.5315,
+  "related_events": [
+    "36c0f264-97b1-4e79-95e1-1c0a655bccb7"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.062085837,
+    "end_location": [
+      120.0,
+      44.2,
+      5.6
+    ],
+    "key_pass_id": "1031b0eb-49a1-4916-993f-184269cda35b",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          99.5,
+          43.1
+        ],
+        "player": {
+          "id": 5216,
+          "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.4,
+          36.7
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.2,
+          40.4
+        ],
+        "player": {
+          "id": 3087,
+          "name": "Gn\u00e9gn\u00e9ri Yaya Tour\u00e9"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.4,
+          42.7
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.2,
+          45.8
+        ],
+        "player": {
+          "id": 20177,
+          "name": "Eric-Sylvain Bilal Abidal"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.1,
+          38.2
+        ],
+        "player": {
+          "id": 26236,
+          "name": "Gorka Brit Gallego"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.7,
+          38.7
+        ],
+        "player": {
+          "id": 26226,
+          "name": "Jos\u00e9 Javier Barkero Saludes"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

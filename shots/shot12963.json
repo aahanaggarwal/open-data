@@ -1,0 +1,161 @@
+{
+  "id": "7f3ddb40-5719-4114-a0d3-e1313dacbba6",
+  "index": 2662,
+  "period": 2,
+  "timestamp": "00:27:59.884",
+  "minute": 72,
+  "second": 59,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 158,
+  "possession_team": {
+    "id": 1220,
+    "name": "Recreativo Huelva"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1220,
+    "name": "Recreativo Huelva"
+  },
+  "player": {
+    "id": 25426,
+    "name": "Marco Gast\u00f3n Ruben Rodr\u00edguez"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    108.2,
+    26.3
+  ],
+  "duration": 0.794265,
+  "under_pressure": true,
+  "related_events": [
+    "1eaf7f0b-e89e-4ee9-9ceb-afd3ec0fe672",
+    "bfec12c4-4d63-460d-a1f6-a3f1d6bfe2e9"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.09313877,
+    "end_location": [
+      120.0,
+      35.0,
+      0.9
+    ],
+    "key_pass_id": "0ffbf4b1-e8ac-4335-8331-4f75edef301e",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          106.8,
+          35.1
+        ],
+        "player": {
+          "id": 26169,
+          "name": "Javier Camu\u00f1as Gallego"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.0,
+          27.3
+        ],
+        "player": {
+          "id": 5558,
+          "name": "Rafael M\u00e1rquez \u00c1lvarez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.6,
+          33.7
+        ],
+        "player": {
+          "id": 5248,
+          "name": "Jos\u00e9 Mart\u00edn C\u00e1ceres Silva"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.7,
+          36.2
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.3,
+          40.1
+        ],
+        "player": {
+          "id": 25854,
+          "name": "Sylvio Mendes Campos Junior"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.5,
+          47.6
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

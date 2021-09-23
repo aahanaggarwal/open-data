@@ -1,0 +1,114 @@
+{
+  "id": "3b69c16a-f396-479d-8457-650b261158cf",
+  "index": 2112,
+  "period": 2,
+  "timestamp": "00:19:49.458",
+  "minute": 64,
+  "second": 49,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 146,
+  "possession_team": {
+    "id": 967,
+    "name": "Everton LFC"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 967,
+    "name": "Everton LFC"
+  },
+  "player": {
+    "id": 19687,
+    "name": "Taylor Hinds"
+  },
+  "position": {
+    "id": 18,
+    "name": "Right Attacking Midfield"
+  },
+  "location": [
+    114.0,
+    52.0
+  ],
+  "duration": 0.8003,
+  "related_events": [
+    "68c3fbbf-969b-4e00-8812-f23313fe3b33"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.29260063,
+    "end_location": [
+      119.0,
+      46.3,
+      0.3
+    ],
+    "key_pass_id": "199a57e9-fe53-402c-86e4-8e2cc494a225",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          116.0,
+          47.0
+        ],
+        "player": {
+          "id": 22027,
+          "name": "Anne Moorhouse"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          48.0
+        ],
+        "player": {
+          "id": 18155,
+          "name": "Erin Simon"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          60.0
+        ],
+        "player": {
+          "id": 23547,
+          "name": "Emma Brownlie"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

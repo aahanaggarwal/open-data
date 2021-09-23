@@ -1,0 +1,158 @@
+{
+  "id": "09830109-1299-42e3-b073-f19ed9e3460a",
+  "index": 2545,
+  "period": 2,
+  "timestamp": "00:22:49.600",
+  "minute": 67,
+  "second": 49,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 105,
+  "possession_team": {
+    "id": 771,
+    "name": "France"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 771,
+    "name": "France"
+  },
+  "player": {
+    "id": 3009,
+    "name": "Kylian Mbapp\u00e9 Lottin"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    107.0,
+    51.0
+  ],
+  "duration": 0.72,
+  "related_events": [
+    "9e949ead-01c8-4d51-9c1a-34a548df03de"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.27453396,
+    "end_location": [
+      120.0,
+      36.2,
+      0.2
+    ],
+    "key_pass_id": "9c464eb0-e042-40ab-8b2d-3c2c348f0df0",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          114.0,
+          47.0
+        ],
+        "player": {
+          "id": 6312,
+          "name": "Franco Armani"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          92.0,
+          18.0
+        ],
+        "player": {
+          "id": 5484,
+          "name": "Lucas Hern\u00e1ndez Pi"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.0,
+          31.0
+        ],
+        "player": {
+          "id": 5742,
+          "name": "Gabriel Iv\u00e1n Mercado"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          48.0
+        ],
+        "player": {
+          "id": 6349,
+          "name": "Federico Juli\u00e1n Fazio"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          42.0
+        ],
+        "player": {
+          "id": 5507,
+          "name": "Nicol\u00e1s Alejandro Tagliafico"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.0,
+          46.0
+        ],
+        "player": {
+          "id": 3604,
+          "name": "Olivier Giroud"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

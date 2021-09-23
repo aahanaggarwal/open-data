@@ -1,0 +1,220 @@
+{
+  "id": "7ca08fce-e44d-4450-a3ce-c1c44b3dca20",
+  "index": 3221,
+  "period": 2,
+  "timestamp": "00:35:56.703",
+  "minute": 80,
+  "second": 56,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 182,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    98.3,
+    57.2
+  ],
+  "duration": 0.8217,
+  "under_pressure": true,
+  "related_events": [
+    "cc71c24c-faf0-4629-905f-2f403648ab07",
+    "e1eddce8-3ee8-4c0f-b8d2-e4ac0331ec75"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.015397391,
+    "end_location": [
+      117.6,
+      41.8,
+      2.3
+    ],
+    "key_pass_id": "745592bf-dd66-40e1-9655-7c832f2ceb1f",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.9,
+          38.5
+        ],
+        "player": {
+          "id": 24614,
+          "name": "Rafael L\u00f3pez G\u00f3mez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.1,
+          37.1
+        ],
+        "player": {
+          "id": 20169,
+          "name": "Seydou K\u00e9ita"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.4,
+          51.9
+        ],
+        "player": {
+          "id": 26684,
+          "name": "Derek Owusu Boateng"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.7,
+          51.1
+        ],
+        "player": {
+          "id": 26496,
+          "name": "Daniel Alberto D\u00edaz"
+        },
+        "position": {
+          "id": 4,
+          "name": "Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.3,
+          57.3
+        ],
+        "player": {
+          "id": 6878,
+          "name": "Miguel Torres G\u00f3mez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          61.7
+        ],
+        "player": {
+          "id": 24507,
+          "name": "Manuel del Moral Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 8,
+          "name": "Left Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.8,
+          35.9
+        ],
+        "player": {
+          "id": 26657,
+          "name": "Pedro R\u00edos Maestre"
+        },
+        "position": {
+          "id": 7,
+          "name": "Right Wing Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.2,
+          64.1
+        ],
+        "player": {
+          "id": 20131,
+          "name": "Xavier Hern\u00e1ndez Creus"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          90.2,
+          47.0
+        ],
+        "player": {
+          "id": 5203,
+          "name": "Sergio Busquets i Burgos"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.5,
+          41.4
+        ],
+        "player": {
+          "id": 26686,
+          "name": "Jordi Codina Rodr\u00edguez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

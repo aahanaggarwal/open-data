@@ -1,0 +1,114 @@
+{
+  "id": "bc2de9e7-2136-485c-a875-b9bba8723020",
+  "index": 3138,
+  "period": 2,
+  "timestamp": "00:37:04.985",
+  "minute": 82,
+  "second": 4,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 174,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 40255,
+    "name": "J\u00e9r\u00e9mie Aliadi\u00e8re"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    116.3,
+    27.3
+  ],
+  "duration": 0.412759,
+  "related_events": [
+    "5dfce7ba-ae19-4b97-8368-571d366dfc18",
+    "b1dcd175-0037-48eb-b12d-6eaf7ad529c8"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.051890623,
+    "end_location": [
+      116.7,
+      29.9
+    ],
+    "key_pass_id": "8175872a-5487-4fed-8026-b1da00e2ad6c",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          103.7,
+          20.9
+        ],
+        "player": {
+          "id": 15515,
+          "name": "Patrick Vieira"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.2,
+          36.8
+        ],
+        "player": {
+          "id": 40310,
+          "name": "Michael Oakes"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.3,
+          30.9
+        ],
+        "player": {
+          "id": 40314,
+          "name": "Jody Craddock"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

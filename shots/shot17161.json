@@ -1,0 +1,129 @@
+{
+  "id": "23216b68-e5ae-4a5f-8ae6-3968605c01eb",
+  "index": 3125,
+  "period": 2,
+  "timestamp": "00:29:42.708",
+  "minute": 74,
+  "second": 42,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 176,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 11270,
+    "name": "Ei\u00f0ur Sm\u00e1ri Gu\u00f0johnsen"
+  },
+  "position": {
+    "id": 6,
+    "name": "Left Back"
+  },
+  "location": [
+    115.4,
+    51.7
+  ],
+  "duration": 0.3637,
+  "related_events": [
+    "1bfe1e07-3e33-441d-ab07-69821f59fe54"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.13646843,
+    "end_location": [
+      117.8,
+      44.9,
+      1.0
+    ],
+    "key_pass_id": "2b9d02c3-c142-4f36-9a7d-f114f5bac7fe",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          98.4,
+          58.1
+        ],
+        "player": {
+          "id": 19757,
+          "name": "Anderson Lu\u00eds de Souza"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.5,
+          43.9
+        ],
+        "player": {
+          "id": 25936,
+          "name": "Mario Sebasti\u00e1n Viera Galain"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.8,
+          47.4
+        ],
+        "player": {
+          "id": 26418,
+          "name": "Jos\u00e9 Enrique de la S\u00e1nchez Diaz"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.1,
+          50.4
+        ],
+        "player": {
+          "id": 26196,
+          "name": "Fabricio Fabio Fuentes"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

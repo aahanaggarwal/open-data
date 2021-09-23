@@ -1,0 +1,113 @@
+{
+  "id": "95cb8012-3b9d-40a4-90a2-07b251b6aa93",
+  "index": 462,
+  "period": 1,
+  "timestamp": "00:10:01.475",
+  "minute": 10,
+  "second": 1,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 17,
+  "possession_team": {
+    "id": 970,
+    "name": "Yeovil Town LFC"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 970,
+    "name": "Yeovil Town LFC"
+  },
+  "player": {
+    "id": 15718,
+    "name": "Olivia Fergusson"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    94.0,
+    40.0
+  ],
+  "duration": 0.173094,
+  "related_events": [
+    "0f01b378-d40c-4e28-b0d0-dd2e35ed0e63",
+    "fd797ba4-af42-4791-9671-e3c45c29fbc4"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.030689636,
+    "end_location": [
+      95.0,
+      40.0
+    ],
+    "key_pass_id": "93e4e352-dac4-4660-ac20-cc1ece95ac2e",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          95.0,
+          40.0
+        ],
+        "player": {
+          "id": 10666,
+          "name": "Dominique Johanna Anna Bloodworth"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          44.0
+        ],
+        "player": {
+          "id": 15621,
+          "name": "Louise Quinn"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          41.0
+        ],
+        "player": {
+          "id": 15615,
+          "name": "Pauline Peyraud Magnin"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

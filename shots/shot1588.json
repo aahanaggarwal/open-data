@@ -1,0 +1,100 @@
+{
+  "id": "0787f806-1b0d-4d6b-892f-f94728cb6376",
+  "index": 3625,
+  "period": 2,
+  "timestamp": "00:50:53.440",
+  "minute": 95,
+  "second": 53,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 182,
+  "possession_team": {
+    "id": 791,
+    "name": "South Korea"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 791,
+    "name": "South Korea"
+  },
+  "player": {
+    "id": 3083,
+    "name": "Heung-Min Son"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    116.0,
+    32.0
+  ],
+  "duration": 0.973,
+  "related_events": [
+    "a16ee173-c403-4ca8-bab6-e044768d3a5d"
+  ],
+  "shot": {
+    "open_goal": true,
+    "statsbomb_xg": 0.780189,
+    "end_location": [
+      120.0,
+      44.0,
+      0.4
+    ],
+    "key_pass_id": "5ea29fac-4201-46c5-9341-1589f7ef80f3",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "freeze_frame": [
+      {
+        "location": [
+          62.0,
+          41.0
+        ],
+        "player": {
+          "id": 5570,
+          "name": "Manuel Neuer"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.0,
+          40.0
+        ],
+        "player": {
+          "id": 6322,
+          "name": "Niklas S\u00fcle"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

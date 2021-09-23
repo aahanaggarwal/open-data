@@ -1,0 +1,128 @@
+{
+  "id": "f0858572-05d4-45fb-82a6-58099b078302",
+  "index": 3213,
+  "period": 2,
+  "timestamp": "00:36:33.052",
+  "minute": 81,
+  "second": 33,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 160,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 4913,
+    "name": "Bojan Krk\u00edc P\u00e9rez"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    115.0,
+    32.7
+  ],
+  "duration": 0.1869,
+  "related_events": [
+    "bb8a2fa1-bb70-45c6-8cb7-642e9edd524b",
+    "fdc03e87-5add-4b8f-98f1-23c7c03af73e"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.1288934,
+    "end_location": [
+      115.6,
+      33.7
+    ],
+    "key_pass_id": "0c1ab055-25d1-46ad-96b3-85e232c2d62e",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          109.1,
+          40.8
+        ],
+        "player": {
+          "id": 20519,
+          "name": "Juan Guti\u00e9rrez Moreno"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.2,
+          43.0
+        ],
+        "player": {
+          "id": 26468,
+          "name": "Willian Lanes Lanes de Lima"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.2,
+          34.0
+        ],
+        "player": {
+          "id": 24511,
+          "name": "Branko Ili\u010d"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.1,
+          36.7
+        ],
+        "player": {
+          "id": 19761,
+          "name": "Ricardo Alexandre Martins Soares Pereira"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

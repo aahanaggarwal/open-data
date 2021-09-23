@@ -1,0 +1,133 @@
+{
+  "id": "94a150ca-53bc-4c38-a049-7f9d0e28b26e",
+  "index": 3062,
+  "period": 2,
+  "timestamp": "00:37:17.256",
+  "minute": 82,
+  "second": 17,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 183,
+  "possession_team": {
+    "id": 1206,
+    "name": "Canada Women's"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 1206,
+    "name": "Canada Women's"
+  },
+  "player": {
+    "id": 4992,
+    "name": "Janine Beckie"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    117.1,
+    40.9
+  ],
+  "duration": 0.3834,
+  "under_pressure": true,
+  "related_events": [
+    "90a5b974-bc67-45af-a12b-93809a0e8f22",
+    "d94c1002-9735-4fcb-88c8-49ec095d7407"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "open_goal": true,
+    "statsbomb_xg": 0.2917819,
+    "end_location": [
+      120.0,
+      55.9,
+      0.9
+    ],
+    "key_pass_id": "003020ed-926f-48c7-a9d1-47f51b77d257",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "aerial_won": true,
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          116.3,
+          39.7
+        ],
+        "player": {
+          "id": 25659,
+          "name": "Merel van Dongen"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          38.8
+        ],
+        "player": {
+          "id": 10646,
+          "name": "Sari van Veenendaal"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.8,
+          35.9
+        ],
+        "player": {
+          "id": 10666,
+          "name": "Dominique Johanna Anna Bloodworth"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.9,
+          35.6
+        ],
+        "player": {
+          "id": 26091,
+          "name": "Jordyn Pamela Huitema"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "id": "b6a573f1-cc44-4fe4-9f50-f8496fca40c4",
+  "index": 786,
+  "period": 1,
+  "timestamp": "00:20:13.407",
+  "minute": 20,
+  "second": 13,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 53,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15754,
+    "name": "Fredrik Ljungberg"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    110.6,
+    51.2
+  ],
+  "duration": 0.860296,
+  "related_events": [
+    "fe9f512f-ed91-402e-875c-b783f749442a"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.085569486,
+    "end_location": [
+      120.0,
+      37.2,
+      5.3
+    ],
+    "key_pass_id": "9a40e768-3d0c-47c2-ac20-a0cae9fcb409",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.4,
+          45.1
+        ],
+        "player": {
+          "id": 40412,
+          "name": "Sean Davis"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.9,
+          40.4
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.8,
+          37.5
+        ],
+        "player": {
+          "id": 40408,
+          "name": "Moritz Volz"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.3,
+          43.7
+        ],
+        "player": {
+          "id": 40413,
+          "name": "Zat Knight"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.8,
+          50.5
+        ],
+        "player": {
+          "id": 38566,
+          "name": "Lee Clark"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.1,
+          50.2
+        ],
+        "player": {
+          "id": 40414,
+          "name": "J\u00e9r\u00f4me Bonnissel"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          42.7
+        ],
+        "player": {
+          "id": 15036,
+          "name": "Edwin van der Sar"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.8,
+          48.7
+        ],
+        "player": {
+          "id": 40415,
+          "name": "Andy Melville"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

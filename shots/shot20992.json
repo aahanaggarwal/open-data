@@ -1,0 +1,161 @@
+{
+  "id": "9c605adc-ca4c-4ccb-8381-154dd54fa370",
+  "index": 3243,
+  "period": 2,
+  "timestamp": "00:36:39.299",
+  "minute": 81,
+  "second": 39,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 186,
+  "possession_team": {
+    "id": 169,
+    "name": "Bayern Munich"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 169,
+    "name": "Bayern Munich"
+  },
+  "player": {
+    "id": 5562,
+    "name": "Thomas M\u00fcller"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    111.0,
+    43.0
+  ],
+  "duration": 0.672986,
+  "under_pressure": true,
+  "related_events": [
+    "bc1fc756-c7b1-4bf4-9ce6-77348513c6d9",
+    "c6d841c6-0396-4b8b-80f7-5adb2b002ab9"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.058118258,
+    "end_location": [
+      118.0,
+      42.2,
+      1.6
+    ],
+    "key_pass_id": "1adeb3f4-8419-4a9d-9d94-3f05f501653c",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "aerial_won": true,
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.0,
+          40.0
+        ],
+        "player": {
+          "id": 5565,
+          "name": "Mario G\u00f3mez Garc\u00eda"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.0,
+          40.0
+        ],
+        "player": {
+          "id": 3461,
+          "name": "Petr \u010cech"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          43.0
+        ],
+        "player": {
+          "id": 12529,
+          "name": "Ashley Cole"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          40.0
+        ],
+        "player": {
+          "id": 3956,
+          "name": "David Luiz Moreira Marinho"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          33.0
+        ],
+        "player": {
+          "id": 3645,
+          "name": "Gary Cahill"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          47.0
+        ],
+        "player": {
+          "id": 20290,
+          "name": "Florent Malouda"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

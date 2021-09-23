@@ -1,0 +1,114 @@
+{
+  "id": "45654cc1-5466-4c48-a7c2-d3de1f356fd6",
+  "index": 2597,
+  "period": 2,
+  "timestamp": "00:15:59.452",
+  "minute": 60,
+  "second": 59,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 116,
+  "possession_team": {
+    "id": 395,
+    "name": "Real Zaragoza"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 395,
+    "name": "Real Zaragoza"
+  },
+  "player": {
+    "id": 26083,
+    "name": "Florent Sinama-Pongolle"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    106.5,
+    32.0
+  ],
+  "duration": 0.1737,
+  "related_events": [
+    "1e146e05-1e71-432c-a69b-36d0f05a310c"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.2281354,
+    "end_location": [
+      108.0,
+      33.3,
+      0.0
+    ],
+    "key_pass_id": "487db139-3adb-4f56-be21-443784206fa5",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          104.0,
+          33.2
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.4,
+          40.1
+        ],
+        "player": {
+          "id": 25919,
+          "name": "Gabriel Alejandro Milito"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.9,
+          33.6
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "id": "1f8b9f8d-11f9-49af-a83d-1de5c6d066e1",
+  "index": 255,
+  "period": 1,
+  "timestamp": "00:07:17.229",
+  "minute": 7,
+  "second": 17,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 18,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    112.3,
+    29.4
+  ],
+  "duration": 0.884317,
+  "related_events": [
+    "af4c8e7b-d912-4541-b16f-e2f57598968f"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.21526471,
+    "end_location": [
+      120.0,
+      43.5,
+      0.2
+    ],
+    "key_pass_id": "53fd4cce-5e61-4d33-8925-2c926d431bbe",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          109.6,
+          30.7
+        ],
+        "player": {
+          "id": 40263,
+          "name": "Zoumana Camara"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.9,
+          40.6
+        ],
+        "player": {
+          "id": 40265,
+          "name": "Jos\u00e9 Vitor Roque J\u00fanior"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.5,
+          50.2
+        ],
+        "player": {
+          "id": 40268,
+          "name": "Ren\u00e9 Salomon Olemb\u00e9-Olemb\u00e9"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.1,
+          32.8
+        ],
+        "player": {
+          "id": 40132,
+          "name": "Paul Robinson"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.1,
+          51.3
+        ],
+        "player": {
+          "id": 15754,
+          "name": "Fredrik Ljungberg"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

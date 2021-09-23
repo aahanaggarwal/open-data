@@ -1,0 +1,175 @@
+{
+  "id": "041d3788-5473-454f-acbc-7c6ef5b54afb",
+  "index": 2536,
+  "period": 2,
+  "timestamp": "00:16:36.600",
+  "minute": 61,
+  "second": 36,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 126,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19298,
+    "name": "Samuel Eto\"o Fils"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    114.5,
+    38.7
+  ],
+  "duration": 1.102501,
+  "related_events": [
+    "5a532ac9-b4ec-4e83-900c-21fa4e904db8"
+  ],
+  "shot": {
+    "open_goal": true,
+    "statsbomb_xg": 0.9077121,
+    "end_location": [
+      120.0,
+      39.6,
+      0.6
+    ],
+    "key_pass_id": "75b9dcb4-5a9c-4428-95ee-b641c50dc737",
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          94.5,
+          19.2
+        ],
+        "player": {
+          "id": 25885,
+          "name": "Juan Manuel G\u00f3mez S\u00e1nchez"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.3,
+          47.7
+        ],
+        "player": {
+          "id": 26177,
+          "name": "Jos\u00e9 Manuel Serrano Arenas"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.9,
+          51.6
+        ],
+        "player": {
+          "id": 25956,
+          "name": "David Castedo Escudero"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.3,
+          41.2
+        ],
+        "player": {
+          "id": 25913,
+          "name": "\u00c1lvaro Luiz Maior de Aquino"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.7,
+          36.2
+        ],
+        "player": {
+          "id": 25894,
+          "name": "I\u00f1aki Descarga Retegi"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.5,
+          47.7
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.2,
+          46.4
+        ],
+        "player": {
+          "id": 26180,
+          "name": "Vladan Kujovi\u0107"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

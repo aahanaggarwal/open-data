@@ -1,0 +1,145 @@
+{
+  "id": "5c577527-744e-4f67-9d7b-8aa4bbb90184",
+  "index": 154,
+  "period": 1,
+  "timestamp": "00:03:10.006",
+  "minute": 3,
+  "second": 10,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 8,
+  "possession_team": {
+    "id": 901,
+    "name": "Real Valladolid"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 901,
+    "name": "Real Valladolid"
+  },
+  "player": {
+    "id": 25955,
+    "name": "Jonathan Sesma Gonz\u00e1lez"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    109.4,
+    26.4
+  ],
+  "duration": 0.1733,
+  "under_pressure": true,
+  "related_events": [
+    "8b0ac908-1036-45a5-a74e-be2ddbedb643",
+    "f659017c-2e76-4117-998e-3f8a03fa8251"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.14594243,
+    "end_location": [
+      111.8,
+      28.9,
+      0.2
+    ],
+    "key_pass_id": "c8274b89-c391-46f4-ba0d-6b30410d419e",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          107.4,
+          25.7
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.2,
+          32.0
+        ],
+        "player": {
+          "id": 25919,
+          "name": "Gabriel Alejandro Milito"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.8,
+          37.1
+        ],
+        "player": {
+          "id": 25854,
+          "name": "Sylvio Mendes Campos Junior"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.1,
+          36.5
+        ],
+        "player": {
+          "id": 26189,
+          "name": "Sisinio Gonz\u00e1lez Mart\u00ednez"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.1,
+          29.7
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

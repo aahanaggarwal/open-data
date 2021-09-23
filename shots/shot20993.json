@@ -1,0 +1,174 @@
+{
+  "id": "63938240-cec1-4109-a1a3-f043c662298b",
+  "index": 3264,
+  "period": 2,
+  "timestamp": "00:37:11.508",
+  "minute": 82,
+  "second": 11,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 188,
+  "possession_team": {
+    "id": 169,
+    "name": "Bayern Munich"
+  },
+  "play_pattern": {
+    "id": 8,
+    "name": "From Keeper"
+  },
+  "team": {
+    "id": 169,
+    "name": "Bayern Munich"
+  },
+  "player": {
+    "id": 5562,
+    "name": "Thomas M\u00fcller"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    117.0,
+    49.0
+  ],
+  "duration": 0.538089,
+  "related_events": [
+    "1799deeb-647f-4ed7-b385-7647df83ce00"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.21297921,
+    "end_location": [
+      120.0,
+      43.6,
+      2.4
+    ],
+    "key_pass_id": "320cc0b5-0e08-4a09-a887-f919e584c80a",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          111.0,
+          38.0
+        ],
+        "player": {
+          "id": 20330,
+          "name": "Frank Lampard"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          37.0
+        ],
+        "player": {
+          "id": 3645,
+          "name": "Gary Cahill"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.0,
+          50.0
+        ],
+        "player": {
+          "id": 20290,
+          "name": "Florent Malouda"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          44.0
+        ],
+        "player": {
+          "id": 3956,
+          "name": "David Luiz Moreira Marinho"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.0,
+          47.0
+        ],
+        "player": {
+          "id": 12529,
+          "name": "Ashley Cole"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.0,
+          43.0
+        ],
+        "player": {
+          "id": 3461,
+          "name": "Petr \u010cech"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.0,
+          45.0
+        ],
+        "player": {
+          "id": 5565,
+          "name": "Mario G\u00f3mez Garc\u00eda"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

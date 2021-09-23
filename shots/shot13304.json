@@ -1,0 +1,146 @@
+{
+  "id": "3134bc04-385f-4704-850e-ff648c20cc2a",
+  "index": 392,
+  "period": 1,
+  "timestamp": "00:12:36.251",
+  "minute": 12,
+  "second": 36,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 32,
+  "possession_team": {
+    "id": 215,
+    "name": "Athletic Bilbao"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 215,
+    "name": "Athletic Bilbao"
+  },
+  "player": {
+    "id": 26086,
+    "name": "Pablo Orbaiz Lesaka"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    106.9,
+    31.5
+  ],
+  "duration": 0.9312,
+  "under_pressure": true,
+  "related_events": [
+    "ede54fd6-5ca1-4bd9-9f93-11b45401577b",
+    "efe39fd7-3890-4254-aab8-acd4c6fb53bd"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.024131382,
+    "end_location": [
+      120.0,
+      34.3,
+      0.5
+    ],
+    "key_pass_id": "26eae221-fa9a-4e99-88b0-62a11162413b",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "aerial_won": true,
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.1,
+          38.6
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.2,
+          39.7
+        ],
+        "player": {
+          "id": 5558,
+          "name": "Rafael M\u00e1rquez \u00c1lvarez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.5,
+          31.6
+        ],
+        "player": {
+          "id": 19296,
+          "name": "Mark van Bommel"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.3,
+          36.4
+        ],
+        "player": {
+          "id": 25873,
+          "name": "Oleguer Presas Renom"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.7,
+          45.5
+        ],
+        "player": {
+          "id": 26035,
+          "name": "Francisco Javier Yeste Navarro"
+        },
+        "position": {
+          "id": 20,
+          "name": "Left Attacking Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

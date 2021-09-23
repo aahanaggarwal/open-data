@@ -1,0 +1,234 @@
+{
+  "id": "71a3f700-7d0e-4bb5-95c2-4eea884b1707",
+  "index": 377,
+  "period": 1,
+  "timestamp": "00:06:24.364",
+  "minute": 6,
+  "second": 24,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 22,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5216,
+    "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+  },
+  "position": {
+    "id": 8,
+    "name": "Left Wing Back"
+  },
+  "location": [
+    93.6,
+    34.4
+  ],
+  "duration": 0.094236,
+  "under_pressure": true,
+  "related_events": [
+    "5b5b833b-2f75-4bec-92da-f6bb84ed3b2d",
+    "7a623ee8-012e-4bcc-b5e7-64e3e75e8e08",
+    "e0a0e1d0-dda3-4555-a99d-f651bf23f32a"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.053383652,
+    "end_location": [
+      95.7,
+      35.0
+    ],
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          85.6,
+          41.9
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.2,
+          29.7
+        ],
+        "player": {
+          "id": 3478,
+          "name": "Francesc F\u00e0bregas i Soler"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.5,
+          15.6
+        ],
+        "player": {
+          "id": 3958,
+          "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          100.7,
+          28.1
+        ],
+        "player": {
+          "id": 6360,
+          "name": "Cristian Eduardo Zapata Valencia"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.2,
+          33.9
+        ],
+        "player": {
+          "id": 25931,
+          "name": "Gonzalo Javier Rodr\u00edguez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.1,
+          35.4
+        ],
+        "player": {
+          "id": 7034,
+          "name": "Mateo Pablo Musacchio"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.5,
+          33.7
+        ],
+        "player": {
+          "id": 20127,
+          "name": "Carlos Marchena L\u00f3pez"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.2,
+          38.3
+        ],
+        "player": {
+          "id": 22819,
+          "name": "Bruno Soriano Llido"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.4,
+          53.7
+        ],
+        "player": {
+          "id": 26721,
+          "name": "Joan Oriol i Gr\u00e0cia"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.8,
+          71.1
+        ],
+        "player": {
+          "id": 3385,
+          "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          113.7,
+          39.3
+        ],
+        "player": {
+          "id": 6768,
+          "name": "Diego L\u00f3pez Rodr\u00edguez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "id": "f10acc2e-f3ba-4281-ac89-8045b15a7719",
+  "index": 344,
+  "period": 1,
+  "timestamp": "00:08:52.321",
+  "minute": 8,
+  "second": 52,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 27,
+  "possession_team": {
+    "id": 552,
+    "name": "C\u00e1diz"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 552,
+    "name": "C\u00e1diz"
+  },
+  "player": {
+    "id": 25955,
+    "name": "Jonathan Sesma Gonz\u00e1lez"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    114.1,
+    42.2
+  ],
+  "duration": 0.348044,
+  "related_events": [
+    "e1624544-7f04-4d80-be2d-8bb20c09e2a4"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.4365348,
+    "end_location": [
+      120.0,
+      48.1,
+      2.7
+    ],
+    "key_pass_id": "b4bfb05d-f2e0-43d2-a844-49a96cec802f",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.1,
+          44.4
+        ],
+        "player": {
+          "id": 5558,
+          "name": "Rafael M\u00e1rquez \u00c1lvarez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.1,
+          41.6
+        ],
+        "player": {
+          "id": 25873,
+          "name": "Oleguer Presas Renom"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.2,
+          52.6
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.2,
+          56.7
+        ],
+        "player": {
+          "id": 17797,
+          "name": "Giovanni van Bronckhorst"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.2,
+          45.4
+        ],
+        "player": {
+          "id": 25964,
+          "name": "Mat\u00edas Nicol\u00e1s Pavoni"
+        },
+        "position": {
+          "id": 19,
+          "name": "Center Attacking Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.9,
+          41.8
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

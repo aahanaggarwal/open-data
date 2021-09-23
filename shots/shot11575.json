@@ -1,0 +1,159 @@
+{
+  "id": "5d5f097e-0348-40c5-8e20-c408d54ca566",
+  "index": 3253,
+  "period": 2,
+  "timestamp": "00:30:56.471",
+  "minute": 75,
+  "second": 56,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 133,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    106.4,
+    33.5
+  ],
+  "duration": 0.5118,
+  "related_events": [
+    "6b7c02c5-6d32-4a0f-820d-532a66bcc64a"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.22571656,
+    "end_location": [
+      120.0,
+      39.2,
+      3.4
+    ],
+    "key_pass_id": "db9975d8-d274-431f-ba49-eb3505bfafcd",
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          93.8,
+          40.9
+        ],
+        "player": {
+          "id": 24614,
+          "name": "Rafael L\u00f3pez G\u00f3mez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.9,
+          45.0
+        ],
+        "player": {
+          "id": 6745,
+          "name": "Mehdi Lacen"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.2,
+          44.5
+        ],
+        "player": {
+          "id": 3385,
+          "name": "Alexis Alejandro S\u00e1nchez S\u00e1nchez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.3,
+          38.5
+        ],
+        "player": {
+          "id": 25881,
+          "name": "Juan Antonio Rodr\u00edguez Villamuela"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.1,
+          32.5
+        ],
+        "player": {
+          "id": 26195,
+          "name": "Juan Valera Esp\u00edn"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.3,
+          34.2
+        ],
+        "player": {
+          "id": 26849,
+          "name": "J\u00falio C\u00e9sar Jacobi"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

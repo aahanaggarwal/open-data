@@ -1,0 +1,296 @@
+{
+  "id": "bb88cd6e-6068-45a8-8af7-0cdb479c8161",
+  "index": 3306,
+  "period": 2,
+  "timestamp": "00:30:08.718",
+  "minute": 75,
+  "second": 8,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 160,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 2,
+    "name": "From Corner"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5213,
+    "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+  },
+  "position": {
+    "id": 4,
+    "name": "Center Back"
+  },
+  "location": [
+    111.5,
+    41.9
+  ],
+  "duration": 1.171786,
+  "under_pressure": true,
+  "related_events": [
+    "1b8e9f50-fc8e-41a8-a219-567f1d2ff5e9",
+    "a02c5f85-aa18-4e98-a73e-2e97efb58d1b"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.09033738,
+    "end_location": [
+      118.1,
+      37.7,
+      1.0
+    ],
+    "key_pass_id": "e8e78e18-c408-40b1-bf2b-6b38c393860f",
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "aerial_won": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          112.4,
+          41.9
+        ],
+        "player": {
+          "id": 21225,
+          "name": "Javier S\u00e1nchez de Felipe"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.4,
+          46.4
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          112.0,
+          38.4
+        ],
+        "player": {
+          "id": 17304,
+          "name": "H\u00e9ctor Junior Firpo Adames"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.7,
+          45.2
+        ],
+        "player": {
+          "id": 8206,
+          "name": "Arturo Erasmo Vidal Pardo"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.6,
+          40.6
+        ],
+        "player": {
+          "id": 11302,
+          "name": "Jordi Masip L\u00f3pez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.2,
+          33.0
+        ],
+        "player": {
+          "id": 32480,
+          "name": "Ronald Federico Ara\u00fajo da Silva"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.2,
+          49.9
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.0,
+          43.3
+        ],
+        "player": {
+          "id": 11296,
+          "name": "\u00d3scar Plano Pedre\u00f1o"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.6,
+          39.3
+        ],
+        "player": {
+          "id": 11297,
+          "name": "Javier Moyano Lujano"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          39.1
+        ],
+        "player": {
+          "id": 6760,
+          "name": "Enes \u00dcnal"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.6,
+          33.3
+        ],
+        "player": {
+          "id": 11304,
+          "name": "Francisco Jos\u00e9 Olivas Alba"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.8,
+          35.9
+        ],
+        "player": {
+          "id": 40881,
+          "name": "Enrique P\u00e9rez Mu\u00f1oz"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.4,
+          45.4
+        ],
+        "player": {
+          "id": 24141,
+          "name": "Federico San Emeterio D\u00edaz"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.4,
+          44.4
+        ],
+        "player": {
+          "id": 3508,
+          "name": "Sandro Ram\u00edrez Castillo"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.5,
+          49.7
+        ],
+        "player": {
+          "id": 11298,
+          "name": "Jos\u00e9 Ignacio Mart\u00ednez Garc\u00eda"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

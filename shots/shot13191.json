@@ -1,0 +1,188 @@
+{
+  "id": "70aeca28-0498-43f8-b7a1-f07676dc016a",
+  "index": 3267,
+  "period": 2,
+  "timestamp": "00:33:45.559",
+  "minute": 78,
+  "second": 45,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 165,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3478,
+    "name": "Francesc F\u00e0bregas i Soler"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    109.2,
+    37.7
+  ],
+  "duration": 2.08139,
+  "related_events": [
+    "247207f4-d26d-47d6-bfb4-058b3a688887"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.11519707,
+    "end_location": [
+      120.0,
+      43.7,
+      1.3
+    ],
+    "key_pass_id": "9093dd53-3b90-43bc-9da6-8ed2dfa50e39",
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          106.3,
+          23.3
+        ],
+        "player": {
+          "id": 6658,
+          "name": "Cristian Tello Herrera"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          107.8,
+          48.4
+        ],
+        "player": {
+          "id": 5216,
+          "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.3,
+          57.1
+        ],
+        "player": {
+          "id": 25892,
+          "name": "Ignacio P\u00e9rez Santamar\u00eda"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.1,
+          37.3
+        ],
+        "player": {
+          "id": 24162,
+          "name": "Xavier Torres Buigues"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.4,
+          53.4
+        ],
+        "player": {
+          "id": 26794,
+          "name": "Javier Magro Matilla"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.6,
+          36.7
+        ],
+        "player": {
+          "id": 27203,
+          "name": "Markus Steinh\u00f6fer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          38.6
+        ],
+        "player": {
+          "id": 23985,
+          "name": "Jos\u00e9 Antonio Caro Mart\u00ednez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.8,
+          39.6
+        ],
+        "player": {
+          "id": 27202,
+          "name": "Guillermo Sara"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

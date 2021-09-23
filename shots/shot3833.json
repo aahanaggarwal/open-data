@@ -1,0 +1,159 @@
+{
+  "id": "5a453269-13dd-4d15-87a1-2d2067139929",
+  "index": 4304,
+  "period": 2,
+  "timestamp": "00:48:06.694",
+  "minute": 93,
+  "second": 6,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 206,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 6658,
+    "name": "Cristian Tello Herrera"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    103.0,
+    48.8
+  ],
+  "duration": 0.633641,
+  "related_events": [
+    "6d19ec99-cdf8-4b80-8e4a-14ea1f6289a9"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.31896684,
+    "end_location": [
+      120.0,
+      43.1,
+      0.2
+    ],
+    "key_pass_id": "d0681eba-314f-45d4-8aee-156bf8ee5512",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.2,
+          45.2
+        ],
+        "player": {
+          "id": 24264,
+          "name": "Daniel Hern\u00e1ndez Santos"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.9,
+          52.3
+        ],
+        "player": {
+          "id": 26695,
+          "name": "Marc Valiente Hern\u00e1ndez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          84.8,
+          54.9
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.0,
+          45.7
+        ],
+        "player": {
+          "id": 26693,
+          "name": "Javier Baraja Vegas"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.5,
+          44.6
+        ],
+        "player": {
+          "id": 26692,
+          "name": "Henrique Sereno Fonseca"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.4,
+          40.8
+        ],
+        "player": {
+          "id": 5588,
+          "name": "Antonio Rukavina"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

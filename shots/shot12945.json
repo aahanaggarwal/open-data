@@ -1,0 +1,220 @@
+{
+  "id": "55e1f8ba-ddec-4ff1-a420-4425f9290284",
+  "index": 58,
+  "period": 1,
+  "timestamp": "00:00:45.178",
+  "minute": 0,
+  "second": 45,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 5,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5216,
+    "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+  },
+  "position": {
+    "id": 13,
+    "name": "Right Center Midfield"
+  },
+  "location": [
+    115.3,
+    40.0
+  ],
+  "duration": 0.028152,
+  "related_events": [
+    "f900f9f7-89a6-44d9-8218-81e71252161c"
+  ],
+  "shot": {
+    "open_goal": true,
+    "statsbomb_xg": 0.7628899,
+    "end_location": [
+      120.0,
+      40.5,
+      0.1
+    ],
+    "key_pass_id": "5042e836-2892-42f5-8336-2f1690c82fb6",
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          120.0,
+          25.9
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.7,
+          37.5
+        ],
+        "player": {
+          "id": 10763,
+          "name": "Asier Riesgo Unamuno"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.7,
+          46.9
+        ],
+        "player": {
+          "id": 26612,
+          "name": "Jos\u00e9 Manuel Casado Bizcocho"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.2,
+          40.8
+        ],
+        "player": {
+          "id": 6751,
+          "name": "Javier Fuego Mart\u00ednez"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.0,
+          19.0
+        ],
+        "player": {
+          "id": 26643,
+          "name": "Sebasti\u00e1n Ricardo Nayar"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.9,
+          34.5
+        ],
+        "player": {
+          "id": 26642,
+          "name": "Mogammat Nasief Morris"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.4,
+          31.5
+        ],
+        "player": {
+          "id": 26644,
+          "name": "Andr\u00e9s Lamas Bervejillo"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.9,
+          24.7
+        ],
+        "player": {
+          "id": 16604,
+          "name": "Alain Nef"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.2,
+          31.8
+        ],
+        "player": {
+          "id": 26080,
+          "name": "Rafael Barber Rodr\u00edguez"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.8,
+          31.0
+        ],
+        "player": {
+          "id": 4913,
+          "name": "Bojan Krk\u00edc P\u00e9rez"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

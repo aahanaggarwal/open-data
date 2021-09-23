@@ -1,0 +1,144 @@
+{
+  "id": "42096b9b-eed0-4ba4-9c12-fc58e37e8bf6",
+  "index": 1716,
+  "period": 1,
+  "timestamp": "00:41:45.215",
+  "minute": 41,
+  "second": 45,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 83,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 25879,
+    "name": "Ronaldo de Assis Moreira"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    109.0,
+    47.5
+  ],
+  "duration": 0.8386,
+  "related_events": [
+    "69c010f8-ea2e-4e98-9e51-bd9f7bcf5088"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.3910974,
+    "end_location": [
+      119.9,
+      42.8,
+      1.9
+    ],
+    "key_pass_id": "4479db99-f998-45cc-a64f-7552dcee85e6",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          107.1,
+          37.8
+        ],
+        "player": {
+          "id": 6787,
+          "name": "Pedro L\u00f3pez Mu\u00f1oz"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.1,
+          25.8
+        ],
+        "player": {
+          "id": 4913,
+          "name": "Bojan Krk\u00edc P\u00e9rez"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          114.5,
+          44.7
+        ],
+        "player": {
+          "id": 26187,
+          "name": "Alberto L\u00f3pez Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.5,
+          46.9
+        ],
+        "player": {
+          "id": 24614,
+          "name": "Rafael L\u00f3pez G\u00f3mez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.9,
+          48.6
+        ],
+        "player": {
+          "id": 26116,
+          "name": "Jos\u00e9 Antonio Garc\u00eda Calvo"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

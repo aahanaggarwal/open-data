@@ -1,0 +1,99 @@
+{
+  "id": "ceaf116c-7583-4b3e-a576-62090bf9210f",
+  "index": 2879,
+  "period": 2,
+  "timestamp": "00:31:58.204",
+  "minute": 76,
+  "second": 58,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 181,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3672,
+    "name": "Zlatan Ibrahimovi\u0107"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    112.0,
+    44.7
+  ],
+  "duration": 0.6611,
+  "related_events": [
+    "da28ebca-cf88-493e-b45f-1698f7c25ac9"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.66432893,
+    "end_location": [
+      120.0,
+      44.5,
+      0.7
+    ],
+    "key_pass_id": "5e88b120-c4ce-43d0-8dd5-252d68075b7d",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          115.8,
+          40.8
+        ],
+        "player": {
+          "id": 6571,
+          "name": "Roberto Jim\u00e9nez Gago"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.7,
+          35.5
+        ],
+        "player": {
+          "id": 25922,
+          "name": "Leonardo Daniel Ponzio"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

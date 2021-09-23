@@ -1,0 +1,189 @@
+{
+  "id": "992f2b09-759a-4795-81ec-22c31d2e940a",
+  "index": 2485,
+  "period": 2,
+  "timestamp": "00:10:47.917",
+  "minute": 55,
+  "second": 47,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 105,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3958,
+    "name": "Pedro Eliezer Rodr\u00edguez Ledesma"
+  },
+  "position": {
+    "id": 12,
+    "name": "Right Midfield"
+  },
+  "location": [
+    109.3,
+    29.9
+  ],
+  "duration": 0.553478,
+  "related_events": [
+    "bd14db49-583c-47c5-92f5-856c8676df7c"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.32243946,
+    "end_location": [
+      120.0,
+      34.2,
+      0.8
+    ],
+    "key_pass_id": "407a1a36-a58d-4968-8894-98c65bec2f1d",
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          107.0,
+          29.2
+        ],
+        "player": {
+          "id": 20127,
+          "name": "Carlos Marchena L\u00f3pez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.3,
+          35.2
+        ],
+        "player": {
+          "id": 26029,
+          "name": "Daniel Aranzubia Aguado"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.8,
+          27.3
+        ],
+        "player": {
+          "id": 6192,
+          "name": "Abel Enrique Aguilar Tapia"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.9,
+          31.6
+        ],
+        "player": {
+          "id": 26222,
+          "name": "Jos\u00e9 Eduardo Rosa Vale e Castro"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.6,
+          40.6
+        ],
+        "player": {
+          "id": 26147,
+          "name": "Ayoze D\u00edaz D\u00edaz"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          98.7,
+          31.2
+        ],
+        "player": {
+          "id": 3478,
+          "name": "Francesc F\u00e0bregas i Soler"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          99.9,
+          21.8
+        ],
+        "player": {
+          "id": 23800,
+          "name": "Laureano Sanabria Ruiz"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.3,
+          27.3
+        ],
+        "player": {
+          "id": 23806,
+          "name": "Alejandro Berganti\u00f1os Garc\u00eda"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

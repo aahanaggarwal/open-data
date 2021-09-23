@@ -1,0 +1,173 @@
+{
+  "id": "d10092d9-c29d-48ec-82d2-8fb7607bfe19",
+  "index": 541,
+  "period": 1,
+  "timestamp": "00:11:54.544",
+  "minute": 11,
+  "second": 54,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 26,
+  "possession_team": {
+    "id": 858,
+    "name": "Sweden Women's"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 858,
+    "name": "Sweden Women's"
+  },
+  "player": {
+    "id": 13881,
+    "name": "Eva Sofia Jakobsson"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    109.8,
+    28.0
+  ],
+  "duration": 0.3256,
+  "related_events": [
+    "f3224e92-23b3-4be7-8b85-ba35829b340b"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.1282859,
+    "end_location": [
+      116.2,
+      34.8,
+      0.2
+    ],
+    "key_pass_id": "ca7fd5a9-af4a-4825-bfe1-bcb38d170a28",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          116.9,
+          34.4
+        ],
+        "player": {
+          "id": 10257,
+          "name": "Almuth Schult"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.8,
+          48.6
+        ],
+        "player": {
+          "id": 10376,
+          "name": "Carolin Simon"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          88.9,
+          56.5
+        ],
+        "player": {
+          "id": 10258,
+          "name": "Linda Dallmann"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.2,
+          28.9
+        ],
+        "player": {
+          "id": 10261,
+          "name": "Sara Doorsoun-Khajeh"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.9,
+          34.7
+        ],
+        "player": {
+          "id": 25491,
+          "name": "Marina Hegering"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.6,
+          27.4
+        ],
+        "player": {
+          "id": 25492,
+          "name": "Giulia Gwinn"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.2,
+          35.3
+        ],
+        "player": {
+          "id": 10229,
+          "name": "Stina Blackstenius"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "id": "1dd2f280-7d87-44cb-ad62-d29667935e82",
+  "index": 2818,
+  "period": 2,
+  "timestamp": "00:25:13.786",
+  "minute": 70,
+  "second": 13,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 140,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19757,
+    "name": "Anderson Lu\u00eds de Souza"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    107.3,
+    59.3
+  ],
+  "duration": 0.6398,
+  "under_pressure": true,
+  "related_events": [
+    "9ec418fc-dd6c-4479-94f3-ae2d32c13654",
+    "a84dfece-7600-43ec-b5ba-3c5180f3a5ee"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.028642138,
+    "end_location": [
+      116.0,
+      48.3,
+      1.9
+    ],
+    "key_pass_id": "bdb6cd1a-323d-4026-b522-a1f3bea5065c",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          106.9,
+          58.3
+        ],
+        "player": {
+          "id": 26040,
+          "name": "An\u00edbal Samuel Matell\u00e1n"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          97.0,
+          57.3
+        ],
+        "player": {
+          "id": 26038,
+          "name": "Tobias Grahn"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.2,
+          45.8
+        ],
+        "player": {
+          "id": 26044,
+          "name": "C\u00e9sar Gonz\u00e1lez Navas"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.8,
+          46.5
+        ],
+        "player": {
+          "id": 26041,
+          "name": "Rub\u00e9n P\u00e9rez Chueca"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.5,
+          31.6
+        ],
+        "player": {
+          "id": 26042,
+          "name": "Jos\u00e9 Mar\u00eda Calvo"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

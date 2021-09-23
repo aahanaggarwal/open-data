@@ -1,0 +1,206 @@
+{
+  "id": "ef5fd943-71a4-41f6-9862-db30b4edda12",
+  "index": 2469,
+  "period": 2,
+  "timestamp": "00:24:52.715",
+  "minute": 69,
+  "second": 52,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 159,
+  "possession_team": {
+    "id": 218,
+    "name": "Real Betis"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 218,
+    "name": "Real Betis"
+  },
+  "player": {
+    "id": 26456,
+    "name": "Lu\u00eds Eduardo Schmidt"
+  },
+  "position": {
+    "id": 19,
+    "name": "Center Attacking Midfield"
+  },
+  "location": [
+    105.1,
+    38.5
+  ],
+  "duration": 1.0813,
+  "under_pressure": true,
+  "related_events": [
+    "1ed8c82f-3df8-4975-8ea2-255f276f3ecf",
+    "bd8f6de2-af83-4efc-9bba-7d4e054c90f7"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.019535074,
+    "end_location": [
+      119.4,
+      36.7,
+      1.1
+    ],
+    "key_pass_id": "99382ff4-1e78-4c28-88ee-9601ede0631a",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "aerial_won": true,
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          105.5,
+          38.5
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.5,
+          40.4
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.7,
+          40.0
+        ],
+        "player": {
+          "id": 25910,
+          "name": "Jos\u00e9 Edm\u00edlson Gomes de Moraes"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.3,
+          40.5
+        ],
+        "player": {
+          "id": 6651,
+          "name": "Joaqu\u00edn S\u00e1nchez Rodr\u00edguez"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          105.9,
+          45.1
+        ],
+        "player": {
+          "id": 25873,
+          "name": "Oleguer Presas Renom"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.5,
+          46.1
+        ],
+        "player": {
+          "id": 26485,
+          "name": "Daniel Mart\u00edn Alexandre"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          101.9,
+          48.7
+        ],
+        "player": {
+          "id": 4325,
+          "name": "Thiago Motta"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.7,
+          32.1
+        ],
+        "player": {
+          "id": 26450,
+          "name": "Robert de Pinho de Souza"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.5,
+          31.0
+        ],
+        "player": {
+          "id": 25925,
+          "name": "Gabriel Francisco Garc\u00eda de la Torre"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "id": "618cb340-eacc-4b72-86b1-79e2669a2989",
+  "index": 2068,
+  "period": 2,
+  "timestamp": "00:11:07.633",
+  "minute": 56,
+  "second": 7,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 137,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    113.2,
+    50.8
+  ],
+  "duration": 0.0505,
+  "related_events": [
+    "4275e09b-fdd4-4f9e-999c-b677118553b2"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.2063314,
+    "end_location": [
+      120.0,
+      38.1,
+      0.7
+    ],
+    "key_pass_id": "5ac4190f-82b1-4c87-88a6-9a9b7121a5b4",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.6,
+          41.0
+        ],
+        "player": {
+          "id": 26088,
+          "name": "Jes\u00fas Mar\u00eda Lacruz G\u00f3mez"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.8,
+          51.4
+        ],
+        "player": {
+          "id": 26102,
+          "name": "Ferr\u00e1n Corominas Telechea"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.7,
+          45.7
+        ],
+        "player": {
+          "id": 26163,
+          "name": "Marc Torrej\u00f3n Moya"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.8,
+          48.6
+        ],
+        "player": {
+          "id": 26170,
+          "name": "Francisco Javier Chica Torres"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.5,
+          45.1
+        ],
+        "player": {
+          "id": 26103,
+          "name": "Idriss Carlos Kameni"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.2,
+          42.8
+        ],
+        "player": {
+          "id": 11270,
+          "name": "Ei\u00f0ur Sm\u00e1ri Gu\u00f0johnsen"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

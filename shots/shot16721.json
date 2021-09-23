@@ -1,0 +1,113 @@
+{
+  "id": "0ec5df38-0f48-43e6-8618-f37230b45646",
+  "index": 907,
+  "period": 1,
+  "timestamp": "00:18:35.007",
+  "minute": 18,
+  "second": 35,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 46,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 6616,
+    "name": "Munir El Haddadi Mohamed"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    102.9,
+    41.0
+  ],
+  "duration": 0.63384,
+  "related_events": [
+    "4852dfcf-f89e-4bc1-83f0-13d31118ba7e"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.14825587,
+    "end_location": [
+      120.0,
+      33.4,
+      7.8
+    ],
+    "key_pass_id": "681ac1f8-680c-4162-927d-e3cd97bece32",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          114.0,
+          40.0
+        ],
+        "player": {
+          "id": 6576,
+          "name": "Gorka Iraizoz Moreno"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.3,
+          39.2
+        ],
+        "player": {
+          "id": 26087,
+          "name": "Carlos Gurpegi Nausia"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.7,
+          41.0
+        ],
+        "player": {
+          "id": 6649,
+          "name": "\u00d3scar de Marcos Arana"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

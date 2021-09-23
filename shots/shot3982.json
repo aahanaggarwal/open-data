@@ -1,0 +1,158 @@
+{
+  "id": "2b95d0a0-1d7c-43c5-a2b7-9fad8cfb904f",
+  "index": 3165,
+  "period": 2,
+  "timestamp": "00:40:04.002",
+  "minute": 85,
+  "second": 4,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 202,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19298,
+    "name": "Samuel Eto\"o Fils"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    113.3,
+    50.9
+  ],
+  "duration": 1.1372,
+  "related_events": [
+    "9f41c358-2119-468f-b565-e4ee489c381f"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.07137647,
+    "end_location": [
+      118.6,
+      37.8
+    ],
+    "key_pass_id": "2948278c-ef24-4035-a2c0-ccd80fe2a1db",
+    "first_time": true,
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 101,
+      "name": "Wayward"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.4,
+          48.3
+        ],
+        "player": {
+          "id": 26172,
+          "name": "Hip\u00f3lito Fern\u00e1ndez Serrano"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.1,
+          42.7
+        ],
+        "player": {
+          "id": 10763,
+          "name": "Asier Riesgo Unamuno"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.7,
+          41.2
+        ],
+        "player": {
+          "id": 25848,
+          "name": "C\u00e9sar Arzo Amposta"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.5,
+          36.1
+        ],
+        "player": {
+          "id": 15656,
+          "name": "Roberto Luis Gaspar de Deus Severo"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.7,
+          47.6
+        ],
+        "player": {
+          "id": 26169,
+          "name": "Javier Camu\u00f1as Gallego"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.6,
+          38.3
+        ],
+        "player": {
+          "id": 20169,
+          "name": "Seydou K\u00e9ita"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

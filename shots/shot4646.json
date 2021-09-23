@@ -1,0 +1,130 @@
+{
+  "id": "001bbff8-5927-44ba-9a78-1cca93f009b6",
+  "index": 2604,
+  "period": 2,
+  "timestamp": "00:24:56.387",
+  "minute": 69,
+  "second": 56,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 109,
+  "possession_team": {
+    "id": 771,
+    "name": "France"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 771,
+    "name": "France"
+  },
+  "player": {
+    "id": 3604,
+    "name": "Olivier Giroud"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    108.0,
+    27.0
+  ],
+  "duration": 1.133,
+  "under_pressure": true,
+  "related_events": [
+    "0e3ad041-e95f-47b3-9a39-be40c2b6a1b6",
+    "7735c4b5-d887-493d-affd-6f434c18d9f7"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.093324415,
+    "end_location": [
+      119.0,
+      35.4,
+      0.7
+    ],
+    "key_pass_id": "17a6d628-0c5f-4d0a-ae0a-25f54032073d",
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.0,
+          38.0
+        ],
+        "player": {
+          "id": 6312,
+          "name": "Franco Armani"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          29.0
+        ],
+        "player": {
+          "id": 6349,
+          "name": "Federico Juli\u00e1n Fazio"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          37.0
+        ],
+        "player": {
+          "id": 5742,
+          "name": "Gabriel Iv\u00e1n Mercado"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          45.0
+        ],
+        "player": {
+          "id": 3090,
+          "name": "Nicol\u00e1s Hern\u00e1n Otamendi"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

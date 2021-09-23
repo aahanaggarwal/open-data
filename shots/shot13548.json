@@ -1,0 +1,205 @@
+{
+  "id": "19266a73-bac0-4c18-9cd0-70e14f061811",
+  "index": 1383,
+  "period": 1,
+  "timestamp": "00:34:02.266",
+  "minute": 34,
+  "second": 2,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 78,
+  "possession_team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 766,
+    "name": "North Carolina Courage"
+  },
+  "player": {
+    "id": 5055,
+    "name": "Lynn Williams"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    102.0,
+    34.7
+  ],
+  "duration": 0.279304,
+  "under_pressure": true,
+  "related_events": [
+    "23ca2570-c8e8-4483-a5c9-8d513f33f209",
+    "7db110a7-5904-4b25-8eb6-282f910c4e9f",
+    "9f1cf04b-66d9-4c5c-8d28-a807b4edcfe5"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.03771712,
+    "end_location": [
+      107.5,
+      36.5
+    ],
+    "key_pass_id": "ad06c321-7607-4aaa-81fd-5f090218cf09",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          102.6,
+          42.3
+        ],
+        "player": {
+          "id": 5026,
+          "name": "Meggie Dougherty Howard"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.7,
+          50.5
+        ],
+        "player": {
+          "id": 26165,
+          "name": "Amy Harrison"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.7,
+          33.8
+        ],
+        "player": {
+          "id": 5029,
+          "name": "Tori Huster"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.7,
+          39.4
+        ],
+        "player": {
+          "id": 5025,
+          "name": "Aubrey Bledsoe"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.4,
+          37.4
+        ],
+        "player": {
+          "id": 4940,
+          "name": "Andi Sullivan"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.4,
+          36.5
+        ],
+        "player": {
+          "id": 5044,
+          "name": "D\u00e9bora Cristiane de Oliveira"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          110.9,
+          40.2
+        ],
+        "player": {
+          "id": 33350,
+          "name": "Leah Pruitt"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          108.4,
+          35.1
+        ],
+        "player": {
+          "id": 30651,
+          "name": "Paige Nielsen"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          41.2
+        ],
+        "player": {
+          "id": 30650,
+          "name": "Samantha Staab"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

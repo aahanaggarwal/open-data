@@ -1,0 +1,158 @@
+{
+  "id": "418e114e-7351-47bb-a171-3f46e82da9ec",
+  "index": 2318,
+  "period": 2,
+  "timestamp": "00:13:44.302",
+  "minute": 58,
+  "second": 44,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 115,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    113.7,
+    28.6
+  ],
+  "duration": 0.3663,
+  "related_events": [
+    "143b3182-d3b2-48ff-b725-a262dcd16e10"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.15482177,
+    "end_location": [
+      117.9,
+      35.4,
+      0.5
+    ],
+    "key_pass_id": "e63c1818-8a58-40b8-9753-116f1c403df7",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          108.6,
+          39.8
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          111.1,
+          41.9
+        ],
+        "player": {
+          "id": 5216,
+          "name": "Andr\u00e9s Iniesta Luj\u00e1n"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.0,
+          35.8
+        ],
+        "player": {
+          "id": 19761,
+          "name": "Ricardo Alexandre Martins Soares Pereira"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.5,
+          31.0
+        ],
+        "player": {
+          "id": 20519,
+          "name": "Juan Guti\u00e9rrez Moreno"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          30.4
+        ],
+        "player": {
+          "id": 24511,
+          "name": "Branko Ili\u010d"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.9,
+          39.7
+        ],
+        "player": {
+          "id": 26468,
+          "name": "Willian Lanes Lanes de Lima"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

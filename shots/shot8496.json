@@ -1,0 +1,161 @@
+{
+  "id": "63ede3d6-8dba-42f8-81d7-89c89ef395b5",
+  "index": 719,
+  "period": 1,
+  "timestamp": "00:17:30.211",
+  "minute": 17,
+  "second": 30,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 44,
+  "possession_team": {
+    "id": 55,
+    "name": "Fulham"
+  },
+  "play_pattern": {
+    "id": 8,
+    "name": "From Keeper"
+  },
+  "team": {
+    "id": 55,
+    "name": "Fulham"
+  },
+  "player": {
+    "id": 40407,
+    "name": "Steed Malbranque"
+  },
+  "position": {
+    "id": 16,
+    "name": "Left Midfield"
+  },
+  "location": [
+    117.4,
+    30.9
+  ],
+  "duration": 0.120572,
+  "under_pressure": true,
+  "related_events": [
+    "18a52adb-c1ad-4e39-8cfe-f73beaf5b1b4",
+    "624e3737-70ea-4680-8656-4794752bb53d",
+    "bf2fed6e-fa0d-4ddd-9929-46fb4a63fe42"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.056604013,
+    "end_location": [
+      117.9,
+      32.1
+    ],
+    "key_pass_id": "eeb512c4-5964-4084-9e2f-45e7d2b2d6b2",
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.6,
+          39.7
+        ],
+        "player": {
+          "id": 12529,
+          "name": "Ashley Cole"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.5,
+          38.2
+        ],
+        "player": {
+          "id": 15637,
+          "name": "Sulzeer Jeremiah \"Sol\" Campbell"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.7,
+          32.6
+        ],
+        "player": {
+          "id": 40423,
+          "name": "Martin Djetou"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.9,
+          35.9
+        ],
+        "player": {
+          "id": 20015,
+          "name": "Jens Lehmann"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          115.5,
+          31.1
+        ],
+        "player": {
+          "id": 40222,
+          "name": "Laureano Bisan-Etame Mayer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          117.6,
+          32.2
+        ],
+        "player": {
+          "id": 38412,
+          "name": "Kolo Habib Tour\u00e9"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

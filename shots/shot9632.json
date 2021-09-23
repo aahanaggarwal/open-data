@@ -1,0 +1,161 @@
+{
+  "id": "d923ea3b-c318-427d-8775-739f7e10e5d1",
+  "index": 1362,
+  "period": 1,
+  "timestamp": "00:38:42.378",
+  "minute": 38,
+  "second": 42,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 96,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 11270,
+    "name": "Ei\u00f0ur Sm\u00e1ri Gu\u00f0johnsen"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    105.6,
+    28.4
+  ],
+  "duration": 1.077726,
+  "under_pressure": true,
+  "related_events": [
+    "706cdbe0-f8f1-45cc-8a15-22061b12daea",
+    "d0ff1015-eb2d-4664-85b9-9f3e4faf8fd9"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.15293899,
+    "end_location": [
+      120.0,
+      46.5,
+      2.2
+    ],
+    "key_pass_id": "a456f09f-a13c-415f-910d-04d3ff11aea2",
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          95.3,
+          34.0
+        ],
+        "player": {
+          "id": 26124,
+          "name": "Maximiliano Rub\u00e9n Rodr\u00edguez"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.3,
+          30.7
+        ],
+        "player": {
+          "id": 26117,
+          "name": "Pablo Ib\u00e1\u00f1ez T\u00e9bar"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          114.6,
+          37.3
+        ],
+        "player": {
+          "id": 26119,
+          "name": "Leonardo Neoren Franco"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          91.5,
+          24.0
+        ],
+        "player": {
+          "id": 19728,
+          "name": "Johnny Heitinga"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          88.9,
+          15.8
+        ],
+        "player": {
+          "id": 15516,
+          "name": "Thierry Henry"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          96.1,
+          46.7
+        ],
+        "player": {
+          "id": 19731,
+          "name": "Tom\u00e1\u0161 Ujfalu\u0161i"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

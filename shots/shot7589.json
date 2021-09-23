@@ -1,0 +1,129 @@
+{
+  "id": "7ac1a40a-3eeb-4dcb-ae0b-d82d6d76c6b5",
+  "index": 2478,
+  "period": 2,
+  "timestamp": "00:12:05.750",
+  "minute": 57,
+  "second": 5,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 112,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 12737,
+    "name": "David Villa S\u00e1nchez"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    102.3,
+    27.7
+  ],
+  "duration": 1.6213,
+  "related_events": [
+    "7873aba2-1e2a-48bc-a105-0d9484c6e5ae"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.34091732,
+    "end_location": [
+      120.0,
+      38.9,
+      0.2
+    ],
+    "key_pass_id": "20a714d8-f0a2-4956-a5e1-be8710621e3d",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          100.7,
+          33.1
+        ],
+        "player": {
+          "id": 5201,
+          "name": "Sergio Ramos Garc\u00eda"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.1,
+          30.6
+        ],
+        "player": {
+          "id": 11179,
+          "name": "Iker Casillas Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          90.5,
+          38.8
+        ],
+        "player": {
+          "id": 20016,
+          "name": "Kl\u00e9per Laveran Lima Ferreira"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          87.0,
+          47.2
+        ],
+        "player": {
+          "id": 10805,
+          "name": "Ricardo Alberto Silveira de Carvalho"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

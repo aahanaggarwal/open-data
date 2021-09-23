@@ -1,0 +1,234 @@
+{
+  "id": "6db5206a-981d-46e3-b25e-1b214ff094c1",
+  "index": 1509,
+  "period": 1,
+  "timestamp": "00:32:52.493",
+  "minute": 32,
+  "second": 52,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 58,
+  "possession_team": {
+    "id": 774,
+    "name": "Egypt"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 774,
+    "name": "Egypt"
+  },
+  "player": {
+    "id": 5261,
+    "name": "Mahmoud Ibrahim Hassan"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    105.0,
+    30.0
+  ],
+  "duration": 1.24,
+  "related_events": [
+    "db51db14-c157-4cc3-8c57-10e8cc2d4507"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.071416765,
+    "end_location": [
+      120.0,
+      45.6,
+      2.7
+    ],
+    "key_pass_id": "68069965-a16e-41f5-b101-98be0c1ffe99",
+    "first_time": true,
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          101.0,
+          21.0
+        ],
+        "player": {
+          "id": 5178,
+          "name": "Salman Mohammed Al Faraj"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          120.0,
+          40.0
+        ],
+        "player": {
+          "id": 6291,
+          "name": "Yasser Abdullah Al Mosailem"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.0,
+          43.0
+        ],
+        "player": {
+          "id": 5183,
+          "name": "Yasir Gharsan Al Shahrani"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          39.0
+        ],
+        "player": {
+          "id": 6290,
+          "name": "Motaz Ali Hassan Hawsawi"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.0,
+          34.0
+        ],
+        "player": {
+          "id": 5184,
+          "name": "Osama Abdulrezag Hawsawi"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.0,
+          32.0
+        ],
+        "player": {
+          "id": 5173,
+          "name": "Abdullah Ibrahim Otayf"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.0,
+          48.0
+        ],
+        "player": {
+          "id": 5187,
+          "name": "Salem Mohammed Al Dawsari"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          103.0,
+          21.0
+        ],
+        "player": {
+          "id": 5263,
+          "name": "Mohamed Abdul Shafy Sayed Abouezeid"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.0,
+          39.0
+        ],
+        "player": {
+          "id": 5252,
+          "name": "Marwan Mohsen"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          102.0,
+          61.0
+        ],
+        "player": {
+          "id": 5251,
+          "name": "Abdalla Mahmoud El Said Bekhit"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          97.0,
+          37.0
+        ],
+        "player": {
+          "id": 3531,
+          "name": "Mohamed Salah"
+        },
+        "position": {
+          "id": 22,
+          "name": "Right Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

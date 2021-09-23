@@ -12,6 +12,8 @@ y = np.sin(x)
 
 plt.plot(x, y, 'o', color = 'black')
 # %%
+
+# this file won't work now since i've split the shots file.
 import json
 
 shots_file = open("shots.json", "r")

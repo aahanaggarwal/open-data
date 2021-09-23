@@ -1,0 +1,128 @@
+{
+  "id": "201ccfed-0d24-4642-ab15-8da167dbae0c",
+  "index": 2949,
+  "period": 2,
+  "timestamp": "00:44:57.329",
+  "minute": 89,
+  "second": 57,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 196,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 15042,
+    "name": "Dennis Bergkamp"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    107.7,
+    28.8
+  ],
+  "duration": 0.256594,
+  "related_events": [
+    "07136391-f74d-40b0-bd43-846f36881893",
+    "1ad6b30f-40e7-4445-aedd-18733e5dd2ac"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.047206126,
+    "end_location": [
+      109.1,
+      32.8
+    ],
+    "key_pass_id": "163cd616-a8cc-484d-8471-0969990d9c47",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          119.1,
+          38.5
+        ],
+        "player": {
+          "id": 34390,
+          "name": "Jerzy Dudek"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.1,
+          33.5
+        ],
+        "player": {
+          "id": 40254,
+          "name": "Igor Bi\u0161\u0107an"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.7,
+          28.8
+        ],
+        "player": {
+          "id": 34389,
+          "name": "Sami Hyypi\u00e4"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.7,
+          13.3
+        ],
+        "player": {
+          "id": 34388,
+          "name": "Jamie Carragher"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

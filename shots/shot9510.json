@@ -1,0 +1,145 @@
+{
+  "id": "6a7292e4-67a8-407b-82ec-b24ff3fd3652",
+  "index": 1885,
+  "period": 1,
+  "timestamp": "00:39:24.133",
+  "minute": 39,
+  "second": 24,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 63,
+  "possession_team": {
+    "id": 216,
+    "name": "Getafe"
+  },
+  "play_pattern": {
+    "id": 6,
+    "name": "From Counter"
+  },
+  "team": {
+    "id": 216,
+    "name": "Getafe"
+  },
+  "player": {
+    "id": 6611,
+    "name": "\u00c1ngel Luis Rodr\u00edguez D\u00edaz"
+  },
+  "position": {
+    "id": 24,
+    "name": "Left Center Forward"
+  },
+  "location": [
+    100.9,
+    50.2
+  ],
+  "duration": 0.1489,
+  "under_pressure": true,
+  "related_events": [
+    "2ad5e2b4-bdcc-40a9-8de3-a09960ae6b4b",
+    "3a4599e4-cc3a-4f4d-9ec0-57b0fa20cb96",
+    "8fef76e3-40ba-49c3-aa53-f2377b9cd77a"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.055153348,
+    "end_location": [
+      103.3,
+      48.8
+    ],
+    "key_pass_id": "8490c553-ae4a-4595-9d5b-67a477ad0468",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.1,
+          42.8
+        ],
+        "player": {
+          "id": 20055,
+          "name": "Marc-Andr\u00e9 ter Stegen"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.7,
+          59.1
+        ],
+        "player": {
+          "id": 6849,
+          "name": "Lucas Digne"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          89.1,
+          31.1
+        ],
+        "player": {
+          "id": 6379,
+          "name": "Sergi Roberto Carnicer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.5,
+          49.0
+        ],
+        "player": {
+          "id": 5470,
+          "name": "Ivan Rakiti\u0107"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.5,
+          48.7
+        ],
+        "player": {
+          "id": 6196,
+          "name": "Yerry Fernando Mina Gonz\u00e1lez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

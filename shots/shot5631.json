@@ -1,0 +1,159 @@
+{
+  "id": "e8629c88-5232-48cc-809e-36fe1ad13e6a",
+  "index": 2513,
+  "period": 2,
+  "timestamp": "00:25:59.297",
+  "minute": 70,
+  "second": 59,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 144,
+  "possession_team": {
+    "id": 765,
+    "name": "Portland Thorns"
+  },
+  "play_pattern": {
+    "id": 2,
+    "name": "From Corner"
+  },
+  "team": {
+    "id": 765,
+    "name": "Portland Thorns"
+  },
+  "player": {
+    "id": 6818,
+    "name": "Hayley Raso"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    116.0,
+    52.0
+  ],
+  "duration": 0.21,
+  "related_events": [
+    "f27c80bd-d9d9-4b4f-b15a-e74320d80c69"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.13976116,
+    "end_location": [
+      118.0,
+      43.2,
+      0.5
+    ],
+    "key_pass_id": "5d884e1f-b399-4d9b-9fa2-0ffb1c0f7c44",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          97.0,
+          35.0
+        ],
+        "player": {
+          "id": 5013,
+          "name": "Tobin Heath"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.0,
+          47.0
+        ],
+        "player": {
+          "id": 5056,
+          "name": "Jane Campbell"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.0,
+          38.0
+        ],
+        "player": {
+          "id": 5035,
+          "name": "Haley Hanson"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.0,
+          47.0
+        ],
+        "player": {
+          "id": 5053,
+          "name": "Linda Maserame Motlhalo"
+        },
+        "position": {
+          "id": 9,
+          "name": "Right Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.0,
+          52.0
+        ],
+        "player": {
+          "id": 8383,
+          "name": "Lindsay Elizabeth Agnew"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.0,
+          47.0
+        ],
+        "player": {
+          "id": 5045,
+          "name": "Amber Brooks"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

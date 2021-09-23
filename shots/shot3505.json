@@ -1,0 +1,174 @@
+{
+  "id": "1001bcb9-5fe1-40ea-bc65-4759b3142df8",
+  "index": 145,
+  "period": 1,
+  "timestamp": "00:04:44.836",
+  "minute": 4,
+  "second": 44,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 15,
+  "possession_team": {
+    "id": 328,
+    "name": "Bolton Wanderers"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 328,
+    "name": "Bolton Wanderers"
+  },
+  "player": {
+    "id": 40388,
+    "name": "Kevin Cyril Davies"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    104.5,
+    36.0
+  ],
+  "duration": 0.10199,
+  "related_events": [
+    "acc6aefe-283e-400d-9189-b958ad134ee2",
+    "c87b7100-029c-4dc9-b425-20850c2affd1"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.14782716,
+    "end_location": [
+      107.8,
+      36.1
+    ],
+    "key_pass_id": "70d40510-b5f1-4c86-b906-3c54544b1027",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          101.3,
+          53.8
+        ],
+        "player": {
+          "id": 40389,
+          "name": "Per Frandsen"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          106.6,
+          42.8
+        ],
+        "player": {
+          "id": 15637,
+          "name": "Sulzeer Jeremiah \"Sol\" Campbell"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.4,
+          44.4
+        ],
+        "player": {
+          "id": 40221,
+          "name": "Gilberto Aparecido da Silva"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          44.8
+        ],
+        "player": {
+          "id": 40384,
+          "name": "Augustine Azuka \"Jay-Jay\" Okocha"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          104.2,
+          46.6
+        ],
+        "player": {
+          "id": 26194,
+          "name": "Pascal Cygan"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.6,
+          40.0
+        ],
+        "player": {
+          "id": 20015,
+          "name": "Jens Lehmann"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.8,
+          35.8
+        ],
+        "player": {
+          "id": 38412,
+          "name": "Kolo Habib Tour\u00e9"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

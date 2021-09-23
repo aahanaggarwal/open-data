@@ -1,0 +1,129 @@
+{
+  "id": "87cee676-0c51-4ec3-a28b-221ead53888d",
+  "index": 2597,
+  "period": 2,
+  "timestamp": "00:17:08.581",
+  "minute": 62,
+  "second": 8,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 134,
+  "possession_team": {
+    "id": 901,
+    "name": "Real Valladolid"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 901,
+    "name": "Real Valladolid"
+  },
+  "player": {
+    "id": 25955,
+    "name": "Jonathan Sesma Gonz\u00e1lez"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    118.8,
+    34.9
+  ],
+  "duration": 0.215101,
+  "related_events": [
+    "308b63a6-cee1-49a5-a61d-72334b249037"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.16583331,
+    "end_location": [
+      119.6,
+      36.2,
+      0.2
+    ],
+    "key_pass_id": "a6ef1fc7-1383-40c6-8774-034442f301e7",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          116.8,
+          35.8
+        ],
+        "player": {
+          "id": 15774,
+          "name": "Gianluca Zambrotta"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          119.4,
+          36.6
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.1,
+          40.9
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.4,
+          42.3
+        ],
+        "player": {
+          "id": 26191,
+          "name": "Joseba Llorente Etxarri"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

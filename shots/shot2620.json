@@ -1,0 +1,159 @@
+{
+  "id": "2f3e6cec-cff3-45f6-a3ce-70d72d91af3c",
+  "index": 2574,
+  "period": 2,
+  "timestamp": "00:24:42.817",
+  "minute": 69,
+  "second": 42,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 155,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 3,
+    "name": "From Free Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 19757,
+    "name": "Anderson Lu\u00eds de Souza"
+  },
+  "position": {
+    "id": 15,
+    "name": "Left Center Midfield"
+  },
+  "location": [
+    104.9,
+    48.9
+  ],
+  "duration": 0.659149,
+  "related_events": [
+    "59e64881-0fea-4c00-bac6-93c2485ab569"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.12959455,
+    "end_location": [
+      120.0,
+      54.1,
+      4.5
+    ],
+    "key_pass_id": "c4d068ca-d451-4c93-bdba-6dc477967df1",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.5,
+          41.5
+        ],
+        "player": {
+          "id": 25912,
+          "name": "Ricardo L\u00f3pez Felipe"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.7,
+          26.7
+        ],
+        "player": {
+          "id": 3957,
+          "name": "C\u00e9sar Azpilicueta Tanco"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          110.2,
+          40.9
+        ],
+        "player": {
+          "id": 25867,
+          "name": "C\u00e9sar Cruchaga Lasa"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.5,
+          41.8
+        ],
+        "player": {
+          "id": 6836,
+          "name": "Francisco Javier Garc\u00eda Fern\u00e1ndez"
+        },
+        "position": {
+          "id": 11,
+          "name": "Left Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.6,
+          46.6
+        ],
+        "player": {
+          "id": 3498,
+          "name": "Ignacio Monreal Eraso"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.9,
+          45.9
+        ],
+        "player": {
+          "id": 4913,
+          "name": "Bojan Krk\u00edc P\u00e9rez"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

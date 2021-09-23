@@ -1,0 +1,144 @@
+{
+  "id": "2203f207-9060-497e-b722-e83f0a1a66be",
+  "index": 3320,
+  "period": 2,
+  "timestamp": "00:38:23.048",
+  "minute": 83,
+  "second": 23,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 175,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 25878,
+    "name": "Ludovic Giuly"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    115.7,
+    36.7
+  ],
+  "duration": 0.0816,
+  "related_events": [
+    "4822c28f-52f3-4f24-a813-50f4833e2c16",
+    "ad928ed5-2605-4c55-8410-bf9fa6cf7672"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.48023564,
+    "end_location": [
+      116.3,
+      37.3
+    ],
+    "key_pass_id": "63429ae3-1b68-4246-b36e-c2ae42c7a5d4",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "first_time": true,
+    "technique": {
+      "id": 95,
+      "name": "Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          118.7,
+          29.4
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          118.4,
+          31.1
+        ],
+        "player": {
+          "id": 25912,
+          "name": "Ricardo L\u00f3pez Felipe"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.2,
+          31.3
+        ],
+        "player": {
+          "id": 25865,
+          "name": "Jos\u00e9 Romero Urtasun"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.1,
+          33.7
+        ],
+        "player": {
+          "id": 26004,
+          "name": "Carlos Javier Cu\u00e9llar Jim\u00e9nez"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.0,
+          37.7
+        ],
+        "player": {
+          "id": 25860,
+          "name": "Enrique Corrales Mart\u00edn"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "id": "1622cab2-20dd-41a1-a2ea-3d5373aa5924",
+  "index": 117,
+  "period": 1,
+  "timestamp": "00:02:03.568",
+  "minute": 2,
+  "second": 3,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 6,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 7,
+    "name": "From Goal Kick"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 12737,
+    "name": "David Villa S\u00e1nchez"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    112.3,
+    50.1
+  ],
+  "duration": 0.3643,
+  "under_pressure": true,
+  "related_events": [
+    "4fd3d9a5-29f6-4e23-9476-46df4fe4bf0e",
+    "d68ae071-15db-468f-94d5-0dc4dffe13ad"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.19341686,
+    "end_location": [
+      117.2,
+      45.3,
+      0.9
+    ],
+    "key_pass_id": "0d1097ea-8a49-47e0-afe0-cfdcb37ce717",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          117.2,
+          45.2
+        ],
+        "player": {
+          "id": 25144,
+          "name": "Diego Alves Carreira"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.3,
+          48.9
+        ],
+        "player": {
+          "id": 26440,
+          "name": "Juan Manuel Ortiz Palaz\u00f3n"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          109.8,
+          44.9
+        ],
+        "player": {
+          "id": 26434,
+          "name": "Santiago Wilmer Acasiete Ariadela"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.8,
+          42.1
+        ],
+        "player": {
+          "id": 26439,
+          "name": "Carlos Garc\u00eda Bad\u00edas"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.7,
+          29.0
+        ],
+        "player": {
+          "id": 6922,
+          "name": "M\u00edchel Macedo Rocha Machado"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.1,
+          32.2
+        ],
+        "player": {
+          "id": 26648,
+          "name": "Modeste M\"bami"
+        },
+        "position": {
+          "id": 13,
+          "name": "Right Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.8,
+          45.7
+        ],
+        "player": {
+          "id": 26651,
+          "name": "Hern\u00e1n Dar\u00edo Bernardello"
+        },
+        "position": {
+          "id": 10,
+          "name": "Center Defensive Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.3,
+          48.9
+        ],
+        "player": {
+          "id": 26766,
+          "name": "Fabi\u00e1n Andr\u00e9s Vargas Rivera"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.9,
+          46.7
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

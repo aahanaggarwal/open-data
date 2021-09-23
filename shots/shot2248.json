@@ -1,0 +1,204 @@
+{
+  "id": "5f8f624e-eae9-4e6b-a086-d864bc8f4140",
+  "index": 3553,
+  "period": 2,
+  "timestamp": "00:36:31.606",
+  "minute": 81,
+  "second": 31,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 130,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 3501,
+    "name": "Philippe Coutinho Correia"
+  },
+  "position": {
+    "id": 21,
+    "name": "Left Wing"
+  },
+  "location": [
+    113.4,
+    31.1
+  ],
+  "duration": 0.39102,
+  "related_events": [
+    "7411ae7b-37e8-4a64-85ba-2771008c764d"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.3796317,
+    "end_location": [
+      116.1,
+      34.4,
+      0.3
+    ],
+    "key_pass_id": "3b394e90-d872-41e6-902e-d6c6f8db74ed",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 100,
+      "name": "Saved"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          116.4,
+          34.7
+        ],
+        "player": {
+          "id": 6629,
+          "name": "Fernando Pacheco Flores"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.2,
+          34.4
+        ],
+        "player": {
+          "id": 6618,
+          "name": "Mart\u00edn Aguirregabiria Padilla"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.5,
+          34.7
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          103.1,
+          39.9
+        ],
+        "player": {
+          "id": 6615,
+          "name": "V\u00edctor Laguardia Cisneros"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.3,
+          44.6
+        ],
+        "player": {
+          "id": 6855,
+          "name": "Guillermo Alfonso Marip\u00e1n Loaysa"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.1,
+          43.6
+        ],
+        "player": {
+          "id": 5246,
+          "name": "Luis Alberto Su\u00e1rez D\u00edaz"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          96.0,
+          37.2
+        ],
+        "player": {
+          "id": 6617,
+          "name": "Ibai G\u00f3mez P\u00e9rez"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          95.9,
+          40.9
+        ],
+        "player": {
+          "id": 6632,
+          "name": "Manuel Alejandro Garc\u00eda S\u00e1nchez"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.2,
+          52.6
+        ],
+        "player": {
+          "id": 6935,
+          "name": "Adri\u00e1n Mar\u00edn G\u00f3mez"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

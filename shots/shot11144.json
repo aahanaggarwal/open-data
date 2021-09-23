@@ -1,0 +1,159 @@
+{
+  "id": "d24813e8-24f9-40d9-8a25-28a5b471affd",
+  "index": 1433,
+  "period": 1,
+  "timestamp": "00:36:26.217",
+  "minute": 36,
+  "second": 26,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 94,
+  "possession_team": {
+    "id": 98,
+    "name": "Blackburn Rovers"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 98,
+    "name": "Blackburn Rovers"
+  },
+  "player": {
+    "id": 40396,
+    "name": "Matt Jansen"
+  },
+  "position": {
+    "id": 22,
+    "name": "Right Center Forward"
+  },
+  "location": [
+    112.9,
+    29.9
+  ],
+  "duration": 0.787187,
+  "related_events": [
+    "b72b036b-a1e6-4fb4-8720-10ece294b126"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.055900738,
+    "end_location": [
+      120.0,
+      33.7,
+      2.8
+    ],
+    "key_pass_id": "93916e69-a927-439f-952f-9b86b20461ff",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 98,
+      "name": "Off T"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 37,
+      "name": "Head"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          93.5,
+          24.1
+        ],
+        "player": {
+          "id": 40221,
+          "name": "Gilberto Aparecido da Silva"
+        },
+        "position": {
+          "id": 12,
+          "name": "Right Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.3,
+          43.5
+        ],
+        "player": {
+          "id": 15637,
+          "name": "Sulzeer Jeremiah \"Sol\" Campbell"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.8,
+          41.0
+        ],
+        "player": {
+          "id": 38412,
+          "name": "Kolo Habib Tour\u00e9"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.4,
+          32.9
+        ],
+        "player": {
+          "id": 40222,
+          "name": "Laureano Bisan-Etame Mayer"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.8,
+          37.5
+        ],
+        "player": {
+          "id": 20015,
+          "name": "Jens Lehmann"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          111.4,
+          43.4
+        ],
+        "player": {
+          "id": 24767,
+          "name": "Andy Cole"
+        },
+        "position": {
+          "id": 24,
+          "name": "Left Center Forward"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

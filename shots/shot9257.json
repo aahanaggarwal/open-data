@@ -1,0 +1,143 @@
+{
+  "id": "61ffd2d7-b560-4070-9b56-487482f65fe4",
+  "index": 1497,
+  "period": 1,
+  "timestamp": "00:42:49.210",
+  "minute": 42,
+  "second": 49,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 110,
+  "possession_team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "play_pattern": {
+    "id": 4,
+    "name": "From Throw In"
+  },
+  "team": {
+    "id": 1,
+    "name": "Arsenal"
+  },
+  "player": {
+    "id": 19312,
+    "name": "Robert Pir\u00e8s "
+  },
+  "position": {
+    "id": 8,
+    "name": "Left Wing Back"
+  },
+  "location": [
+    97.0,
+    57.4
+  ],
+  "duration": 0.283221,
+  "related_events": [
+    "707b9409-553f-41b5-8174-3d0d623c914b",
+    "86d18ce0-ce03-4483-baf0-24feb3c9cfa3"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.01795536,
+    "end_location": [
+      102.3,
+      50.2
+    ],
+    "key_pass_id": "5cb88f5d-f83f-4063-940b-cbe0cf1a2464",
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 96,
+      "name": "Blocked"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          93.2,
+          59.1
+        ],
+        "player": {
+          "id": 40261,
+          "name": "G\u00e9r\u00e9mi Sorele N\"Djitap Fotso"
+        },
+        "position": {
+          "id": 16,
+          "name": "Left Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          96.0,
+          56.4
+        ],
+        "player": {
+          "id": 20254,
+          "name": "Claude Mak\u00e9l\u00e9l\u00e9"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          101.7,
+          61.1
+        ],
+        "player": {
+          "id": 40258,
+          "name": "Wayne Bridge"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          118.0,
+          41.8
+        ],
+        "player": {
+          "id": 40271,
+          "name": "Neil Sullivan"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          102.0,
+          50.0
+        ],
+        "player": {
+          "id": 20287,
+          "name": "John Terry"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

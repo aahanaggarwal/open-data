@@ -1,0 +1,129 @@
+{
+  "id": "54bd268c-b812-48eb-8cfb-532e982c7577",
+  "index": 1261,
+  "period": 1,
+  "timestamp": "00:32:49.301",
+  "minute": 32,
+  "second": 49,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 63,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 15516,
+    "name": "Thierry Henry"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    106.0,
+    36.6
+  ],
+  "duration": 0.586412,
+  "related_events": [
+    "711eb0e5-dc26-4cf5-b684-e70a625fb7d5"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.25042608,
+    "end_location": [
+      120.0,
+      40.8,
+      0.0
+    ],
+    "key_pass_id": "0f190e1f-1706-4668-9643-ed1c48ae5376",
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          100.5,
+          48.9
+        ],
+        "player": {
+          "id": 26467,
+          "name": "Leandro Daniel Somoza"
+        },
+        "position": {
+          "id": 15,
+          "name": "Left Center Midfield"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          108.9,
+          37.4
+        ],
+        "player": {
+          "id": 19761,
+          "name": "Ricardo Alexandre Martins Soares Pereira"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          104.6,
+          37.3
+        ],
+        "player": {
+          "id": 26468,
+          "name": "Willian Lanes Lanes de Lima"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          93.4,
+          58.1
+        ],
+        "player": {
+          "id": 5503,
+          "name": "Lionel Andr\u00e9s Messi Cuccittini"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

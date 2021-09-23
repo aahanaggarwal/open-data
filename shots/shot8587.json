@@ -1,0 +1,145 @@
+{
+  "id": "344ba76c-82e8-42c9-aa1a-cda8b539c12a",
+  "index": 2600,
+  "period": 2,
+  "timestamp": "00:14:55.470",
+  "minute": 59,
+  "second": 55,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 131,
+  "possession_team": {
+    "id": 360,
+    "name": "Rayo Vallecano"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 360,
+    "name": "Rayo Vallecano"
+  },
+  "player": {
+    "id": 27190,
+    "name": "Joaqu\u00edn Oscar Larrivey"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    115.0,
+    53.0
+  ],
+  "duration": 0.7151,
+  "related_events": [
+    "92c2dfcf-07b6-486d-8c59-d0bdf0a3b8bb"
+  ],
+  "shot": {
+    "one_on_one": true,
+    "statsbomb_xg": 0.054435093,
+    "end_location": [
+      119.3,
+      46.3,
+      2.0
+    ],
+    "key_pass_id": "9bf08c2a-a29d-42c1-991f-d0bf85b5fb31",
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "saved_off_target": true,
+    "outcome": {
+      "id": 115,
+      "name": "Saved Off Target"
+    },
+    "technique": {
+      "id": 91,
+      "name": "Half Volley"
+    },
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          114.5,
+          51.3
+        ],
+        "player": {
+          "id": 20125,
+          "name": "Carles Puyol i Saforcada"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.0,
+          52.4
+        ],
+        "player": {
+          "id": 22102,
+          "name": "Adriano Correia Claro"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          105.5,
+          30.0
+        ],
+        "player": {
+          "id": 5213,
+          "name": "Gerard Piqu\u00e9 Bernab\u00e9u"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          99.7,
+          55.3
+        ],
+        "player": {
+          "id": 6680,
+          "name": "Rub\u00e9n Rochina Naixes"
+        },
+        "position": {
+          "id": 17,
+          "name": "Right Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          119.1,
+          44.8
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "id": "d465c631-e49d-42a2-82d6-4ef9172352f9",
+  "index": 1626,
+  "period": 1,
+  "timestamp": "00:46:07.400",
+  "minute": 46,
+  "second": 7,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 101,
+  "possession_team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 217,
+    "name": "Barcelona"
+  },
+  "player": {
+    "id": 5503,
+    "name": "Lionel Andr\u00e9s Messi Cuccittini"
+  },
+  "position": {
+    "id": 17,
+    "name": "Right Wing"
+  },
+  "location": [
+    113.8,
+    43.8
+  ],
+  "duration": 0.6447,
+  "related_events": [
+    "b89a90d9-fffd-4cfa-93d0-12c01409d56e"
+  ],
+  "shot": {
+    "open_goal": true,
+    "statsbomb_xg": 0.7404242,
+    "end_location": [
+      120.0,
+      41.9,
+      1.1
+    ],
+    "key_pass_id": "1c4a5b44-a99c-4a37-a092-c44cdb00bccc",
+    "first_time": true,
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "body_part": {
+      "id": 38,
+      "name": "Left Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 97,
+      "name": "Goal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          113.5,
+          35.6
+        ],
+        "player": {
+          "id": 26627,
+          "name": "Sergio Aragoneses Almeida"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          116.2,
+          29.9
+        ],
+        "player": {
+          "id": 26632,
+          "name": "Juan Luis Hens Lorite"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          112.2,
+          40.4
+        ],
+        "player": {
+          "id": 26631,
+          "name": "Ezequiel Luna"
+        },
+        "position": {
+          "id": 3,
+          "name": "Right Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          113.8,
+          43.2
+        ],
+        "player": {
+          "id": 23793,
+          "name": "Carlos Bellv\u00eds LLorens"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          106.0,
+          35.2
+        ],
+        "player": {
+          "id": 26630,
+          "name": "Pablo Sicilia Roig"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          107.3,
+          37.2
+        ],
+        "player": {
+          "id": 4913,
+          "name": "Bojan Krk\u00edc P\u00e9rez"
+        },
+        "position": {
+          "id": 23,
+          "name": "Center Forward"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          115.9,
+          28.9
+        ],
+        "player": {
+          "id": 26613,
+          "name": "Maxwell Scherrer Cabelino Andrade"
+        },
+        "position": {
+          "id": 6,
+          "name": "Left Back"
+        },
+        "teammate": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": "4670e2be-e907-4109-ae35-5047bf2c9cbd",
+  "index": 1275,
+  "period": 1,
+  "timestamp": "00:32:44.331",
+  "minute": 32,
+  "second": 44,
+  "type": {
+    "id": 16,
+    "name": "Shot"
+  },
+  "possession": 96,
+  "possession_team": {
+    "id": 209,
+    "name": "Celta Vigo"
+  },
+  "play_pattern": {
+    "id": 1,
+    "name": "Regular Play"
+  },
+  "team": {
+    "id": 209,
+    "name": "Celta Vigo"
+  },
+  "player": {
+    "id": 25988,
+    "name": "Jo\u00e3o Fernando Nelo"
+  },
+  "position": {
+    "id": 23,
+    "name": "Center Forward"
+  },
+  "location": [
+    109.7,
+    58.9
+  ],
+  "duration": 0.8337,
+  "related_events": [
+    "88eba06e-2bf0-4451-b46c-d1fd97592756"
+  ],
+  "shot": {
+    "statsbomb_xg": 0.018288616,
+    "end_location": [
+      120.0,
+      36.1,
+      2.1
+    ],
+    "key_pass_id": "1f2e81a1-6902-4d0d-b8a3-8e47dea80dce",
+    "body_part": {
+      "id": 40,
+      "name": "Right Foot"
+    },
+    "type": {
+      "id": 87,
+      "name": "Open Play"
+    },
+    "outcome": {
+      "id": 99,
+      "name": "Post"
+    },
+    "technique": {
+      "id": 93,
+      "name": "Normal"
+    },
+    "freeze_frame": [
+      {
+        "location": [
+          110.5,
+          56.8
+        ],
+        "player": {
+          "id": 5558,
+          "name": "Rafael M\u00e1rquez \u00c1lvarez"
+        },
+        "position": {
+          "id": 5,
+          "name": "Left Center Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          100.6,
+          37.6
+        ],
+        "player": {
+          "id": 25873,
+          "name": "Oleguer Presas Renom"
+        },
+        "position": {
+          "id": 2,
+          "name": "Right Back"
+        },
+        "teammate": false
+      },
+      {
+        "location": [
+          90.7,
+          33.8
+        ],
+        "player": {
+          "id": 3064,
+          "name": "David Josu\u00e9 Jim\u00e9nez Silva"
+        },
+        "position": {
+          "id": 21,
+          "name": "Left Wing"
+        },
+        "teammate": true
+      },
+      {
+        "location": [
+          117.9,
+          43.5
+        ],
+        "player": {
+          "id": 20176,
+          "name": "V\u00edctor Vald\u00e9s Arribas"
+        },
+        "position": {
+          "id": 1,
+          "name": "Goalkeeper"
+        },
+        "teammate": false
+      }
+    ]
+  }
+}
