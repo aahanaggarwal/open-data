@@ -54,9 +54,9 @@
   "home_score" : 4,
   "away_score" : 0,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -69,7 +69,7 @@
   },
   "stadium" : {
     "id" : 342,
-    "name" : "Camp Nou",
+    "name" : "Camp Nou (Barcelona)",
     "country" : {
       "id" : 214,
       "name" : "Spain"
@@ -129,7 +129,7 @@
       "id" : 3196,
       "name" : "Javier Aguirre Onaindía",
       "nickname" : "Javier Aguirre",
-      "dob" : null,
+      "dob" : "1958-12-01",
       "country" : {
         "id" : 147,
         "name" : "Mexico"
@@ -139,9 +139,9 @@
   "home_score" : 3,
   "away_score" : 0,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -154,7 +154,7 @@
   },
   "stadium" : {
     "id" : 342,
-    "name" : "Camp Nou",
+    "name" : "Camp Nou (Barcelona)",
     "country" : {
       "id" : 214,
       "name" : "Spain"
@@ -162,7 +162,11 @@
   },
   "referee" : {
     "id" : 994,
-    "name" : "Vicente José Lizondo Cortés"
+    "name" : "Vicente José Lizondo Cortés",
+    "country" : {
+      "id" : 214,
+      "name" : "Spain"
+    }
   }
 }, {
   "match_id" : 68316,
@@ -185,7 +189,17 @@
     "country" : {
       "id" : 214,
       "name" : "Spain"
-    }
+    },
+    "managers" : [ {
+      "id" : 4953,
+      "name" : "Frank Rijkaard",
+      "nickname" : null,
+      "dob" : null,
+      "country" : {
+        "id" : 160,
+        "name" : "Netherlands"
+      }
+    } ]
   },
   "away_team" : {
     "away_team_id" : 608,
@@ -195,14 +209,24 @@
     "country" : {
       "id" : 214,
       "name" : "Spain"
-    }
+    },
+    "managers" : [ {
+      "id" : 6233,
+      "name" : "Martín Monteagudo Monteagudo",
+      "nickname" : null,
+      "dob" : "2063-05-10",
+      "country" : {
+        "id" : 214,
+        "name" : "Spain"
+      }
+    } ]
   },
   "home_score" : 2,
   "away_score" : 0,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -215,14 +239,14 @@
   },
   "stadium" : {
     "id" : 342,
-    "name" : "Camp Nou",
+    "name" : "Camp Nou (Barcelona)",
     "country" : {
       "id" : 214,
       "name" : "Spain"
     }
   },
   "referee" : {
-    "id" : 407,
+    "id" : 2535,
     "name" : "Carlos Velasco Carballo",
     "country" : {
       "id" : 214,
@@ -285,9 +309,9 @@
   "home_score" : 2,
   "away_score" : 1,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -300,7 +324,7 @@
   },
   "stadium" : {
     "id" : 342,
-    "name" : "Camp Nou",
+    "name" : "Camp Nou (Barcelona)",
     "country" : {
       "id" : 214,
       "name" : "Spain"
@@ -340,7 +364,7 @@
       "id" : 226,
       "name" : "José Manuel González López",
       "nickname" : "José González",
-      "dob" : null,
+      "dob" : "1966-10-14",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -370,9 +394,9 @@
   "home_score" : 1,
   "away_score" : 2,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -393,7 +417,11 @@
   },
   "referee" : {
     "id" : 1007,
-    "name" : "Alfonso Perez Burrull"
+    "name" : "Alfonso Perez Burrull",
+    "country" : {
+      "id" : 214,
+      "name" : "Spain"
+    }
   }
 }, {
   "match_id" : 68352,
@@ -439,9 +467,9 @@
     },
     "managers" : [ {
       "id" : 236,
-      "name" : "Enrique  Sánchez Flores",
+      "name" : "Enrique Sánchez Flores",
       "nickname" : "Quique Sánchez Flores",
-      "dob" : null,
+      "dob" : "1965-02-05",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -451,9 +479,9 @@
   "home_score" : 2,
   "away_score" : 0,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -466,7 +494,7 @@
   },
   "stadium" : {
     "id" : 342,
-    "name" : "Camp Nou",
+    "name" : "Camp Nou (Barcelona)",
     "country" : {
       "id" : 214,
       "name" : "Spain"
@@ -474,7 +502,11 @@
   },
   "referee" : {
     "id" : 995,
-    "name" : "Puentes Leira"
+    "name" : "Puentes Leira",
+    "country" : {
+      "id" : 214,
+      "name" : "Spain"
+    }
   }
 }, {
   "match_id" : 68353,
@@ -502,7 +534,7 @@
       "id" : 4519,
       "name" : "Miguel Ángel Lotina Oruecheberría",
       "nickname" : "Miguel Ángel Lotina",
-      "dob" : null,
+      "dob" : "1957-06-18",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -532,9 +564,9 @@
   "home_score" : 0,
   "away_score" : 1,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -549,12 +581,16 @@
     "id" : 4635,
     "name" : "Estadi Olímpic Lluís Companys",
     "country" : {
-      "id" : 255,
-      "name" : "International"
+      "id" : 214,
+      "name" : "Spain"
     }
   },
   "referee" : {
     "id" : 996,
-    "name" : "Carlos Megía Dávila"
+    "name" : "Carlos Megía Dávila",
+    "country" : {
+      "id" : 214,
+      "name" : "Spain"
+    }
   }
 } ]

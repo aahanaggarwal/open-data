@@ -1,4 +1,174 @@
 [ {
+  "match_id" : 69328,
+  "match_date" : "2012-02-19",
+  "kick_off" : "21:30:00.000",
+  "competition" : {
+    "competition_id" : 11,
+    "country_name" : "Spain",
+    "competition_name" : "La Liga"
+  },
+  "season" : {
+    "season_id" : 23,
+    "season_name" : "2011/2012"
+  },
+  "home_team" : {
+    "home_team_id" : 217,
+    "home_team_name" : "Barcelona",
+    "home_team_gender" : "male",
+    "home_team_group" : null,
+    "country" : {
+      "id" : 214,
+      "name" : "Spain"
+    },
+    "managers" : [ {
+      "id" : 36,
+      "name" : "Josep Guardiola i Sala",
+      "nickname" : "Pep Guardiola",
+      "dob" : "1971-01-18",
+      "country" : {
+        "id" : 214,
+        "name" : "Spain"
+      }
+    } ]
+  },
+  "away_team" : {
+    "away_team_id" : 207,
+    "away_team_name" : "Valencia",
+    "away_team_gender" : "male",
+    "away_team_group" : null,
+    "country" : {
+      "id" : 214,
+      "name" : "Spain"
+    },
+    "managers" : [ {
+      "id" : 21,
+      "name" : "Unai Emery Etxegoien",
+      "nickname" : "Unai Emery",
+      "dob" : "1971-11-03",
+      "country" : {
+        "id" : 214,
+        "name" : "Spain"
+      }
+    } ]
+  },
+  "home_score" : 5,
+  "away_score" : 1,
+  "match_status" : "available",
+  "match_status_360" : "scheduled",
+  "last_updated" : "2020-07-29T05:00",
+  "last_updated_360" : "2021-06-13T16:17:31.694",
+  "metadata" : {
+    "data_version" : "1.1.0",
+    "shot_fidelity_version" : "2",
+    "xy_fidelity_version" : "2"
+  },
+  "match_week" : 24,
+  "competition_stage" : {
+    "id" : 1,
+    "name" : "Regular Season"
+  },
+  "stadium" : {
+    "id" : 342,
+    "name" : "Camp Nou (Barcelona)",
+    "country" : {
+      "id" : 214,
+      "name" : "Spain"
+    }
+  },
+  "referee" : {
+    "id" : 1004,
+    "name" : "Turienzo",
+    "country" : {
+      "id" : 214,
+      "name" : "Spain"
+    }
+  }
+}, {
+  "match_id" : 69329,
+  "match_date" : "2011-10-22",
+  "kick_off" : "22:00:00.000",
+  "competition" : {
+    "competition_id" : 11,
+    "country_name" : "Spain",
+    "competition_name" : "La Liga"
+  },
+  "season" : {
+    "season_id" : 23,
+    "season_name" : "2011/2012"
+  },
+  "home_team" : {
+    "home_team_id" : 217,
+    "home_team_name" : "Barcelona",
+    "home_team_gender" : "male",
+    "home_team_group" : null,
+    "country" : {
+      "id" : 214,
+      "name" : "Spain"
+    },
+    "managers" : [ {
+      "id" : 36,
+      "name" : "Josep Guardiola i Sala",
+      "nickname" : "Pep Guardiola",
+      "dob" : "1971-01-18",
+      "country" : {
+        "id" : 214,
+        "name" : "Spain"
+      }
+    } ]
+  },
+  "away_team" : {
+    "away_team_id" : 213,
+    "away_team_name" : "Sevilla",
+    "away_team_gender" : "male",
+    "away_team_group" : null,
+    "country" : {
+      "id" : 214,
+      "name" : "Spain"
+    },
+    "managers" : [ {
+      "id" : 211,
+      "name" : "Marcelino García Toral",
+      "nickname" : "Marcelino",
+      "dob" : "1965-08-14",
+      "country" : {
+        "id" : 214,
+        "name" : "Spain"
+      }
+    } ]
+  },
+  "home_score" : 0,
+  "away_score" : 0,
+  "match_status" : "available",
+  "match_status_360" : "scheduled",
+  "last_updated" : "2020-07-29T05:00",
+  "last_updated_360" : "2021-06-13T16:17:31.694",
+  "metadata" : {
+    "data_version" : "1.1.0",
+    "shot_fidelity_version" : "2",
+    "xy_fidelity_version" : "2"
+  },
+  "match_week" : 9,
+  "competition_stage" : {
+    "id" : 1,
+    "name" : "Regular Season"
+  },
+  "stadium" : {
+    "id" : 342,
+    "name" : "Camp Nou (Barcelona)",
+    "country" : {
+      "id" : 214,
+      "name" : "Spain"
+    }
+  },
+  "referee" : {
+    "id" : 999,
+    "name" : "Eduardo Iturralde Gonzalez",
+    "country" : {
+      "id" : 214,
+      "name" : "Spain"
+    }
+  }
+}, {
   "match_id" : 70219,
   "match_date" : "2012-04-07",
   "kick_off" : "20:00:00.000",
@@ -44,7 +214,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : "Pep Guardiola",
-      "dob" : null,
+      "dob" : "1971-01-18",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -54,9 +224,9 @@
   "home_score" : 1,
   "away_score" : 4,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -76,8 +246,12 @@
     }
   },
   "referee" : {
-    "id" : 1069,
-    "name" : "Turienzo "
+    "id" : 1004,
+    "name" : "Turienzo",
+    "country" : {
+      "id" : 214,
+      "name" : "Spain"
+    }
   }
 }, {
   "match_id" : 69331,
@@ -105,7 +279,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : "Pep Guardiola",
-      "dob" : null,
+      "dob" : "1971-01-18",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -125,7 +299,7 @@
       "id" : 3196,
       "name" : "Javier Aguirre Onaindía",
       "nickname" : "Javier Aguirre",
-      "dob" : null,
+      "dob" : "1958-12-01",
       "country" : {
         "id" : 147,
         "name" : "Mexico"
@@ -135,9 +309,9 @@
   "home_score" : 4,
   "away_score" : 0,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -150,7 +324,7 @@
   },
   "stadium" : {
     "id" : 342,
-    "name" : "Camp Nou",
+    "name" : "Camp Nou (Barcelona)",
     "country" : {
       "id" : 214,
       "name" : "Spain"
@@ -190,7 +364,7 @@
       "id" : 230,
       "name" : "Diego Pablo Simeone",
       "nickname" : "Diego Simeone",
-      "dob" : null,
+      "dob" : "1970-04-28",
       "country" : {
         "id" : 11,
         "name" : "Argentina"
@@ -210,7 +384,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : "Pep Guardiola",
-      "dob" : null,
+      "dob" : "1971-01-18",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -220,9 +394,9 @@
   "home_score" : 1,
   "away_score" : 2,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -275,7 +449,7 @@
       "id" : 1598,
       "name" : "Álvaro Cervera Díaz",
       "nickname" : "Álvaro Cervera",
-      "dob" : null,
+      "dob" : "1965-09-20",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -295,7 +469,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : "Pep Guardiola",
-      "dob" : null,
+      "dob" : "1971-01-18",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -305,9 +479,9 @@
   "home_score" : 0,
   "away_score" : 2,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -321,14 +495,6 @@
   "stadium" : {
     "id" : 4636,
     "name" : "Campos de Sport de El Sardinero",
-    "country" : {
-      "id" : 255,
-      "name" : "International"
-    }
-  },
-  "referee" : {
-    "id" : 223,
-    "name" : "C. Del Cerro",
     "country" : {
       "id" : 214,
       "name" : "Spain"
@@ -360,7 +526,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : "Pep Guardiola",
-      "dob" : null,
+      "dob" : "1971-01-18",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -380,7 +546,7 @@
       "id" : 224,
       "name" : "Philippe Montanier",
       "nickname" : null,
-      "dob" : null,
+      "dob" : "1964-11-15",
       "country" : {
         "id" : 78,
         "name" : "France"
@@ -390,9 +556,9 @@
   "home_score" : 2,
   "away_score" : 1,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -405,7 +571,7 @@
   },
   "stadium" : {
     "id" : 342,
-    "name" : "Camp Nou",
+    "name" : "Camp Nou (Barcelona)",
     "country" : {
       "id" : 214,
       "name" : "Spain"
@@ -413,7 +579,11 @@
   },
   "referee" : {
     "id" : 1008,
-    "name" : "Clos Gómez"
+    "name" : "Clos Gómez",
+    "country" : {
+      "id" : 214,
+      "name" : "Spain"
+    }
   }
 }, {
   "match_id" : 69332,
@@ -441,7 +611,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : "Pep Guardiola",
-      "dob" : null,
+      "dob" : "1971-01-18",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -471,9 +641,9 @@
   "home_score" : 4,
   "away_score" : 0,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -486,7 +656,7 @@
   },
   "stadium" : {
     "id" : 342,
-    "name" : "Camp Nou",
+    "name" : "Camp Nou (Barcelona)",
     "country" : {
       "id" : 214,
       "name" : "Spain"
@@ -526,7 +696,7 @@
       "id" : 733,
       "name" : "Manuel Luis Pellegrini Ripamonti",
       "nickname" : "Manuel Pellegrini",
-      "dob" : null,
+      "dob" : "1953-09-16",
       "country" : {
         "id" : 45,
         "name" : "Chile"
@@ -546,7 +716,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : "Pep Guardiola",
-      "dob" : null,
+      "dob" : "1971-01-18",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -556,9 +726,9 @@
   "home_score" : 1,
   "away_score" : 4,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -611,7 +781,7 @@
       "id" : 269,
       "name" : "Marcelo Alberto Bielsa Caldera",
       "nickname" : "Marcelo Bielsa",
-      "dob" : null,
+      "dob" : "1955-07-21",
       "country" : {
         "id" : 11,
         "name" : "Argentina"
@@ -631,7 +801,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : "Pep Guardiola",
-      "dob" : null,
+      "dob" : "1971-01-18",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -641,9 +811,9 @@
   "home_score" : 2,
   "away_score" : 2,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -658,8 +828,8 @@
     "id" : 4637,
     "name" : "Estadio San Mamés",
     "country" : {
-      "id" : 255,
-      "name" : "International"
+      "id" : 214,
+      "name" : "Spain"
     }
   },
   "referee" : {
@@ -696,7 +866,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : "Pep Guardiola",
-      "dob" : null,
+      "dob" : "1971-01-18",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -726,9 +896,9 @@
   "home_score" : 5,
   "away_score" : 0,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -741,7 +911,7 @@
   },
   "stadium" : {
     "id" : 342,
-    "name" : "Camp Nou",
+    "name" : "Camp Nou (Barcelona)",
     "country" : {
       "id" : 214,
       "name" : "Spain"
@@ -749,7 +919,11 @@
   },
   "referee" : {
     "id" : 1012,
-    "name" : "Carlos Delgado"
+    "name" : "Carlos Delgado",
+    "country" : {
+      "id" : 214,
+      "name" : "Spain"
+    }
   }
 }, {
   "match_id" : 69325,
@@ -772,7 +946,17 @@
     "country" : {
       "id" : 214,
       "name" : "Spain"
-    }
+    },
+    "managers" : [ {
+      "id" : 497,
+      "name" : "Joaquín de Jesús Caparrós Camino",
+      "nickname" : "Joaquín Caparrós",
+      "dob" : "1955-10-15",
+      "country" : {
+        "id" : 214,
+        "name" : "Spain"
+      }
+    } ]
   },
   "away_team" : {
     "away_team_id" : 217,
@@ -782,14 +966,24 @@
     "country" : {
       "id" : 214,
       "name" : "Spain"
-    }
+    },
+    "managers" : [ {
+      "id" : 36,
+      "name" : "Josep Guardiola i Sala",
+      "nickname" : "Pep Guardiola",
+      "dob" : "1971-01-18",
+      "country" : {
+        "id" : 214,
+        "name" : "Spain"
+      }
+    } ]
   },
   "home_score" : 0,
   "away_score" : 2,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -802,7 +996,7 @@
   },
   "stadium" : {
     "id" : 4454,
-    "name" : "Iberostar Estadi",
+    "name" : "Iberostar Estadi (Palma de Mallorca)",
     "country" : {
       "id" : 214,
       "name" : "Spain"
@@ -842,7 +1036,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : "Pep Guardiola",
-      "dob" : null,
+      "dob" : "1971-01-18",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -862,7 +1056,7 @@
       "id" : 383,
       "name" : "José Mario Felix dos Santos Mourinho",
       "nickname" : "José Mourinho",
-      "dob" : null,
+      "dob" : "1963-01-26",
       "country" : {
         "id" : 183,
         "name" : "Portugal"
@@ -872,9 +1066,9 @@
   "home_score" : 1,
   "away_score" : 2,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -887,7 +1081,7 @@
   },
   "stadium" : {
     "id" : 342,
-    "name" : "Camp Nou",
+    "name" : "Camp Nou (Barcelona)",
     "country" : {
       "id" : 214,
       "name" : "Spain"
@@ -927,7 +1121,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : "Pep Guardiola",
-      "dob" : null,
+      "dob" : "1971-01-18",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -957,9 +1151,9 @@
   "home_score" : 5,
   "away_score" : 3,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -972,7 +1166,7 @@
   },
   "stadium" : {
     "id" : 342,
-    "name" : "Camp Nou",
+    "name" : "Camp Nou (Barcelona)",
     "country" : {
       "id" : 214,
       "name" : "Spain"
@@ -1012,7 +1206,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : "Pep Guardiola",
-      "dob" : null,
+      "dob" : "1971-01-18",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -1032,7 +1226,7 @@
       "id" : 486,
       "name" : "Héctor Raúl Cúper",
       "nickname" : "Héctor Cúper",
-      "dob" : null,
+      "dob" : "1955-11-16",
       "country" : {
         "id" : 11,
         "name" : "Argentina"
@@ -1042,9 +1236,9 @@
   "home_score" : 3,
   "away_score" : 0,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -1057,7 +1251,7 @@
   },
   "stadium" : {
     "id" : 342,
-    "name" : "Camp Nou",
+    "name" : "Camp Nou (Barcelona)",
     "country" : {
       "id" : 214,
       "name" : "Spain"
@@ -1097,7 +1291,7 @@
       "id" : 21,
       "name" : "Unai Emery Etxegoien",
       "nickname" : "Unai Emery",
-      "dob" : null,
+      "dob" : "1971-11-03",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -1117,7 +1311,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : "Pep Guardiola",
-      "dob" : null,
+      "dob" : "1971-01-18",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -1127,9 +1321,9 @@
   "home_score" : 2,
   "away_score" : 2,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -1149,7 +1343,7 @@
     }
   },
   "referee" : {
-    "id" : 407,
+    "id" : 2535,
     "name" : "Carlos Velasco Carballo",
     "country" : {
       "id" : 214,
@@ -1182,7 +1376,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : "Pep Guardiola",
-      "dob" : null,
+      "dob" : "1971-01-18",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -1202,7 +1396,7 @@
       "id" : 4974,
       "name" : "Juan Ignacio Martínez Jiménez",
       "nickname" : "Juan Ignacio Martínez",
-      "dob" : null,
+      "dob" : "1964-06-23",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -1212,9 +1406,9 @@
   "home_score" : 5,
   "away_score" : 0,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -1227,7 +1421,7 @@
   },
   "stadium" : {
     "id" : 342,
-    "name" : "Camp Nou",
+    "name" : "Camp Nou (Barcelona)",
     "country" : {
       "id" : 214,
       "name" : "Spain"
@@ -1267,7 +1461,7 @@
       "id" : 224,
       "name" : "Philippe Montanier",
       "nickname" : null,
-      "dob" : null,
+      "dob" : "1964-11-15",
       "country" : {
         "id" : 78,
         "name" : "France"
@@ -1287,7 +1481,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : "Pep Guardiola",
-      "dob" : null,
+      "dob" : "1971-01-18",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -1297,9 +1491,9 @@
   "home_score" : 2,
   "away_score" : 2,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -1312,7 +1506,7 @@
   },
   "stadium" : {
     "id" : 5043,
-    "name" : "Reale Arena",
+    "name" : "Reale Arena (Donostia-San Sebastián)",
     "country" : {
       "id" : 214,
       "name" : "Spain"
@@ -1320,7 +1514,7 @@
   },
   "referee" : {
     "id" : 180,
-    "name" : "Antonio Mateu",
+    "name" : "Antonio Miguel Mateu Lahoz",
     "country" : {
       "id" : 214,
       "name" : "Spain"
@@ -1352,7 +1546,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : "Pep Guardiola",
-      "dob" : null,
+      "dob" : "1971-01-18",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -1382,9 +1576,9 @@
   "home_score" : 4,
   "away_score" : 0,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -1397,7 +1591,7 @@
   },
   "stadium" : {
     "id" : 342,
-    "name" : "Camp Nou",
+    "name" : "Camp Nou (Barcelona)",
     "country" : {
       "id" : 214,
       "name" : "Spain"
@@ -1437,7 +1631,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : "Pep Guardiola",
-      "dob" : null,
+      "dob" : "1971-01-18",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -1457,7 +1651,7 @@
       "id" : 733,
       "name" : "Manuel Luis Pellegrini Ripamonti",
       "nickname" : "Manuel Pellegrini",
-      "dob" : null,
+      "dob" : "1953-09-16",
       "country" : {
         "id" : 45,
         "name" : "Chile"
@@ -1467,9 +1661,9 @@
   "home_score" : 4,
   "away_score" : 1,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -1482,96 +1676,19 @@
   },
   "stadium" : {
     "id" : 342,
-    "name" : "Camp Nou",
+    "name" : "Camp Nou (Barcelona)",
     "country" : {
       "id" : 214,
       "name" : "Spain"
     }
   },
   "referee" : {
-    "id" : 1069,
-    "name" : "Turienzo "
-  }
-}, {
-  "match_id" : 69328,
-  "match_date" : "2012-02-19",
-  "kick_off" : "21:30:00.000",
-  "competition" : {
-    "competition_id" : 11,
-    "country_name" : "Spain",
-    "competition_name" : "La Liga"
-  },
-  "season" : {
-    "season_id" : 23,
-    "season_name" : "2011/2012"
-  },
-  "home_team" : {
-    "home_team_id" : 217,
-    "home_team_name" : "Barcelona",
-    "home_team_gender" : "male",
-    "home_team_group" : null,
-    "country" : {
-      "id" : 214,
-      "name" : "Spain"
-    },
-    "managers" : [ {
-      "id" : 36,
-      "name" : "Josep Guardiola i Sala",
-      "nickname" : "Pep Guardiola",
-      "dob" : null,
-      "country" : {
-        "id" : 214,
-        "name" : "Spain"
-      }
-    } ]
-  },
-  "away_team" : {
-    "away_team_id" : 207,
-    "away_team_name" : "Valencia",
-    "away_team_gender" : "male",
-    "away_team_group" : null,
-    "country" : {
-      "id" : 214,
-      "name" : "Spain"
-    },
-    "managers" : [ {
-      "id" : 21,
-      "name" : "Unai Emery Etxegoien",
-      "nickname" : "Unai Emery",
-      "dob" : null,
-      "country" : {
-        "id" : 214,
-        "name" : "Spain"
-      }
-    } ]
-  },
-  "home_score" : 5,
-  "away_score" : 1,
-  "match_status" : "available",
-  "match_status_360" : "unscheduled",
-  "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
-  "metadata" : {
-    "data_version" : "1.1.0",
-    "shot_fidelity_version" : "2",
-    "xy_fidelity_version" : "2"
-  },
-  "match_week" : 24,
-  "competition_stage" : {
-    "id" : 1,
-    "name" : "Regular Season"
-  },
-  "stadium" : {
-    "id" : 342,
-    "name" : "Camp Nou",
+    "id" : 1004,
+    "name" : "Turienzo",
     "country" : {
       "id" : 214,
       "name" : "Spain"
     }
-  },
-  "referee" : {
-    "id" : 1069,
-    "name" : "Turienzo "
   }
 }, {
   "match_id" : 69265,
@@ -1619,7 +1736,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : "Pep Guardiola",
-      "dob" : null,
+      "dob" : "1971-01-18",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -1629,9 +1746,9 @@
   "home_score" : 0,
   "away_score" : 1,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -1644,15 +1761,19 @@
   },
   "stadium" : {
     "id" : 4656,
-    "name" : "Estadio Municipal El Molinón",
+    "name" : "Estadio Municipal El Molinón (Gijón)",
     "country" : {
-      "id" : 255,
-      "name" : "International"
+      "id" : 214,
+      "name" : "Spain"
     }
   },
   "referee" : {
     "id" : 1008,
-    "name" : "Clos Gómez"
+    "name" : "Clos Gómez",
+    "country" : {
+      "id" : 214,
+      "name" : "Spain"
+    }
   }
 }, {
   "match_id" : 69319,
@@ -1680,7 +1801,7 @@
       "id" : 57,
       "name" : "José Mel Pérez",
       "nickname" : "Pepe Mel",
-      "dob" : null,
+      "dob" : "1963-02-28",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -1700,7 +1821,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : "Pep Guardiola",
-      "dob" : null,
+      "dob" : "1971-01-18",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -1710,9 +1831,9 @@
   "home_score" : 2,
   "away_score" : 2,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -1725,7 +1846,7 @@
   },
   "stadium" : {
     "id" : 352,
-    "name" : "Estadio Benito Villamarín",
+    "name" : "Estadio Benito Villamarín (Sevilla)",
     "country" : {
       "id" : 214,
       "name" : "Spain"
@@ -1765,7 +1886,7 @@
       "id" : 383,
       "name" : "José Mario Felix dos Santos Mourinho",
       "nickname" : "José Mourinho",
-      "dob" : null,
+      "dob" : "1963-01-26",
       "country" : {
         "id" : 183,
         "name" : "Portugal"
@@ -1785,7 +1906,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : "Pep Guardiola",
-      "dob" : null,
+      "dob" : "1971-01-18",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -1795,9 +1916,9 @@
   "home_score" : 1,
   "away_score" : 3,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -1850,7 +1971,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : "Pep Guardiola",
-      "dob" : null,
+      "dob" : "1971-01-18",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -1870,7 +1991,7 @@
       "id" : 57,
       "name" : "José Mel Pérez",
       "nickname" : "Pepe Mel",
-      "dob" : null,
+      "dob" : "1963-02-28",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -1880,9 +2001,9 @@
   "home_score" : 4,
   "away_score" : 2,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -1895,7 +2016,7 @@
   },
   "stadium" : {
     "id" : 342,
-    "name" : "Camp Nou",
+    "name" : "Camp Nou (Barcelona)",
     "country" : {
       "id" : 214,
       "name" : "Spain"
@@ -1955,7 +2076,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : "Pep Guardiola",
-      "dob" : null,
+      "dob" : "1971-01-18",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -1965,9 +2086,9 @@
   "home_score" : 1,
   "away_score" : 0,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -1980,7 +2101,7 @@
   },
   "stadium" : {
     "id" : 354,
-    "name" : "Coliseum Alfonso Pérez",
+    "name" : "Coliseum Alfonso Pérez (Getafe)",
     "country" : {
       "id" : 214,
       "name" : "Spain"
@@ -1988,7 +2109,11 @@
   },
   "referee" : {
     "id" : 1003,
-    "name" : "Fernando Teixeira"
+    "name" : "Fernando Teixeira",
+    "country" : {
+      "id" : 214,
+      "name" : "Spain"
+    }
   }
 }, {
   "match_id" : 69336,
@@ -2036,7 +2161,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : "Pep Guardiola",
-      "dob" : null,
+      "dob" : "1971-01-18",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -2046,9 +2171,9 @@
   "home_score" : 3,
   "away_score" : 2,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -2060,8 +2185,8 @@
     "name" : "Regular Season"
   },
   "stadium" : {
-    "id" : 4466,
-    "name" : "Estadio El Sadar",
+    "id" : 4650,
+    "name" : "estadio el sadar pamplona irunea",
     "country" : {
       "id" : 214,
       "name" : "Spain"
@@ -2101,7 +2226,7 @@
       "id" : 505,
       "name" : "José Miguel González Martín del Campo",
       "nickname" : "Míchel",
-      "dob" : null,
+      "dob" : "1963-03-23",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -2121,7 +2246,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : "Pep Guardiola",
-      "dob" : null,
+      "dob" : "1971-01-18",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -2131,9 +2256,9 @@
   "home_score" : 0,
   "away_score" : 2,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -2146,7 +2271,7 @@
   },
   "stadium" : {
     "id" : 349,
-    "name" : "Estadio Ramón Sánchez Pizjuán",
+    "name" : "Estadio Ramón Sánchez Pizjuán (Sevilla)",
     "country" : {
       "id" : 214,
       "name" : "Spain"
@@ -2186,7 +2311,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : "Pep Guardiola",
-      "dob" : null,
+      "dob" : "1971-01-18",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -2216,9 +2341,9 @@
   "home_score" : 5,
   "away_score" : 0,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -2231,15 +2356,19 @@
   },
   "stadium" : {
     "id" : 342,
-    "name" : "Camp Nou",
+    "name" : "Camp Nou (Barcelona)",
     "country" : {
       "id" : 214,
       "name" : "Spain"
     }
   },
   "referee" : {
-    "id" : 1069,
-    "name" : "Turienzo "
+    "id" : 1004,
+    "name" : "Turienzo",
+    "country" : {
+      "id" : 214,
+      "name" : "Spain"
+    }
   }
 }, {
   "match_id" : 69320,
@@ -2267,7 +2396,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : "Pep Guardiola",
-      "dob" : null,
+      "dob" : "1971-01-18",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -2287,7 +2416,7 @@
       "id" : 81,
       "name" : "Mauricio Roberto Pochettino Trossero",
       "nickname" : "Mauricio Pochettino",
-      "dob" : null,
+      "dob" : "1972-03-02",
       "country" : {
         "id" : 11,
         "name" : "Argentina"
@@ -2297,9 +2426,9 @@
   "home_score" : 4,
   "away_score" : 0,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -2312,7 +2441,7 @@
   },
   "stadium" : {
     "id" : 342,
-    "name" : "Camp Nou",
+    "name" : "Camp Nou (Barcelona)",
     "country" : {
       "id" : 214,
       "name" : "Spain"
@@ -2320,7 +2449,11 @@
   },
   "referee" : {
     "id" : 1003,
-    "name" : "Fernando Teixeira"
+    "name" : "Fernando Teixeira",
+    "country" : {
+      "id" : 214,
+      "name" : "Spain"
+    }
   }
 }, {
   "match_id" : 69312,
@@ -2348,7 +2481,7 @@
       "id" : 81,
       "name" : "Mauricio Roberto Pochettino Trossero",
       "nickname" : "Mauricio Pochettino",
-      "dob" : null,
+      "dob" : "1972-03-02",
       "country" : {
         "id" : 11,
         "name" : "Argentina"
@@ -2368,7 +2501,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : "Pep Guardiola",
-      "dob" : null,
+      "dob" : "1971-01-18",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -2378,9 +2511,9 @@
   "home_score" : 1,
   "away_score" : 1,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -2400,8 +2533,12 @@
     }
   },
   "referee" : {
-    "id" : 1069,
-    "name" : "Turienzo "
+    "id" : 1004,
+    "name" : "Turienzo",
+    "country" : {
+      "id" : 214,
+      "name" : "Spain"
+    }
   }
 }, {
   "match_id" : 69314,
@@ -2429,7 +2566,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : "Pep Guardiola",
-      "dob" : null,
+      "dob" : "1971-01-18",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -2449,7 +2586,7 @@
       "id" : 497,
       "name" : "Joaquín de Jesús Caparrós Camino",
       "nickname" : "Joaquín Caparrós",
-      "dob" : null,
+      "dob" : "1955-10-15",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -2459,9 +2596,9 @@
   "home_score" : 5,
   "away_score" : 0,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -2474,7 +2611,7 @@
   },
   "stadium" : {
     "id" : 342,
-    "name" : "Camp Nou",
+    "name" : "Camp Nou (Barcelona)",
     "country" : {
       "id" : 214,
       "name" : "Spain"
@@ -2482,7 +2619,11 @@
   },
   "referee" : {
     "id" : 1015,
-    "name" : "Pedro Pérez"
+    "name" : "Pedro Pérez",
+    "country" : {
+      "id" : 214,
+      "name" : "Spain"
+    }
   }
 }, {
   "match_id" : 69318,
@@ -2530,7 +2671,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : "Pep Guardiola",
-      "dob" : null,
+      "dob" : "1971-01-18",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -2540,9 +2681,9 @@
   "home_score" : 0,
   "away_score" : 1,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -2555,7 +2696,7 @@
   },
   "stadium" : {
     "id" : 4667,
-    "name" : "Estadio Nuevo Los Cármenes",
+    "name" : "Estadio Nuevo Los Cármenes (Granada)",
     "country" : {
       "id" : 214,
       "name" : "Spain"
@@ -2563,88 +2704,11 @@
   },
   "referee" : {
     "id" : 997,
-    "name" : "César Muñiz"
-  }
-}, {
-  "match_id" : 69329,
-  "match_date" : "2011-10-22",
-  "kick_off" : "22:00:00.000",
-  "competition" : {
-    "competition_id" : 11,
-    "country_name" : "Spain",
-    "competition_name" : "La Liga"
-  },
-  "season" : {
-    "season_id" : 23,
-    "season_name" : "2011/2012"
-  },
-  "home_team" : {
-    "home_team_id" : 217,
-    "home_team_name" : "Barcelona",
-    "home_team_gender" : "male",
-    "home_team_group" : null,
+    "name" : "César Muñiz",
     "country" : {
-      "id" : 214,
-      "name" : "Spain"
-    },
-    "managers" : [ {
-      "id" : 36,
-      "name" : "Josep Guardiola i Sala",
-      "nickname" : "Pep Guardiola",
-      "dob" : null,
-      "country" : {
-        "id" : 214,
-        "name" : "Spain"
-      }
-    } ]
-  },
-  "away_team" : {
-    "away_team_id" : 213,
-    "away_team_name" : "Sevilla",
-    "away_team_gender" : "male",
-    "away_team_group" : null,
-    "country" : {
-      "id" : 214,
-      "name" : "Spain"
-    },
-    "managers" : [ {
-      "id" : 211,
-      "name" : "Marcelino García Toral",
-      "nickname" : "Marcelino",
-      "dob" : null,
-      "country" : {
-        "id" : 214,
-        "name" : "Spain"
-      }
-    } ]
-  },
-  "home_score" : 0,
-  "away_score" : 0,
-  "match_status" : "available",
-  "match_status_360" : "unscheduled",
-  "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
-  "metadata" : {
-    "data_version" : "1.1.0",
-    "shot_fidelity_version" : "2",
-    "xy_fidelity_version" : "2"
-  },
-  "match_week" : 9,
-  "competition_stage" : {
-    "id" : 1,
-    "name" : "Regular Season"
-  },
-  "stadium" : {
-    "id" : 342,
-    "name" : "Camp Nou",
-    "country" : {
-      "id" : 214,
-      "name" : "Spain"
+      "id" : 22,
+      "name" : "Belgium"
     }
-  },
-  "referee" : {
-    "id" : 1070,
-    "name" : "Iturralde "
   }
 }, {
   "match_id" : 69338,
@@ -2692,7 +2756,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : "Pep Guardiola",
-      "dob" : null,
+      "dob" : "1971-01-18",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -2702,9 +2766,9 @@
   "home_score" : 0,
   "away_score" : 0,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -2717,7 +2781,7 @@
   },
   "stadium" : {
     "id" : 361,
-    "name" : "Estadio de la Cerámica",
+    "name" : "Estadio de la Cerámica (Villarreal)",
     "country" : {
       "id" : 214,
       "name" : "Spain"
@@ -2757,7 +2821,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : "Pep Guardiola",
-      "dob" : null,
+      "dob" : "1971-01-18",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -2787,9 +2851,9 @@
   "home_score" : 8,
   "away_score" : 0,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -2802,7 +2866,7 @@
   },
   "stadium" : {
     "id" : 342,
-    "name" : "Camp Nou",
+    "name" : "Camp Nou (Barcelona)",
     "country" : {
       "id" : 214,
       "name" : "Spain"
@@ -2810,7 +2874,11 @@
   },
   "referee" : {
     "id" : 997,
-    "name" : "César Muñiz"
+    "name" : "César Muñiz",
+    "country" : {
+      "id" : 22,
+      "name" : "Belgium"
+    }
   }
 }, {
   "match_id" : 70224,
@@ -2858,7 +2926,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : "Pep Guardiola",
-      "dob" : null,
+      "dob" : "1971-01-18",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -2868,9 +2936,9 @@
   "home_score" : 0,
   "away_score" : 7,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -2885,13 +2953,17 @@
     "id" : 4640,
     "name" : "Estadio de Vallecas",
     "country" : {
-      "id" : 255,
-      "name" : "International"
+      "id" : 214,
+      "name" : "Spain"
     }
   },
   "referee" : {
     "id" : 1012,
-    "name" : "Carlos Delgado"
+    "name" : "Carlos Delgado",
+    "country" : {
+      "id" : 214,
+      "name" : "Spain"
+    }
   }
 }, {
   "match_id" : 70221,
@@ -2919,7 +2991,7 @@
       "id" : 4974,
       "name" : "Juan Ignacio Martínez Jiménez",
       "nickname" : "Juan Ignacio Martínez",
-      "dob" : null,
+      "dob" : "1964-06-23",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -2939,7 +3011,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : "Pep Guardiola",
-      "dob" : null,
+      "dob" : "1971-01-18",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -2949,9 +3021,9 @@
   "home_score" : 1,
   "away_score" : 2,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -2964,7 +3036,7 @@
   },
   "stadium" : {
     "id" : 350,
-    "name" : "Estadio Ciudad de Valencia",
+    "name" : "Estadio Ciudad de Valencia (Valencia)",
     "country" : {
       "id" : 214,
       "name" : "Spain"
@@ -3004,7 +3076,7 @@
       "id" : 36,
       "name" : "Josep Guardiola i Sala",
       "nickname" : "Pep Guardiola",
-      "dob" : null,
+      "dob" : "1971-01-18",
       "country" : {
         "id" : 214,
         "name" : "Spain"
@@ -3024,7 +3096,7 @@
       "id" : 269,
       "name" : "Marcelo Alberto Bielsa Caldera",
       "nickname" : "Marcelo Bielsa",
-      "dob" : null,
+      "dob" : "1955-07-21",
       "country" : {
         "id" : 11,
         "name" : "Argentina"
@@ -3034,9 +3106,9 @@
   "home_score" : 2,
   "away_score" : 0,
   "match_status" : "available",
-  "match_status_360" : "unscheduled",
+  "match_status_360" : "scheduled",
   "last_updated" : "2020-07-29T05:00",
-  "last_updated_360" : null,
+  "last_updated_360" : "2021-06-13T16:17:31.694",
   "metadata" : {
     "data_version" : "1.1.0",
     "shot_fidelity_version" : "2",
@@ -3049,7 +3121,7 @@
   },
   "stadium" : {
     "id" : 342,
-    "name" : "Camp Nou",
+    "name" : "Camp Nou (Barcelona)",
     "country" : {
       "id" : 214,
       "name" : "Spain"
@@ -3057,7 +3129,7 @@
   },
   "referee" : {
     "id" : 180,
-    "name" : "Antonio Mateu",
+    "name" : "Antonio Miguel Mateu Lahoz",
     "country" : {
       "id" : 214,
       "name" : "Spain"

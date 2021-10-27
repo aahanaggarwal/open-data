@@ -98,7 +98,7 @@
     }, {
       "player" : {
         "id" : 5625,
-        "name" : "Emil Forsberg"
+        "name" : "Emil Peter Forsberg"
       },
       "position" : {
         "id" : 16,
@@ -354,7 +354,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -1062,16 +1062,82 @@
       "name" : "Left Foot"
     },
     "freeze_frame" : [ {
-      "location" : [ 101.0, 31.0 ],
+      "location" : [ 93.0, 55.0 ],
       "player" : {
-        "id" : 5612,
-        "name" : "Mikael Lustig"
+        "id" : 5624,
+        "name" : "Albin Ekdal"
       },
       "position" : {
-        "id" : 2,
-        "name" : "Right Back"
+        "id" : 15,
+        "name" : "Left Center Midfield"
       },
       "teammate" : false
+    }, {
+      "location" : [ 82.0, 39.0 ],
+      "player" : {
+        "id" : 3500,
+        "name" : "Granit Xhaka"
+      },
+      "position" : {
+        "id" : 15,
+        "name" : "Left Center Midfield"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 82.0, 21.0 ],
+      "player" : {
+        "id" : 5613,
+        "name" : "Viktor Claesson"
+      },
+      "position" : {
+        "id" : 17,
+        "name" : "Right Wing"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 100.0, 45.0 ],
+      "player" : {
+        "id" : 5554,
+        "name" : "Blerim Džemaili"
+      },
+      "position" : {
+        "id" : 19,
+        "name" : "Center Attacking Midfield"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 99.0, 35.0 ],
+      "player" : {
+        "id" : 5835,
+        "name" : "Josip Drmic"
+      },
+      "position" : {
+        "id" : 23,
+        "name" : "Center Forward"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 119.0, 42.0 ],
+      "player" : {
+        "id" : 5622,
+        "name" : "Robin Olsen"
+      },
+      "position" : {
+        "id" : 1,
+        "name" : "Goalkeeper"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 101.0, 28.0 ],
+      "player" : {
+        "id" : 5548,
+        "name" : "Steven Zuber"
+      },
+      "position" : {
+        "id" : 21,
+        "name" : "Left Wing"
+      },
+      "teammate" : true
     }, {
       "location" : [ 101.0, 35.0 ],
       "player" : {
@@ -1095,54 +1161,10 @@
       },
       "teammate" : false
     }, {
-      "location" : [ 102.0, 45.0 ],
-      "player" : {
-        "id" : 5607,
-        "name" : "Andreas Granqvist"
-      },
-      "position" : {
-        "id" : 5,
-        "name" : "Left Center Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 97.0, 58.0 ],
-      "player" : {
-        "id" : 5621,
-        "name" : "Ludwig Augustinsson"
-      },
-      "position" : {
-        "id" : 6,
-        "name" : "Left Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 93.0, 55.0 ],
-      "player" : {
-        "id" : 5624,
-        "name" : "Albin Ekdal"
-      },
-      "position" : {
-        "id" : 15,
-        "name" : "Left Center Midfield"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 82.0, 21.0 ],
-      "player" : {
-        "id" : 5613,
-        "name" : "Viktor Claesson"
-      },
-      "position" : {
-        "id" : 17,
-        "name" : "Right Wing"
-      },
-      "teammate" : false
-    }, {
       "location" : [ 81.0, 54.0 ],
       "player" : {
         "id" : 5625,
-        "name" : "Emil Forsberg"
+        "name" : "Emil Peter Forsberg"
       },
       "position" : {
         "id" : 16,
@@ -1150,49 +1172,16 @@
       },
       "teammate" : false
     }, {
-      "location" : [ 100.0, 45.0 ],
+      "location" : [ 101.0, 31.0 ],
       "player" : {
-        "id" : 5554,
-        "name" : "Blerim Džemaili"
+        "id" : 5612,
+        "name" : "Mikael Lustig"
       },
       "position" : {
-        "id" : 19,
-        "name" : "Center Attacking Midfield"
+        "id" : 2,
+        "name" : "Right Back"
       },
-      "teammate" : true
-    }, {
-      "location" : [ 101.0, 28.0 ],
-      "player" : {
-        "id" : 5548,
-        "name" : "Steven Zuber"
-      },
-      "position" : {
-        "id" : 21,
-        "name" : "Left Wing"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 99.0, 35.0 ],
-      "player" : {
-        "id" : 5835,
-        "name" : "Josip Drmic"
-      },
-      "position" : {
-        "id" : 23,
-        "name" : "Center Forward"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 82.0, 39.0 ],
-      "player" : {
-        "id" : 3500,
-        "name" : "Granit Xhaka"
-      },
-      "position" : {
-        "id" : 15,
-        "name" : "Left Center Midfield"
-      },
-      "teammate" : true
+      "teammate" : false
     }, {
       "location" : [ 75.0, 62.0 ],
       "player" : {
@@ -1205,14 +1194,25 @@
       },
       "teammate" : true
     }, {
-      "location" : [ 119.0, 42.0 ],
+      "location" : [ 97.0, 58.0 ],
       "player" : {
-        "id" : 5622,
-        "name" : "Robin Olsen"
+        "id" : 5621,
+        "name" : "Ludwig Augustinsson"
       },
       "position" : {
-        "id" : 1,
-        "name" : "Goalkeeper"
+        "id" : 6,
+        "name" : "Left Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 102.0, 45.0 ],
+      "player" : {
+        "id" : 5607,
+        "name" : "Andreas Granqvist"
+      },
+      "position" : {
+        "id" : 5,
+        "name" : "Left Center Back"
       },
       "teammate" : false
     } ]
@@ -2535,7 +2535,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -5647,7 +5647,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -5967,7 +5967,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -6792,7 +6792,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -6832,7 +6832,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -6942,7 +6942,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -8385,7 +8385,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -11089,7 +11089,7 @@
   "pass" : {
     "recipient" : {
       "id" : 5625,
-      "name" : "Emil Forsberg"
+      "name" : "Emil Peter Forsberg"
     },
     "length" : 19.849434,
     "angle" : -0.8567056,
@@ -11129,7 +11129,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -11163,7 +11163,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -11201,7 +11201,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -12336,25 +12336,36 @@
       "name" : "Right Foot"
     },
     "freeze_frame" : [ {
-      "location" : [ 120.0, 39.0 ],
+      "location" : [ 102.0, 33.0 ],
       "player" : {
-        "id" : 5622,
-        "name" : "Robin Olsen"
+        "id" : 5624,
+        "name" : "Albin Ekdal"
       },
       "position" : {
-        "id" : 1,
-        "name" : "Goalkeeper"
+        "id" : 15,
+        "name" : "Left Center Midfield"
       },
       "teammate" : false
     }, {
-      "location" : [ 105.0, 24.0 ],
+      "location" : [ 91.0, 55.0 ],
       "player" : {
-        "id" : 5612,
-        "name" : "Mikael Lustig"
+        "id" : 3533,
+        "name" : "Xherdan Shaqiri"
       },
       "position" : {
-        "id" : 2,
-        "name" : "Right Back"
+        "id" : 17,
+        "name" : "Right Wing"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 86.0, 12.0 ],
+      "player" : {
+        "id" : 5613,
+        "name" : "Viktor Claesson"
+      },
+      "position" : {
+        "id" : 17,
+        "name" : "Right Wing"
       },
       "teammate" : false
     }, {
@@ -12380,16 +12391,16 @@
       },
       "teammate" : true
     }, {
-      "location" : [ 91.0, 55.0 ],
+      "location" : [ 120.0, 39.0 ],
       "player" : {
-        "id" : 3533,
-        "name" : "Xherdan Shaqiri"
+        "id" : 5622,
+        "name" : "Robin Olsen"
       },
       "position" : {
-        "id" : 17,
-        "name" : "Right Wing"
+        "id" : 1,
+        "name" : "Goalkeeper"
       },
-      "teammate" : true
+      "teammate" : false
     }, {
       "location" : [ 102.0, 28.0 ],
       "player" : {
@@ -12413,25 +12424,14 @@
       },
       "teammate" : false
     }, {
-      "location" : [ 109.0, 39.0 ],
+      "location" : [ 105.0, 24.0 ],
       "player" : {
-        "id" : 5607,
-        "name" : "Andreas Granqvist"
+        "id" : 5612,
+        "name" : "Mikael Lustig"
       },
       "position" : {
-        "id" : 5,
-        "name" : "Left Center Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 102.0, 33.0 ],
-      "player" : {
-        "id" : 5624,
-        "name" : "Albin Ekdal"
-      },
-      "position" : {
-        "id" : 15,
-        "name" : "Left Center Midfield"
+        "id" : 2,
+        "name" : "Right Back"
       },
       "teammate" : false
     }, {
@@ -12446,14 +12446,14 @@
       },
       "teammate" : false
     }, {
-      "location" : [ 86.0, 12.0 ],
+      "location" : [ 109.0, 39.0 ],
       "player" : {
-        "id" : 5613,
-        "name" : "Viktor Claesson"
+        "id" : 5607,
+        "name" : "Andreas Granqvist"
       },
       "position" : {
-        "id" : 17,
-        "name" : "Right Wing"
+        "id" : 5,
+        "name" : "Left Center Back"
       },
       "teammate" : false
     } ]
@@ -13335,14 +13335,14 @@
       },
       "teammate" : false
     }, {
-      "location" : [ 106.0, 51.0 ],
+      "location" : [ 92.0, 49.0 ],
       "player" : {
-        "id" : 5544,
-        "name" : "Ricardo Iván Rodríguez Araya"
+        "id" : 5540,
+        "name" : "Valon Behrami"
       },
       "position" : {
-        "id" : 6,
-        "name" : "Left Back"
+        "id" : 13,
+        "name" : "Right Center Midfield"
       },
       "teammate" : false
     }, {
@@ -13368,6 +13368,17 @@
       },
       "teammate" : false
     }, {
+      "location" : [ 106.0, 51.0 ],
+      "player" : {
+        "id" : 5544,
+        "name" : "Ricardo Iván Rodríguez Araya"
+      },
+      "position" : {
+        "id" : 6,
+        "name" : "Left Back"
+      },
+      "teammate" : false
+    }, {
       "location" : [ 93.0, 46.0 ],
       "player" : {
         "id" : 5549,
@@ -13376,17 +13387,6 @@
       "position" : {
         "id" : 5,
         "name" : "Left Center Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 92.0, 49.0 ],
-      "player" : {
-        "id" : 5540,
-        "name" : "Valon Behrami"
-      },
-      "position" : {
-        "id" : 13,
-        "name" : "Right Center Midfield"
       },
       "teammate" : false
     } ]
@@ -13981,28 +13981,6 @@
       },
       "teammate" : false
     }, {
-      "location" : [ 104.0, 23.0 ],
-      "player" : {
-        "id" : 6359,
-        "name" : "Johan Danon Djourou-Gbadjere"
-      },
-      "position" : {
-        "id" : 3,
-        "name" : "Right Center Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 116.0, 40.0 ],
-      "player" : {
-        "id" : 5550,
-        "name" : "Yann Sommer"
-      },
-      "position" : {
-        "id" : 1,
-        "name" : "Goalkeeper"
-      },
-      "teammate" : false
-    }, {
       "location" : [ 104.0, 53.0 ],
       "player" : {
         "id" : 5613,
@@ -14014,14 +13992,14 @@
       },
       "teammate" : true
     }, {
-      "location" : [ 108.0, 45.0 ],
+      "location" : [ 116.0, 40.0 ],
       "player" : {
-        "id" : 5549,
-        "name" : "Manuel Obafemi Akanji"
+        "id" : 5550,
+        "name" : "Yann Sommer"
       },
       "position" : {
-        "id" : 5,
-        "name" : "Left Center Back"
+        "id" : 1,
+        "name" : "Goalkeeper"
       },
       "teammate" : false
     }, {
@@ -14036,6 +14014,39 @@
       },
       "teammate" : false
     }, {
+      "location" : [ 105.0, 33.0 ],
+      "player" : {
+        "id" : 4417,
+        "name" : "Ola Toivonen"
+      },
+      "position" : {
+        "id" : 24,
+        "name" : "Left Center Forward"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 104.0, 23.0 ],
+      "player" : {
+        "id" : 6359,
+        "name" : "Johan Danon Djourou-Gbadjere"
+      },
+      "position" : {
+        "id" : 3,
+        "name" : "Right Center Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 98.0, 24.0 ],
+      "player" : {
+        "id" : 5625,
+        "name" : "Emil Peter Forsberg"
+      },
+      "position" : {
+        "id" : 16,
+        "name" : "Left Midfield"
+      },
+      "teammate" : true
+    }, {
       "location" : [ 93.0, 57.0 ],
       "player" : {
         "id" : 5544,
@@ -14047,27 +14058,16 @@
       },
       "teammate" : false
     }, {
-      "location" : [ 98.0, 24.0 ],
+      "location" : [ 108.0, 45.0 ],
       "player" : {
-        "id" : 5625,
-        "name" : "Emil Forsberg"
+        "id" : 5549,
+        "name" : "Manuel Obafemi Akanji"
       },
       "position" : {
-        "id" : 16,
-        "name" : "Left Midfield"
+        "id" : 5,
+        "name" : "Left Center Back"
       },
-      "teammate" : true
-    }, {
-      "location" : [ 105.0, 33.0 ],
-      "player" : {
-        "id" : 4417,
-        "name" : "Ola Toivonen"
-      },
-      "position" : {
-        "id" : 24,
-        "name" : "Left Center Forward"
-      },
-      "teammate" : true
+      "teammate" : false
     } ]
   }
 }, {
@@ -14322,94 +14322,6 @@
       "name" : "Right Foot"
     },
     "freeze_frame" : [ {
-      "location" : [ 102.0, 39.0 ],
-      "player" : {
-        "id" : 5625,
-        "name" : "Emil Forsberg"
-      },
-      "position" : {
-        "id" : 16,
-        "name" : "Left Midfield"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 118.0, 40.0 ],
-      "player" : {
-        "id" : 5550,
-        "name" : "Yann Sommer"
-      },
-      "position" : {
-        "id" : 1,
-        "name" : "Goalkeeper"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 110.0, 47.0 ],
-      "player" : {
-        "id" : 5544,
-        "name" : "Ricardo Iván Rodríguez Araya"
-      },
-      "position" : {
-        "id" : 6,
-        "name" : "Left Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 110.0, 44.0 ],
-      "player" : {
-        "id" : 4417,
-        "name" : "Ola Toivonen"
-      },
-      "position" : {
-        "id" : 24,
-        "name" : "Left Center Forward"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 106.0, 35.0 ],
-      "player" : {
-        "id" : 5546,
-        "name" : "Michael Lang"
-      },
-      "position" : {
-        "id" : 2,
-        "name" : "Right Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 109.0, 37.0 ],
-      "player" : {
-        "id" : 6359,
-        "name" : "Johan Danon Djourou-Gbadjere"
-      },
-      "position" : {
-        "id" : 3,
-        "name" : "Right Center Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 110.0, 41.0 ],
-      "player" : {
-        "id" : 5540,
-        "name" : "Valon Behrami"
-      },
-      "position" : {
-        "id" : 13,
-        "name" : "Right Center Midfield"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 107.0, 41.0 ],
-      "player" : {
-        "id" : 5549,
-        "name" : "Manuel Obafemi Akanji"
-      },
-      "position" : {
-        "id" : 5,
-        "name" : "Left Center Back"
-      },
-      "teammate" : false
-    }, {
       "location" : [ 105.0, 43.0 ],
       "player" : {
         "id" : 3500,
@@ -14442,6 +14354,94 @@
         "name" : "Right Center Forward"
       },
       "teammate" : true
+    }, {
+      "location" : [ 118.0, 40.0 ],
+      "player" : {
+        "id" : 5550,
+        "name" : "Yann Sommer"
+      },
+      "position" : {
+        "id" : 1,
+        "name" : "Goalkeeper"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 110.0, 41.0 ],
+      "player" : {
+        "id" : 5540,
+        "name" : "Valon Behrami"
+      },
+      "position" : {
+        "id" : 13,
+        "name" : "Right Center Midfield"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 110.0, 44.0 ],
+      "player" : {
+        "id" : 4417,
+        "name" : "Ola Toivonen"
+      },
+      "position" : {
+        "id" : 24,
+        "name" : "Left Center Forward"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 109.0, 37.0 ],
+      "player" : {
+        "id" : 6359,
+        "name" : "Johan Danon Djourou-Gbadjere"
+      },
+      "position" : {
+        "id" : 3,
+        "name" : "Right Center Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 102.0, 39.0 ],
+      "player" : {
+        "id" : 5625,
+        "name" : "Emil Peter Forsberg"
+      },
+      "position" : {
+        "id" : 16,
+        "name" : "Left Midfield"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 106.0, 35.0 ],
+      "player" : {
+        "id" : 5546,
+        "name" : "Michael Lang"
+      },
+      "position" : {
+        "id" : 2,
+        "name" : "Right Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 110.0, 47.0 ],
+      "player" : {
+        "id" : 5544,
+        "name" : "Ricardo Iván Rodríguez Araya"
+      },
+      "position" : {
+        "id" : 6,
+        "name" : "Left Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 107.0, 41.0 ],
+      "player" : {
+        "id" : 5549,
+        "name" : "Manuel Obafemi Akanji"
+      },
+      "position" : {
+        "id" : 5,
+        "name" : "Left Center Back"
+      },
+      "teammate" : false
     } ]
   }
 }, {
@@ -19189,7 +19189,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -19354,7 +19354,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -20682,7 +20682,7 @@
   "pass" : {
     "recipient" : {
       "id" : 5625,
-      "name" : "Emil Forsberg"
+      "name" : "Emil Peter Forsberg"
     },
     "length" : 15.264338,
     "angle" : -0.551655,
@@ -20757,7 +20757,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -20792,7 +20792,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -20831,7 +20831,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -21318,7 +21318,7 @@
   "pass" : {
     "recipient" : {
       "id" : 5625,
-      "name" : "Emil Forsberg"
+      "name" : "Emil Peter Forsberg"
     },
     "length" : 10.049875,
     "angle" : -1.670465,
@@ -21358,7 +21358,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -21392,7 +21392,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -21466,7 +21466,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -21774,7 +21774,7 @@
   "pass" : {
     "recipient" : {
       "id" : 5625,
-      "name" : "Emil Forsberg"
+      "name" : "Emil Peter Forsberg"
     },
     "length" : 4.1231055,
     "angle" : 2.896614,
@@ -21814,7 +21814,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -21849,7 +21849,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -21923,7 +21923,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -22682,27 +22682,27 @@
       "name" : "Right Foot"
     },
     "freeze_frame" : [ {
-      "location" : [ 102.0, 46.0 ],
+      "location" : [ 88.0, 31.0 ],
       "player" : {
-        "id" : 5625,
-        "name" : "Emil Forsberg"
+        "id" : 5624,
+        "name" : "Albin Ekdal"
       },
       "position" : {
-        "id" : 16,
-        "name" : "Left Midfield"
+        "id" : 15,
+        "name" : "Left Center Midfield"
       },
       "teammate" : true
     }, {
-      "location" : [ 104.0, 43.0 ],
+      "location" : [ 101.0, 42.0 ],
       "player" : {
-        "id" : 4417,
-        "name" : "Ola Toivonen"
+        "id" : 3500,
+        "name" : "Granit Xhaka"
       },
       "position" : {
-        "id" : 24,
-        "name" : "Left Center Forward"
+        "id" : 15,
+        "name" : "Left Center Midfield"
       },
-      "teammate" : true
+      "teammate" : false
     }, {
       "location" : [ 108.0, 40.0 ],
       "player" : {
@@ -22715,38 +22715,16 @@
       },
       "teammate" : true
     }, {
-      "location" : [ 105.0, 49.0 ],
+      "location" : [ 104.0, 33.0 ],
       "player" : {
-        "id" : 5544,
-        "name" : "Ricardo Iván Rodríguez Araya"
+        "id" : 11098,
+        "name" : "Marcus Berg"
       },
       "position" : {
-        "id" : 6,
-        "name" : "Left Back"
+        "id" : 22,
+        "name" : "Right Center Forward"
       },
-      "teammate" : false
-    }, {
-      "location" : [ 108.0, 43.0 ],
-      "player" : {
-        "id" : 5549,
-        "name" : "Manuel Obafemi Akanji"
-      },
-      "position" : {
-        "id" : 5,
-        "name" : "Left Center Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 104.0, 39.0 ],
-      "player" : {
-        "id" : 6359,
-        "name" : "Johan Danon Djourou-Gbadjere"
-      },
-      "position" : {
-        "id" : 3,
-        "name" : "Right Center Back"
-      },
-      "teammate" : false
+      "teammate" : true
     }, {
       "location" : [ 118.0, 41.0 ],
       "player" : {
@@ -22756,17 +22734,6 @@
       "position" : {
         "id" : 1,
         "name" : "Goalkeeper"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 104.0, 26.0 ],
-      "player" : {
-        "id" : 5546,
-        "name" : "Michael Lang"
-      },
-      "position" : {
-        "id" : 2,
-        "name" : "Right Back"
       },
       "teammate" : false
     }, {
@@ -22792,38 +22759,71 @@
       },
       "teammate" : false
     }, {
-      "location" : [ 88.0, 31.0 ],
+      "location" : [ 104.0, 43.0 ],
       "player" : {
-        "id" : 5624,
-        "name" : "Albin Ekdal"
+        "id" : 4417,
+        "name" : "Ola Toivonen"
       },
       "position" : {
-        "id" : 15,
-        "name" : "Left Center Midfield"
+        "id" : 24,
+        "name" : "Left Center Forward"
       },
       "teammate" : true
     }, {
-      "location" : [ 101.0, 42.0 ],
+      "location" : [ 104.0, 39.0 ],
       "player" : {
-        "id" : 3500,
-        "name" : "Granit Xhaka"
+        "id" : 6359,
+        "name" : "Johan Danon Djourou-Gbadjere"
       },
       "position" : {
-        "id" : 15,
-        "name" : "Left Center Midfield"
+        "id" : 3,
+        "name" : "Right Center Back"
       },
       "teammate" : false
     }, {
-      "location" : [ 104.0, 33.0 ],
+      "location" : [ 102.0, 46.0 ],
       "player" : {
-        "id" : 11098,
-        "name" : "Marcus Berg"
+        "id" : 5625,
+        "name" : "Emil Peter Forsberg"
       },
       "position" : {
-        "id" : 22,
-        "name" : "Right Center Forward"
+        "id" : 16,
+        "name" : "Left Midfield"
       },
       "teammate" : true
+    }, {
+      "location" : [ 104.0, 26.0 ],
+      "player" : {
+        "id" : 5546,
+        "name" : "Michael Lang"
+      },
+      "position" : {
+        "id" : 2,
+        "name" : "Right Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 105.0, 49.0 ],
+      "player" : {
+        "id" : 5544,
+        "name" : "Ricardo Iván Rodríguez Araya"
+      },
+      "position" : {
+        "id" : 6,
+        "name" : "Left Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 108.0, 43.0 ],
+      "player" : {
+        "id" : 5549,
+        "name" : "Manuel Obafemi Akanji"
+      },
+      "position" : {
+        "id" : 5,
+        "name" : "Left Center Back"
+      },
+      "teammate" : false
     } ]
   }
 }, {
@@ -25300,7 +25300,7 @@
   "pass" : {
     "recipient" : {
       "id" : 5625,
-      "name" : "Emil Forsberg"
+      "name" : "Emil Peter Forsberg"
     },
     "length" : 29.15476,
     "angle" : 0.10308161,
@@ -25344,7 +25344,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -25424,7 +25424,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -25469,7 +25469,7 @@
   "pass" : {
     "recipient" : {
       "id" : 5625,
-      "name" : "Emil Forsberg"
+      "name" : "Emil Peter Forsberg"
     },
     "length" : 30.413813,
     "angle" : -0.16514868,
@@ -25517,7 +25517,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -29374,7 +29374,7 @@
   "pass" : {
     "recipient" : {
       "id" : 5625,
-      "name" : "Emil Forsberg"
+      "name" : "Emil Peter Forsberg"
     },
     "length" : 12.0415945,
     "angle" : -0.7266424,
@@ -29414,7 +29414,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -29448,7 +29448,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -29523,7 +29523,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -29929,7 +29929,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -30195,7 +30195,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -34455,7 +34455,7 @@
   "pass" : {
     "recipient" : {
       "id" : 5625,
-      "name" : "Emil Forsberg"
+      "name" : "Emil Peter Forsberg"
     },
     "length" : 24.04163,
     "angle" : -0.7853982,
@@ -34503,7 +34503,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -36479,7 +36479,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -37546,7 +37546,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -38617,7 +38617,7 @@
   "pass" : {
     "recipient" : {
       "id" : 5625,
-      "name" : "Emil Forsberg"
+      "name" : "Emil Peter Forsberg"
     },
     "length" : 11.18034,
     "angle" : -0.1798535,
@@ -38661,7 +38661,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -38695,7 +38695,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -38769,7 +38769,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -39626,6 +39626,39 @@
       "name" : "Head"
     },
     "freeze_frame" : [ {
+      "location" : [ 102.0, 44.0 ],
+      "player" : {
+        "id" : 5624,
+        "name" : "Albin Ekdal"
+      },
+      "position" : {
+        "id" : 15,
+        "name" : "Left Center Midfield"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 101.0, 56.0 ],
+      "player" : {
+        "id" : 3500,
+        "name" : "Granit Xhaka"
+      },
+      "position" : {
+        "id" : 15,
+        "name" : "Left Center Midfield"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 113.0, 62.0 ],
+      "player" : {
+        "id" : 5554,
+        "name" : "Blerim Džemaili"
+      },
+      "position" : {
+        "id" : 19,
+        "name" : "Center Attacking Midfield"
+      },
+      "teammate" : true
+    }, {
       "location" : [ 112.0, 39.0 ],
       "player" : {
         "id" : 5835,
@@ -39648,17 +39681,6 @@
       },
       "teammate" : false
     }, {
-      "location" : [ 115.0, 45.0 ],
-      "player" : {
-        "id" : 3702,
-        "name" : "Victor Nilsson Lindelöf"
-      },
-      "position" : {
-        "id" : 3,
-        "name" : "Right Center Back"
-      },
-      "teammate" : false
-    }, {
       "location" : [ 114.0, 49.0 ],
       "player" : {
         "id" : 5611,
@@ -39667,17 +39689,6 @@
       "position" : {
         "id" : 13,
         "name" : "Right Center Midfield"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 102.0, 44.0 ],
-      "player" : {
-        "id" : 5624,
-        "name" : "Albin Ekdal"
-      },
-      "position" : {
-        "id" : 15,
-        "name" : "Left Center Midfield"
       },
       "teammate" : false
     }, {
@@ -39692,6 +39703,17 @@
       },
       "teammate" : false
     }, {
+      "location" : [ 115.0, 45.0 ],
+      "player" : {
+        "id" : 3702,
+        "name" : "Victor Nilsson Lindelöf"
+      },
+      "position" : {
+        "id" : 3,
+        "name" : "Right Center Back"
+      },
+      "teammate" : false
+    }, {
       "location" : [ 113.0, 38.0 ],
       "player" : {
         "id" : 5612,
@@ -39700,17 +39722,6 @@
       "position" : {
         "id" : 2,
         "name" : "Right Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 108.0, 61.0 ],
-      "player" : {
-        "id" : 5607,
-        "name" : "Andreas Granqvist"
-      },
-      "position" : {
-        "id" : 5,
-        "name" : "Left Center Back"
       },
       "teammate" : false
     }, {
@@ -39725,27 +39736,16 @@
       },
       "teammate" : false
     }, {
-      "location" : [ 113.0, 62.0 ],
+      "location" : [ 108.0, 61.0 ],
       "player" : {
-        "id" : 5554,
-        "name" : "Blerim Džemaili"
+        "id" : 5607,
+        "name" : "Andreas Granqvist"
       },
       "position" : {
-        "id" : 19,
-        "name" : "Center Attacking Midfield"
+        "id" : 5,
+        "name" : "Left Center Back"
       },
-      "teammate" : true
-    }, {
-      "location" : [ 101.0, 56.0 ],
-      "player" : {
-        "id" : 3500,
-        "name" : "Granit Xhaka"
-      },
-      "position" : {
-        "id" : 15,
-        "name" : "Left Center Midfield"
-      },
-      "teammate" : true
+      "teammate" : false
     } ]
   }
 }, {
@@ -42546,7 +42546,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -44146,7 +44146,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -46809,7 +46809,7 @@
   "pass" : {
     "recipient" : {
       "id" : 5625,
-      "name" : "Emil Forsberg"
+      "name" : "Emil Peter Forsberg"
     },
     "length" : 15.033297,
     "angle" : -0.066568166,
@@ -46849,7 +46849,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -46883,7 +46883,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -46921,7 +46921,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -47251,7 +47251,7 @@
   "pass" : {
     "recipient" : {
       "id" : 5625,
-      "name" : "Emil Forsberg"
+      "name" : "Emil Peter Forsberg"
     },
     "length" : 7.2111025,
     "angle" : 2.158799,
@@ -47291,7 +47291,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -47325,7 +47325,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -47363,7 +47363,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -47742,14 +47742,36 @@
       "name" : "Left Foot"
     },
     "freeze_frame" : [ {
-      "location" : [ 109.0, 48.0 ],
+      "location" : [ 109.0, 42.0 ],
       "player" : {
-        "id" : 5544,
-        "name" : "Ricardo Iván Rodríguez Araya"
+        "id" : 5613,
+        "name" : "Viktor Claesson"
       },
       "position" : {
-        "id" : 6,
-        "name" : "Left Back"
+        "id" : 17,
+        "name" : "Right Wing"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 118.0, 40.0 ],
+      "player" : {
+        "id" : 5550,
+        "name" : "Yann Sommer"
+      },
+      "position" : {
+        "id" : 1,
+        "name" : "Goalkeeper"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 104.0, 45.0 ],
+      "player" : {
+        "id" : 5548,
+        "name" : "Steven Zuber"
+      },
+      "position" : {
+        "id" : 21,
+        "name" : "Left Wing"
       },
       "teammate" : false
     }, {
@@ -47764,16 +47786,16 @@
       },
       "teammate" : false
     }, {
-      "location" : [ 112.0, 40.0 ],
+      "location" : [ 111.0, 29.0 ],
       "player" : {
-        "id" : 5549,
-        "name" : "Manuel Obafemi Akanji"
+        "id" : 4417,
+        "name" : "Ola Toivonen"
       },
       "position" : {
-        "id" : 5,
-        "name" : "Left Center Back"
+        "id" : 24,
+        "name" : "Left Center Forward"
       },
-      "teammate" : false
+      "teammate" : true
     }, {
       "location" : [ 112.0, 35.0 ],
       "player" : {
@@ -47783,17 +47805,6 @@
       "position" : {
         "id" : 3,
         "name" : "Right Center Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 118.0, 40.0 ],
-      "player" : {
-        "id" : 5550,
-        "name" : "Yann Sommer"
-      },
-      "position" : {
-        "id" : 1,
-        "name" : "Goalkeeper"
       },
       "teammate" : false
     }, {
@@ -47819,36 +47830,25 @@
       },
       "teammate" : true
     }, {
-      "location" : [ 111.0, 29.0 ],
+      "location" : [ 109.0, 48.0 ],
       "player" : {
-        "id" : 4417,
-        "name" : "Ola Toivonen"
+        "id" : 5544,
+        "name" : "Ricardo Iván Rodríguez Araya"
       },
       "position" : {
-        "id" : 24,
-        "name" : "Left Center Forward"
+        "id" : 6,
+        "name" : "Left Back"
       },
-      "teammate" : true
+      "teammate" : false
     }, {
-      "location" : [ 109.0, 42.0 ],
+      "location" : [ 112.0, 40.0 ],
       "player" : {
-        "id" : 5613,
-        "name" : "Viktor Claesson"
+        "id" : 5549,
+        "name" : "Manuel Obafemi Akanji"
       },
       "position" : {
-        "id" : 17,
-        "name" : "Right Wing"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 104.0, 45.0 ],
-      "player" : {
-        "id" : 5548,
-        "name" : "Steven Zuber"
-      },
-      "position" : {
-        "id" : 21,
-        "name" : "Left Wing"
+        "id" : 5,
+        "name" : "Left Center Back"
       },
       "teammate" : false
     } ]
@@ -52676,7 +52676,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -54514,72 +54514,6 @@
       "name" : "Left Foot"
     },
     "freeze_frame" : [ {
-      "location" : [ 99.0, 34.0 ],
-      "player" : {
-        "id" : 5612,
-        "name" : "Mikael Lustig"
-      },
-      "position" : {
-        "id" : 2,
-        "name" : "Right Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 101.0, 43.0 ],
-      "player" : {
-        "id" : 3702,
-        "name" : "Victor Nilsson Lindelöf"
-      },
-      "position" : {
-        "id" : 3,
-        "name" : "Right Center Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 103.0, 53.0 ],
-      "player" : {
-        "id" : 5607,
-        "name" : "Andreas Granqvist"
-      },
-      "position" : {
-        "id" : 5,
-        "name" : "Left Center Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 100.0, 61.0 ],
-      "player" : {
-        "id" : 5621,
-        "name" : "Ludwig Augustinsson"
-      },
-      "position" : {
-        "id" : 6,
-        "name" : "Left Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 119.0, 42.0 ],
-      "player" : {
-        "id" : 5622,
-        "name" : "Robin Olsen"
-      },
-      "position" : {
-        "id" : 1,
-        "name" : "Goalkeeper"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 91.0, 43.0 ],
-      "player" : {
-        "id" : 5611,
-        "name" : "Gustav Svensson"
-      },
-      "position" : {
-        "id" : 13,
-        "name" : "Right Center Midfield"
-      },
-      "teammate" : false
-    }, {
       "location" : [ 89.0, 52.0 ],
       "player" : {
         "id" : 5624,
@@ -54601,50 +54535,6 @@
         "name" : "Right Wing"
       },
       "teammate" : false
-    }, {
-      "location" : [ 84.0, 65.0 ],
-      "player" : {
-        "id" : 5625,
-        "name" : "Emil Forsberg"
-      },
-      "position" : {
-        "id" : 16,
-        "name" : "Left Midfield"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 75.0, 55.0 ],
-      "player" : {
-        "id" : 4417,
-        "name" : "Ola Toivonen"
-      },
-      "position" : {
-        "id" : 24,
-        "name" : "Left Center Forward"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 91.0, 36.0 ],
-      "player" : {
-        "id" : 5548,
-        "name" : "Steven Zuber"
-      },
-      "position" : {
-        "id" : 21,
-        "name" : "Left Wing"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 96.0, 46.0 ],
-      "player" : {
-        "id" : 5835,
-        "name" : "Josip Drmic"
-      },
-      "position" : {
-        "id" : 23,
-        "name" : "Center Forward"
-      },
-      "teammate" : true
     }, {
       "location" : [ 95.0, 78.0 ],
       "player" : {
@@ -54668,16 +54558,93 @@
       },
       "teammate" : true
     }, {
-      "location" : [ 81.0, 28.0 ],
+      "location" : [ 96.0, 46.0 ],
       "player" : {
-        "id" : 5544,
-        "name" : "Ricardo Iván Rodríguez Araya"
+        "id" : 5835,
+        "name" : "Josip Drmic"
       },
       "position" : {
-        "id" : 6,
-        "name" : "Left Back"
+        "id" : 23,
+        "name" : "Center Forward"
       },
       "teammate" : true
+    }, {
+      "location" : [ 119.0, 42.0 ],
+      "player" : {
+        "id" : 5622,
+        "name" : "Robin Olsen"
+      },
+      "position" : {
+        "id" : 1,
+        "name" : "Goalkeeper"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 91.0, 36.0 ],
+      "player" : {
+        "id" : 5548,
+        "name" : "Steven Zuber"
+      },
+      "position" : {
+        "id" : 21,
+        "name" : "Left Wing"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 91.0, 43.0 ],
+      "player" : {
+        "id" : 5611,
+        "name" : "Gustav Svensson"
+      },
+      "position" : {
+        "id" : 13,
+        "name" : "Right Center Midfield"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 75.0, 55.0 ],
+      "player" : {
+        "id" : 4417,
+        "name" : "Ola Toivonen"
+      },
+      "position" : {
+        "id" : 24,
+        "name" : "Left Center Forward"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 101.0, 43.0 ],
+      "player" : {
+        "id" : 3702,
+        "name" : "Victor Nilsson Lindelöf"
+      },
+      "position" : {
+        "id" : 3,
+        "name" : "Right Center Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 84.0, 65.0 ],
+      "player" : {
+        "id" : 5625,
+        "name" : "Emil Peter Forsberg"
+      },
+      "position" : {
+        "id" : 16,
+        "name" : "Left Midfield"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 99.0, 34.0 ],
+      "player" : {
+        "id" : 5612,
+        "name" : "Mikael Lustig"
+      },
+      "position" : {
+        "id" : 2,
+        "name" : "Right Back"
+      },
+      "teammate" : false
     }, {
       "location" : [ 92.0, 58.0 ],
       "player" : {
@@ -54689,6 +54656,39 @@
         "name" : "Right Back"
       },
       "teammate" : true
+    }, {
+      "location" : [ 100.0, 61.0 ],
+      "player" : {
+        "id" : 5621,
+        "name" : "Ludwig Augustinsson"
+      },
+      "position" : {
+        "id" : 6,
+        "name" : "Left Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 81.0, 28.0 ],
+      "player" : {
+        "id" : 5544,
+        "name" : "Ricardo Iván Rodríguez Araya"
+      },
+      "position" : {
+        "id" : 6,
+        "name" : "Left Back"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 103.0, 53.0 ],
+      "player" : {
+        "id" : 5607,
+        "name" : "Andreas Granqvist"
+      },
+      "position" : {
+        "id" : 5,
+        "name" : "Left Center Back"
+      },
+      "teammate" : false
     } ]
   }
 }, {
@@ -55447,7 +55447,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -56428,7 +56428,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -57197,69 +57197,14 @@
       },
       "teammate" : true
     }, {
-      "location" : [ 110.0, 42.0 ],
+      "location" : [ 110.0, 44.0 ],
       "player" : {
-        "id" : 5548,
-        "name" : "Steven Zuber"
+        "id" : 5624,
+        "name" : "Albin Ekdal"
       },
       "position" : {
-        "id" : 21,
-        "name" : "Left Wing"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 114.0, 36.0 ],
-      "player" : {
-        "id" : 5549,
-        "name" : "Manuel Obafemi Akanji"
-      },
-      "position" : {
-        "id" : 5,
-        "name" : "Left Center Back"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 110.0, 35.0 ],
-      "player" : {
-        "id" : 5835,
-        "name" : "Josip Drmic"
-      },
-      "position" : {
-        "id" : 23,
-        "name" : "Center Forward"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 106.0, 41.0 ],
-      "player" : {
-        "id" : 6359,
-        "name" : "Johan Danon Djourou-Gbadjere"
-      },
-      "position" : {
-        "id" : 3,
-        "name" : "Right Center Back"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 108.0, 51.0 ],
-      "player" : {
-        "id" : 5546,
-        "name" : "Michael Lang"
-      },
-      "position" : {
-        "id" : 2,
-        "name" : "Right Back"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 119.0, 44.0 ],
-      "player" : {
-        "id" : 5622,
-        "name" : "Robin Olsen"
-      },
-      "position" : {
-        "id" : 1,
-        "name" : "Goalkeeper"
+        "id" : 15,
+        "name" : "Left Center Midfield"
       },
       "teammate" : false
     }, {
@@ -57274,6 +57219,50 @@
       },
       "teammate" : true
     }, {
+      "location" : [ 100.0, 51.0 ],
+      "player" : {
+        "id" : 11098,
+        "name" : "Marcus Berg"
+      },
+      "position" : {
+        "id" : 22,
+        "name" : "Right Center Forward"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 110.0, 35.0 ],
+      "player" : {
+        "id" : 5835,
+        "name" : "Josip Drmic"
+      },
+      "position" : {
+        "id" : 23,
+        "name" : "Center Forward"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 119.0, 44.0 ],
+      "player" : {
+        "id" : 5622,
+        "name" : "Robin Olsen"
+      },
+      "position" : {
+        "id" : 1,
+        "name" : "Goalkeeper"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 110.0, 42.0 ],
+      "player" : {
+        "id" : 5548,
+        "name" : "Steven Zuber"
+      },
+      "position" : {
+        "id" : 21,
+        "name" : "Left Wing"
+      },
+      "teammate" : true
+    }, {
       "location" : [ 109.0, 34.0 ],
       "player" : {
         "id" : 5611,
@@ -57282,50 +57271,6 @@
       "position" : {
         "id" : 13,
         "name" : "Right Center Midfield"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 114.0, 44.0 ],
-      "player" : {
-        "id" : 5607,
-        "name" : "Andreas Granqvist"
-      },
-      "position" : {
-        "id" : 5,
-        "name" : "Left Center Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 105.0, 45.0 ],
-      "player" : {
-        "id" : 3702,
-        "name" : "Victor Nilsson Lindelöf"
-      },
-      "position" : {
-        "id" : 3,
-        "name" : "Right Center Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 107.0, 44.0 ],
-      "player" : {
-        "id" : 5621,
-        "name" : "Ludwig Augustinsson"
-      },
-      "position" : {
-        "id" : 6,
-        "name" : "Left Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 110.0, 44.0 ],
-      "player" : {
-        "id" : 5624,
-        "name" : "Albin Ekdal"
-      },
-      "position" : {
-        "id" : 15,
-        "name" : "Left Center Midfield"
       },
       "teammate" : false
     }, {
@@ -57340,6 +57285,50 @@
       },
       "teammate" : false
     }, {
+      "location" : [ 106.0, 41.0 ],
+      "player" : {
+        "id" : 6359,
+        "name" : "Johan Danon Djourou-Gbadjere"
+      },
+      "position" : {
+        "id" : 3,
+        "name" : "Right Center Back"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 105.0, 45.0 ],
+      "player" : {
+        "id" : 3702,
+        "name" : "Victor Nilsson Lindelöf"
+      },
+      "position" : {
+        "id" : 3,
+        "name" : "Right Center Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 114.0, 48.0 ],
+      "player" : {
+        "id" : 5625,
+        "name" : "Emil Peter Forsberg"
+      },
+      "position" : {
+        "id" : 16,
+        "name" : "Left Midfield"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 108.0, 51.0 ],
+      "player" : {
+        "id" : 5546,
+        "name" : "Michael Lang"
+      },
+      "position" : {
+        "id" : 2,
+        "name" : "Right Back"
+      },
+      "teammate" : true
+    }, {
       "location" : [ 103.0, 54.0 ],
       "player" : {
         "id" : 5612,
@@ -57351,25 +57340,36 @@
       },
       "teammate" : false
     }, {
-      "location" : [ 114.0, 48.0 ],
+      "location" : [ 107.0, 44.0 ],
       "player" : {
-        "id" : 5625,
-        "name" : "Emil Forsberg"
+        "id" : 5621,
+        "name" : "Ludwig Augustinsson"
       },
       "position" : {
-        "id" : 16,
-        "name" : "Left Midfield"
+        "id" : 6,
+        "name" : "Left Back"
       },
       "teammate" : false
     }, {
-      "location" : [ 100.0, 51.0 ],
+      "location" : [ 114.0, 36.0 ],
       "player" : {
-        "id" : 11098,
-        "name" : "Marcus Berg"
+        "id" : 5549,
+        "name" : "Manuel Obafemi Akanji"
       },
       "position" : {
-        "id" : 22,
-        "name" : "Right Center Forward"
+        "id" : 5,
+        "name" : "Left Center Back"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 114.0, 44.0 ],
+      "player" : {
+        "id" : 5607,
+        "name" : "Andreas Granqvist"
+      },
+      "position" : {
+        "id" : 5,
+        "name" : "Left Center Back"
       },
       "teammate" : false
     } ]
@@ -59620,7 +59620,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -59655,7 +59655,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -62562,28 +62562,6 @@
       "name" : "Right Foot"
     },
     "freeze_frame" : [ {
-      "location" : [ 115.0, 39.0 ],
-      "player" : {
-        "id" : 5607,
-        "name" : "Andreas Granqvist"
-      },
-      "position" : {
-        "id" : 5,
-        "name" : "Left Center Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 115.0, 34.0 ],
-      "player" : {
-        "id" : 3702,
-        "name" : "Victor Nilsson Lindelöf"
-      },
-      "position" : {
-        "id" : 3,
-        "name" : "Right Center Back"
-      },
-      "teammate" : false
-    }, {
       "location" : [ 110.0, 34.0 ],
       "player" : {
         "id" : 5624,
@@ -62592,28 +62570,6 @@
       "position" : {
         "id" : 15,
         "name" : "Left Center Midfield"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 112.0, 28.0 ],
-      "player" : {
-        "id" : 5611,
-        "name" : "Gustav Svensson"
-      },
-      "position" : {
-        "id" : 13,
-        "name" : "Right Center Midfield"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 100.0, 20.0 ],
-      "player" : {
-        "id" : 4417,
-        "name" : "Ola Toivonen"
-      },
-      "position" : {
-        "id" : 24,
-        "name" : "Left Center Forward"
       },
       "teammate" : false
     }, {
@@ -62628,16 +62584,27 @@
       },
       "teammate" : false
     }, {
-      "location" : [ 116.0, 26.0 ],
+      "location" : [ 105.0, 25.0 ],
       "player" : {
-        "id" : 5612,
-        "name" : "Mikael Lustig"
+        "id" : 11098,
+        "name" : "Marcus Berg"
       },
       "position" : {
-        "id" : 2,
-        "name" : "Right Back"
+        "id" : 22,
+        "name" : "Right Center Forward"
       },
       "teammate" : false
+    }, {
+      "location" : [ 112.0, 37.0 ],
+      "player" : {
+        "id" : 5835,
+        "name" : "Josip Drmic"
+      },
+      "position" : {
+        "id" : 23,
+        "name" : "Center Forward"
+      },
+      "teammate" : true
     }, {
       "location" : [ 120.0, 40.0 ],
       "player" : {
@@ -62647,6 +62614,83 @@
       "position" : {
         "id" : 1,
         "name" : "Goalkeeper"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 118.0, 21.0 ],
+      "player" : {
+        "id" : 5548,
+        "name" : "Steven Zuber"
+      },
+      "position" : {
+        "id" : 21,
+        "name" : "Left Wing"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 112.0, 28.0 ],
+      "player" : {
+        "id" : 5611,
+        "name" : "Gustav Svensson"
+      },
+      "position" : {
+        "id" : 13,
+        "name" : "Right Center Midfield"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 98.0, 36.0 ],
+      "player" : {
+        "id" : 5540,
+        "name" : "Valon Behrami"
+      },
+      "position" : {
+        "id" : 13,
+        "name" : "Right Center Midfield"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 100.0, 20.0 ],
+      "player" : {
+        "id" : 4417,
+        "name" : "Ola Toivonen"
+      },
+      "position" : {
+        "id" : 24,
+        "name" : "Left Center Forward"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 115.0, 34.0 ],
+      "player" : {
+        "id" : 3702,
+        "name" : "Victor Nilsson Lindelöf"
+      },
+      "position" : {
+        "id" : 3,
+        "name" : "Right Center Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 107.0, 40.0 ],
+      "player" : {
+        "id" : 5625,
+        "name" : "Emil Peter Forsberg"
+      },
+      "position" : {
+        "id" : 16,
+        "name" : "Left Midfield"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 116.0, 26.0 ],
+      "player" : {
+        "id" : 5612,
+        "name" : "Mikael Lustig"
+      },
+      "position" : {
+        "id" : 2,
+        "name" : "Right Back"
       },
       "teammate" : false
     }, {
@@ -62661,17 +62705,6 @@
       },
       "teammate" : false
     }, {
-      "location" : [ 107.0, 40.0 ],
-      "player" : {
-        "id" : 5625,
-        "name" : "Emil Forsberg"
-      },
-      "position" : {
-        "id" : 16,
-        "name" : "Left Midfield"
-      },
-      "teammate" : false
-    }, {
       "location" : [ 105.0, 14.0 ],
       "player" : {
         "id" : 5544,
@@ -62683,47 +62716,14 @@
       },
       "teammate" : true
     }, {
-      "location" : [ 118.0, 21.0 ],
+      "location" : [ 115.0, 39.0 ],
       "player" : {
-        "id" : 5548,
-        "name" : "Steven Zuber"
+        "id" : 5607,
+        "name" : "Andreas Granqvist"
       },
       "position" : {
-        "id" : 21,
-        "name" : "Left Wing"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 112.0, 37.0 ],
-      "player" : {
-        "id" : 5835,
-        "name" : "Josip Drmic"
-      },
-      "position" : {
-        "id" : 23,
-        "name" : "Center Forward"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 98.0, 36.0 ],
-      "player" : {
-        "id" : 5540,
-        "name" : "Valon Behrami"
-      },
-      "position" : {
-        "id" : 13,
-        "name" : "Right Center Midfield"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 105.0, 25.0 ],
-      "player" : {
-        "id" : 11098,
-        "name" : "Marcus Berg"
-      },
-      "position" : {
-        "id" : 22,
-        "name" : "Right Center Forward"
+        "id" : 5,
+        "name" : "Left Center Back"
       },
       "teammate" : false
     } ]
@@ -63179,7 +63179,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -63208,47 +63208,25 @@
       "name" : "Right Foot"
     },
     "freeze_frame" : [ {
-      "location" : [ 89.0, 55.0 ],
+      "location" : [ 103.0, 46.0 ],
       "player" : {
-        "id" : 5621,
-        "name" : "Ludwig Augustinsson"
+        "id" : 5624,
+        "name" : "Albin Ekdal"
       },
       "position" : {
-        "id" : 6,
-        "name" : "Left Back"
+        "id" : 15,
+        "name" : "Left Center Midfield"
       },
       "teammate" : true
     }, {
-      "location" : [ 118.0, 40.0 ],
+      "location" : [ 103.0, 49.0 ],
       "player" : {
-        "id" : 5550,
-        "name" : "Yann Sommer"
+        "id" : 3500,
+        "name" : "Granit Xhaka"
       },
       "position" : {
-        "id" : 1,
-        "name" : "Goalkeeper"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 103.0, 54.0 ],
-      "player" : {
-        "id" : 5544,
-        "name" : "Ricardo Iván Rodríguez Araya"
-      },
-      "position" : {
-        "id" : 6,
-        "name" : "Left Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 102.0, 35.0 ],
-      "player" : {
-        "id" : 5546,
-        "name" : "Michael Lang"
-      },
-      "position" : {
-        "id" : 2,
-        "name" : "Right Back"
+        "id" : 15,
+        "name" : "Left Center Midfield"
       },
       "teammate" : false
     }, {
@@ -63274,38 +63252,27 @@
       },
       "teammate" : true
     }, {
-      "location" : [ 103.0, 43.0 ],
+      "location" : [ 101.0, 50.0 ],
       "player" : {
-        "id" : 6359,
-        "name" : "Johan Danon Djourou-Gbadjere"
+        "id" : 5554,
+        "name" : "Blerim Džemaili"
       },
       "position" : {
-        "id" : 3,
-        "name" : "Right Center Back"
+        "id" : 19,
+        "name" : "Center Attacking Midfield"
       },
       "teammate" : false
     }, {
-      "location" : [ 103.0, 44.0 ],
+      "location" : [ 103.0, 52.0 ],
       "player" : {
-        "id" : 5549,
-        "name" : "Manuel Obafemi Akanji"
+        "id" : 11098,
+        "name" : "Marcus Berg"
       },
       "position" : {
-        "id" : 5,
-        "name" : "Left Center Back"
+        "id" : 22,
+        "name" : "Right Center Forward"
       },
-      "teammate" : false
-    }, {
-      "location" : [ 101.0, 52.0 ],
-      "player" : {
-        "id" : 5540,
-        "name" : "Valon Behrami"
-      },
-      "position" : {
-        "id" : 13,
-        "name" : "Right Center Midfield"
-      },
-      "teammate" : false
+      "teammate" : true
     }, {
       "location" : [ 101.0, 51.0 ],
       "player" : {
@@ -63318,69 +63285,14 @@
       },
       "teammate" : false
     }, {
-      "location" : [ 101.0, 50.0 ],
+      "location" : [ 118.0, 40.0 ],
       "player" : {
-        "id" : 5554,
-        "name" : "Blerim Džemaili"
+        "id" : 5550,
+        "name" : "Yann Sommer"
       },
       "position" : {
-        "id" : 19,
-        "name" : "Center Attacking Midfield"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 103.0, 51.0 ],
-      "player" : {
-        "id" : 4417,
-        "name" : "Ola Toivonen"
-      },
-      "position" : {
-        "id" : 24,
-        "name" : "Left Center Forward"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 103.0, 46.0 ],
-      "player" : {
-        "id" : 5624,
-        "name" : "Albin Ekdal"
-      },
-      "position" : {
-        "id" : 15,
-        "name" : "Left Center Midfield"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 101.0, 48.0 ],
-      "player" : {
-        "id" : 5607,
-        "name" : "Andreas Granqvist"
-      },
-      "position" : {
-        "id" : 5,
-        "name" : "Left Center Back"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 102.0, 46.0 ],
-      "player" : {
-        "id" : 5612,
-        "name" : "Mikael Lustig"
-      },
-      "position" : {
-        "id" : 2,
-        "name" : "Right Back"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 103.0, 49.0 ],
-      "player" : {
-        "id" : 3500,
-        "name" : "Granit Xhaka"
-      },
-      "position" : {
-        "id" : 15,
-        "name" : "Left Center Midfield"
+        "id" : 1,
+        "name" : "Goalkeeper"
       },
       "teammate" : false
     }, {
@@ -63395,14 +63307,102 @@
       },
       "teammate" : false
     }, {
-      "location" : [ 103.0, 52.0 ],
+      "location" : [ 101.0, 52.0 ],
       "player" : {
-        "id" : 11098,
-        "name" : "Marcus Berg"
+        "id" : 5540,
+        "name" : "Valon Behrami"
       },
       "position" : {
-        "id" : 22,
-        "name" : "Right Center Forward"
+        "id" : 13,
+        "name" : "Right Center Midfield"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 103.0, 51.0 ],
+      "player" : {
+        "id" : 4417,
+        "name" : "Ola Toivonen"
+      },
+      "position" : {
+        "id" : 24,
+        "name" : "Left Center Forward"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 103.0, 43.0 ],
+      "player" : {
+        "id" : 6359,
+        "name" : "Johan Danon Djourou-Gbadjere"
+      },
+      "position" : {
+        "id" : 3,
+        "name" : "Right Center Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 102.0, 35.0 ],
+      "player" : {
+        "id" : 5546,
+        "name" : "Michael Lang"
+      },
+      "position" : {
+        "id" : 2,
+        "name" : "Right Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 102.0, 46.0 ],
+      "player" : {
+        "id" : 5612,
+        "name" : "Mikael Lustig"
+      },
+      "position" : {
+        "id" : 2,
+        "name" : "Right Back"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 89.0, 55.0 ],
+      "player" : {
+        "id" : 5621,
+        "name" : "Ludwig Augustinsson"
+      },
+      "position" : {
+        "id" : 6,
+        "name" : "Left Back"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 103.0, 54.0 ],
+      "player" : {
+        "id" : 5544,
+        "name" : "Ricardo Iván Rodríguez Araya"
+      },
+      "position" : {
+        "id" : 6,
+        "name" : "Left Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 103.0, 44.0 ],
+      "player" : {
+        "id" : 5549,
+        "name" : "Manuel Obafemi Akanji"
+      },
+      "position" : {
+        "id" : 5,
+        "name" : "Left Center Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 101.0, 48.0 ],
+      "player" : {
+        "id" : 5607,
+        "name" : "Andreas Granqvist"
+      },
+      "position" : {
+        "id" : 5,
+        "name" : "Left Center Back"
       },
       "teammate" : true
     } ]
@@ -63516,7 +63516,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -63959,39 +63959,6 @@
       "name" : "Right Foot"
     },
     "freeze_frame" : [ {
-      "location" : [ 99.0, 29.0 ],
-      "player" : {
-        "id" : 5554,
-        "name" : "Blerim Džemaili"
-      },
-      "position" : {
-        "id" : 19,
-        "name" : "Center Attacking Midfield"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 103.0, 44.0 ],
-      "player" : {
-        "id" : 5548,
-        "name" : "Steven Zuber"
-      },
-      "position" : {
-        "id" : 21,
-        "name" : "Left Wing"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 118.0, 40.0 ],
-      "player" : {
-        "id" : 5550,
-        "name" : "Yann Sommer"
-      },
-      "position" : {
-        "id" : 1,
-        "name" : "Goalkeeper"
-      },
-      "teammate" : false
-    }, {
       "location" : [ 112.0, 54.0 ],
       "player" : {
         "id" : 3500,
@@ -64014,16 +63981,71 @@
       },
       "teammate" : true
     }, {
-      "location" : [ 115.0, 44.0 ],
+      "location" : [ 99.0, 29.0 ],
       "player" : {
-        "id" : 5549,
-        "name" : "Manuel Obafemi Akanji"
+        "id" : 5554,
+        "name" : "Blerim Džemaili"
       },
       "position" : {
-        "id" : 5,
-        "name" : "Left Center Back"
+        "id" : 19,
+        "name" : "Center Attacking Midfield"
       },
       "teammate" : false
+    }, {
+      "location" : [ 110.0, 42.0 ],
+      "player" : {
+        "id" : 11098,
+        "name" : "Marcus Berg"
+      },
+      "position" : {
+        "id" : 22,
+        "name" : "Right Center Forward"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 84.0, 53.0 ],
+      "player" : {
+        "id" : 5835,
+        "name" : "Josip Drmic"
+      },
+      "position" : {
+        "id" : 23,
+        "name" : "Center Forward"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 118.0, 40.0 ],
+      "player" : {
+        "id" : 5550,
+        "name" : "Yann Sommer"
+      },
+      "position" : {
+        "id" : 1,
+        "name" : "Goalkeeper"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 103.0, 44.0 ],
+      "player" : {
+        "id" : 5548,
+        "name" : "Steven Zuber"
+      },
+      "position" : {
+        "id" : 21,
+        "name" : "Left Wing"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 113.0, 42.0 ],
+      "player" : {
+        "id" : 4417,
+        "name" : "Ola Toivonen"
+      },
+      "position" : {
+        "id" : 24,
+        "name" : "Left Center Forward"
+      },
+      "teammate" : true
     }, {
       "location" : [ 113.0, 41.0 ],
       "player" : {
@@ -64035,6 +64057,17 @@
         "name" : "Right Center Back"
       },
       "teammate" : false
+    }, {
+      "location" : [ 106.0, 21.0 ],
+      "player" : {
+        "id" : 5625,
+        "name" : "Emil Peter Forsberg"
+      },
+      "position" : {
+        "id" : 16,
+        "name" : "Left Midfield"
+      },
+      "teammate" : true
     }, {
       "location" : [ 110.0, 39.0 ],
       "player" : {
@@ -64058,49 +64091,16 @@
       },
       "teammate" : false
     }, {
-      "location" : [ 113.0, 42.0 ],
+      "location" : [ 115.0, 44.0 ],
       "player" : {
-        "id" : 4417,
-        "name" : "Ola Toivonen"
+        "id" : 5549,
+        "name" : "Manuel Obafemi Akanji"
       },
       "position" : {
-        "id" : 24,
-        "name" : "Left Center Forward"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 106.0, 21.0 ],
-      "player" : {
-        "id" : 5625,
-        "name" : "Emil Forsberg"
-      },
-      "position" : {
-        "id" : 16,
-        "name" : "Left Midfield"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 84.0, 53.0 ],
-      "player" : {
-        "id" : 5835,
-        "name" : "Josip Drmic"
-      },
-      "position" : {
-        "id" : 23,
-        "name" : "Center Forward"
+        "id" : 5,
+        "name" : "Left Center Back"
       },
       "teammate" : false
-    }, {
-      "location" : [ 110.0, 42.0 ],
-      "player" : {
-        "id" : 11098,
-        "name" : "Marcus Berg"
-      },
-      "position" : {
-        "id" : 22,
-        "name" : "Right Center Forward"
-      },
-      "teammate" : true
     } ]
   }
 }, {
@@ -69595,7 +69595,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -71431,7 +71431,7 @@
   "pass" : {
     "recipient" : {
       "id" : 5625,
-      "name" : "Emil Forsberg"
+      "name" : "Emil Peter Forsberg"
     },
     "length" : 38.118237,
     "angle" : 0.07878396,
@@ -71475,7 +71475,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -71588,7 +71588,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -75372,7 +75372,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -77138,7 +77138,7 @@
   "pass" : {
     "recipient" : {
       "id" : 5625,
-      "name" : "Emil Forsberg"
+      "name" : "Emil Peter Forsberg"
     },
     "length" : 57.384666,
     "angle" : -0.39345065,
@@ -77182,7 +77182,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -78922,7 +78922,7 @@
   "pass" : {
     "recipient" : {
       "id" : 5625,
-      "name" : "Emil Forsberg"
+      "name" : "Emil Peter Forsberg"
     },
     "length" : 22.203604,
     "angle" : -1.4352686,
@@ -78962,7 +78962,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -78996,7 +78996,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -79105,7 +79105,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -79146,7 +79146,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -79185,7 +79185,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -79715,17 +79715,6 @@
       "name" : "Left Foot"
     },
     "freeze_frame" : [ {
-      "location" : [ 108.0, 43.0 ],
-      "player" : {
-        "id" : 5613,
-        "name" : "Viktor Claesson"
-      },
-      "position" : {
-        "id" : 17,
-        "name" : "Right Wing"
-      },
-      "teammate" : true
-    }, {
       "location" : [ 109.0, 41.0 ],
       "player" : {
         "id" : 5624,
@@ -79736,61 +79725,6 @@
         "name" : "Left Center Midfield"
       },
       "teammate" : true
-    }, {
-      "location" : [ 107.0, 37.0 ],
-      "player" : {
-        "id" : 5625,
-        "name" : "Emil Forsberg"
-      },
-      "position" : {
-        "id" : 16,
-        "name" : "Left Midfield"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 116.0, 51.0 ],
-      "player" : {
-        "id" : 5549,
-        "name" : "Manuel Obafemi Akanji"
-      },
-      "position" : {
-        "id" : 5,
-        "name" : "Left Center Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 119.0, 42.0 ],
-      "player" : {
-        "id" : 5550,
-        "name" : "Yann Sommer"
-      },
-      "position" : {
-        "id" : 1,
-        "name" : "Goalkeeper"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 106.0, 47.0 ],
-      "player" : {
-        "id" : 5554,
-        "name" : "Blerim Džemaili"
-      },
-      "position" : {
-        "id" : 19,
-        "name" : "Center Attacking Midfield"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 112.0, 34.0 ],
-      "player" : {
-        "id" : 5546,
-        "name" : "Michael Lang"
-      },
-      "position" : {
-        "id" : 2,
-        "name" : "Right Back"
-      },
-      "teammate" : false
     }, {
       "location" : [ 112.0, 39.0 ],
       "player" : {
@@ -79803,14 +79737,47 @@
       },
       "teammate" : false
     }, {
-      "location" : [ 114.0, 41.0 ],
+      "location" : [ 108.0, 43.0 ],
       "player" : {
-        "id" : 6359,
-        "name" : "Johan Danon Djourou-Gbadjere"
+        "id" : 5613,
+        "name" : "Viktor Claesson"
       },
       "position" : {
-        "id" : 3,
-        "name" : "Right Center Back"
+        "id" : 17,
+        "name" : "Right Wing"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 106.0, 47.0 ],
+      "player" : {
+        "id" : 5554,
+        "name" : "Blerim Džemaili"
+      },
+      "position" : {
+        "id" : 19,
+        "name" : "Center Attacking Midfield"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 118.0, 51.0 ],
+      "player" : {
+        "id" : 11098,
+        "name" : "Marcus Berg"
+      },
+      "position" : {
+        "id" : 22,
+        "name" : "Right Center Forward"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 119.0, 42.0 ],
+      "player" : {
+        "id" : 5550,
+        "name" : "Yann Sommer"
+      },
+      "position" : {
+        "id" : 1,
+        "name" : "Goalkeeper"
       },
       "teammate" : false
     }, {
@@ -79825,6 +79792,39 @@
       },
       "teammate" : false
     }, {
+      "location" : [ 114.0, 41.0 ],
+      "player" : {
+        "id" : 6359,
+        "name" : "Johan Danon Djourou-Gbadjere"
+      },
+      "position" : {
+        "id" : 3,
+        "name" : "Right Center Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 107.0, 37.0 ],
+      "player" : {
+        "id" : 5625,
+        "name" : "Emil Peter Forsberg"
+      },
+      "position" : {
+        "id" : 16,
+        "name" : "Left Midfield"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 112.0, 34.0 ],
+      "player" : {
+        "id" : 5546,
+        "name" : "Michael Lang"
+      },
+      "position" : {
+        "id" : 2,
+        "name" : "Right Back"
+      },
+      "teammate" : false
+    }, {
       "location" : [ 112.0, 47.0 ],
       "player" : {
         "id" : 5544,
@@ -79836,16 +79836,16 @@
       },
       "teammate" : false
     }, {
-      "location" : [ 118.0, 51.0 ],
+      "location" : [ 116.0, 51.0 ],
       "player" : {
-        "id" : 11098,
-        "name" : "Marcus Berg"
+        "id" : 5549,
+        "name" : "Manuel Obafemi Akanji"
       },
       "position" : {
-        "id" : 22,
-        "name" : "Right Center Forward"
+        "id" : 5,
+        "name" : "Left Center Back"
       },
-      "teammate" : true
+      "teammate" : false
     } ]
   }
 }, {
@@ -80407,7 +80407,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -80833,7 +80833,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -81621,7 +81621,7 @@
   "pass" : {
     "recipient" : {
       "id" : 5625,
-      "name" : "Emil Forsberg"
+      "name" : "Emil Peter Forsberg"
     },
     "length" : 21.095022,
     "angle" : -1.022247,
@@ -81661,7 +81661,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -81695,7 +81695,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -81733,7 +81733,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -81869,7 +81869,7 @@
   "pass" : {
     "recipient" : {
       "id" : 5625,
-      "name" : "Emil Forsberg"
+      "name" : "Emil Peter Forsberg"
     },
     "length" : 21.213203,
     "angle" : 1.4288993,
@@ -81913,7 +81913,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -82484,7 +82484,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -83370,7 +83370,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -86376,83 +86376,6 @@
       "name" : "Right Foot"
     },
     "freeze_frame" : [ {
-      "location" : [ 102.0, 57.0 ],
-      "player" : {
-        "id" : 5625,
-        "name" : "Emil Forsberg"
-      },
-      "position" : {
-        "id" : 16,
-        "name" : "Left Midfield"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 107.0, 48.0 ],
-      "player" : {
-        "id" : 4417,
-        "name" : "Ola Toivonen"
-      },
-      "position" : {
-        "id" : 24,
-        "name" : "Left Center Forward"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 113.0, 40.0 ],
-      "player" : {
-        "id" : 5611,
-        "name" : "Gustav Svensson"
-      },
-      "position" : {
-        "id" : 13,
-        "name" : "Right Center Midfield"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 108.0, 39.0 ],
-      "player" : {
-        "id" : 5607,
-        "name" : "Andreas Granqvist"
-      },
-      "position" : {
-        "id" : 5,
-        "name" : "Left Center Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 105.0, 36.0 ],
-      "player" : {
-        "id" : 3702,
-        "name" : "Victor Nilsson Lindelöf"
-      },
-      "position" : {
-        "id" : 3,
-        "name" : "Right Center Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 104.0, 44.0 ],
-      "player" : {
-        "id" : 5621,
-        "name" : "Ludwig Augustinsson"
-      },
-      "position" : {
-        "id" : 6,
-        "name" : "Left Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 106.0, 32.0 ],
-      "player" : {
-        "id" : 5612,
-        "name" : "Mikael Lustig"
-      },
-      "position" : {
-        "id" : 2,
-        "name" : "Right Back"
-      },
-      "teammate" : false
-    }, {
       "location" : [ 102.0, 36.0 ],
       "player" : {
         "id" : 5624,
@@ -86475,6 +86398,39 @@
       },
       "teammate" : false
     }, {
+      "location" : [ 88.0, 55.0 ],
+      "player" : {
+        "id" : 5554,
+        "name" : "Blerim Džemaili"
+      },
+      "position" : {
+        "id" : 19,
+        "name" : "Center Attacking Midfield"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 98.0, 40.0 ],
+      "player" : {
+        "id" : 11098,
+        "name" : "Marcus Berg"
+      },
+      "position" : {
+        "id" : 22,
+        "name" : "Right Center Forward"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 116.0, 47.0 ],
+      "player" : {
+        "id" : 5835,
+        "name" : "Josip Drmic"
+      },
+      "position" : {
+        "id" : 23,
+        "name" : "Center Forward"
+      },
+      "teammate" : true
+    }, {
       "location" : [ 118.0, 38.0 ],
       "player" : {
         "id" : 5622,
@@ -86483,6 +86439,50 @@
       "position" : {
         "id" : 1,
         "name" : "Goalkeeper"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 102.0, 41.0 ],
+      "player" : {
+        "id" : 5548,
+        "name" : "Steven Zuber"
+      },
+      "position" : {
+        "id" : 21,
+        "name" : "Left Wing"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 113.0, 40.0 ],
+      "player" : {
+        "id" : 5611,
+        "name" : "Gustav Svensson"
+      },
+      "position" : {
+        "id" : 13,
+        "name" : "Right Center Midfield"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 107.0, 48.0 ],
+      "player" : {
+        "id" : 4417,
+        "name" : "Ola Toivonen"
+      },
+      "position" : {
+        "id" : 24,
+        "name" : "Left Center Forward"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 105.0, 36.0 ],
+      "player" : {
+        "id" : 3702,
+        "name" : "Victor Nilsson Lindelöf"
+      },
+      "position" : {
+        "id" : 3,
+        "name" : "Right Center Back"
       },
       "teammate" : false
     }, {
@@ -86497,38 +86497,27 @@
       },
       "teammate" : true
     }, {
-      "location" : [ 102.0, 41.0 ],
+      "location" : [ 102.0, 57.0 ],
       "player" : {
-        "id" : 5548,
-        "name" : "Steven Zuber"
+        "id" : 5625,
+        "name" : "Emil Peter Forsberg"
       },
       "position" : {
-        "id" : 21,
-        "name" : "Left Wing"
+        "id" : 16,
+        "name" : "Left Midfield"
       },
-      "teammate" : true
+      "teammate" : false
     }, {
-      "location" : [ 108.0, 36.0 ],
+      "location" : [ 106.0, 32.0 ],
       "player" : {
-        "id" : 5549,
-        "name" : "Manuel Obafemi Akanji"
+        "id" : 5612,
+        "name" : "Mikael Lustig"
       },
       "position" : {
-        "id" : 5,
-        "name" : "Left Center Back"
+        "id" : 2,
+        "name" : "Right Back"
       },
-      "teammate" : true
-    }, {
-      "location" : [ 88.0, 55.0 ],
-      "player" : {
-        "id" : 5554,
-        "name" : "Blerim Džemaili"
-      },
-      "position" : {
-        "id" : 19,
-        "name" : "Center Attacking Midfield"
-      },
-      "teammate" : true
+      "teammate" : false
     }, {
       "location" : [ 110.0, 30.0 ],
       "player" : {
@@ -86541,27 +86530,38 @@
       },
       "teammate" : true
     }, {
-      "location" : [ 116.0, 47.0 ],
+      "location" : [ 104.0, 44.0 ],
       "player" : {
-        "id" : 5835,
-        "name" : "Josip Drmic"
+        "id" : 5621,
+        "name" : "Ludwig Augustinsson"
       },
       "position" : {
-        "id" : 23,
-        "name" : "Center Forward"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 98.0, 40.0 ],
-      "player" : {
-        "id" : 11098,
-        "name" : "Marcus Berg"
-      },
-      "position" : {
-        "id" : 22,
-        "name" : "Right Center Forward"
+        "id" : 6,
+        "name" : "Left Back"
       },
       "teammate" : false
+    }, {
+      "location" : [ 108.0, 39.0 ],
+      "player" : {
+        "id" : 5607,
+        "name" : "Andreas Granqvist"
+      },
+      "position" : {
+        "id" : 5,
+        "name" : "Left Center Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 108.0, 36.0 ],
+      "player" : {
+        "id" : 5549,
+        "name" : "Manuel Obafemi Akanji"
+      },
+      "position" : {
+        "id" : 5,
+        "name" : "Left Center Back"
+      },
+      "teammate" : true
     } ]
   }
 }, {
@@ -87813,7 +87813,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -87858,7 +87858,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -87933,7 +87933,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -89658,7 +89658,7 @@
   "pass" : {
     "recipient" : {
       "id" : 5625,
-      "name" : "Emil Forsberg"
+      "name" : "Emil Peter Forsberg"
     },
     "length" : 5.0990195,
     "angle" : -0.19739556,
@@ -89738,7 +89738,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -89773,7 +89773,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -89812,7 +89812,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -89949,7 +89949,7 @@
   "pass" : {
     "recipient" : {
       "id" : 5625,
-      "name" : "Emil Forsberg"
+      "name" : "Emil Peter Forsberg"
     },
     "length" : 8.485281,
     "angle" : -2.3561945,
@@ -90025,7 +90025,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -90060,7 +90060,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -90099,7 +90099,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -90676,7 +90676,7 @@
   "pass" : {
     "recipient" : {
       "id" : 5625,
-      "name" : "Emil Forsberg"
+      "name" : "Emil Peter Forsberg"
     },
     "length" : 12.649111,
     "angle" : -1.2490457,
@@ -90720,7 +90720,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -90948,7 +90948,7 @@
   "pass" : {
     "recipient" : {
       "id" : 5625,
-      "name" : "Emil Forsberg"
+      "name" : "Emil Peter Forsberg"
     },
     "length" : 7.071068,
     "angle" : 1.4288993,
@@ -90988,7 +90988,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -91022,7 +91022,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -91158,7 +91158,7 @@
   "pass" : {
     "recipient" : {
       "id" : 5625,
-      "name" : "Emil Forsberg"
+      "name" : "Emil Peter Forsberg"
     },
     "length" : 6.3245554,
     "angle" : 2.819842,
@@ -91198,7 +91198,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -91232,7 +91232,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -91306,7 +91306,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -95049,7 +95049,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -96184,7 +96184,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -96457,7 +96457,7 @@
   "pass" : {
     "recipient" : {
       "id" : 5625,
-      "name" : "Emil Forsberg"
+      "name" : "Emil Peter Forsberg"
     },
     "length" : 34.48188,
     "angle" : -0.515549,
@@ -96533,7 +96533,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -96568,7 +96568,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -96607,7 +96607,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -98233,7 +98233,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -99239,7 +99239,7 @@
   "pass" : {
     "recipient" : {
       "id" : 5625,
-      "name" : "Emil Forsberg"
+      "name" : "Emil Peter Forsberg"
     },
     "length" : 20.12461,
     "angle" : -0.4636476,
@@ -99315,7 +99315,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -99350,7 +99350,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -99430,7 +99430,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -101338,7 +101338,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -102131,7 +102131,7 @@
   "pass" : {
     "recipient" : {
       "id" : 5625,
-      "name" : "Emil Forsberg"
+      "name" : "Emil Peter Forsberg"
     },
     "length" : 37.0,
     "angle" : -0.33029735,
@@ -102171,7 +102171,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -102205,7 +102205,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -102278,7 +102278,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -102313,7 +102313,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -102342,6 +102342,28 @@
       "name" : "Right Foot"
     },
     "freeze_frame" : [ {
+      "location" : [ 112.0, 36.0 ],
+      "player" : {
+        "id" : 5624,
+        "name" : "Albin Ekdal"
+      },
+      "position" : {
+        "id" : 15,
+        "name" : "Left Center Midfield"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 105.0, 37.0 ],
+      "player" : {
+        "id" : 3500,
+        "name" : "Granit Xhaka"
+      },
+      "position" : {
+        "id" : 15,
+        "name" : "Left Center Midfield"
+      },
+      "teammate" : false
+    }, {
       "location" : [ 109.0, 25.0 ],
       "player" : {
         "id" : 3533,
@@ -102364,6 +102386,17 @@
       },
       "teammate" : false
     }, {
+      "location" : [ 111.0, 42.0 ],
+      "player" : {
+        "id" : 11098,
+        "name" : "Marcus Berg"
+      },
+      "position" : {
+        "id" : 22,
+        "name" : "Right Center Forward"
+      },
+      "teammate" : true
+    }, {
       "location" : [ 119.0, 40.0 ],
       "player" : {
         "id" : 5550,
@@ -102375,36 +102408,14 @@
       },
       "teammate" : false
     }, {
-      "location" : [ 112.0, 50.0 ],
+      "location" : [ 113.0, 37.0 ],
       "player" : {
-        "id" : 5546,
-        "name" : "Michael Lang"
+        "id" : 5548,
+        "name" : "Steven Zuber"
       },
       "position" : {
-        "id" : 2,
-        "name" : "Right Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 110.0, 51.0 ],
-      "player" : {
-        "id" : 4417,
-        "name" : "Ola Toivonen"
-      },
-      "position" : {
-        "id" : 24,
-        "name" : "Left Center Forward"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 113.0, 42.0 ],
-      "player" : {
-        "id" : 5549,
-        "name" : "Manuel Obafemi Akanji"
-      },
-      "position" : {
-        "id" : 5,
-        "name" : "Left Center Back"
+        "id" : 21,
+        "name" : "Left Wing"
       },
       "teammate" : false
     }, {
@@ -102419,14 +102430,47 @@
       },
       "teammate" : false
     }, {
-      "location" : [ 112.0, 36.0 ],
+      "location" : [ 110.0, 51.0 ],
       "player" : {
-        "id" : 5624,
-        "name" : "Albin Ekdal"
+        "id" : 4417,
+        "name" : "Ola Toivonen"
       },
       "position" : {
-        "id" : 15,
-        "name" : "Left Center Midfield"
+        "id" : 24,
+        "name" : "Left Center Forward"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 109.0, 40.0 ],
+      "player" : {
+        "id" : 6359,
+        "name" : "Johan Danon Djourou-Gbadjere"
+      },
+      "position" : {
+        "id" : 3,
+        "name" : "Right Center Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 112.0, 50.0 ],
+      "player" : {
+        "id" : 5546,
+        "name" : "Michael Lang"
+      },
+      "position" : {
+        "id" : 2,
+        "name" : "Right Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 112.0, 39.0 ],
+      "player" : {
+        "id" : 5612,
+        "name" : "Mikael Lustig"
+      },
+      "position" : {
+        "id" : 2,
+        "name" : "Right Back"
       },
       "teammate" : true
     }, {
@@ -102452,36 +102496,14 @@
       },
       "teammate" : false
     }, {
-      "location" : [ 109.0, 40.0 ],
+      "location" : [ 113.0, 42.0 ],
       "player" : {
-        "id" : 6359,
-        "name" : "Johan Danon Djourou-Gbadjere"
+        "id" : 5549,
+        "name" : "Manuel Obafemi Akanji"
       },
       "position" : {
-        "id" : 3,
-        "name" : "Right Center Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 105.0, 37.0 ],
-      "player" : {
-        "id" : 3500,
-        "name" : "Granit Xhaka"
-      },
-      "position" : {
-        "id" : 15,
-        "name" : "Left Center Midfield"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 113.0, 37.0 ],
-      "player" : {
-        "id" : 5548,
-        "name" : "Steven Zuber"
-      },
-      "position" : {
-        "id" : 21,
-        "name" : "Left Wing"
+        "id" : 5,
+        "name" : "Left Center Back"
       },
       "teammate" : false
     }, {
@@ -102493,28 +102515,6 @@
       "position" : {
         "id" : 5,
         "name" : "Left Center Back"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 112.0, 39.0 ],
-      "player" : {
-        "id" : 5612,
-        "name" : "Mikael Lustig"
-      },
-      "position" : {
-        "id" : 2,
-        "name" : "Right Back"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 111.0, 42.0 ],
-      "player" : {
-        "id" : 11098,
-        "name" : "Marcus Berg"
-      },
-      "position" : {
-        "id" : 22,
-        "name" : "Right Center Forward"
       },
       "teammate" : true
     } ]
@@ -102628,7 +102628,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -102661,7 +102661,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -102735,7 +102735,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -105633,7 +105633,7 @@
   "pass" : {
     "recipient" : {
       "id" : 5625,
-      "name" : "Emil Forsberg"
+      "name" : "Emil Peter Forsberg"
     },
     "length" : 21.377558,
     "angle" : -1.3825748,
@@ -105673,7 +105673,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -105707,7 +105707,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -105745,7 +105745,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -105881,7 +105881,7 @@
   "pass" : {
     "recipient" : {
       "id" : 5625,
-      "name" : "Emil Forsberg"
+      "name" : "Emil Peter Forsberg"
     },
     "length" : 12.369317,
     "angle" : 1.815775,
@@ -105923,7 +105923,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -105957,7 +105957,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -105995,7 +105995,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -106026,16 +106026,16 @@
       "name" : "Right Foot"
     },
     "freeze_frame" : [ {
-      "location" : [ 102.0, 27.0 ],
+      "location" : [ 104.0, 38.0 ],
       "player" : {
-        "id" : 4417,
-        "name" : "Ola Toivonen"
+        "id" : 3500,
+        "name" : "Granit Xhaka"
       },
       "position" : {
-        "id" : 24,
-        "name" : "Left Center Forward"
+        "id" : 15,
+        "name" : "Left Center Midfield"
       },
-      "teammate" : true
+      "teammate" : false
     }, {
       "location" : [ 94.0, 28.0 ],
       "player" : {
@@ -106045,72 +106045,6 @@
       "position" : {
         "id" : 17,
         "name" : "Right Wing"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 111.0, 25.0 ],
-      "player" : {
-        "id" : 5621,
-        "name" : "Ludwig Augustinsson"
-      },
-      "position" : {
-        "id" : 6,
-        "name" : "Left Back"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 107.0, 29.0 ],
-      "player" : {
-        "id" : 5546,
-        "name" : "Michael Lang"
-      },
-      "position" : {
-        "id" : 2,
-        "name" : "Right Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 105.0, 32.0 ],
-      "player" : {
-        "id" : 5540,
-        "name" : "Valon Behrami"
-      },
-      "position" : {
-        "id" : 13,
-        "name" : "Right Center Midfield"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 106.0, 51.0 ],
-      "player" : {
-        "id" : 5544,
-        "name" : "Ricardo Iván Rodríguez Araya"
-      },
-      "position" : {
-        "id" : 6,
-        "name" : "Left Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 118.0, 42.0 ],
-      "player" : {
-        "id" : 5550,
-        "name" : "Yann Sommer"
-      },
-      "position" : {
-        "id" : 1,
-        "name" : "Goalkeeper"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 107.0, 35.0 ],
-      "player" : {
-        "id" : 6359,
-        "name" : "Johan Danon Djourou-Gbadjere"
-      },
-      "position" : {
-        "id" : 3,
-        "name" : "Right Center Back"
       },
       "teammate" : false
     }, {
@@ -106125,25 +106059,25 @@
       },
       "teammate" : true
     }, {
-      "location" : [ 109.0, 43.0 ],
+      "location" : [ 107.0, 44.0 ],
       "player" : {
-        "id" : 5549,
-        "name" : "Manuel Obafemi Akanji"
+        "id" : 11098,
+        "name" : "Marcus Berg"
       },
       "position" : {
-        "id" : 5,
-        "name" : "Left Center Back"
+        "id" : 22,
+        "name" : "Right Center Forward"
       },
-      "teammate" : false
+      "teammate" : true
     }, {
-      "location" : [ 104.0, 38.0 ],
+      "location" : [ 118.0, 42.0 ],
       "player" : {
-        "id" : 3500,
-        "name" : "Granit Xhaka"
+        "id" : 5550,
+        "name" : "Yann Sommer"
       },
       "position" : {
-        "id" : 15,
-        "name" : "Left Center Midfield"
+        "id" : 1,
+        "name" : "Goalkeeper"
       },
       "teammate" : false
     }, {
@@ -106158,16 +106092,82 @@
       },
       "teammate" : false
     }, {
-      "location" : [ 107.0, 44.0 ],
+      "location" : [ 105.0, 32.0 ],
       "player" : {
-        "id" : 11098,
-        "name" : "Marcus Berg"
+        "id" : 5540,
+        "name" : "Valon Behrami"
       },
       "position" : {
-        "id" : 22,
-        "name" : "Right Center Forward"
+        "id" : 13,
+        "name" : "Right Center Midfield"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 102.0, 27.0 ],
+      "player" : {
+        "id" : 4417,
+        "name" : "Ola Toivonen"
+      },
+      "position" : {
+        "id" : 24,
+        "name" : "Left Center Forward"
       },
       "teammate" : true
+    }, {
+      "location" : [ 107.0, 35.0 ],
+      "player" : {
+        "id" : 6359,
+        "name" : "Johan Danon Djourou-Gbadjere"
+      },
+      "position" : {
+        "id" : 3,
+        "name" : "Right Center Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 107.0, 29.0 ],
+      "player" : {
+        "id" : 5546,
+        "name" : "Michael Lang"
+      },
+      "position" : {
+        "id" : 2,
+        "name" : "Right Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 111.0, 25.0 ],
+      "player" : {
+        "id" : 5621,
+        "name" : "Ludwig Augustinsson"
+      },
+      "position" : {
+        "id" : 6,
+        "name" : "Left Back"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 106.0, 51.0 ],
+      "player" : {
+        "id" : 5544,
+        "name" : "Ricardo Iván Rodríguez Araya"
+      },
+      "position" : {
+        "id" : 6,
+        "name" : "Left Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 109.0, 43.0 ],
+      "player" : {
+        "id" : 5549,
+        "name" : "Manuel Obafemi Akanji"
+      },
+      "position" : {
+        "id" : 5,
+        "name" : "Left Center Back"
+      },
+      "teammate" : false
     } ]
   }
 }, {
@@ -107469,7 +107469,7 @@
   "pass" : {
     "recipient" : {
       "id" : 5625,
-      "name" : "Emil Forsberg"
+      "name" : "Emil Peter Forsberg"
     },
     "length" : 19.235384,
     "angle" : -1.0838971,
@@ -107544,7 +107544,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -107579,7 +107579,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -107753,7 +107753,7 @@
   "pass" : {
     "recipient" : {
       "id" : 5625,
-      "name" : "Emil Forsberg"
+      "name" : "Emil Peter Forsberg"
     },
     "length" : 18.788294,
     "angle" : -1.1309538,
@@ -107828,7 +107828,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -107863,7 +107863,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -108296,36 +108296,14 @@
       "name" : "Right Foot"
     },
     "freeze_frame" : [ {
-      "location" : [ 96.0, 40.0 ],
+      "location" : [ 85.0, 47.0 ],
       "player" : {
-        "id" : 5540,
-        "name" : "Valon Behrami"
+        "id" : 3500,
+        "name" : "Granit Xhaka"
       },
       "position" : {
-        "id" : 13,
-        "name" : "Right Center Midfield"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 101.0, 45.0 ],
-      "player" : {
-        "id" : 5549,
-        "name" : "Manuel Obafemi Akanji"
-      },
-      "position" : {
-        "id" : 5,
-        "name" : "Left Center Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 104.0, 38.0 ],
-      "player" : {
-        "id" : 6359,
-        "name" : "Johan Danon Djourou-Gbadjere"
-      },
-      "position" : {
-        "id" : 3,
-        "name" : "Right Center Back"
+        "id" : 15,
+        "name" : "Left Center Midfield"
       },
       "teammate" : false
     }, {
@@ -108340,36 +108318,14 @@
       },
       "teammate" : true
     }, {
-      "location" : [ 105.0, 31.0 ],
+      "location" : [ 92.0, 23.0 ],
       "player" : {
-        "id" : 5546,
-        "name" : "Michael Lang"
+        "id" : 3533,
+        "name" : "Xherdan Shaqiri"
       },
       "position" : {
-        "id" : 2,
-        "name" : "Right Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 99.0, 24.0 ],
-      "player" : {
-        "id" : 5621,
-        "name" : "Ludwig Augustinsson"
-      },
-      "position" : {
-        "id" : 6,
-        "name" : "Left Back"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 85.0, 47.0 ],
-      "player" : {
-        "id" : 3500,
-        "name" : "Granit Xhaka"
-      },
-      "position" : {
-        "id" : 15,
-        "name" : "Left Center Midfield"
+        "id" : 17,
+        "name" : "Right Wing"
       },
       "teammate" : false
     }, {
@@ -108384,16 +108340,16 @@
       },
       "teammate" : false
     }, {
-      "location" : [ 92.0, 23.0 ],
+      "location" : [ 104.0, 49.0 ],
       "player" : {
-        "id" : 3533,
-        "name" : "Xherdan Shaqiri"
+        "id" : 11098,
+        "name" : "Marcus Berg"
       },
       "position" : {
-        "id" : 17,
-        "name" : "Right Wing"
+        "id" : 22,
+        "name" : "Right Center Forward"
       },
-      "teammate" : false
+      "teammate" : true
     }, {
       "location" : [ 118.0, 44.0 ],
       "player" : {
@@ -108417,38 +108373,16 @@
       },
       "teammate" : false
     }, {
-      "location" : [ 105.0, 49.0 ],
+      "location" : [ 96.0, 40.0 ],
       "player" : {
-        "id" : 5544,
-        "name" : "Ricardo Iván Rodríguez Araya"
+        "id" : 5540,
+        "name" : "Valon Behrami"
       },
       "position" : {
-        "id" : 6,
-        "name" : "Left Back"
+        "id" : 13,
+        "name" : "Right Center Midfield"
       },
       "teammate" : false
-    }, {
-      "location" : [ 104.0, 40.0 ],
-      "player" : {
-        "id" : 4417,
-        "name" : "Ola Toivonen"
-      },
-      "position" : {
-        "id" : 24,
-        "name" : "Left Center Forward"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 97.0, 65.0 ],
-      "player" : {
-        "id" : 5612,
-        "name" : "Mikael Lustig"
-      },
-      "position" : {
-        "id" : 2,
-        "name" : "Right Back"
-      },
-      "teammate" : true
     }, {
       "location" : [ 77.0, 24.0 ],
       "player" : {
@@ -108461,16 +108395,82 @@
       },
       "teammate" : true
     }, {
-      "location" : [ 104.0, 49.0 ],
+      "location" : [ 104.0, 40.0 ],
       "player" : {
-        "id" : 11098,
-        "name" : "Marcus Berg"
+        "id" : 4417,
+        "name" : "Ola Toivonen"
       },
       "position" : {
-        "id" : 22,
-        "name" : "Right Center Forward"
+        "id" : 24,
+        "name" : "Left Center Forward"
       },
       "teammate" : true
+    }, {
+      "location" : [ 104.0, 38.0 ],
+      "player" : {
+        "id" : 6359,
+        "name" : "Johan Danon Djourou-Gbadjere"
+      },
+      "position" : {
+        "id" : 3,
+        "name" : "Right Center Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 105.0, 31.0 ],
+      "player" : {
+        "id" : 5546,
+        "name" : "Michael Lang"
+      },
+      "position" : {
+        "id" : 2,
+        "name" : "Right Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 97.0, 65.0 ],
+      "player" : {
+        "id" : 5612,
+        "name" : "Mikael Lustig"
+      },
+      "position" : {
+        "id" : 2,
+        "name" : "Right Back"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 99.0, 24.0 ],
+      "player" : {
+        "id" : 5621,
+        "name" : "Ludwig Augustinsson"
+      },
+      "position" : {
+        "id" : 6,
+        "name" : "Left Back"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 105.0, 49.0 ],
+      "player" : {
+        "id" : 5544,
+        "name" : "Ricardo Iván Rodríguez Araya"
+      },
+      "position" : {
+        "id" : 6,
+        "name" : "Left Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 101.0, 45.0 ],
+      "player" : {
+        "id" : 5549,
+        "name" : "Manuel Obafemi Akanji"
+      },
+      "position" : {
+        "id" : 5,
+        "name" : "Left Center Back"
+      },
+      "teammate" : false
     } ]
   }
 }, {
@@ -108601,25 +108601,91 @@
       "name" : "Right Foot"
     },
     "freeze_frame" : [ {
-      "location" : [ 102.0, 50.0 ],
+      "location" : [ 82.0, 35.0 ],
       "player" : {
-        "id" : 5621,
-        "name" : "Ludwig Augustinsson"
+        "id" : 3500,
+        "name" : "Granit Xhaka"
       },
       "position" : {
-        "id" : 6,
-        "name" : "Left Back"
+        "id" : 15,
+        "name" : "Left Center Midfield"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 96.0, 20.0 ],
+      "player" : {
+        "id" : 5613,
+        "name" : "Viktor Claesson"
+      },
+      "position" : {
+        "id" : 17,
+        "name" : "Right Wing"
       },
       "teammate" : false
     }, {
-      "location" : [ 104.0, 39.0 ],
+      "location" : [ 90.0, 43.0 ],
       "player" : {
-        "id" : 5607,
-        "name" : "Andreas Granqvist"
+        "id" : 5554,
+        "name" : "Blerim Džemaili"
       },
       "position" : {
-        "id" : 5,
-        "name" : "Left Center Back"
+        "id" : 19,
+        "name" : "Center Attacking Midfield"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 90.0, 24.0 ],
+      "player" : {
+        "id" : 11098,
+        "name" : "Marcus Berg"
+      },
+      "position" : {
+        "id" : 22,
+        "name" : "Right Center Forward"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 101.0, 32.0 ],
+      "player" : {
+        "id" : 5835,
+        "name" : "Josip Drmic"
+      },
+      "position" : {
+        "id" : 23,
+        "name" : "Center Forward"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 119.0, 40.0 ],
+      "player" : {
+        "id" : 5622,
+        "name" : "Robin Olsen"
+      },
+      "position" : {
+        "id" : 1,
+        "name" : "Goalkeeper"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 101.0, 6.0 ],
+      "player" : {
+        "id" : 5548,
+        "name" : "Steven Zuber"
+      },
+      "position" : {
+        "id" : 21,
+        "name" : "Left Wing"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 97.0, 28.0 ],
+      "player" : {
+        "id" : 5611,
+        "name" : "Gustav Svensson"
+      },
+      "position" : {
+        "id" : 13,
+        "name" : "Right Center Midfield"
       },
       "teammate" : false
     }, {
@@ -108645,91 +108711,25 @@
       },
       "teammate" : false
     }, {
-      "location" : [ 119.0, 40.0 ],
+      "location" : [ 102.0, 50.0 ],
       "player" : {
-        "id" : 5622,
-        "name" : "Robin Olsen"
+        "id" : 5621,
+        "name" : "Ludwig Augustinsson"
       },
       "position" : {
-        "id" : 1,
-        "name" : "Goalkeeper"
+        "id" : 6,
+        "name" : "Left Back"
       },
       "teammate" : false
     }, {
-      "location" : [ 97.0, 28.0 ],
+      "location" : [ 104.0, 39.0 ],
       "player" : {
-        "id" : 5611,
-        "name" : "Gustav Svensson"
+        "id" : 5607,
+        "name" : "Andreas Granqvist"
       },
       "position" : {
-        "id" : 13,
-        "name" : "Right Center Midfield"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 96.0, 20.0 ],
-      "player" : {
-        "id" : 5613,
-        "name" : "Viktor Claesson"
-      },
-      "position" : {
-        "id" : 17,
-        "name" : "Right Wing"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 90.0, 43.0 ],
-      "player" : {
-        "id" : 5554,
-        "name" : "Blerim Džemaili"
-      },
-      "position" : {
-        "id" : 19,
-        "name" : "Center Attacking Midfield"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 101.0, 32.0 ],
-      "player" : {
-        "id" : 5835,
-        "name" : "Josip Drmic"
-      },
-      "position" : {
-        "id" : 23,
-        "name" : "Center Forward"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 82.0, 35.0 ],
-      "player" : {
-        "id" : 3500,
-        "name" : "Granit Xhaka"
-      },
-      "position" : {
-        "id" : 15,
-        "name" : "Left Center Midfield"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 101.0, 6.0 ],
-      "player" : {
-        "id" : 5548,
-        "name" : "Steven Zuber"
-      },
-      "position" : {
-        "id" : 21,
-        "name" : "Left Wing"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 90.0, 24.0 ],
-      "player" : {
-        "id" : 11098,
-        "name" : "Marcus Berg"
-      },
-      "position" : {
-        "id" : 22,
-        "name" : "Right Center Forward"
+        "id" : 5,
+        "name" : "Left Center Back"
       },
       "teammate" : false
     } ]
@@ -110824,17 +110824,6 @@
       "name" : "Left Foot"
     },
     "freeze_frame" : [ {
-      "location" : [ 106.0, 57.0 ],
-      "player" : {
-        "id" : 5625,
-        "name" : "Emil Forsberg"
-      },
-      "position" : {
-        "id" : 16,
-        "name" : "Left Midfield"
-      },
-      "teammate" : false
-    }, {
       "location" : [ 104.0, 54.0 ],
       "player" : {
         "id" : 5624,
@@ -110843,72 +110832,6 @@
       "position" : {
         "id" : 15,
         "name" : "Left Center Midfield"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 114.0, 56.0 ],
-      "player" : {
-        "id" : 5621,
-        "name" : "Ludwig Augustinsson"
-      },
-      "position" : {
-        "id" : 6,
-        "name" : "Left Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 104.0, 48.0 ],
-      "player" : {
-        "id" : 5611,
-        "name" : "Gustav Svensson"
-      },
-      "position" : {
-        "id" : 13,
-        "name" : "Right Center Midfield"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 113.0, 42.0 ],
-      "player" : {
-        "id" : 5607,
-        "name" : "Andreas Granqvist"
-      },
-      "position" : {
-        "id" : 5,
-        "name" : "Left Center Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 108.0, 44.0 ],
-      "player" : {
-        "id" : 3702,
-        "name" : "Victor Nilsson Lindelöf"
-      },
-      "position" : {
-        "id" : 3,
-        "name" : "Right Center Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 112.0, 38.0 ],
-      "player" : {
-        "id" : 4417,
-        "name" : "Ola Toivonen"
-      },
-      "position" : {
-        "id" : 24,
-        "name" : "Left Center Forward"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 112.0, 37.0 ],
-      "player" : {
-        "id" : 5612,
-        "name" : "Mikael Lustig"
-      },
-      "position" : {
-        "id" : 2,
-        "name" : "Right Back"
       },
       "teammate" : false
     }, {
@@ -110922,28 +110845,6 @@
         "name" : "Right Wing"
       },
       "teammate" : false
-    }, {
-      "location" : [ 108.0, 45.0 ],
-      "player" : {
-        "id" : 5549,
-        "name" : "Manuel Obafemi Akanji"
-      },
-      "position" : {
-        "id" : 5,
-        "name" : "Left Center Back"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 114.0, 58.0 ],
-      "player" : {
-        "id" : 5546,
-        "name" : "Michael Lang"
-      },
-      "position" : {
-        "id" : 2,
-        "name" : "Right Back"
-      },
-      "teammate" : true
     }, {
       "location" : [ 95.0, 53.0 ],
       "player" : {
@@ -110967,16 +110868,16 @@
       },
       "teammate" : true
     }, {
-      "location" : [ 113.0, 39.0 ],
+      "location" : [ 118.0, 40.0 ],
       "player" : {
-        "id" : 6359,
-        "name" : "Johan Danon Djourou-Gbadjere"
+        "id" : 5622,
+        "name" : "Robin Olsen"
       },
       "position" : {
-        "id" : 3,
-        "name" : "Right Center Back"
+        "id" : 1,
+        "name" : "Goalkeeper"
       },
-      "teammate" : true
+      "teammate" : false
     }, {
       "location" : [ 112.0, 32.0 ],
       "player" : {
@@ -110989,16 +110890,115 @@
       },
       "teammate" : true
     }, {
-      "location" : [ 118.0, 40.0 ],
+      "location" : [ 104.0, 48.0 ],
       "player" : {
-        "id" : 5622,
-        "name" : "Robin Olsen"
+        "id" : 5611,
+        "name" : "Gustav Svensson"
       },
       "position" : {
-        "id" : 1,
-        "name" : "Goalkeeper"
+        "id" : 13,
+        "name" : "Right Center Midfield"
       },
       "teammate" : false
+    }, {
+      "location" : [ 112.0, 38.0 ],
+      "player" : {
+        "id" : 4417,
+        "name" : "Ola Toivonen"
+      },
+      "position" : {
+        "id" : 24,
+        "name" : "Left Center Forward"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 108.0, 44.0 ],
+      "player" : {
+        "id" : 3702,
+        "name" : "Victor Nilsson Lindelöf"
+      },
+      "position" : {
+        "id" : 3,
+        "name" : "Right Center Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 113.0, 39.0 ],
+      "player" : {
+        "id" : 6359,
+        "name" : "Johan Danon Djourou-Gbadjere"
+      },
+      "position" : {
+        "id" : 3,
+        "name" : "Right Center Back"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 106.0, 57.0 ],
+      "player" : {
+        "id" : 5625,
+        "name" : "Emil Peter Forsberg"
+      },
+      "position" : {
+        "id" : 16,
+        "name" : "Left Midfield"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 112.0, 37.0 ],
+      "player" : {
+        "id" : 5612,
+        "name" : "Mikael Lustig"
+      },
+      "position" : {
+        "id" : 2,
+        "name" : "Right Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 114.0, 58.0 ],
+      "player" : {
+        "id" : 5546,
+        "name" : "Michael Lang"
+      },
+      "position" : {
+        "id" : 2,
+        "name" : "Right Back"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 114.0, 56.0 ],
+      "player" : {
+        "id" : 5621,
+        "name" : "Ludwig Augustinsson"
+      },
+      "position" : {
+        "id" : 6,
+        "name" : "Left Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 113.0, 42.0 ],
+      "player" : {
+        "id" : 5607,
+        "name" : "Andreas Granqvist"
+      },
+      "position" : {
+        "id" : 5,
+        "name" : "Left Center Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 108.0, 45.0 ],
+      "player" : {
+        "id" : 5549,
+        "name" : "Manuel Obafemi Akanji"
+      },
+      "position" : {
+        "id" : 5,
+        "name" : "Left Center Back"
+      },
+      "teammate" : true
     } ]
   }
 }, {
@@ -111648,83 +111648,6 @@
       "name" : "Left Foot"
     },
     "freeze_frame" : [ {
-      "location" : [ 102.0, 53.0 ],
-      "player" : {
-        "id" : 5625,
-        "name" : "Emil Forsberg"
-      },
-      "position" : {
-        "id" : 16,
-        "name" : "Left Midfield"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 102.0, 48.0 ],
-      "player" : {
-        "id" : 5612,
-        "name" : "Mikael Lustig"
-      },
-      "position" : {
-        "id" : 2,
-        "name" : "Right Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 102.0, 43.0 ],
-      "player" : {
-        "id" : 3702,
-        "name" : "Victor Nilsson Lindelöf"
-      },
-      "position" : {
-        "id" : 3,
-        "name" : "Right Center Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 105.0, 43.0 ],
-      "player" : {
-        "id" : 5607,
-        "name" : "Andreas Granqvist"
-      },
-      "position" : {
-        "id" : 5,
-        "name" : "Left Center Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 102.0, 24.0 ],
-      "player" : {
-        "id" : 5611,
-        "name" : "Gustav Svensson"
-      },
-      "position" : {
-        "id" : 13,
-        "name" : "Right Center Midfield"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 118.0, 39.0 ],
-      "player" : {
-        "id" : 5622,
-        "name" : "Robin Olsen"
-      },
-      "position" : {
-        "id" : 1,
-        "name" : "Goalkeeper"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 100.0, 31.0 ],
-      "player" : {
-        "id" : 4417,
-        "name" : "Ola Toivonen"
-      },
-      "position" : {
-        "id" : 24,
-        "name" : "Left Center Forward"
-      },
-      "teammate" : false
-    }, {
       "location" : [ 99.0, 35.0 ],
       "player" : {
         "id" : 5624,
@@ -111747,17 +111670,6 @@
       },
       "teammate" : false
     }, {
-      "location" : [ 101.0, 35.0 ],
-      "player" : {
-        "id" : 5621,
-        "name" : "Ludwig Augustinsson"
-      },
-      "position" : {
-        "id" : 6,
-        "name" : "Left Back"
-      },
-      "teammate" : false
-    }, {
       "location" : [ 88.0, 57.0 ],
       "player" : {
         "id" : 3533,
@@ -111766,72 +111678,6 @@
       "position" : {
         "id" : 17,
         "name" : "Right Wing"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 104.0, 53.0 ],
-      "player" : {
-        "id" : 5546,
-        "name" : "Michael Lang"
-      },
-      "position" : {
-        "id" : 2,
-        "name" : "Right Back"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 103.0, 45.0 ],
-      "player" : {
-        "id" : 5549,
-        "name" : "Manuel Obafemi Akanji"
-      },
-      "position" : {
-        "id" : 5,
-        "name" : "Left Center Back"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 100.0, 36.0 ],
-      "player" : {
-        "id" : 5548,
-        "name" : "Steven Zuber"
-      },
-      "position" : {
-        "id" : 21,
-        "name" : "Left Wing"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 104.0, 34.0 ],
-      "player" : {
-        "id" : 6359,
-        "name" : "Johan Danon Djourou-Gbadjere"
-      },
-      "position" : {
-        "id" : 3,
-        "name" : "Right Center Back"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 104.0, 32.0 ],
-      "player" : {
-        "id" : 5835,
-        "name" : "Josip Drmic"
-      },
-      "position" : {
-        "id" : 23,
-        "name" : "Center Forward"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 102.0, 14.0 ],
-      "player" : {
-        "id" : 5544,
-        "name" : "Ricardo Iván Rodríguez Araya"
-      },
-      "position" : {
-        "id" : 6,
-        "name" : "Left Back"
       },
       "teammate" : true
     }, {
@@ -111856,6 +111702,160 @@
         "name" : "Right Center Forward"
       },
       "teammate" : false
+    }, {
+      "location" : [ 104.0, 32.0 ],
+      "player" : {
+        "id" : 5835,
+        "name" : "Josip Drmic"
+      },
+      "position" : {
+        "id" : 23,
+        "name" : "Center Forward"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 118.0, 39.0 ],
+      "player" : {
+        "id" : 5622,
+        "name" : "Robin Olsen"
+      },
+      "position" : {
+        "id" : 1,
+        "name" : "Goalkeeper"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 100.0, 36.0 ],
+      "player" : {
+        "id" : 5548,
+        "name" : "Steven Zuber"
+      },
+      "position" : {
+        "id" : 21,
+        "name" : "Left Wing"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 102.0, 24.0 ],
+      "player" : {
+        "id" : 5611,
+        "name" : "Gustav Svensson"
+      },
+      "position" : {
+        "id" : 13,
+        "name" : "Right Center Midfield"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 100.0, 31.0 ],
+      "player" : {
+        "id" : 4417,
+        "name" : "Ola Toivonen"
+      },
+      "position" : {
+        "id" : 24,
+        "name" : "Left Center Forward"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 102.0, 43.0 ],
+      "player" : {
+        "id" : 3702,
+        "name" : "Victor Nilsson Lindelöf"
+      },
+      "position" : {
+        "id" : 3,
+        "name" : "Right Center Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 104.0, 34.0 ],
+      "player" : {
+        "id" : 6359,
+        "name" : "Johan Danon Djourou-Gbadjere"
+      },
+      "position" : {
+        "id" : 3,
+        "name" : "Right Center Back"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 102.0, 53.0 ],
+      "player" : {
+        "id" : 5625,
+        "name" : "Emil Peter Forsberg"
+      },
+      "position" : {
+        "id" : 16,
+        "name" : "Left Midfield"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 102.0, 48.0 ],
+      "player" : {
+        "id" : 5612,
+        "name" : "Mikael Lustig"
+      },
+      "position" : {
+        "id" : 2,
+        "name" : "Right Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 104.0, 53.0 ],
+      "player" : {
+        "id" : 5546,
+        "name" : "Michael Lang"
+      },
+      "position" : {
+        "id" : 2,
+        "name" : "Right Back"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 101.0, 35.0 ],
+      "player" : {
+        "id" : 5621,
+        "name" : "Ludwig Augustinsson"
+      },
+      "position" : {
+        "id" : 6,
+        "name" : "Left Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 102.0, 14.0 ],
+      "player" : {
+        "id" : 5544,
+        "name" : "Ricardo Iván Rodríguez Araya"
+      },
+      "position" : {
+        "id" : 6,
+        "name" : "Left Back"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 105.0, 43.0 ],
+      "player" : {
+        "id" : 5607,
+        "name" : "Andreas Granqvist"
+      },
+      "position" : {
+        "id" : 5,
+        "name" : "Left Center Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 103.0, 45.0 ],
+      "player" : {
+        "id" : 5549,
+        "name" : "Manuel Obafemi Akanji"
+      },
+      "position" : {
+        "id" : 5,
+        "name" : "Left Center Back"
+      },
+      "teammate" : true
     } ]
   }
 }, {
@@ -117056,7 +117056,7 @@
   "pass" : {
     "recipient" : {
       "id" : 5625,
-      "name" : "Emil Forsberg"
+      "name" : "Emil Peter Forsberg"
     },
     "length" : 10.816654,
     "angle" : -2.158799,
@@ -117100,7 +117100,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -117134,7 +117134,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -117172,7 +117172,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -117308,7 +117308,7 @@
   "pass" : {
     "recipient" : {
       "id" : 5625,
-      "name" : "Emil Forsberg"
+      "name" : "Emil Peter Forsberg"
     },
     "length" : 14.3178215,
     "angle" : 1.7818897,
@@ -117348,7 +117348,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -117382,7 +117382,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -117420,7 +117420,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -117556,7 +117556,7 @@
   "pass" : {
     "recipient" : {
       "id" : 5625,
-      "name" : "Emil Forsberg"
+      "name" : "Emil Peter Forsberg"
     },
     "length" : 6.0827627,
     "angle" : 1.4056476,
@@ -117600,7 +117600,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -117674,7 +117674,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -117707,7 +117707,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -118543,7 +118543,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -119919,17 +119919,6 @@
       "name" : "Left Foot"
     },
     "freeze_frame" : [ {
-      "location" : [ 97.0, 51.0 ],
-      "player" : {
-        "id" : 5611,
-        "name" : "Gustav Svensson"
-      },
-      "position" : {
-        "id" : 13,
-        "name" : "Right Center Midfield"
-      },
-      "teammate" : false
-    }, {
       "location" : [ 99.0, 48.0 ],
       "player" : {
         "id" : 5624,
@@ -119938,83 +119927,6 @@
       "position" : {
         "id" : 15,
         "name" : "Left Center Midfield"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 103.0, 53.0 ],
-      "player" : {
-        "id" : 5625,
-        "name" : "Emil Forsberg"
-      },
-      "position" : {
-        "id" : 16,
-        "name" : "Left Midfield"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 104.0, 50.0 ],
-      "player" : {
-        "id" : 3702,
-        "name" : "Victor Nilsson Lindelöf"
-      },
-      "position" : {
-        "id" : 3,
-        "name" : "Right Center Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 103.0, 45.0 ],
-      "player" : {
-        "id" : 5612,
-        "name" : "Mikael Lustig"
-      },
-      "position" : {
-        "id" : 2,
-        "name" : "Right Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 103.0, 42.0 ],
-      "player" : {
-        "id" : 5621,
-        "name" : "Ludwig Augustinsson"
-      },
-      "position" : {
-        "id" : 6,
-        "name" : "Left Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 106.0, 33.0 ],
-      "player" : {
-        "id" : 4417,
-        "name" : "Ola Toivonen"
-      },
-      "position" : {
-        "id" : 24,
-        "name" : "Left Center Forward"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 107.0, 38.0 ],
-      "player" : {
-        "id" : 5607,
-        "name" : "Andreas Granqvist"
-      },
-      "position" : {
-        "id" : 5,
-        "name" : "Left Center Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 118.0, 40.0 ],
-      "player" : {
-        "id" : 5622,
-        "name" : "Robin Olsen"
-      },
-      "position" : {
-        "id" : 1,
-        "name" : "Goalkeeper"
       },
       "teammate" : false
     }, {
@@ -120029,17 +119941,6 @@
       },
       "teammate" : false
     }, {
-      "location" : [ 106.0, 53.0 ],
-      "player" : {
-        "id" : 5546,
-        "name" : "Michael Lang"
-      },
-      "position" : {
-        "id" : 2,
-        "name" : "Right Back"
-      },
-      "teammate" : true
-    }, {
       "location" : [ 104.0, 48.0 ],
       "player" : {
         "id" : 5835,
@@ -120048,61 +119949,6 @@
       "position" : {
         "id" : 22,
         "name" : "Right Center Forward"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 106.0, 40.0 ],
-      "player" : {
-        "id" : 5545,
-        "name" : "Breel-Donald Embolo"
-      },
-      "position" : {
-        "id" : 21,
-        "name" : "Left Wing"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 105.0, 33.0 ],
-      "player" : {
-        "id" : 6359,
-        "name" : "Johan Danon Djourou-Gbadjere"
-      },
-      "position" : {
-        "id" : 3,
-        "name" : "Right Center Back"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 102.0, 11.0 ],
-      "player" : {
-        "id" : 5544,
-        "name" : "Ricardo Iván Rodríguez Araya"
-      },
-      "position" : {
-        "id" : 6,
-        "name" : "Left Back"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 106.0, 27.0 ],
-      "player" : {
-        "id" : 5549,
-        "name" : "Manuel Obafemi Akanji"
-      },
-      "position" : {
-        "id" : 5,
-        "name" : "Left Center Back"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 106.0, 30.0 ],
-      "player" : {
-        "id" : 5543,
-        "name" : "Haris Seferović"
-      },
-      "position" : {
-        "id" : 24,
-        "name" : "Left Center Forward"
       },
       "teammate" : true
     }, {
@@ -120116,6 +119962,160 @@
         "name" : "Right Center Forward"
       },
       "teammate" : false
+    }, {
+      "location" : [ 118.0, 40.0 ],
+      "player" : {
+        "id" : 5622,
+        "name" : "Robin Olsen"
+      },
+      "position" : {
+        "id" : 1,
+        "name" : "Goalkeeper"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 106.0, 40.0 ],
+      "player" : {
+        "id" : 5545,
+        "name" : "Breel-Donald Embolo"
+      },
+      "position" : {
+        "id" : 21,
+        "name" : "Left Wing"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 97.0, 51.0 ],
+      "player" : {
+        "id" : 5611,
+        "name" : "Gustav Svensson"
+      },
+      "position" : {
+        "id" : 13,
+        "name" : "Right Center Midfield"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 106.0, 33.0 ],
+      "player" : {
+        "id" : 4417,
+        "name" : "Ola Toivonen"
+      },
+      "position" : {
+        "id" : 24,
+        "name" : "Left Center Forward"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 106.0, 30.0 ],
+      "player" : {
+        "id" : 5543,
+        "name" : "Haris Seferović"
+      },
+      "position" : {
+        "id" : 24,
+        "name" : "Left Center Forward"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 104.0, 50.0 ],
+      "player" : {
+        "id" : 3702,
+        "name" : "Victor Nilsson Lindelöf"
+      },
+      "position" : {
+        "id" : 3,
+        "name" : "Right Center Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 105.0, 33.0 ],
+      "player" : {
+        "id" : 6359,
+        "name" : "Johan Danon Djourou-Gbadjere"
+      },
+      "position" : {
+        "id" : 3,
+        "name" : "Right Center Back"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 103.0, 53.0 ],
+      "player" : {
+        "id" : 5625,
+        "name" : "Emil Peter Forsberg"
+      },
+      "position" : {
+        "id" : 16,
+        "name" : "Left Midfield"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 103.0, 45.0 ],
+      "player" : {
+        "id" : 5612,
+        "name" : "Mikael Lustig"
+      },
+      "position" : {
+        "id" : 2,
+        "name" : "Right Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 106.0, 53.0 ],
+      "player" : {
+        "id" : 5546,
+        "name" : "Michael Lang"
+      },
+      "position" : {
+        "id" : 2,
+        "name" : "Right Back"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 103.0, 42.0 ],
+      "player" : {
+        "id" : 5621,
+        "name" : "Ludwig Augustinsson"
+      },
+      "position" : {
+        "id" : 6,
+        "name" : "Left Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 102.0, 11.0 ],
+      "player" : {
+        "id" : 5544,
+        "name" : "Ricardo Iván Rodríguez Araya"
+      },
+      "position" : {
+        "id" : 6,
+        "name" : "Left Back"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 107.0, 38.0 ],
+      "player" : {
+        "id" : 5607,
+        "name" : "Andreas Granqvist"
+      },
+      "position" : {
+        "id" : 5,
+        "name" : "Left Center Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 106.0, 27.0 ],
+      "player" : {
+        "id" : 5549,
+        "name" : "Manuel Obafemi Akanji"
+      },
+      "position" : {
+        "id" : 5,
+        "name" : "Left Center Back"
+      },
+      "teammate" : true
     } ]
   }
 }, {
@@ -120893,7 +120893,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -121620,17 +121620,6 @@
       "name" : "Right Foot"
     },
     "freeze_frame" : [ {
-      "location" : [ 107.0, 54.0 ],
-      "player" : {
-        "id" : 5625,
-        "name" : "Emil Forsberg"
-      },
-      "position" : {
-        "id" : 16,
-        "name" : "Left Midfield"
-      },
-      "teammate" : false
-    }, {
       "location" : [ 108.0, 49.0 ],
       "player" : {
         "id" : 5624,
@@ -121639,83 +121628,6 @@
       "position" : {
         "id" : 15,
         "name" : "Left Center Midfield"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 113.0, 51.0 ],
-      "player" : {
-        "id" : 5621,
-        "name" : "Ludwig Augustinsson"
-      },
-      "position" : {
-        "id" : 6,
-        "name" : "Left Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 119.0, 41.0 ],
-      "player" : {
-        "id" : 5622,
-        "name" : "Robin Olsen"
-      },
-      "position" : {
-        "id" : 1,
-        "name" : "Goalkeeper"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 113.0, 38.0 ],
-      "player" : {
-        "id" : 5607,
-        "name" : "Andreas Granqvist"
-      },
-      "position" : {
-        "id" : 5,
-        "name" : "Left Center Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 105.0, 44.0 ],
-      "player" : {
-        "id" : 4417,
-        "name" : "Ola Toivonen"
-      },
-      "position" : {
-        "id" : 24,
-        "name" : "Left Center Forward"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 109.0, 33.0 ],
-      "player" : {
-        "id" : 5611,
-        "name" : "Gustav Svensson"
-      },
-      "position" : {
-        "id" : 13,
-        "name" : "Right Center Midfield"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 113.0, 33.0 ],
-      "player" : {
-        "id" : 5612,
-        "name" : "Mikael Lustig"
-      },
-      "position" : {
-        "id" : 2,
-        "name" : "Right Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 113.0, 42.0 ],
-      "player" : {
-        "id" : 3702,
-        "name" : "Victor Nilsson Lindelöf"
-      },
-      "position" : {
-        "id" : 3,
-        "name" : "Right Center Back"
       },
       "teammate" : false
     }, {
@@ -121730,6 +121642,28 @@
       },
       "teammate" : true
     }, {
+      "location" : [ 113.0, 40.0 ],
+      "player" : {
+        "id" : 5835,
+        "name" : "Josip Drmic"
+      },
+      "position" : {
+        "id" : 22,
+        "name" : "Right Center Forward"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 119.0, 41.0 ],
+      "player" : {
+        "id" : 5622,
+        "name" : "Robin Olsen"
+      },
+      "position" : {
+        "id" : 1,
+        "name" : "Goalkeeper"
+      },
+      "teammate" : false
+    }, {
       "location" : [ 108.0, 52.0 ],
       "player" : {
         "id" : 5545,
@@ -121740,6 +121674,50 @@
         "name" : "Left Wing"
       },
       "teammate" : true
+    }, {
+      "location" : [ 109.0, 33.0 ],
+      "player" : {
+        "id" : 5611,
+        "name" : "Gustav Svensson"
+      },
+      "position" : {
+        "id" : 13,
+        "name" : "Right Center Midfield"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 105.0, 44.0 ],
+      "player" : {
+        "id" : 4417,
+        "name" : "Ola Toivonen"
+      },
+      "position" : {
+        "id" : 24,
+        "name" : "Left Center Forward"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 103.0, 46.0 ],
+      "player" : {
+        "id" : 5543,
+        "name" : "Haris Seferović"
+      },
+      "position" : {
+        "id" : 24,
+        "name" : "Left Center Forward"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 113.0, 42.0 ],
+      "player" : {
+        "id" : 3702,
+        "name" : "Victor Nilsson Lindelöf"
+      },
+      "position" : {
+        "id" : 3,
+        "name" : "Right Center Back"
+      },
+      "teammate" : false
     }, {
       "location" : [ 112.0, 36.0 ],
       "player" : {
@@ -121752,16 +121730,49 @@
       },
       "teammate" : true
     }, {
-      "location" : [ 113.0, 40.0 ],
+      "location" : [ 107.0, 54.0 ],
       "player" : {
-        "id" : 5835,
-        "name" : "Josip Drmic"
+        "id" : 5625,
+        "name" : "Emil Peter Forsberg"
       },
       "position" : {
-        "id" : 22,
-        "name" : "Right Center Forward"
+        "id" : 16,
+        "name" : "Left Midfield"
       },
-      "teammate" : true
+      "teammate" : false
+    }, {
+      "location" : [ 113.0, 33.0 ],
+      "player" : {
+        "id" : 5612,
+        "name" : "Mikael Lustig"
+      },
+      "position" : {
+        "id" : 2,
+        "name" : "Right Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 113.0, 51.0 ],
+      "player" : {
+        "id" : 5621,
+        "name" : "Ludwig Augustinsson"
+      },
+      "position" : {
+        "id" : 6,
+        "name" : "Left Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 113.0, 38.0 ],
+      "player" : {
+        "id" : 5607,
+        "name" : "Andreas Granqvist"
+      },
+      "position" : {
+        "id" : 5,
+        "name" : "Left Center Back"
+      },
+      "teammate" : false
     }, {
       "location" : [ 112.0, 31.0 ],
       "player" : {
@@ -121771,17 +121782,6 @@
       "position" : {
         "id" : 5,
         "name" : "Left Center Back"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 103.0, 46.0 ],
-      "player" : {
-        "id" : 5543,
-        "name" : "Haris Seferović"
-      },
-      "position" : {
-        "id" : 24,
-        "name" : "Left Center Forward"
       },
       "teammate" : true
     } ]
@@ -122058,28 +122058,6 @@
       "name" : "Head"
     },
     "freeze_frame" : [ {
-      "location" : [ 119.0, 37.0 ],
-      "player" : {
-        "id" : 5625,
-        "name" : "Emil Forsberg"
-      },
-      "position" : {
-        "id" : 16,
-        "name" : "Left Midfield"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 114.0, 41.0 ],
-      "player" : {
-        "id" : 5607,
-        "name" : "Andreas Granqvist"
-      },
-      "position" : {
-        "id" : 5,
-        "name" : "Left Center Back"
-      },
-      "teammate" : false
-    }, {
       "location" : [ 114.0, 45.0 ],
       "player" : {
         "id" : 5624,
@@ -122088,50 +122066,6 @@
       "position" : {
         "id" : 15,
         "name" : "Left Center Midfield"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 115.0, 50.0 ],
-      "player" : {
-        "id" : 4417,
-        "name" : "Ola Toivonen"
-      },
-      "position" : {
-        "id" : 24,
-        "name" : "Left Center Forward"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 111.0, 38.0 ],
-      "player" : {
-        "id" : 5621,
-        "name" : "Ludwig Augustinsson"
-      },
-      "position" : {
-        "id" : 6,
-        "name" : "Left Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 113.0, 39.0 ],
-      "player" : {
-        "id" : 5549,
-        "name" : "Manuel Obafemi Akanji"
-      },
-      "position" : {
-        "id" : 5,
-        "name" : "Left Center Back"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 115.0, 38.0 ],
-      "player" : {
-        "id" : 3702,
-        "name" : "Victor Nilsson Lindelöf"
-      },
-      "position" : {
-        "id" : 3,
-        "name" : "Right Center Back"
       },
       "teammate" : false
     }, {
@@ -122146,14 +122080,25 @@
       },
       "teammate" : false
     }, {
-      "location" : [ 113.0, 34.0 ],
+      "location" : [ 111.0, 44.0 ],
       "player" : {
-        "id" : 5612,
-        "name" : "Mikael Lustig"
+        "id" : 5835,
+        "name" : "Josip Drmic"
       },
       "position" : {
-        "id" : 2,
-        "name" : "Right Back"
+        "id" : 22,
+        "name" : "Right Center Forward"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 102.0, 53.0 ],
+      "player" : {
+        "id" : 11098,
+        "name" : "Marcus Berg"
+      },
+      "position" : {
+        "id" : 22,
+        "name" : "Right Center Forward"
       },
       "teammate" : false
     }, {
@@ -122179,16 +122124,16 @@
       },
       "teammate" : false
     }, {
-      "location" : [ 111.0, 44.0 ],
+      "location" : [ 115.0, 50.0 ],
       "player" : {
-        "id" : 5835,
-        "name" : "Josip Drmic"
+        "id" : 4417,
+        "name" : "Ola Toivonen"
       },
       "position" : {
-        "id" : 22,
-        "name" : "Right Center Forward"
+        "id" : 24,
+        "name" : "Left Center Forward"
       },
-      "teammate" : true
+      "teammate" : false
     }, {
       "location" : [ 112.0, 47.0 ],
       "player" : {
@@ -122201,6 +122146,17 @@
       },
       "teammate" : true
     }, {
+      "location" : [ 115.0, 38.0 ],
+      "player" : {
+        "id" : 3702,
+        "name" : "Victor Nilsson Lindelöf"
+      },
+      "position" : {
+        "id" : 3,
+        "name" : "Right Center Back"
+      },
+      "teammate" : false
+    }, {
       "location" : [ 111.0, 51.0 ],
       "player" : {
         "id" : 6359,
@@ -122211,6 +122167,28 @@
         "name" : "Right Center Back"
       },
       "teammate" : true
+    }, {
+      "location" : [ 119.0, 37.0 ],
+      "player" : {
+        "id" : 5625,
+        "name" : "Emil Peter Forsberg"
+      },
+      "position" : {
+        "id" : 16,
+        "name" : "Left Midfield"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 113.0, 34.0 ],
+      "player" : {
+        "id" : 5612,
+        "name" : "Mikael Lustig"
+      },
+      "position" : {
+        "id" : 2,
+        "name" : "Right Back"
+      },
+      "teammate" : false
     }, {
       "location" : [ 112.0, 35.0 ],
       "player" : {
@@ -122223,16 +122201,38 @@
       },
       "teammate" : true
     }, {
-      "location" : [ 102.0, 53.0 ],
+      "location" : [ 111.0, 38.0 ],
       "player" : {
-        "id" : 11098,
-        "name" : "Marcus Berg"
+        "id" : 5621,
+        "name" : "Ludwig Augustinsson"
       },
       "position" : {
-        "id" : 22,
-        "name" : "Right Center Forward"
+        "id" : 6,
+        "name" : "Left Back"
       },
       "teammate" : false
+    }, {
+      "location" : [ 114.0, 41.0 ],
+      "player" : {
+        "id" : 5607,
+        "name" : "Andreas Granqvist"
+      },
+      "position" : {
+        "id" : 5,
+        "name" : "Left Center Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 113.0, 39.0 ],
+      "player" : {
+        "id" : 5549,
+        "name" : "Manuel Obafemi Akanji"
+      },
+      "position" : {
+        "id" : 5,
+        "name" : "Left Center Back"
+      },
+      "teammate" : true
     } ]
   }
 }, {
@@ -122261,7 +122261,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -122678,7 +122678,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -123137,7 +123137,7 @@
   "pass" : {
     "recipient" : {
       "id" : 5625,
-      "name" : "Emil Forsberg"
+      "name" : "Emil Peter Forsberg"
     },
     "length" : 28.319605,
     "angle" : -0.7354398,
@@ -123212,7 +123212,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -123247,7 +123247,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -123286,7 +123286,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -123851,7 +123851,7 @@
   },
   "player" : {
     "id" : 5625,
-    "name" : "Emil Forsberg"
+    "name" : "Emil Peter Forsberg"
   },
   "position" : {
     "id" : 16,
@@ -129594,83 +129594,6 @@
       "name" : "Right Foot"
     },
     "freeze_frame" : [ {
-      "location" : [ 107.0, 49.0 ],
-      "player" : {
-        "id" : 4417,
-        "name" : "Ola Toivonen"
-      },
-      "position" : {
-        "id" : 24,
-        "name" : "Left Center Forward"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 105.0, 44.0 ],
-      "player" : {
-        "id" : 3576,
-        "name" : "Martin Olsson"
-      },
-      "position" : {
-        "id" : 16,
-        "name" : "Left Midfield"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 105.0, 38.0 ],
-      "player" : {
-        "id" : 5607,
-        "name" : "Andreas Granqvist"
-      },
-      "position" : {
-        "id" : 5,
-        "name" : "Left Center Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 106.0, 34.0 ],
-      "player" : {
-        "id" : 5621,
-        "name" : "Ludwig Augustinsson"
-      },
-      "position" : {
-        "id" : 6,
-        "name" : "Left Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 110.0, 43.0 ],
-      "player" : {
-        "id" : 5611,
-        "name" : "Gustav Svensson"
-      },
-      "position" : {
-        "id" : 13,
-        "name" : "Right Center Midfield"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 119.0, 40.0 ],
-      "player" : {
-        "id" : 5622,
-        "name" : "Robin Olsen"
-      },
-      "position" : {
-        "id" : 1,
-        "name" : "Goalkeeper"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 108.0, 29.0 ],
-      "player" : {
-        "id" : 6358,
-        "name" : "Emil Krafth"
-      },
-      "position" : {
-        "id" : 2,
-        "name" : "Right Back"
-      },
-      "teammate" : false
-    }, {
       "location" : [ 111.0, 35.0 ],
       "player" : {
         "id" : 5624,
@@ -129679,28 +129602,6 @@
       "position" : {
         "id" : 15,
         "name" : "Left Center Midfield"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 110.0, 31.0 ],
-      "player" : {
-        "id" : 3702,
-        "name" : "Victor Nilsson Lindelöf"
-      },
-      "position" : {
-        "id" : 3,
-        "name" : "Right Center Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 111.0, 39.0 ],
-      "player" : {
-        "id" : 5613,
-        "name" : "Viktor Claesson"
-      },
-      "position" : {
-        "id" : 17,
-        "name" : "Right Wing"
       },
       "teammate" : false
     }, {
@@ -129715,27 +129616,16 @@
       },
       "teammate" : true
     }, {
-      "location" : [ 89.0, 36.0 ],
+      "location" : [ 111.0, 39.0 ],
       "player" : {
-        "id" : 5540,
-        "name" : "Valon Behrami"
+        "id" : 5613,
+        "name" : "Viktor Claesson"
       },
       "position" : {
-        "id" : 13,
-        "name" : "Right Center Midfield"
+        "id" : 17,
+        "name" : "Right Wing"
       },
-      "teammate" : true
-    }, {
-      "location" : [ 109.0, 49.0 ],
-      "player" : {
-        "id" : 5543,
-        "name" : "Haris Seferović"
-      },
-      "position" : {
-        "id" : 24,
-        "name" : "Left Center Forward"
-      },
-      "teammate" : true
+      "teammate" : false
     }, {
       "location" : [ 112.0, 47.0 ],
       "player" : {
@@ -129745,50 +129635,6 @@
       "position" : {
         "id" : 22,
         "name" : "Right Center Forward"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 112.0, 43.0 ],
-      "player" : {
-        "id" : 6359,
-        "name" : "Johan Danon Djourou-Gbadjere"
-      },
-      "position" : {
-        "id" : 3,
-        "name" : "Right Center Back"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 108.0, 34.0 ],
-      "player" : {
-        "id" : 5549,
-        "name" : "Manuel Obafemi Akanji"
-      },
-      "position" : {
-        "id" : 5,
-        "name" : "Left Center Back"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 112.0, 31.0 ],
-      "player" : {
-        "id" : 5546,
-        "name" : "Michael Lang"
-      },
-      "position" : {
-        "id" : 2,
-        "name" : "Right Back"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 116.0, 34.0 ],
-      "player" : {
-        "id" : 5545,
-        "name" : "Breel-Donald Embolo"
-      },
-      "position" : {
-        "id" : 21,
-        "name" : "Left Wing"
       },
       "teammate" : true
     }, {
@@ -129802,6 +129648,160 @@
         "name" : "Right Center Forward"
       },
       "teammate" : false
+    }, {
+      "location" : [ 119.0, 40.0 ],
+      "player" : {
+        "id" : 5622,
+        "name" : "Robin Olsen"
+      },
+      "position" : {
+        "id" : 1,
+        "name" : "Goalkeeper"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 116.0, 34.0 ],
+      "player" : {
+        "id" : 5545,
+        "name" : "Breel-Donald Embolo"
+      },
+      "position" : {
+        "id" : 21,
+        "name" : "Left Wing"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 110.0, 43.0 ],
+      "player" : {
+        "id" : 5611,
+        "name" : "Gustav Svensson"
+      },
+      "position" : {
+        "id" : 13,
+        "name" : "Right Center Midfield"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 89.0, 36.0 ],
+      "player" : {
+        "id" : 5540,
+        "name" : "Valon Behrami"
+      },
+      "position" : {
+        "id" : 13,
+        "name" : "Right Center Midfield"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 107.0, 49.0 ],
+      "player" : {
+        "id" : 4417,
+        "name" : "Ola Toivonen"
+      },
+      "position" : {
+        "id" : 24,
+        "name" : "Left Center Forward"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 109.0, 49.0 ],
+      "player" : {
+        "id" : 5543,
+        "name" : "Haris Seferović"
+      },
+      "position" : {
+        "id" : 24,
+        "name" : "Left Center Forward"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 110.0, 31.0 ],
+      "player" : {
+        "id" : 3702,
+        "name" : "Victor Nilsson Lindelöf"
+      },
+      "position" : {
+        "id" : 3,
+        "name" : "Right Center Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 112.0, 43.0 ],
+      "player" : {
+        "id" : 6359,
+        "name" : "Johan Danon Djourou-Gbadjere"
+      },
+      "position" : {
+        "id" : 3,
+        "name" : "Right Center Back"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 105.0, 44.0 ],
+      "player" : {
+        "id" : 3576,
+        "name" : "Martin Olsson"
+      },
+      "position" : {
+        "id" : 16,
+        "name" : "Left Midfield"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 108.0, 29.0 ],
+      "player" : {
+        "id" : 6358,
+        "name" : "Emil Krafth"
+      },
+      "position" : {
+        "id" : 2,
+        "name" : "Right Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 112.0, 31.0 ],
+      "player" : {
+        "id" : 5546,
+        "name" : "Michael Lang"
+      },
+      "position" : {
+        "id" : 2,
+        "name" : "Right Back"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 106.0, 34.0 ],
+      "player" : {
+        "id" : 5621,
+        "name" : "Ludwig Augustinsson"
+      },
+      "position" : {
+        "id" : 6,
+        "name" : "Left Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 105.0, 38.0 ],
+      "player" : {
+        "id" : 5607,
+        "name" : "Andreas Granqvist"
+      },
+      "position" : {
+        "id" : 5,
+        "name" : "Left Center Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 108.0, 34.0 ],
+      "player" : {
+        "id" : 5549,
+        "name" : "Manuel Obafemi Akanji"
+      },
+      "position" : {
+        "id" : 5,
+        "name" : "Left Center Back"
+      },
+      "teammate" : true
     } ]
   }
 }, {
@@ -130557,14 +130557,14 @@
       },
       "teammate" : true
     }, {
-      "location" : [ 118.0, 38.0 ],
+      "location" : [ 103.0, 36.0 ],
       "player" : {
-        "id" : 5622,
-        "name" : "Robin Olsen"
+        "id" : 5624,
+        "name" : "Albin Ekdal"
       },
       "position" : {
-        "id" : 1,
-        "name" : "Goalkeeper"
+        "id" : 15,
+        "name" : "Left Center Midfield"
       },
       "teammate" : false
     }, {
@@ -130579,58 +130579,14 @@
       },
       "teammate" : true
     }, {
-      "location" : [ 106.0, 50.0 ],
+      "location" : [ 118.0, 38.0 ],
       "player" : {
-        "id" : 3576,
-        "name" : "Martin Olsson"
+        "id" : 5622,
+        "name" : "Robin Olsen"
       },
       "position" : {
-        "id" : 16,
-        "name" : "Left Midfield"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 105.0, 48.0 ],
-      "player" : {
-        "id" : 5546,
-        "name" : "Michael Lang"
-      },
-      "position" : {
-        "id" : 2,
-        "name" : "Right Back"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 106.0, 48.0 ],
-      "player" : {
-        "id" : 5621,
-        "name" : "Ludwig Augustinsson"
-      },
-      "position" : {
-        "id" : 6,
-        "name" : "Left Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 103.0, 36.0 ],
-      "player" : {
-        "id" : 5624,
-        "name" : "Albin Ekdal"
-      },
-      "position" : {
-        "id" : 15,
-        "name" : "Left Center Midfield"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 107.0, 26.0 ],
-      "player" : {
-        "id" : 6358,
-        "name" : "Emil Krafth"
-      },
-      "position" : {
-        "id" : 2,
-        "name" : "Right Back"
+        "id" : 1,
+        "name" : "Goalkeeper"
       },
       "teammate" : false
     }, {
@@ -130644,6 +130600,17 @@
         "name" : "Left Wing"
       },
       "teammate" : true
+    }, {
+      "location" : [ 105.0, 39.0 ],
+      "player" : {
+        "id" : 5611,
+        "name" : "Gustav Svensson"
+      },
+      "position" : {
+        "id" : 13,
+        "name" : "Right Center Midfield"
+      },
+      "teammate" : false
     }, {
       "location" : [ 111.0, 34.0 ],
       "player" : {
@@ -130667,14 +130634,58 @@
       },
       "teammate" : true
     }, {
-      "location" : [ 105.0, 39.0 ],
+      "location" : [ 108.0, 32.0 ],
       "player" : {
-        "id" : 5611,
-        "name" : "Gustav Svensson"
+        "id" : 3702,
+        "name" : "Victor Nilsson Lindelöf"
       },
       "position" : {
-        "id" : 13,
-        "name" : "Right Center Midfield"
+        "id" : 3,
+        "name" : "Right Center Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 106.0, 50.0 ],
+      "player" : {
+        "id" : 3576,
+        "name" : "Martin Olsson"
+      },
+      "position" : {
+        "id" : 16,
+        "name" : "Left Midfield"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 105.0, 48.0 ],
+      "player" : {
+        "id" : 5546,
+        "name" : "Michael Lang"
+      },
+      "position" : {
+        "id" : 2,
+        "name" : "Right Back"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 107.0, 26.0 ],
+      "player" : {
+        "id" : 6358,
+        "name" : "Emil Krafth"
+      },
+      "position" : {
+        "id" : 2,
+        "name" : "Right Back"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 106.0, 48.0 ],
+      "player" : {
+        "id" : 5621,
+        "name" : "Ludwig Augustinsson"
+      },
+      "position" : {
+        "id" : 6,
+        "name" : "Left Back"
       },
       "teammate" : false
     }, {
@@ -130686,17 +130697,6 @@
       "position" : {
         "id" : 5,
         "name" : "Left Center Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 108.0, 32.0 ],
-      "player" : {
-        "id" : 3702,
-        "name" : "Victor Nilsson Lindelöf"
-      },
-      "position" : {
-        "id" : 3,
-        "name" : "Right Center Back"
       },
       "teammate" : false
     } ]
@@ -137231,6 +137231,28 @@
       "name" : "Head"
     },
     "freeze_frame" : [ {
+      "location" : [ 100.0, 18.0 ],
+      "player" : {
+        "id" : 5624,
+        "name" : "Albin Ekdal"
+      },
+      "position" : {
+        "id" : 15,
+        "name" : "Left Center Midfield"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 105.0, 4.0 ],
+      "player" : {
+        "id" : 5613,
+        "name" : "Viktor Claesson"
+      },
+      "position" : {
+        "id" : 17,
+        "name" : "Right Wing"
+      },
+      "teammate" : false
+    }, {
       "location" : [ 107.0, 44.0 ],
       "player" : {
         "id" : 5835,
@@ -137239,61 +137261,6 @@
       "position" : {
         "id" : 22,
         "name" : "Right Center Forward"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 97.0, 49.0 ],
-      "player" : {
-        "id" : 5546,
-        "name" : "Michael Lang"
-      },
-      "position" : {
-        "id" : 2,
-        "name" : "Right Back"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 102.0, 49.0 ],
-      "player" : {
-        "id" : 3576,
-        "name" : "Martin Olsson"
-      },
-      "position" : {
-        "id" : 16,
-        "name" : "Left Midfield"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 111.0, 43.0 ],
-      "player" : {
-        "id" : 5621,
-        "name" : "Ludwig Augustinsson"
-      },
-      "position" : {
-        "id" : 6,
-        "name" : "Left Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 114.0, 36.0 ],
-      "player" : {
-        "id" : 5607,
-        "name" : "Andreas Granqvist"
-      },
-      "position" : {
-        "id" : 5,
-        "name" : "Left Center Back"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 107.0, 34.0 ],
-      "player" : {
-        "id" : 5540,
-        "name" : "Valon Behrami"
-      },
-      "position" : {
-        "id" : 13,
-        "name" : "Right Center Midfield"
       },
       "teammate" : true
     }, {
@@ -137319,25 +137286,25 @@
       },
       "teammate" : true
     }, {
-      "location" : [ 102.0, 2.0 ],
+      "location" : [ 107.0, 34.0 ],
       "player" : {
-        "id" : 5544,
-        "name" : "Ricardo Iván Rodríguez Araya"
+        "id" : 5540,
+        "name" : "Valon Behrami"
       },
       "position" : {
-        "id" : 6,
-        "name" : "Left Back"
+        "id" : 13,
+        "name" : "Right Center Midfield"
       },
       "teammate" : true
     }, {
-      "location" : [ 105.0, 4.0 ],
+      "location" : [ 107.0, 32.0 ],
       "player" : {
-        "id" : 5613,
-        "name" : "Viktor Claesson"
+        "id" : 5611,
+        "name" : "Gustav Svensson"
       },
       "position" : {
-        "id" : 17,
-        "name" : "Right Wing"
+        "id" : 13,
+        "name" : "Right Center Midfield"
       },
       "teammate" : false
     }, {
@@ -137352,6 +137319,28 @@
       },
       "teammate" : false
     }, {
+      "location" : [ 102.0, 49.0 ],
+      "player" : {
+        "id" : 3576,
+        "name" : "Martin Olsson"
+      },
+      "position" : {
+        "id" : 16,
+        "name" : "Left Midfield"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 97.0, 49.0 ],
+      "player" : {
+        "id" : 5546,
+        "name" : "Michael Lang"
+      },
+      "position" : {
+        "id" : 2,
+        "name" : "Right Back"
+      },
+      "teammate" : true
+    }, {
       "location" : [ 109.0, 16.0 ],
       "player" : {
         "id" : 6358,
@@ -137363,25 +137352,36 @@
       },
       "teammate" : false
     }, {
-      "location" : [ 107.0, 32.0 ],
+      "location" : [ 111.0, 43.0 ],
       "player" : {
-        "id" : 5611,
-        "name" : "Gustav Svensson"
+        "id" : 5621,
+        "name" : "Ludwig Augustinsson"
       },
       "position" : {
-        "id" : 13,
-        "name" : "Right Center Midfield"
+        "id" : 6,
+        "name" : "Left Back"
       },
       "teammate" : false
     }, {
-      "location" : [ 100.0, 18.0 ],
+      "location" : [ 102.0, 2.0 ],
       "player" : {
-        "id" : 5624,
-        "name" : "Albin Ekdal"
+        "id" : 5544,
+        "name" : "Ricardo Iván Rodríguez Araya"
       },
       "position" : {
-        "id" : 15,
-        "name" : "Left Center Midfield"
+        "id" : 6,
+        "name" : "Left Back"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 114.0, 36.0 ],
+      "player" : {
+        "id" : 5607,
+        "name" : "Andreas Granqvist"
+      },
+      "position" : {
+        "id" : 5,
+        "name" : "Left Center Back"
       },
       "teammate" : false
     } ]
@@ -141071,16 +141071,49 @@
       "name" : "Right Foot"
     },
     "freeze_frame" : [ {
-      "location" : [ 112.0, 49.0 ],
+      "location" : [ 113.0, 41.0 ],
       "player" : {
-        "id" : 5544,
-        "name" : "Ricardo Iván Rodríguez Araya"
+        "id" : 3500,
+        "name" : "Granit Xhaka"
       },
       "position" : {
-        "id" : 6,
-        "name" : "Left Back"
+        "id" : 15,
+        "name" : "Left Center Midfield"
       },
       "teammate" : false
+    }, {
+      "location" : [ 111.0, 43.0 ],
+      "player" : {
+        "id" : 5624,
+        "name" : "Albin Ekdal"
+      },
+      "position" : {
+        "id" : 15,
+        "name" : "Left Center Midfield"
+      },
+      "teammate" : true
+    }, {
+      "location" : [ 109.0, 25.0 ],
+      "player" : {
+        "id" : 3533,
+        "name" : "Xherdan Shaqiri"
+      },
+      "position" : {
+        "id" : 17,
+        "name" : "Right Wing"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 113.0, 43.0 ],
+      "player" : {
+        "id" : 5613,
+        "name" : "Viktor Claesson"
+      },
+      "position" : {
+        "id" : 17,
+        "name" : "Right Wing"
+      },
+      "teammate" : true
     }, {
       "location" : [ 105.0, 47.0 ],
       "player" : {
@@ -141093,14 +141126,25 @@
       },
       "teammate" : false
     }, {
-      "location" : [ 109.0, 25.0 ],
+      "location" : [ 120.0, 41.0 ],
       "player" : {
-        "id" : 3533,
-        "name" : "Xherdan Shaqiri"
+        "id" : 5550,
+        "name" : "Yann Sommer"
       },
       "position" : {
-        "id" : 17,
-        "name" : "Right Wing"
+        "id" : 1,
+        "name" : "Goalkeeper"
+      },
+      "teammate" : false
+    }, {
+      "location" : [ 113.0, 40.0 ],
+      "player" : {
+        "id" : 5545,
+        "name" : "Breel-Donald Embolo"
+      },
+      "position" : {
+        "id" : 21,
+        "name" : "Left Wing"
       },
       "teammate" : false
     }, {
@@ -141126,39 +141170,6 @@
       },
       "teammate" : false
     }, {
-      "location" : [ 113.0, 40.0 ],
-      "player" : {
-        "id" : 5545,
-        "name" : "Breel-Donald Embolo"
-      },
-      "position" : {
-        "id" : 21,
-        "name" : "Left Wing"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 113.0, 41.0 ],
-      "player" : {
-        "id" : 3500,
-        "name" : "Granit Xhaka"
-      },
-      "position" : {
-        "id" : 15,
-        "name" : "Left Center Midfield"
-      },
-      "teammate" : false
-    }, {
-      "location" : [ 113.0, 42.0 ],
-      "player" : {
-        "id" : 5549,
-        "name" : "Manuel Obafemi Akanji"
-      },
-      "position" : {
-        "id" : 5,
-        "name" : "Left Center Back"
-      },
-      "teammate" : false
-    }, {
       "location" : [ 113.0, 44.0 ],
       "player" : {
         "id" : 6359,
@@ -141169,28 +141180,6 @@
         "name" : "Right Center Back"
       },
       "teammate" : false
-    }, {
-      "location" : [ 113.0, 43.0 ],
-      "player" : {
-        "id" : 5613,
-        "name" : "Viktor Claesson"
-      },
-      "position" : {
-        "id" : 17,
-        "name" : "Right Wing"
-      },
-      "teammate" : true
-    }, {
-      "location" : [ 111.0, 43.0 ],
-      "player" : {
-        "id" : 5624,
-        "name" : "Albin Ekdal"
-      },
-      "position" : {
-        "id" : 15,
-        "name" : "Left Center Midfield"
-      },
-      "teammate" : true
     }, {
       "location" : [ 101.0, 45.0 ],
       "player" : {
@@ -141203,6 +141192,17 @@
       },
       "teammate" : true
     }, {
+      "location" : [ 112.0, 49.0 ],
+      "player" : {
+        "id" : 5544,
+        "name" : "Ricardo Iván Rodríguez Araya"
+      },
+      "position" : {
+        "id" : 6,
+        "name" : "Left Back"
+      },
+      "teammate" : false
+    }, {
       "location" : [ 89.0, 20.0 ],
       "player" : {
         "id" : 5621,
@@ -141214,14 +141214,14 @@
       },
       "teammate" : true
     }, {
-      "location" : [ 120.0, 41.0 ],
+      "location" : [ 113.0, 42.0 ],
       "player" : {
-        "id" : 5550,
-        "name" : "Yann Sommer"
+        "id" : 5549,
+        "name" : "Manuel Obafemi Akanji"
       },
       "position" : {
-        "id" : 1,
-        "name" : "Goalkeeper"
+        "id" : 5,
+        "name" : "Left Center Back"
       },
       "teammate" : false
     } ]
